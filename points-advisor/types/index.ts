@@ -8,7 +8,7 @@ export interface RedemptionEntry {
   destination: string
   region: string
   cabin: string | null
-  points_required: number
+  points_required: number  // for dynamic entries, this is the midpoint/typical value; points_range gives the full range
   pricing_type: 'fixed' | 'dynamic'
   points_range: [number, number] | null
   source_url: string
@@ -20,7 +20,7 @@ export interface RedemptionEntry {
 
 export interface RedeemableResult {
   entry: RedemptionEntry
-  matched_program: string
+  matched_program: string  // the user's balance program (may differ from entry.program for transfer chains e.g. "Chase UR" matches entry "Chase UR via Hyatt")
   user_balance: number
   surplus: number  // how many points left over after redemption
 }
@@ -29,9 +29,9 @@ export interface DreamResult {
   destination: string
   reachable: boolean
   best_entry: RedemptionEntry | null
-  matched_program: string | null
+  matched_program: string | null  // the user's balance program; null if no matching entry found
   user_balance: number | null
-  gap: number | null  // null if reachable or no match found
+  gap: number | null  // points needed beyond current balance; null if reachable (no shortfall) or no match found
 }
 
 export interface RecommendRequest {
