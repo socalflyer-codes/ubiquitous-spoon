@@ -46,6 +46,18 @@ describe('buildSystemPrompt', () => {
   it('instructs Claude to return JSON', () => {
     expect(buildSystemPrompt()).toContain('JSON')
   })
+
+  it('includes required response field names', () => {
+    const prompt = buildSystemPrompt()
+    expect(prompt).toContain('reachable')
+    expect(prompt).toContain('surplus')
+    expect(prompt).toContain('gap')
+    expect(prompt).toContain('explanation')
+  })
+
+  it('includes null match case for gap', () => {
+    expect(buildSystemPrompt()).toContain('no matching entry')
+  })
 })
 
 describe('buildUserPrompt', () => {

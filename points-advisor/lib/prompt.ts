@@ -1,5 +1,7 @@
 import type { Balance, RedemptionEntry } from '@/types'
 
+// JSON shape must match RedeemableResult, DreamResult, and RecommendResponse in @/types/index.ts
+// If those types change, update this prompt accordingly.
 export function buildSystemPrompt(): string {
   return `You are a travel rewards expert helping users maximize their loyalty points.
 
@@ -25,7 +27,7 @@ Your job is to analyze this and return a JSON object with exactly this shape:
       "best_entry": <best matching RedemptionEntry or null>,
       "matched_program": "<program name or null>",
       "user_balance": <their balance or null>,
-      "gap": <points_required minus user_balance, or null if reachable>
+      "gap": <points_required minus user_balance; null if reachable OR if no matching entry was found>
     }
   ],
   "explanation": "<2-3 sentence plain-English summary of the key findings>"
