@@ -91,4 +91,22 @@ describe('POST /api/recommend', () => {
     const res = await POST(req)
     expect(res.status).toBe(200)
   })
+
+  it('returns 502 if Claude returns malformed JSON', async () => {
+    const { default: Anthropic } = await import('@anthropic-ai/sdk')
+    const mockInstance = (Anthropic as any).mock.results[0].value
+    mockInstance.messages.create.mockResolvedValueOnce({
+      content: [{ type: 'text', text: 'not valid json' }],
+    })
+    const req = new Request('http://localhost/api/recommend', {
+      method: 'POST',
+      body: JSON.stringify({
+        balances: [{ program: 'Aeroplan', amount: 70000 }],
+        destinations: [],
+      }),
+      headers: { 'Content-Type': 'application/json' },
+    })
+    const res = await POST(req)
+    expect(res.status).toBe(502)
+  })
 })
