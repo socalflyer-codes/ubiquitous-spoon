@@ -10,6 +10,7 @@ export default function ResultsPage() {
   const router = useRouter()
   const [results, setResults] = useState<RecommendResponse | null>(null)
   const [inspire, setInspire] = useState(false)
+  const [origin, setOrigin] = useState('')
 
   useEffect(() => {
     const stored = sessionStorage.getItem('results')
@@ -19,18 +20,24 @@ export default function ResultsPage() {
     }
     setResults(JSON.parse(stored))
     setInspire(sessionStorage.getItem('inspire') === 'true')
+    setOrigin(sessionStorage.getItem('origin') ?? '')
   }, [router])
 
   if (!results) return null
 
+  // Filter out origin city and "US Domestic" from dream destinations
+  const filteredDreams = results.dream_destinations.filter(
+    (d) => d.destination !== 'US Domestic' && d.destination.toLowerCase() !== origin.toLowerCase()
+  )
+
   // Don't show "US Domestic" as a destination — it's an internal dataset label
-  const dreamDestinationNames = new Set(results.dream_destinations.map((d) => d.destination))
+  const dreamDestinationNames = new Set(filteredDreams.map((d) => d.destination))
   const reachableFiltered = results.reachable.filter(
     (r) => r.entry.destination !== 'US Domestic' && !dreamDestinationNames.has(r.entry.destination)
   )
 
   const hasReachable = reachableFiltered.length > 0
-  const hasDreams = results.dream_destinations.length > 0
+  const hasDreams = filteredDreams.length > 0
 
   // Inspire mode: single featured pick
   if (inspire && results.reachable.length > 0) {
@@ -85,7 +92,7 @@ export default function ResultsPage() {
       {hasDreams && (
         <ResultsSection heading="Your Dream Destinations">
           <div className="space-y-4">
-            {results.dream_destinations.map((d, i) => (
+            {filteredDreams.map((d, i) => (
               <div key={i}>
                 {d.best_entry ? (
                   <ResultCard

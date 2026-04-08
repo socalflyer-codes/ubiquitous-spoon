@@ -13,6 +13,12 @@ export default function HomePage() {
   const [destinations, setDestinations] = useState<string[]>([])
   const [cabins, setCabins] = useState<Cabin[]>([])
   const [origin, setOrigin] = useState('')
+
+  function handleOriginChange(city: string) {
+    setOrigin(city)
+    // Remove the newly selected origin from destinations if it was already picked
+    setDestinations((prev) => prev.filter((d) => d.toLowerCase() !== city.toLowerCase()))
+  }
   const [loading, setLoading] = useState<false | 'search' | 'inspire'>(false)
   const [error, setError] = useState<string | null>(null)
 
@@ -48,6 +54,7 @@ export default function HomePage() {
       const data = await res.json()
       sessionStorage.setItem('results', JSON.stringify(data))
       sessionStorage.setItem('inspire', inspire ? 'true' : 'false')
+      sessionStorage.setItem('origin', origin)
       router.push('/results')
     } catch {
       setError('Something went wrong. Please try again.')
@@ -77,7 +84,7 @@ export default function HomePage() {
           <label className="block text-sm font-semibold text-gray-700 uppercase tracking-wide">
             Departure City
           </label>
-          <OriginInput value={origin} onChange={setOrigin} />
+          <OriginInput value={origin} onChange={handleOriginChange} />
         </div>
 
         <div className="space-y-3">
