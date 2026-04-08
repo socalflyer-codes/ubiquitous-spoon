@@ -1,3 +1,6 @@
+'use client'
+
+import { useState } from 'react'
 import type { RedemptionEntry } from '@/types'
 
 interface Props {
@@ -5,58 +8,101 @@ interface Props {
   matchedProgram: string
   userBalance: number
   gap?: number | null
-  // false when the user doesn't own matchedProgram — shown as "need" hint rather than active program
   hasProgram?: boolean
 }
 
+// Maps program name to its booking URL
+const BOOKING_URLS: Record<string, string> = {
+  'United MileagePlus': 'https://www.united.com/en/us/book-flight/united-awards',
+  'British Airways Avios': 'https://www.aa.com/reservation/startSSO.do',
+}
+
+function getBookingUrl(matchedProgram: string): string | null {
+  if (matchedProgram.includes('United MileagePlus')) return BOOKING_URLS['United MileagePlus']
+  if (matchedProgram.includes('British Airways Avios')) return BOOKING_URLS['British Airways Avios']
+  return null
+}
+
+function getAirlineName(matchedProgram: string): string {
+  if (matchedProgram.includes('United MileagePlus')) return 'United Airlines'
+  if (matchedProgram.includes('British Airways Avios')) return 'American Airlines'
+  return matchedProgram
+}
+
 export default function ResultCard({ entry, matchedProgram, userBalance, gap, hasProgram = true }: Props) {
-  const pointsDisplay =
-    entry.pricing_type === 'dynamic' && entry.points_range
-      ? `${entry.points_range[0].toLocaleString()}–${entry.points_range[1].toLocaleString()} pts`
-      : `${entry.points_required.toLocaleString()} pts`
+  const [showDetails, setShowDetails] = useState(false)
+
+  const startingPoints = entry.pricing_type === 'dynamic' && entry.points_range
+    ? entry.points_range[0]
+    : entry.points_required
+
+  const bookingUrl = getBookingUrl(matchedProgram)
+  const airlineName = getAirlineName(matchedProgram)
+  const canBook = hasProgram && gap == null
 
   return (
-    <div className="border border-gray-200 rounded-xl p-5 bg-white shadow-sm space-y-2">
-      <div className="flex items-start justify-between">
+    <div className="border border-gray-200 rounded-xl p-5 bg-white shadow-sm space-y-4">
+      {/* Header */}
+      <div className="flex items-start justify-between gap-4">
         <div>
-          <h3 className="font-semibold text-gray-900 text-lg">{entry.destination}</h3>
-          {entry.region && (
-            <p className="text-xs text-gray-400 uppercase tracking-wide">{entry.region}</p>
-          )}
+          <h3 className="font-bold text-gray-900 text-xl">{entry.destination}</h3>
+          <p className="text-sm text-gray-500 mt-0.5">
+            {canBook
+              ? `Starting from ${startingPoints.toLocaleString()} points one-way`
+              : !hasProgram
+              ? `You'd need to earn ${entry.program} points`
+              : `You need ${gap?.toLocaleString()} more points`}
+          </p>
         </div>
+        {canBook && (
+          <span className="shrink-0 text-xs bg-green-100 text-green-700 px-2 py-1 rounded-full font-medium">
+            Bookable
+          </span>
+        )}
         {gap != null && (
-          <span className="text-xs bg-amber-100 text-amber-700 px-2 py-1 rounded-full font-medium">
+          <span className="shrink-0 text-xs bg-amber-100 text-amber-700 px-2 py-1 rounded-full font-medium">
             {gap.toLocaleString()} pts short
           </span>
         )}
       </div>
 
-      <div className="flex flex-wrap gap-2 text-sm">
-        <span className={`px-3 py-1 rounded-full ${hasProgram ? 'bg-blue-50 text-blue-700' : 'bg-gray-100 text-gray-500'}`}>
-          {hasProgram ? matchedProgram : `Need: ${matchedProgram}`}
-        </span>
-        {entry.cabin && (
-          <span className="bg-gray-100 text-gray-600 px-3 py-1 rounded-full">{entry.cabin}</span>
-        )}
-        <span className="bg-gray-100 text-gray-600 px-3 py-1 rounded-full font-medium">
-          {pointsDisplay}
-        </span>
-        {entry.pricing_type === 'dynamic' && (
-          <span className="bg-orange-50 text-orange-600 px-3 py-1 rounded-full text-xs">
-            Dynamic pricing
-          </span>
-        )}
-      </div>
-
-      {entry.notes && (
-        <p className="text-sm text-gray-500 leading-relaxed">{entry.notes}</p>
+      {/* Cabin */}
+      {entry.cabin && (
+        <p className="text-sm text-gray-600">
+          {entry.cabin} class · {airlineName}
+        </p>
       )}
 
-      <div className="pt-1">
-        <span className="text-xs text-gray-400">
-          via {entry.source_site} · {entry.published_date}
-        </span>
-      </div>
+      {/* CTA */}
+      {canBook && bookingUrl && (
+        <a
+          href={bookingUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors"
+        >
+          Search availability →
+        </a>
+      )}
+
+      {/* Details toggle */}
+      <button
+        type="button"
+        onClick={() => setShowDetails(!showDetails)}
+        className="text-xs text-gray-400 hover:text-gray-600"
+      >
+        {showDetails ? 'Hide details' : 'Show details'}
+      </button>
+
+      {showDetails && (
+        <div className="text-xs text-gray-400 space-y-1 border-t border-gray-100 pt-3">
+          {entry.pricing_type === 'dynamic' && entry.points_range && (
+            <p>Points range: {entry.points_range[0].toLocaleString()}–{entry.points_range[1].toLocaleString()} depending on dates</p>
+          )}
+          {entry.notes && <p>{entry.notes}</p>}
+          <p>Source: {entry.source_site} · {entry.published_date}</p>
+        </div>
+      )}
     </div>
   )
 }
