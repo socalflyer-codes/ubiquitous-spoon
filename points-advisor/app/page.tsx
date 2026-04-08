@@ -85,7 +85,7 @@ export default function HomePage() {
             Dream Destinations
             <span className="text-gray-400 font-normal normal-case ml-2">(optional)</span>
           </label>
-          <DestinationInput value={destinations} onChange={setDestinations} />
+          <DestinationInput value={destinations} onChange={setDestinations} excludeCity={origin} />
         </div>
 
         <div className="space-y-3">

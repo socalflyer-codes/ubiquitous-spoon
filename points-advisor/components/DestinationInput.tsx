@@ -22,9 +22,10 @@ const CATEGORIES: { label: string; destinations: string[]; comingSoon?: boolean 
 interface Props {
   value: string[]
   onChange: (value: string[]) => void
+  excludeCity?: string
 }
 
-export default function DestinationInput({ value, onChange }: Props) {
+export default function DestinationInput({ value, onChange, excludeCity }: Props) {
   const [open, setOpen] = useState<string | null>(null)
 
   function toggle(destination: string) {
@@ -39,7 +40,10 @@ export default function DestinationInput({ value, onChange }: Props) {
     <div className="space-y-2">
       {CATEGORIES.map((cat) => {
         const isOpen = open === cat.label
-        const selectedInCategory = cat.destinations.filter((d) => value.includes(d))
+        const visibleDestinations = cat.destinations.filter(
+          (d) => !excludeCity || d.toLowerCase() !== excludeCity.toLowerCase()
+        )
+        const selectedInCategory = visibleDestinations.filter((d) => value.includes(d))
 
         return (
           <div key={cat.label} className="border border-gray-200 rounded-lg overflow-hidden">
@@ -73,7 +77,7 @@ export default function DestinationInput({ value, onChange }: Props) {
 
             {isOpen && !cat.comingSoon && (
               <div className="px-4 pb-4 pt-1 flex flex-wrap gap-2 border-t border-gray-100">
-                {cat.destinations.map((dest) => (
+                {visibleDestinations.map((dest) => (
                   <button
                     key={dest}
                     type="button"
