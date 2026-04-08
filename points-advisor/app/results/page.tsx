@@ -9,6 +9,7 @@ import type { RecommendResponse } from '@/types'
 export default function ResultsPage() {
   const router = useRouter()
   const [results, setResults] = useState<RecommendResponse | null>(null)
+  const [inspire, setInspire] = useState(false)
 
   useEffect(() => {
     const stored = sessionStorage.getItem('results')
@@ -17,12 +18,45 @@ export default function ResultsPage() {
       return
     }
     setResults(JSON.parse(stored))
+    setInspire(sessionStorage.getItem('inspire') === 'true')
   }, [router])
 
   if (!results) return null
 
   const hasReachable = results.reachable.length > 0
   const hasDreams = results.dream_destinations.length > 0
+
+  // Inspire mode: single featured pick
+  if (inspire && results.reachable.length > 0) {
+    const pick = results.reachable[0]
+    return (
+      <main className="max-w-2xl mx-auto px-6 py-16 space-y-8">
+        <div className="flex items-center justify-between">
+          <h1 className="text-3xl font-bold text-gray-900">Your Next Trip</h1>
+          <button onClick={() => router.push('/')} className="text-sm text-blue-600 hover:underline">
+            ← Start over
+          </button>
+        </div>
+        {results.explanation && (
+          <p className="text-lg text-gray-700 leading-relaxed">{results.explanation}</p>
+        )}
+        <ResultCard
+          entry={pick.entry}
+          matchedProgram={pick.matched_program}
+          userBalance={pick.user_balance}
+        />
+        <button
+          onClick={() => {
+            sessionStorage.setItem('inspire', 'false')
+            setInspire(false)
+          }}
+          className="text-sm text-gray-500 hover:text-gray-700 underline"
+        >
+          Show all my redemptions instead
+        </button>
+      </main>
+    )
+  }
 
   return (
     <main className="max-w-2xl mx-auto px-6 py-16 space-y-12">
@@ -42,21 +76,6 @@ export default function ResultsPage() {
         </div>
       )}
 
-      {hasReachable && (
-        <ResultsSection heading="You Can Go Here Now">
-          <div className="space-y-4">
-            {results.reachable.map((r, i) => (
-              <ResultCard
-                key={i}
-                entry={r.entry}
-                matchedProgram={r.matched_program}
-                userBalance={r.user_balance}
-              />
-            ))}
-          </div>
-        </ResultsSection>
-      )}
-
       {hasDreams && (
         <ResultsSection heading="Your Dream Destinations">
           <div className="space-y-4">
@@ -65,9 +84,10 @@ export default function ResultsPage() {
                 {d.best_entry ? (
                   <ResultCard
                     entry={d.best_entry}
-                    matchedProgram={d.matched_program ?? d.destination}
+                    matchedProgram={d.matched_program ?? d.best_entry.program}
                     userBalance={d.user_balance ?? 0}
                     gap={d.reachable ? null : d.gap}
+                    hasProgram={d.matched_program !== null}
                   />
                 ) : (
                   <div className="border border-gray-200 rounded-xl p-5 bg-white shadow-sm">
@@ -78,6 +98,21 @@ export default function ResultsPage() {
                   </div>
                 )}
               </div>
+            ))}
+          </div>
+        </ResultsSection>
+      )}
+
+      {hasReachable && (
+        <ResultsSection heading="You Can Go Here Now">
+          <div className="space-y-4">
+            {results.reachable.map((r, i) => (
+              <ResultCard
+                key={i}
+                entry={r.entry}
+                matchedProgram={r.matched_program}
+                userBalance={r.user_balance}
+              />
             ))}
           </div>
         </ResultsSection>

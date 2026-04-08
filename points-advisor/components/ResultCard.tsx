@@ -5,9 +5,11 @@ interface Props {
   matchedProgram: string
   userBalance: number
   gap?: number | null
+  // false when the user doesn't own matchedProgram — shown as "need" hint rather than active program
+  hasProgram?: boolean
 }
 
-export default function ResultCard({ entry, matchedProgram, userBalance, gap }: Props) {
+export default function ResultCard({ entry, matchedProgram, userBalance, gap, hasProgram = true }: Props) {
   const pointsDisplay =
     entry.pricing_type === 'dynamic' && entry.points_range
       ? `${entry.points_range[0].toLocaleString()}–${entry.points_range[1].toLocaleString()} pts`
@@ -30,7 +32,9 @@ export default function ResultCard({ entry, matchedProgram, userBalance, gap }: 
       </div>
 
       <div className="flex flex-wrap gap-2 text-sm">
-        <span className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full">{matchedProgram}</span>
+        <span className={`px-3 py-1 rounded-full ${hasProgram ? 'bg-blue-50 text-blue-700' : 'bg-gray-100 text-gray-500'}`}>
+          {hasProgram ? matchedProgram : `Need: ${matchedProgram}`}
+        </span>
         {entry.cabin && (
           <span className="bg-gray-100 text-gray-600 px-3 py-1 rounded-full">{entry.cabin}</span>
         )}
@@ -48,18 +52,10 @@ export default function ResultCard({ entry, matchedProgram, userBalance, gap }: 
         <p className="text-sm text-gray-500 leading-relaxed">{entry.notes}</p>
       )}
 
-      <div className="flex items-center justify-between pt-1">
+      <div className="pt-1">
         <span className="text-xs text-gray-400">
           via {entry.source_site} · {entry.published_date}
         </span>
-        <a
-          href={entry.source_url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-xs text-blue-500 hover:underline"
-        >
-          Read more →
-        </a>
       </div>
     </div>
   )

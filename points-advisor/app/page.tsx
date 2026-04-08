@@ -4,17 +4,19 @@ import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import BalanceInput from '@/components/BalanceInput'
 import DestinationInput from '@/components/DestinationInput'
-import type { Balance } from '@/types'
+import OriginInput, { formatOriginForPrompt } from '@/components/OriginInput'
+import type { Balance, Cabin } from '@/types'
 
 export default function HomePage() {
   const router = useRouter()
   const [balances, setBalances] = useState<Balance[]>([{ program: '', amount: 0 }])
   const [destinations, setDestinations] = useState('')
-  const [loading, setLoading] = useState(false)
+  const [cabins, setCabins] = useState<Cabin[]>([])
+  const [origin, setOrigin] = useState('')
+  const [loading, setLoading] = useState<false | 'search' | 'inspire'>(false)
   const [error, setError] = useState<string | null>(null)
 
-  async function handleSubmit(e: React.FormEvent) {
-    e.preventDefault()
+  async function submit(inspire: boolean) {
     setError(null)
 
     const validBalances = balances.filter((b) => b.program.trim() && b.amount > 0)
@@ -23,7 +25,7 @@ export default function HomePage() {
       return
     }
 
-    setLoading(true)
+    setLoading(inspire ? 'inspire' : 'search')
     try {
       const destinationList = destinations
         .split(',')
@@ -33,19 +35,25 @@ export default function HomePage() {
       const res = await fetch('/api/recommend', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ balances: validBalances, destinations: destinationList }),
+        body: JSON.stringify({ balances: validBalances, destinations: inspire ? [] : destinationList, inspire, cabins: cabins.length > 0 ? cabins : undefined, origin: origin.trim() ? formatOriginForPrompt(origin.trim()) : undefined }),
       })
 
       if (!res.ok) throw new Error('Request failed')
 
       const data = await res.json()
       sessionStorage.setItem('results', JSON.stringify(data))
+      sessionStorage.setItem('inspire', inspire ? 'true' : 'false')
       router.push('/results')
     } catch {
       setError('Something went wrong. Please try again.')
     } finally {
-      setLoading(false)
+      setLoading(false as false)
     }
+  }
+
+  async function handleSubmit(e: React.FormEvent) {
+    e.preventDefault()
+    await submit(false)
   }
 
   return (
@@ -73,19 +81,60 @@ export default function HomePage() {
           <DestinationInput value={destinations} onChange={setDestinations} />
         </div>
 
+        <div className="space-y-3">
+          <label className="block text-sm font-semibold text-gray-700 uppercase tracking-wide">
+            Origin Airport
+            <span className="text-gray-400 font-normal normal-case ml-2">(optional)</span>
+          </label>
+          <OriginInput value={origin} onChange={setOrigin} />
+        </div>
+
+        <div className="space-y-3">
+          <label className="block text-sm font-semibold text-gray-700 uppercase tracking-wide">
+            Cabin Class
+            <span className="text-gray-400 font-normal normal-case ml-2">(optional)</span>
+          </label>
+          <div className="flex flex-wrap gap-2">
+            {(['Economy', 'Premium Economy', 'Business', 'First'] as Cabin[]).map((c) => (
+              <button
+                key={c}
+                type="button"
+                onClick={() => setCabins(cabins.includes(c) ? cabins.filter((x) => x !== c) : [...cabins, c])}
+                className={`px-4 py-2 rounded-lg text-sm font-medium border transition-colors ${
+                  cabins.includes(c)
+                    ? 'bg-blue-600 text-white border-blue-600'
+                    : 'bg-white text-gray-600 border-gray-300 hover:border-blue-400'
+                }`}
+              >
+                {c}
+              </button>
+            ))}
+          </div>
+        </div>
+
         {error && (
           <p className="text-sm text-red-600 bg-red-50 border border-red-200 rounded-lg px-4 py-3">
             {error}
           </p>
         )}
 
-        <button
-          type="submit"
-          disabled={loading}
-          className="w-full bg-blue-600 hover:bg-blue-700 disabled:bg-blue-400 text-white font-semibold py-3 px-6 rounded-xl transition-colors"
-        >
-          {loading ? 'Analyzing your points...' : 'Find My Redemptions'}
-        </button>
+        <div className="space-y-3">
+          <button
+            type="submit"
+            disabled={loading !== false}
+            className="w-full bg-blue-600 hover:bg-blue-700 disabled:bg-blue-400 text-white font-semibold py-3 px-6 rounded-xl transition-colors"
+          >
+            {loading === 'search' ? 'Analyzing your points...' : 'Find My Redemptions'}
+          </button>
+          <button
+            type="button"
+            disabled={loading !== false}
+            onClick={() => submit(true)}
+            className="w-full bg-white hover:bg-gray-50 disabled:opacity-50 border border-gray-300 text-gray-700 font-semibold py-3 px-6 rounded-xl transition-colors"
+          >
+            {loading === 'inspire' ? 'Finding inspiration...' : 'Inspire Me'}
+          </button>
+        </div>
       </form>
     </main>
   )

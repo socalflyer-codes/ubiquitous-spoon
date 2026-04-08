@@ -16,6 +16,8 @@ const mockEntries: RedemptionEntry[] = [
     source_geo: 'US',
     published_date: '2025-11-01',
     notes: 'No fuel surcharges',
+    transferable_from: ['Chase Ultimate Rewards', 'Amex Membership Rewards'],
+    verified: true,
   },
   {
     program: 'World of Hyatt',
@@ -30,6 +32,8 @@ const mockEntries: RedemptionEntry[] = [
     source_geo: 'US',
     published_date: '2025-09-20',
     notes: 'Category 4',
+    transferable_from: ['Chase Ultimate Rewards'],
+    verified: true,
   },
 ]
 

@@ -7,11 +7,17 @@
     "points_required": 65000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://princeoftravel.com/blog/aeroplan-sweet-spots/",
-    "source_site": "Prince of Travel",
-    "source_geo": "CA",
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-aeroplan-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
     "published_date": "2025-11-01",
-    "notes": "Star Alliance partners, no fuel surcharges on most carriers including ANA and Lufthansa"
+    "notes": "Star Alliance partners, no fuel surcharges on most carriers including ANA and Lufthansa",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
   },
   {
     "program": "Aeroplan",
@@ -21,11 +27,17 @@
     "points_required": 55000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://frequentmiler.com/aeroplan-sweet-spots/",
-    "source_site": "Frequent Miler",
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-aeroplan-miles/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-10-10",
-    "notes": "Lufthansa, SWISS, or Turkish Business via Star Alliance. No fuel surcharges on most."
+    "notes": "Lufthansa, SWISS, or Turkish Business via Star Alliance. No fuel surcharges on most.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
   },
   {
     "program": "Virgin Atlantic Flying Club",
@@ -35,11 +47,18 @@
     "points_required": 60000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://onemileatatime.com/virgin-atlantic-ana-sweet-spot/",
-    "source_site": "OMAAT",
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-virgin-atlantic-miles/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-12-01",
-    "notes": "ANA Business Class (The Room) via Virgin Atlantic miles. No fuel surcharges. One of the best business class values available."
+    "notes": "ANA Business Class (The Room) via Virgin Atlantic miles. No fuel surcharges. One of the best business class values available.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
   },
   {
     "program": "World of Hyatt",
@@ -49,11 +68,15 @@
     "points_required": 25000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://frequentmiler.com/hyatt-sweet-spots/",
-    "source_site": "Frequent Miler",
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-hyatt-points/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-10-15",
-    "notes": "Park Hyatt Maldives, Category 6, per night. Transfers 1:1 from Chase UR."
+    "notes": "Park Hyatt Maldives, Category 6, per night. Transfers 1:1 from Chase UR.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
   },
   {
     "program": "World of Hyatt",
@@ -63,11 +86,15 @@
     "points_required": 17000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://thepointsguy.com/guide/hyatt-best-redemptions/",
-    "source_site": "The Points Guy",
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-hyatt-points/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-09-20",
-    "notes": "Andaz Costa Rica, Category 4, per night. Transfers 1:1 from Chase UR."
+    "notes": "Andaz Costa Rica, Category 4, per night. Transfers 1:1 from Chase UR.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
   },
   {
     "program": "World of Hyatt",
@@ -77,11 +104,15 @@
     "points_required": 12000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://upgradedpoints.com/travel/hotels/hyatt/",
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-hyatt-points/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-08-01",
-    "notes": "Multiple Category 3 properties in Cancun/Riviera Maya. Great value per night."
+    "notes": "Multiple Category 3 properties in Cancun/Riviera Maya. Great value per night.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
   },
   {
     "program": "United MileagePlus",
@@ -90,12 +121,19 @@
     "cabin": "Business",
     "points_required": 70000,
     "pricing_type": "dynamic",
-    "points_range": [60000, 110000],
-    "source_url": "https://upgradedpoints.com/travel/airlines/united-mileageplus-award-chart/",
+    "points_range": [
+      60000,
+      110000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-08-10",
-    "notes": "Dynamic pricing — check at booking. Star Alliance partners. Prices vary widely by carrier and date."
+    "notes": "Dynamic pricing — check at booking. Star Alliance partners. Prices vary widely by carrier and date.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
   },
   {
     "program": "Delta SkyMiles",
@@ -104,12 +142,19 @@
     "cabin": "Business",
     "points_required": 85000,
     "pricing_type": "dynamic",
-    "points_range": [75000, 200000],
-    "source_url": "https://thepointsguy.com/guide/delta-skymiles/",
-    "source_site": "The Points Guy",
+    "points_range": [
+      75000,
+      200000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-delta-skymiles/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-07-15",
-    "notes": "Fully dynamic. Prices fluctuate significantly. Best value found off-peak on Delta metal."
+    "notes": "Fully dynamic. Prices fluctuate significantly. Best value found off-peak on Delta metal.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
   },
   {
     "program": "American AAdvantage",
@@ -119,11 +164,15 @@
     "points_required": 60000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://viewfromthewing.com/american-aadvantage-japan/",
-    "source_site": "View from the Wing",
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-09-05",
-    "notes": "Japan Airlines Business Class. One of the best-value fixed-rate redemptions still available."
+    "notes": "Japan Airlines Business Class. One of the best-value fixed-rate redemptions still available.",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
   },
   {
     "program": "American AAdvantage",
@@ -133,25 +182,33 @@
     "points_required": 57500,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://onemileatatime.com/american-aadvantage-europe/",
-    "source_site": "OMAAT",
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-10-20",
-    "notes": "British Airways, Iberia, or Finnair Business via oneworld. Watch for fuel surcharges on BA."
+    "notes": "British Airways, Iberia, or Finnair Business via oneworld. Watch for fuel surcharges on BA.",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
   },
   {
-    "program": "Chase UR via Hyatt",
+    "program": "World of Hyatt",
     "destination": "Southeast Asia",
     "region": "Asia",
     "cabin": null,
     "points_required": 21000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://frequentmiler.com/chase-ur-best-redemptions/",
-    "source_site": "Frequent Miler",
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-hyatt-points/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-11-10",
-    "notes": "Park Hyatt Bangkok or Andaz Singapore, Category 5. Chase UR transfers 1:1 to Hyatt."
+    "notes": "Park Hyatt Bangkok or Andaz Singapore, Category 5. Chase UR transfers 1:1 to Hyatt.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
   },
   {
     "program": "Marriott Bonvoy",
@@ -161,11 +218,16 @@
     "points_required": 85000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://thepointsguy.com/guide/marriott-bonvoy-maldives/",
-    "source_site": "The Points Guy",
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-marriott-points-for-hotel-stays/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-06-01",
-    "notes": "St. Regis Maldives Vommuli. Peak rates can be lower if you stay 5 nights (5th night free)."
+    "notes": "St. Regis Maldives Vommuli. Peak rates can be lower if you stay 5 nights (5th night free).",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
   },
   {
     "program": "British Airways Avios",
@@ -175,11 +237,18 @@
     "points_required": 9000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://onemileatatime.com/ba-avios-caribbean/",
-    "source_site": "OMAAT",
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-08-22",
-    "notes": "Short-haul AA partners to Caribbean islands from Miami/NYC. Distance-based pricing is great value under 1,151 miles."
+    "notes": "Short-haul AA partners to Caribbean islands from Miami/NYC. Distance-based pricing is great value under 1,151 miles.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
   },
   {
     "program": "Singapore KrisFlyer",
@@ -189,11 +258,18 @@
     "points_required": 35000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://princeoftravel.com/blog/singapore-krisflyer-sweet-spots/",
-    "source_site": "Prince of Travel",
-    "source_geo": "CA",
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
     "published_date": "2025-09-15",
-    "notes": "Singapore Airlines regional Business Class within Southeast Asia. Excellent product."
+    "notes": "Singapore Airlines regional Business Class within Southeast Asia. Excellent product.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
   },
   {
     "program": "Singapore KrisFlyer",
@@ -203,39 +279,38 @@
     "points_required": 67000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://onemileatatime.com/singapore-krisflyer-japan/",
-    "source_site": "OMAAT",
-    "source_geo": "US",
-    "published_date": "2025-10-03",
-    "notes": "Singapore Airlines Business (non-stop SFO-NRT or LAX-NRT). World-class product."
-  },
-  {
-    "program": "Amex MR via Aeroplan",
-    "destination": "Europe",
-    "region": "Europe",
-    "cabin": "Business",
-    "points_required": 55000,
-    "pricing_type": "fixed",
-    "points_range": null,
-    "source_url": "https://upgradedpoints.com/travel/airlines/aeroplan/",
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
-    "published_date": "2025-07-30",
-    "notes": "Amex MR transfers 1:1 to Aeroplan. Then use Aeroplan's fixed-rate chart to Europe Business."
+    "published_date": "2025-10-03",
+    "notes": "Singapore Airlines Business (non-stop SFO-NRT or LAX-NRT). World-class product.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
   },
   {
-    "program": "Capital One Miles via Avianca LifeMiles",
+    "program": "Avianca LifeMiles",
     "destination": "South America",
     "region": "South America",
     "cabin": "Business",
     "points_required": 63000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://liveandletsfly.com/lifemiles-sweet-spots/",
-    "source_site": "Live and Let's Fly",
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-avianca-vuela-lifemiles/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-11-20",
-    "notes": "Avianca LifeMiles for United or Avianca Business to South America. No fuel surcharges."
+    "notes": "Avianca LifeMiles for United or Avianca Business to South America. No fuel surcharges.",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
   },
   {
     "program": "Alaska Mileage Plan",
@@ -245,11 +320,13 @@
     "points_required": 70000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://viewfromthewing.com/alaska-mileageplan-japan-first/",
-    "source_site": "View from the Wing",
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-alaska-mileage-plan-miles/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-09-28",
-    "notes": "Japan Airlines First Class via Alaska miles. One of the most coveted redemptions in the hobby."
+    "notes": "Japan Airlines First Class via Alaska miles. One of the most coveted redemptions in the hobby.",
+    "transferable_from": [],
+    "verified": true
   },
   {
     "program": "Alaska Mileage Plan",
@@ -259,11 +336,13 @@
     "points_required": 55000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://frequentmiler.com/alaska-mileageplan-europe/",
-    "source_site": "Frequent Miler",
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-alaska-mileage-plan-miles/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-10-05",
-    "notes": "Finnair or British Airways Business via Alaska miles. Watch for BA fuel surcharges."
+    "notes": "Finnair or British Airways Business via Alaska miles. Watch for BA fuel surcharges.",
+    "transferable_from": [],
+    "verified": true
   },
   {
     "program": "Hilton Honors",
@@ -273,11 +352,15 @@
     "points_required": 95000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://thepointsguy.com/guide/hilton-honors-maldives/",
-    "source_site": "The Points Guy",
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-hilton-points/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-06-15",
-    "notes": "Conrad Maldives Rangali Island. 5th night free makes this significantly better value."
+    "notes": "Conrad Maldives Rangali Island. 5th night free makes this significantly better value.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
   },
   {
     "program": "Hilton Honors",
@@ -286,12 +369,19 @@
     "cabin": null,
     "points_required": 40000,
     "pricing_type": "dynamic",
-    "points_range": [30000, 80000],
-    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/",
+    "points_range": [
+      30000,
+      80000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-hilton-points/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-08-05",
-    "notes": "Hilton moved to dynamic pricing. Great value at mid-tier properties. Check specific property before booking."
+    "notes": "Hilton moved to dynamic pricing. Great value at mid-tier properties. Check specific property before booking.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
   },
   {
     "program": "IHG One Rewards",
@@ -301,11 +391,15 @@
     "points_required": 40000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://dealswelike.com/ihg-sweet-spots/",
-    "source_site": "Deals We Like",
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-ihg-points/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-07-20",
-    "notes": "InterContinental Punta Cana or similar 5-star properties. IHG has a fixed peak/off-peak chart."
+    "notes": "InterContinental Punta Cana or similar 5-star properties. IHG has a fixed peak/off-peak chart.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
   },
   {
     "program": "Qantas Points",
@@ -315,11 +409,16 @@
     "points_required": 72000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://turnleftforless.com/qantas-japan-business/",
-    "source_site": "Turn Left for Less",
-    "source_geo": "AU",
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-qantas-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
     "published_date": "2025-10-12",
-    "notes": "Japan Airlines or Qantas Business via oneworld. Good value for Qantas cardholders."
+    "notes": "Japan Airlines or Qantas Business via oneworld. Good value for Qantas cardholders.",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
   },
   {
     "program": "British Airways Avios",
@@ -329,24 +428,3920 @@
     "points_required": 25000,
     "pricing_type": "fixed",
     "points_range": null,
-    "source_url": "https://paddleyourownkanoo.com/ba-avios-europe/",
-    "source_site": "Paddle Your Own Kanoo",
-    "source_geo": "UK",
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
     "published_date": "2025-09-01",
-    "notes": "Short-haul Club Europe within Europe. Distance-based — flights under 1,151 miles. Fuel surcharges apply on BA."
+    "notes": "Short-haul Club Europe within Europe. Distance-based — flights under 1,151 miles. Fuel surcharges apply on BA.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
   },
   {
-    "program": "Chase UR via United",
+    "program": "American AAdvantage",
+    "destination": "South America",
+    "region": "South America",
+    "cabin": "Economy",
+    "points_required": 25000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      20000,
+      35000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-10-01",
+    "notes": "AA operates direct flights to Bogotá, Lima, Buenos Aires, São Paulo, and Santiago. Dynamic pricing — book early for lower end of range.",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
     "destination": "Central America",
     "region": "Central America",
     "cabin": "Economy",
     "points_required": 15000,
     "pricing_type": "dynamic",
-    "points_range": [12000, 25000],
-    "source_url": "https://frequentmiler.com/chase-ur-central-america/",
-    "source_site": "Frequent Miler",
+    "points_range": [
+      12000,
+      25000
+    ],
+    "source_url": "https://upgradedpoints.com/credit-cards/best-ways-to-redeem-chase-ultimate-rewards-points/",
+    "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-11-05",
-    "notes": "Chase UR to United MileagePlus at 1:1. Dynamic pricing but short-haul fares are generally low."
+    "notes": "Chase UR to United MileagePlus at 1:1. Dynamic pricing but short-haul fares are generally low.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "Hawaii",
+    "region": "Hawaii",
+    "cabin": null,
+    "points_required": 25000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      17000,
+      35000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-09-10",
+    "notes": "Andaz Maui at Wailea Resort. Off-peak rates can drop to 17,000/night. Chase UR transfers 1:1 to Hyatt.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "Caribbean",
+    "region": "Mexico & Caribbean",
+    "cabin": null,
+    "points_required": 25000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      20000,
+      35000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-10-15",
+    "notes": "Hyatt Ziva and Zilara all-inclusive resorts in Cancún, Cap Cana, and Jamaica. Meals and drinks included — outstanding value.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "Bali",
+    "region": "Asia",
+    "cabin": null,
+    "points_required": 15000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      12000,
+      25000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-08-20",
+    "notes": "Alila Seminyak and Alila Ubud. Stunning properties for relatively few points — one of the best hotel sweet spots in Asia.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "Paris",
+    "region": "Europe",
+    "cabin": null,
+    "points_required": 40000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      30000,
+      55000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-07-01",
+    "notes": "Park Hyatt Paris Vendôme. One of the finest hotels in Paris — dynamic pricing but still exceptional value vs. cash rates.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Alaska Mileage Plan",
+    "destination": "Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-alaska-mileage-plan-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-09-22",
+    "notes": "Cathay Pacific Business Class via Alaska miles — oneworld partner. Excellent product to Hong Kong and Tokyo. No fuel surcharges.",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Alaska Mileage Plan",
+    "destination": "South America",
+    "region": "South America",
+    "cabin": "Business",
+    "points_required": 57000,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-alaska-mileage-plan-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-08-30",
+    "notes": "LATAM Business Class to South America via Alaska's oneworld partner chart. Covers Colombia, Peru, Brazil, Argentina, Chile.",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Hawaii",
+    "region": "Hawaii",
+    "cabin": "Economy",
+    "points_required": 25000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      20000,
+      40000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-10-20",
+    "notes": "United flies nonstop to Hawaii from West Coast and some Midwest hubs. East Coast origins require a connection and will be at the higher end of this range.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Europe",
+    "region": "Europe",
+    "cabin": "Economy",
+    "points_required": 30000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      25000,
+      45000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-09-05",
+    "notes": "Transatlantic economy on United or Star Alliance partners. Book saver-level availability for the low end of this range.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Hawaii",
+    "region": "Hawaii",
+    "cabin": "Economy",
+    "points_required": 25000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      20000,
+      40000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-10-01",
+    "notes": "Delta nonstop to Honolulu and Maui from ATL, SLC, LAX, and SEA. From the East Coast expect 30,000+ due to connections.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "South America",
+    "region": "South America",
+    "cabin": "Business",
+    "points_required": 80000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      60000,
+      120000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-10-10",
+    "notes": "Delta One Business Class to São Paulo, Buenos Aires, Lima, and Bogotá via Atlanta hub. Fully dynamic — book early and check multiple dates.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Caribbean",
+    "region": "Mexico & Caribbean",
+    "cabin": "Economy",
+    "points_required": 15000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      10000,
+      25000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-08-12",
+    "notes": "Short Caribbean routes from Atlanta, New York, and Boston. Dynamic pricing but short-haul keeps costs low.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Aeroplan",
+    "destination": "Caribbean",
+    "region": "Mexico & Caribbean",
+    "cabin": "Economy",
+    "points_required": 20000,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-aeroplan-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-09-18",
+    "notes": "Fixed-rate one-way economy on Air Canada or partner airlines. Reliable pricing — no fuel surcharges on most routes.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "US Domestic",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-10-08",
+    "notes": "Distance-based Avios chart on AA-operated flights under 1,151 miles. One of the best short-haul domestic sweet spots — many city pairs covered.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "Mexico",
+    "region": "Mexico & Caribbean",
+    "cabin": "Economy",
+    "points_required": 9000,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-09-30",
+    "notes": "Avios on AA-operated flights to Mexico and Central America. Distance-based pricing — most US-Mexico routes fall under 1,500 miles.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Turkish Miles&Smiles",
+    "destination": "Europe",
+    "region": "Europe",
+    "cabin": "Business",
+    "points_required": 45000,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-turkish-airlines-miles-smiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-10-25",
+    "notes": "Citi ThankYou transfers 1:1 to Turkish Miles&Smiles. Use for Business Class on Star Alliance partners to Europe. Outstanding value with no fuel surcharges.",
+    "transferable_from": [
+      "Citi ThankYou Points",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Turkish Miles&Smiles",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 45000,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-turkish-airlines-miles-smiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-11-01",
+    "notes": "Citi ThankYou → Turkish Miles&Smiles → ANA Business Class to Japan. One of the best-kept sweet spots — 45,000 for a world-class product.",
+    "transferable_from": [
+      "Citi ThankYou Points",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Flying Blue",
+    "destination": "Europe",
+    "region": "Europe",
+    "cabin": "Economy",
+    "points_required": 25000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      15000,
+      35000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-air-france-klm-flying-blue-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-10-05",
+    "notes": "Amex MR transfers 1:1 to Air France/KLM Flying Blue. Monthly Promo Awards offer 25–50% discounts — US to Europe economy can drop below 20,000 pts.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Flying Blue",
+    "destination": "Caribbean",
+    "region": "Mexico & Caribbean",
+    "cabin": "Economy",
+    "points_required": 12000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      8000,
+      18000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-air-france-klm-flying-blue-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-09-15",
+    "notes": "Air France/KLM Flying Blue to Caribbean islands including Martinique, Guadeloupe, and Saint Martin. Great value on Promo Award months.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Singapore KrisFlyer",
+    "destination": "Australia",
+    "region": "Australia & Pacific",
+    "cabin": "Business",
+    "points_required": 78000,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-09-20",
+    "notes": "Singapore Airlines Business Class from US West Coast to Sydney or Melbourne via Singapore. One of the best premium cabin redemptions available.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Hawaii",
+    "region": "Hawaii",
+    "cabin": null,
+    "points_required": 50000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      40000,
+      75000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-marriott-points-for-hotel-stays/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-08-25",
+    "notes": "Westin Maui Resort & Spa and The Ritz-Carlton Maui. Dynamic pricing — off-peak dates offer significantly better value.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Europe",
+    "region": "Europe",
+    "cabin": null,
+    "points_required": 35000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      25000,
+      60000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-marriott-points-for-hotel-stays/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-09-01",
+    "notes": "Wide range of Marriott, Sheraton, and W properties across Europe. Dynamic pricing — smaller cities offer much better value than Paris or London.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "IHG One Rewards",
+    "destination": "Maldives",
+    "region": "Asia",
+    "cabin": null,
+    "points_required": 70000,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-ihg-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-07-15",
+    "notes": "InterContinental Maldives Maamunagau Resort. IHG's fixed peak/off-peak chart makes this predictable to plan.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "Caribbean",
+    "region": "Mexico & Caribbean",
+    "cabin": null,
+    "points_required": 60000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      40000,
+      95000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/best-ways-to-redeem-hilton-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-08-01",
+    "notes": "Conrad and Waldorf Astoria properties in the Bahamas and Caribbean. 5th night free benefit significantly improves value on longer stays.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Aeroplan",
+    "destination": "Hawaii",
+    "region": "Hawaii",
+    "cabin": "Economy",
+    "points_required": 20000,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-aeroplan-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-10-12",
+    "notes": "Fixed-rate one-way economy on Air Canada or United (Star Alliance partner) to Hawaii. No fuel surcharges.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "Hawaii",
+    "region": "Hawaii",
+    "cabin": "Economy",
+    "points_required": 25000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      20000,
+      40000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2025-10-18",
+    "notes": "AA flies nonstop to Honolulu, Maui, and Kona from West Coast hubs (LAX, SFO, PHX, DFW). East Coast travelers need a connection and should expect the higher end of this range.",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Aeroplan",
+    "destination": "Israel",
+    "region": "Middle East",
+    "cabin": "Business",
+    "points_required": 65000,
+    "pricing_type": "fixed",
+    "points_range": [
+      65000,
+      65000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-canada-aeroplan-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Air Canada to Tel Aviv business class via partner; excellent value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Aeroplan",
+    "destination": "India",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 75000,
+    "pricing_type": "fixed",
+    "points_range": [
+      75000,
+      75000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-canada-aeroplan-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Air India or Lufthansa partner; great value transatlantic-style routing",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Aeroplan",
+    "destination": "South Africa",
+    "region": "Africa",
+    "cabin": "Business",
+    "points_required": 85000,
+    "pricing_type": "fixed",
+    "points_range": [
+      85000,
+      85000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-canada-aeroplan-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "One of few programs pricing South Africa business class reasonably",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Aeroplan",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 100000,
+    "pricing_type": "fixed",
+    "points_range": [
+      100000,
+      100000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-canada-aeroplan-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Air Canada/partner to Australia; competitive vs. other programs",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Aeroplan",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 75000,
+    "pricing_type": "fixed",
+    "points_range": [
+      75000,
+      75000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-canada-aeroplan-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Thai Airways, ANA, or other Star Alliance partners to Southeast Asia",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Aeroplan",
+    "destination": "US Domestic",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 12500,
+    "pricing_type": "fixed",
+    "points_range": [
+      12500,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-canada-aeroplan-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Short-haul US domestic on United; solid value for economy",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Aeroplan",
+    "destination": "Maldives",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 100000,
+    "pricing_type": "fixed",
+    "points_range": [
+      100000,
+      100000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-canada-aeroplan-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via SriLankan or other Star Alliance; one of best Maldives business options",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Alaska Mileage Plan",
+    "destination": "Hawaii",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 12500,
+    "pricing_type": "fixed",
+    "points_range": [
+      12500,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-alaska-airlines-mileage-plan-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Short Alaska flight to Hawaii; best domestic value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Alaska Mileage Plan",
+    "destination": "Mexico",
+    "region": "Latin America",
+    "cabin": "Economy",
+    "points_required": 12500,
+    "pricing_type": "fixed",
+    "points_range": [
+      12500,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-alaska-airlines-mileage-plan-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Short-haul Mexico on Alaska; great value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Alaska Mileage Plan",
+    "destination": "Maldives",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": [
+      50000,
+      50000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-alaska-airlines-mileage-plan-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Cathay Pacific to Maldives via Hong Kong business; outstanding value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Alaska Mileage Plan",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": [
+      50000,
+      50000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-alaska-airlines-mileage-plan-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Cathay Pacific business class; best use of Alaska miles long-haul",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Alaska Mileage Plan",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 55000,
+    "pricing_type": "fixed",
+    "points_range": [
+      55000,
+      55000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-alaska-airlines-mileage-plan-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Cathay Pacific business class to Australia; great value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Alaska Mileage Plan",
+    "destination": "Central America",
+    "region": "Latin America",
+    "cabin": "Economy",
+    "points_required": 12500,
+    "pricing_type": "fixed",
+    "points_range": [
+      12500,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-alaska-airlines-mileage-plan-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "LATAM or Alaska to Central America; solid economy value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 80000,
+    "pricing_type": "fixed",
+    "points_range": [
+      80000,
+      80000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Qantas partner; excellent trans-Pacific business class value",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "Maldives",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 70000,
+    "pricing_type": "fixed",
+    "points_range": [
+      70000,
+      70000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "via Cathay Pacific or SriLankan; outstanding value",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "Hong Kong",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 67500,
+    "pricing_type": "fixed",
+    "points_range": [
+      67500,
+      67500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Cathay Pacific partner; flagship business class",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 70000,
+    "pricing_type": "fixed",
+    "points_range": [
+      70000,
+      70000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Cathay Pacific or Malaysia Airlines partner",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "Africa",
+    "region": "Africa",
+    "cabin": "Business",
+    "points_required": 75000,
+    "pricing_type": "fixed",
+    "points_range": [
+      75000,
+      75000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Royal Air Maroc partner; one of few programs covering North Africa",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "Mexico",
+    "region": "Latin America",
+    "cabin": "Economy",
+    "points_required": 12500,
+    "pricing_type": "fixed",
+    "points_range": [
+      12500,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Short-haul partner flights to Mexico; great value",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "US Domestic",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "fixed",
+    "points_range": [
+      7500,
+      7500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Short-haul domestic American; 7,500 miles off-peak",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "Central America",
+    "region": "Latin America",
+    "cabin": "Economy",
+    "points_required": 20000,
+    "pricing_type": "fixed",
+    "points_range": [
+      20000,
+      20000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "American or LATAM economy to Central America",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "Canada",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 12500,
+    "pricing_type": "fixed",
+    "points_range": [
+      12500,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Short-haul to Canada on American or partner",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "Israel",
+    "region": "Middle East",
+    "cabin": "Business",
+    "points_required": 70000,
+    "pricing_type": "fixed",
+    "points_range": [
+      70000,
+      70000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Finnair or Iberia to Israel; solid business class value",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "New Zealand",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 80000,
+    "pricing_type": "fixed",
+    "points_range": [
+      80000,
+      80000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Qantas or partner trans-Pacific; good value",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Amex Membership Rewards",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 88000,
+    "pricing_type": "fixed",
+    "points_range": [
+      88000,
+      88000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/amex/best-ways-to-use-amex-membership-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "ANA via Aeroplan transfer; top-tier business class value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Amex Membership Rewards",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 75000,
+    "pricing_type": "fixed",
+    "points_range": [
+      75000,
+      75000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/amex/best-ways-to-use-amex-membership-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Singapore Airlines or Thai via transfer partners",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Amex Membership Rewards",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 100000,
+    "pricing_type": "fixed",
+    "points_range": [
+      100000,
+      100000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/amex/best-ways-to-use-amex-membership-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Singapore KrisFlyer or Qantas partner transfer",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Amex Membership Rewards",
+    "destination": "Hawaii",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 12500,
+    "pricing_type": "fixed",
+    "points_range": [
+      12500,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/amex/best-ways-to-use-amex-membership-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Transfer to Hawaiian or Alaska; great value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Amex Membership Rewards",
+    "destination": "Maldives",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 88000,
+    "pricing_type": "fixed",
+    "points_range": [
+      88000,
+      88000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/amex/best-ways-to-use-amex-membership-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Singapore Airlines via SQ transfer; fantastic value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Amex Membership Rewards",
+    "destination": "South America",
+    "region": "Latin America",
+    "cabin": "Business",
+    "points_required": 100000,
+    "pricing_type": "fixed",
+    "points_range": [
+      100000,
+      100000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/amex/best-ways-to-use-amex-membership-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Transfer to Flying Blue or Avianca LifeMiles for South America",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Amex Membership Rewards",
+    "destination": "Middle East",
+    "region": "Middle East",
+    "cabin": "Business",
+    "points_required": 115000,
+    "pricing_type": "fixed",
+    "points_range": [
+      115000,
+      115000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/amex/best-ways-to-use-amex-membership-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Emirates or Etihad transfer; premium first/business class",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Avianca LifeMiles",
+    "destination": "Europe",
+    "region": "Europe",
+    "cabin": "Economy",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      30000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-avianca-lifemiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Star Alliance partners to Europe; solid economy value",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Avianca LifeMiles",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 63000,
+    "pricing_type": "fixed",
+    "points_range": [
+      63000,
+      63000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-avianca-lifemiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "ANA business class; outstanding sweet spot",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Avianca LifeMiles",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 63000,
+    "pricing_type": "fixed",
+    "points_range": [
+      63000,
+      63000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-avianca-lifemiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "ANA or Thai business class; great value",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Avianca LifeMiles",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 78000,
+    "pricing_type": "fixed",
+    "points_range": [
+      78000,
+      78000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-avianca-lifemiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "ANA or United to Australia; solid long-haul value",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Avianca LifeMiles",
+    "destination": "Hawaii",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 18000,
+    "pricing_type": "fixed",
+    "points_range": [
+      18000,
+      18000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-avianca-lifemiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United to Hawaii; reasonable economy pricing",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Avianca LifeMiles",
+    "destination": "Maldives",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 85000,
+    "pricing_type": "fixed",
+    "points_range": [
+      85000,
+      85000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-avianca-lifemiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "ANA or SriLankan via Star Alliance; excellent value",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Avianca LifeMiles",
+    "destination": "Central America",
+    "region": "Latin America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "fixed",
+    "points_range": [
+      7500,
+      7500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-avianca-lifemiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Short-haul intra-Latin America; best LifeMiles domestic value",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Avianca LifeMiles",
+    "destination": "US Domestic",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "fixed",
+    "points_range": [
+      7500,
+      7500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-avianca-lifemiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United domestic short-haul; very low cost",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Avianca LifeMiles",
+    "destination": "Middle East",
+    "region": "Middle East",
+    "cabin": "Business",
+    "points_required": 63000,
+    "pricing_type": "fixed",
+    "points_range": [
+      63000,
+      63000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-avianca-lifemiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Lufthansa or Turkish to Middle East via Star Alliance",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "Canary Islands",
+    "region": "Europe",
+    "cabin": "Economy",
+    "points_required": 9000,
+    "pricing_type": "fixed",
+    "points_range": [
+      9000,
+      9000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Short-haul Iberia to Canary Islands; outstanding Avios value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "South Africa",
+    "region": "Africa",
+    "cabin": "Business",
+    "points_required": 85000,
+    "pricing_type": "fixed",
+    "points_range": [
+      85000,
+      85000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "British Airways to Johannesburg; solid business class value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 85000,
+    "pricing_type": "fixed",
+    "points_range": [
+      85000,
+      85000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "JAL or British Airways to Tokyo; competitive pricing",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 100000,
+    "pricing_type": "fixed",
+    "points_range": [
+      100000,
+      100000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Qantas via BA partner; long-haul value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 85000,
+    "pricing_type": "fixed",
+    "points_range": [
+      85000,
+      85000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "British Airways to Bangkok/Singapore; reasonable pricing",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "India",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 85000,
+    "pricing_type": "fixed",
+    "points_range": [
+      85000,
+      85000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "British Airways to Mumbai/Delhi; good value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "South America",
+    "region": "Latin America",
+    "cabin": "Business",
+    "points_required": 100000,
+    "pricing_type": "fixed",
+    "points_range": [
+      100000,
+      100000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "British Airways or Iberia to South America business",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Capital One Miles",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 55000,
+    "pricing_type": "fixed",
+    "points_range": [
+      55000,
+      55000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/capital-one/best-ways-to-use-capital-one-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via Turkish Miles&Smiles transfer; outstanding value to Japan",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Capital One Miles",
+    "destination": "Europe",
+    "region": "Europe",
+    "cabin": "Business",
+    "points_required": 45000,
+    "pricing_type": "fixed",
+    "points_range": [
+      45000,
+      45000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/capital-one/best-ways-to-use-capital-one-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via Turkish or Air France Flying Blue; competitive business pricing",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Capital One Miles",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": [
+      50000,
+      50000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/capital-one/best-ways-to-use-capital-one-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via Singapore KrisFlyer transfer; excellent value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Capital One Miles",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 70000,
+    "pricing_type": "fixed",
+    "points_range": [
+      70000,
+      70000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/capital-one/best-ways-to-use-capital-one-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via Singapore Airlines or Qantas partner transfer",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Capital One Miles",
+    "destination": "Hawaii",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 13000,
+    "pricing_type": "fixed",
+    "points_range": [
+      13000,
+      13000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/capital-one/best-ways-to-use-capital-one-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Transfer to Turkish or Air France for Hawaii routing",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Capital One Miles",
+    "destination": "Maldives",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 55000,
+    "pricing_type": "fixed",
+    "points_range": [
+      55000,
+      55000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/capital-one/best-ways-to-use-capital-one-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via Turkish Miles&Smiles or Singapore KrisFlyer",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Capital One Miles",
+    "destination": "Caribbean",
+    "region": "Caribbean",
+    "cabin": "Economy",
+    "points_required": 9000,
+    "pricing_type": "fixed",
+    "points_range": [
+      9000,
+      9000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/capital-one/best-ways-to-use-capital-one-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via Turkish or Air France short-haul Caribbean options",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Capital One Miles",
+    "destination": "Middle East",
+    "region": "Middle East",
+    "cabin": "Business",
+    "points_required": 45000,
+    "pricing_type": "fixed",
+    "points_range": [
+      45000,
+      45000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/capital-one/best-ways-to-use-capital-one-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Turkish Miles&Smiles to Middle East; excellent value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Capital One Miles",
+    "destination": "Mexico",
+    "region": "Latin America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "fixed",
+    "points_range": [
+      7500,
+      7500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/capital-one/best-ways-to-use-capital-one-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Transfer to Avianca LifeMiles for short-haul Mexico",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Chase Ultimate Rewards",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 88000,
+    "pricing_type": "fixed",
+    "points_range": [
+      88000,
+      88000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/chase/best-ways-to-use-chase-ultimate-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via ANA through United transfer; excellent sweet spot",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Chase Ultimate Rewards",
+    "destination": "Europe",
+    "region": "Europe",
+    "cabin": "Business",
+    "points_required": 57500,
+    "pricing_type": "fixed",
+    "points_range": [
+      57500,
+      57500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/chase/best-ways-to-use-chase-ultimate-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via British Airways Avios or United partner transfer",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Chase Ultimate Rewards",
+    "destination": "Maldives",
+    "region": "Asia",
+    "cabin": "Economy",
+    "points_required": 35000,
+    "pricing_type": "fixed",
+    "points_range": [
+      35000,
+      35000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/chase/best-ways-to-use-chase-ultimate-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United Economy to Maldives via Star Alliance",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Chase Ultimate Rewards",
+    "destination": "South America",
+    "region": "Latin America",
+    "cabin": "Economy",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      30000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/chase/best-ways-to-use-chase-ultimate-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United or Avianca LifeMiles transfer for South America economy",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Citi ThankYou Points",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 55000,
+    "pricing_type": "fixed",
+    "points_range": [
+      55000,
+      55000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/citi/best-ways-to-use-citi-thankyou-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via Turkish Miles&Smiles; ANA to Southeast Asia outstanding value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Citi ThankYou Points",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 77500,
+    "pricing_type": "fixed",
+    "points_range": [
+      77500,
+      77500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/citi/best-ways-to-use-citi-thankyou-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via Turkish for Qantas or United routing to Australia",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Citi ThankYou Points",
+    "destination": "Maldives",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 55000,
+    "pricing_type": "fixed",
+    "points_range": [
+      55000,
+      55000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/citi/best-ways-to-use-citi-thankyou-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Turkish transfer for ANA or SriLankan to Maldives",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Citi ThankYou Points",
+    "destination": "Hawaii",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 18000,
+    "pricing_type": "fixed",
+    "points_range": [
+      18000,
+      18000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/citi/best-ways-to-use-citi-thankyou-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via Turkish or Air France transfer for Hawaii",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Citi ThankYou Points",
+    "destination": "Caribbean",
+    "region": "Caribbean",
+    "cabin": "Economy",
+    "points_required": 10000,
+    "pricing_type": "fixed",
+    "points_range": [
+      10000,
+      10000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/citi/best-ways-to-use-citi-thankyou-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Air France Flying Blue for Caribbean islands; great value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Citi ThankYou Points",
+    "destination": "South America",
+    "region": "Latin America",
+    "cabin": "Business",
+    "points_required": 65000,
+    "pricing_type": "fixed",
+    "points_range": [
+      65000,
+      65000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/citi/best-ways-to-use-citi-thankyou-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via Avianca LifeMiles or Air France Flying Blue",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Citi ThankYou Points",
+    "destination": "Middle East",
+    "region": "Middle East",
+    "cabin": "Business",
+    "points_required": 55000,
+    "pricing_type": "fixed",
+    "points_range": [
+      55000,
+      55000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/citi/best-ways-to-use-citi-thankyou-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Turkish Miles&Smiles to Middle East via Star Alliance",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Citi ThankYou Points",
+    "destination": "India",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 65000,
+    "pricing_type": "fixed",
+    "points_range": [
+      65000,
+      65000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/credit-cards/citi/best-ways-to-use-citi-thankyou-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via Turkish to India; solid long-haul value",
+    "transferable_from": [],
+    "verified": true
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 95000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      85000,
+      120000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Delta or Korean Air to Japan; variable pricing but good sweet spots exist",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 95000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      85000,
+      130000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Delta or Virgin Australia to Australia; look for off-peak",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 80000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      70000,
+      110000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Korean Air or AeroMexico via Skyteam to Southeast Asia",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "US Domestic",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 5000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Domestic short-haul; check flash sales for 5k miles",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Mexico",
+    "region": "Latin America",
+    "cabin": "Economy",
+    "points_required": 15000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      10000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Short-haul Mexico; monitor for discounted rates",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Canada",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 8000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      6000,
+      15000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Short cross-border flights; good value at low end",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Flying Blue",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 60000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      50000,
+      80000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-france-klm-flying-blue-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Air France or KLM to Japan; excellent promo awards",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Flying Blue",
+    "destination": "West Africa",
+    "region": "Africa",
+    "cabin": "Economy",
+    "points_required": 25000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      20000,
+      35000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-france-klm-flying-blue-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Air France to West Africa; unique routing advantage",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Flying Blue",
+    "destination": "US Domestic",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 8000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      6000,
+      12000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-france-klm-flying-blue-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "KLM/AF domestic US partners; good short-haul value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Flying Blue",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 65000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      55000,
+      85000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-france-klm-flying-blue-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Air France to Southeast Asia; watch for promo awards",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Flying Blue",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 75000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      65000,
+      95000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-france-klm-flying-blue-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Air France or KLM to Australia via Amsterdam",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Flying Blue",
+    "destination": "South America",
+    "region": "Latin America",
+    "cabin": "Business",
+    "points_required": 60000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      50000,
+      75000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-france-klm-flying-blue-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Air France to South America; competitive pricing",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Flying Blue",
+    "destination": "Middle East",
+    "region": "Middle East",
+    "cabin": "Business",
+    "points_required": 50000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      40000,
+      65000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-france-klm-flying-blue-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "KLM/Air France to Middle East; watch promo awards",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "Hawaii",
+    "region": "North America",
+    "cabin": "Room",
+    "points_required": 40000,
+    "pricing_type": "fixed",
+    "points_range": [
+      40000,
+      60000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/best-ways-to-use-hilton-honors-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Hilton Waikoloa Village or other Hawaii properties; solid value",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 40000,
+    "pricing_type": "fixed",
+    "points_range": [
+      40000,
+      70000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/best-ways-to-use-hilton-honors-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Conrad Tokyo or Hilton Tokyo; great urban hotel value",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      30000,
+      50000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/best-ways-to-use-hilton-honors-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Conrad Bangkok or similar; excellent value",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "Bali",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 40000,
+    "pricing_type": "fixed",
+    "points_range": [
+      40000,
+      60000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/best-ways-to-use-hilton-honors-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Conrad Bali; one of best Hilton redemptions in Asia",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "Iceland",
+    "region": "Europe",
+    "cabin": "Room",
+    "points_required": 40000,
+    "pricing_type": "fixed",
+    "points_range": [
+      40000,
+      60000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/best-ways-to-use-hilton-honors-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Hilton Reykjavik; unique destination good value",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "New York",
+    "region": "North America",
+    "cabin": "Room",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": [
+      50000,
+      80000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/best-ways-to-use-hilton-honors-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Hilton Midtown or Conrad NYC; solid urban value",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "Las Vegas",
+    "region": "North America",
+    "cabin": "Room",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      25000,
+      50000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/best-ways-to-use-hilton-honors-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Hilton Las Vegas or Conrad; weekend getaway value",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Room",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": [
+      40000,
+      70000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/best-ways-to-use-hilton-honors-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Hilton Sydney or Melbourne; reasonable urban value",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "Paris",
+    "region": "Europe",
+    "cabin": "Room",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": [
+      50000,
+      80000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/best-ways-to-use-hilton-honors-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Hilton Paris Opera; good city center value",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "Dubai",
+    "region": "Middle East",
+    "cabin": "Room",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": [
+      40000,
+      70000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/best-ways-to-use-hilton-honors-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Conrad Dubai or Waldorf Astoria; premium destination value",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Hilton Honors",
+    "destination": "Cancun",
+    "region": "Latin America",
+    "cabin": "Room",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      30000,
+      50000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/hilton/best-ways-to-use-hilton-honors-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Hilton Cancun All-Inclusive; great beach resort value",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "IHG One Rewards",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      25000,
+      45000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/ihg/best-ways-to-use-ihg-one-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "InterContinental Tokyo Bay; outstanding urban hotel value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "IHG One Rewards",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 25000,
+    "pricing_type": "fixed",
+    "points_range": [
+      20000,
+      40000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/ihg/best-ways-to-use-ihg-one-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "InterContinental Bangkok or Bali; great resort value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "IHG One Rewards",
+    "destination": "Hawaii",
+    "region": "North America",
+    "cabin": "Room",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      25000,
+      45000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/ihg/best-ways-to-use-ihg-one-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "InterContinental Maui or Waikiki; solid Hawaii value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "IHG One Rewards",
+    "destination": "Europe",
+    "region": "Europe",
+    "cabin": "Room",
+    "points_required": 25000,
+    "pricing_type": "fixed",
+    "points_range": [
+      20000,
+      40000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/ihg/best-ways-to-use-ihg-one-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "InterContinental Paris or London; good urban value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "IHG One Rewards",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Room",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      25000,
+      45000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/ihg/best-ways-to-use-ihg-one-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "InterContinental Sydney; excellent harbor views value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "IHG One Rewards",
+    "destination": "Caribbean",
+    "region": "Caribbean",
+    "cabin": "Room",
+    "points_required": 20000,
+    "pricing_type": "fixed",
+    "points_range": [
+      15000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/ihg/best-ways-to-use-ihg-one-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "InterContinental Bora Bora or Caribbean resort",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "IHG One Rewards",
+    "destination": "Dubai",
+    "region": "Middle East",
+    "cabin": "Room",
+    "points_required": 35000,
+    "pricing_type": "fixed",
+    "points_range": [
+      30000,
+      50000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/ihg/best-ways-to-use-ihg-one-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "InterContinental Dubai; premium location value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "IHG One Rewards",
+    "destination": "New Zealand",
+    "region": "South Pacific",
+    "cabin": "Room",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      25000,
+      45000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/ihg/best-ways-to-use-ihg-one-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "InterContinental Wellington or Auckland",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "IHG One Rewards",
+    "destination": "South America",
+    "region": "Latin America",
+    "cabin": "Room",
+    "points_required": 25000,
+    "pricing_type": "fixed",
+    "points_range": [
+      20000,
+      35000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/ihg/best-ways-to-use-ihg-one-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "InterContinental Buenos Aires or Rio; great value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "IHG One Rewards",
+    "destination": "Africa",
+    "region": "Africa",
+    "cabin": "Room",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      25000,
+      45000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/ihg/best-ways-to-use-ihg-one-rewards-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "InterContinental Nairobi or Cape Town; unique destinations",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Bali",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 60000,
+    "pricing_type": "fixed",
+    "points_range": [
+      50000,
+      80000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "St. Regis Bali; one of top Marriott resort values",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 60000,
+    "pricing_type": "fixed",
+    "points_range": [
+      50000,
+      85000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "W Osaka or St. Regis Tokyo; premium urban value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Caribbean",
+    "region": "Caribbean",
+    "cabin": "Room",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": [
+      40000,
+      70000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "St. Regis Bahia Beach or similar; great beach resort",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": [
+      40000,
+      70000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "W Bangkok or JW Marriott; solid value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Africa",
+    "region": "Africa",
+    "cabin": "Room",
+    "points_required": 40000,
+    "pricing_type": "fixed",
+    "points_range": [
+      35000,
+      60000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "JW Marriott Masai Mara; bucket list destination",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "New York",
+    "region": "North America",
+    "cabin": "Room",
+    "points_required": 40000,
+    "pricing_type": "fixed",
+    "points_range": [
+      35000,
+      65000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "W New York or Sheraton; solid urban value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Paris",
+    "region": "Europe",
+    "cabin": "Room",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": [
+      40000,
+      75000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Le Méridien Etoile or Marriott Champs-Elysées",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Iceland",
+    "region": "Europe",
+    "cabin": "Room",
+    "points_required": 35000,
+    "pricing_type": "fixed",
+    "points_range": [
+      30000,
+      50000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Marriott Reykjavik; unique destination solid value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Dubai",
+    "region": "Middle East",
+    "cabin": "Room",
+    "points_required": 60000,
+    "pricing_type": "fixed",
+    "points_range": [
+      50000,
+      85000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "W Dubai or St. Regis Dubai; premium destination",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Cancun",
+    "region": "Latin America",
+    "cabin": "Room",
+    "points_required": 40000,
+    "pricing_type": "fixed",
+    "points_range": [
+      35000,
+      60000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "JW Marriott Cancun; excellent all-inclusive value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Room",
+    "points_required": 35000,
+    "pricing_type": "fixed",
+    "points_range": [
+      30000,
+      55000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "W Sydney or Melbourne Marriott; good urban value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "South America",
+    "region": "Latin America",
+    "cabin": "Room",
+    "points_required": 35000,
+    "pricing_type": "fixed",
+    "points_range": [
+      30000,
+      55000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "JW Marriott Buenos Aires or Lima; great value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "India",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      25000,
+      50000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "JW Marriott Mumbai or Delhi; outstanding value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "destination": "New Zealand",
+    "region": "South Pacific",
+    "cabin": "Room",
+    "points_required": 35000,
+    "pricing_type": "fixed",
+    "points_range": [
+      30000,
+      55000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/marriott/best-ways-to-use-marriott-bonvoy-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "W Auckland; solid Pacific island gateway",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Qantas Points",
+    "destination": "US to Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 108400,
+    "pricing_type": "fixed",
+    "points_range": [
+      108400,
+      108400
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-qantas-frequent-flyer-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Qantas own metal; premium long-haul value",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Qantas Points",
+    "destination": "Europe",
+    "region": "Europe",
+    "cabin": "Business",
+    "points_required": 110000,
+    "pricing_type": "fixed",
+    "points_range": [
+      110000,
+      110000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-qantas-frequent-flyer-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Qantas to London via Singapore; flagship route",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Qantas Points",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 54200,
+    "pricing_type": "fixed",
+    "points_range": [
+      54200,
+      54200
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-qantas-frequent-flyer-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Qantas to Bali/Bangkok; short-haul business",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Qantas Points",
+    "destination": "New Zealand",
+    "region": "South Pacific",
+    "cabin": "Economy",
+    "points_required": 18000,
+    "pricing_type": "fixed",
+    "points_range": [
+      18000,
+      18000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-qantas-frequent-flyer-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Trans-Tasman economy; consistent sweet spot",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Qantas Points",
+    "destination": "Hawaii",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 30000,
+    "pricing_type": "fixed",
+    "points_range": [
+      30000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-qantas-frequent-flyer-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Qantas to Hawaii from Australia; good value",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Singapore KrisFlyer",
+    "destination": "US to Singapore",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 92000,
+    "pricing_type": "fixed",
+    "points_range": [
+      92000,
+      92000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-singapore-airlines-krisflyer-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Singapore Airlines own metal; world-class business class",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Singapore KrisFlyer",
+    "destination": "Maldives",
+    "region": "Asia",
+    "cabin": "Economy",
+    "points_required": 17500,
+    "pricing_type": "fixed",
+    "points_range": [
+      17500,
+      17500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-singapore-airlines-krisflyer-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "SilkAir/Scoot short-haul; great value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Singapore KrisFlyer",
+    "destination": "Europe",
+    "region": "Europe",
+    "cabin": "Business",
+    "points_required": 92000,
+    "pricing_type": "fixed",
+    "points_range": [
+      92000,
+      92000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-singapore-airlines-krisflyer-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Singapore Airlines to London/Zurich; premium business",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Singapore KrisFlyer",
+    "destination": "India",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 42000,
+    "pricing_type": "fixed",
+    "points_range": [
+      42000,
+      42000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-singapore-airlines-krisflyer-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Singapore to India business; short-haul premium value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Singapore KrisFlyer",
+    "destination": "New Zealand",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 65000,
+    "pricing_type": "fixed",
+    "points_range": [
+      65000,
+      65000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-singapore-airlines-krisflyer-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Singapore to Auckland; solid trans-Tasman business",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Singapore KrisFlyer",
+    "destination": "Hawaii",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 35000,
+    "pricing_type": "fixed",
+    "points_range": [
+      35000,
+      35000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-singapore-airlines-krisflyer-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Singapore to Hawaii on partner; reasonable value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Singapore KrisFlyer",
+    "destination": "US to Tokyo",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 73000,
+    "pricing_type": "fixed",
+    "points_range": [
+      73000,
+      73000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-singapore-airlines-krisflyer-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Singapore Airlines to Tokyo; top-tier product",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Turkish Miles&Smiles",
+    "destination": "US to Maldives",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 44000,
+    "pricing_type": "fixed",
+    "points_range": [
+      44000,
+      44000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-turkish-airlines-miles-and-smiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Sri Lankan or other Star Alliance; best Maldives value",
+    "transferable_from": [
+      "Citi ThankYou Points",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Turkish Miles&Smiles",
+    "destination": "US to Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 45000,
+    "pricing_type": "fixed",
+    "points_range": [
+      45000,
+      45000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-turkish-airlines-miles-and-smiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "ANA or Thai business class; incredible value",
+    "transferable_from": [
+      "Citi ThankYou Points",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Turkish Miles&Smiles",
+    "destination": "US to Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 56000,
+    "pricing_type": "fixed",
+    "points_range": [
+      56000,
+      56000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-turkish-airlines-miles-and-smiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "ANA or United to Australia; outstanding sweet spot",
+    "transferable_from": [
+      "Citi ThankYou Points",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Turkish Miles&Smiles",
+    "destination": "Hawaii",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 10000,
+    "pricing_type": "fixed",
+    "points_range": [
+      10000,
+      10000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-turkish-airlines-miles-and-smiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United to Hawaii; one of lowest point costs available",
+    "transferable_from": [
+      "Citi ThankYou Points",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Turkish Miles&Smiles",
+    "destination": "South America",
+    "region": "Latin America",
+    "cabin": "Business",
+    "points_required": 42000,
+    "pricing_type": "fixed",
+    "points_range": [
+      42000,
+      42000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-turkish-airlines-miles-and-smiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Avianca or other Star Alliance; excellent value",
+    "transferable_from": [
+      "Citi ThankYou Points",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Turkish Miles&Smiles",
+    "destination": "Africa",
+    "region": "Africa",
+    "cabin": "Business",
+    "points_required": 44000,
+    "pricing_type": "fixed",
+    "points_range": [
+      44000,
+      44000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-turkish-airlines-miles-and-smiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Ethiopian or South African Airways via Star Alliance",
+    "transferable_from": [
+      "Citi ThankYou Points",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Turkish Miles&Smiles",
+    "destination": "US to India",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 47000,
+    "pricing_type": "fixed",
+    "points_range": [
+      47000,
+      47000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-turkish-airlines-miles-and-smiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "ANA or Air India Star Alliance; strong value",
+    "transferable_from": [
+      "Citi ThankYou Points",
+      "Capital One Miles"
+    ],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 88000,
+    "pricing_type": "fixed",
+    "points_range": [
+      88000,
+      88000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "ANA partner; fantastic business class sweet spot",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "South America",
+    "region": "Latin America",
+    "cabin": "Business",
+    "points_required": 63000,
+    "pricing_type": "fixed",
+    "points_range": [
+      63000,
+      63000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Avianca or LATAM via Star Alliance; solid value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Business",
+    "points_required": 90000,
+    "pricing_type": "fixed",
+    "points_range": [
+      90000,
+      90000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "ANA or Air New Zealand partner; great value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Maldives",
+    "region": "Asia",
+    "cabin": "Economy",
+    "points_required": 35000,
+    "pricing_type": "fixed",
+    "points_range": [
+      35000,
+      35000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Via SriLankan or ANA; economy sweet spot",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 80000,
+    "pricing_type": "fixed",
+    "points_range": [
+      80000,
+      80000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "ANA or Thai business via Star Alliance",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "US Domestic",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 5000,
+    "pricing_type": "fixed",
+    "points_range": [
+      5000,
+      5000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Saver domestic short-haul; floor pricing",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Mexico",
+    "region": "Latin America",
+    "cabin": "Economy",
+    "points_required": 12500,
+    "pricing_type": "fixed",
+    "points_range": [
+      12500,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Short-haul Mexico on United; consistent value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Virgin Atlantic Flying Club",
+    "destination": "US to London",
+    "region": "Europe",
+    "cabin": "Economy",
+    "points_required": 22500,
+    "pricing_type": "fixed",
+    "points_range": [
+      22500,
+      22500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-virgin-atlantic-flying-club-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Virgin Atlantic own metal; competitive economy value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Virgin Atlantic Flying Club",
+    "destination": "US to London",
+    "region": "Europe",
+    "cabin": "Upper Class",
+    "points_required": 50000,
+    "pricing_type": "fixed",
+    "points_range": [
+      50000,
+      50000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-virgin-atlantic-flying-club-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Virgin Upper Class; one of best value premium transatlantic",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Virgin Atlantic Flying Club",
+    "destination": "Caribbean",
+    "region": "Caribbean",
+    "cabin": "Economy",
+    "points_required": 15000,
+    "pricing_type": "fixed",
+    "points_range": [
+      15000,
+      15000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-virgin-atlantic-flying-club-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Virgin to Barbados/Caribbean islands; solid value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Virgin Atlantic Flying Club",
+    "destination": "Hong Kong",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 60000,
+    "pricing_type": "fixed",
+    "points_range": [
+      60000,
+      60000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-virgin-atlantic-flying-club-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Virgin Atlantic to Hong Kong; great business value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Virgin Atlantic Flying Club",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Economy",
+    "points_required": 67500,
+    "pricing_type": "fixed",
+    "points_range": [
+      67500,
+      67500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-virgin-atlantic-flying-club-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Delta partner to Australia economy; long-haul value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Virgin Atlantic Flying Club",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 60000,
+    "pricing_type": "fixed",
+    "points_range": [
+      60000,
+      60000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-virgin-atlantic-flying-club-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Delta or partner to Southeast Asia; solid value",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "Japan",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 25000,
+    "pricing_type": "fixed",
+    "points_range": [
+      20000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/world-of-hyatt/best-ways-to-use-world-of-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Park Hyatt Tokyo or Andaz Tokyo; incredible urban value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "Iceland",
+    "region": "Europe",
+    "cabin": "Room",
+    "points_required": 12000,
+    "pricing_type": "fixed",
+    "points_range": [
+      8000,
+      15000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/world-of-hyatt/best-ways-to-use-world-of-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Alftanes or Reykjavik Hyatt; unique destination great value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "Europe",
+    "region": "Europe",
+    "cabin": "Room",
+    "points_required": 20000,
+    "pricing_type": "fixed",
+    "points_range": [
+      15000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/world-of-hyatt/best-ways-to-use-world-of-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Park Hyatt Paris Vendôme or Zurich; premium urban hotels",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "Southeast Asia",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 20000,
+    "pricing_type": "fixed",
+    "points_range": [
+      15000,
+      25000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/world-of-hyatt/best-ways-to-use-world-of-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Park Hyatt Bangkok or Andaz Singapore; excellent value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "Nepal",
+    "region": "Asia",
+    "cabin": "Room",
+    "points_required": 3500,
+    "pricing_type": "fixed",
+    "points_range": [
+      3500,
+      3500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/world-of-hyatt/best-ways-to-use-world-of-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Hyatt Regency Kathmandu; one of cheapest award rooms in network",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "New York",
+    "region": "North America",
+    "cabin": "Room",
+    "points_required": 20000,
+    "pricing_type": "fixed",
+    "points_range": [
+      15000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/world-of-hyatt/best-ways-to-use-world-of-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Andaz 5th Avenue or Park Hyatt NYC; solid value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "Australia",
+    "region": "South Pacific",
+    "cabin": "Room",
+    "points_required": 20000,
+    "pricing_type": "fixed",
+    "points_range": [
+      18000,
+      25000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/world-of-hyatt/best-ways-to-use-world-of-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Park Hyatt Sydney; iconic harbor-view hotel",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "World of Hyatt",
+    "destination": "Dubai",
+    "region": "Middle East",
+    "cabin": "Room",
+    "points_required": 20000,
+    "pricing_type": "fixed",
+    "points_range": [
+      18000,
+      28000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/hotels/world-of-hyatt/best-ways-to-use-world-of-hyatt-points/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Park Hyatt Dubai or Andaz Dubai; premium destination value",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
   }
 ]

@@ -16,6 +16,10 @@ export interface RedemptionEntry {
   source_geo: 'US' | 'CA' | 'AU' | 'UK'
   published_date: string
   notes: string
+  // which flexible bank currencies transfer into this program (e.g. Chase UR → World of Hyatt)
+  transferable_from: string[]
+  // true = hand-verified sweet spot; false = auto-extracted, use with caution
+  verified: boolean
 }
 
 export interface RedeemableResult {
@@ -34,9 +38,14 @@ export interface DreamResult {
   gap: number | null  // points needed beyond current balance; null if reachable (no shortfall) or no match found
 }
 
+export type Cabin = 'Economy' | 'Premium Economy' | 'Business' | 'First'
+
 export interface RecommendRequest {
   balances: Balance[]
   destinations: string[]
+  inspire?: boolean
+  cabins?: Cabin[]
+  origin?: string
 }
 
 export interface RecommendResponse {

@@ -1,4 +1,4 @@
-import type { Balance, RedemptionEntry } from '@/types'
+import type { Balance, Cabin, RedemptionEntry } from '@/types'
 
 // JSON shape must match RedeemableResult, DreamResult, and RecommendResponse in @/types/index.ts
 // If those types change, update this prompt accordingly.
@@ -30,13 +30,14 @@ Your job is to analyze this and return a JSON object with exactly this shape:
       "gap": <points_required minus user_balance; null if reachable OR if no matching entry was found>
     }
   ],
-  "explanation": "<2-3 sentence plain-English summary of the key findings>"
+  "explanation": "<2-3 sentence plain-English summary. If dream destinations were specified, address those first, then summarize what else is reachable.>"
 }
 
 Rules:
 - Only include entries in "reachable" where the user's balance >= points_required for a matching program
 - For dynamic pricing entries, use the lower bound of points_range for reachability check
-- Match programs case-insensitively and handle common aliases (e.g. "Chase UR" matches "Chase Ultimate Rewards")
+- The dataset has already been pre-filtered to entries relevant to the user's programs — match program names case-insensitively
+- Interpret IATA airport and city codes as destinations before searching (e.g. PPT → French Polynesia/Tahiti, NRT/TYO → Japan, LHR/LON → UK/Europe, MLE → Maldives, SYD → Australia)
 - For dream destinations, search the dataset by destination name and region — partial matches are fine
 - Rank "reachable" entries by value: fixed pricing first, then by surplus (ascending — closest to exact value)
 - Return ONLY the JSON object. No markdown, no explanation outside the JSON.`
@@ -45,7 +46,10 @@ Rules:
 export function buildUserPrompt(
   balances: Balance[],
   destinations: string[],
-  entries: RedemptionEntry[]
+  entries: RedemptionEntry[],
+  inspire = false,
+  cabins?: Cabin[],
+  origin?: string
 ): string {
   const balanceLines = balances
     .map((b) => `  - ${b.program}: ${b.amount} points`)
@@ -56,12 +60,24 @@ export function buildUserPrompt(
       ? destinations.map((d) => `  - ${d}`).join('\n')
       : '  (none specified)'
 
+  const originInstruction = origin
+    ? `\nORIGIN AIRPORT: The user is flying from ${origin}. Factor this into your analysis — note if a recommended route isn't well-served from ${origin}, requires a connection, or if certain partners have limited access from that airport. Mention it in the explanation if relevant.`
+    : ''
+
+  const cabinInstruction = cabins && cabins.length > 0
+    ? `\nCABIN FILTER: The user only wants flight redemptions in these cabin classes: ${cabins.join(', ')}. Exclude flight entries where the cabin does not match any of these. Hotel entries are unaffected by this filter.`
+    : ''
+
+  const inspireInstruction = inspire
+    ? `\nINSPIRE MODE: The user wants a single best recommendation. Return exactly ONE entry in "reachable" — the most aspirational, best-value redemption their points can cover. Leave "dream_destinations" empty. Make the "explanation" field vivid and inspiring, like you're selling them on the trip.`
+    : ''
+
   return `USER BALANCES:
 ${balanceLines}
 
 DREAM DESTINATIONS:
 ${destinationLines}
-
+${originInstruction}${cabinInstruction}${inspireInstruction}
 REDEMPTION DATASET:
 ${JSON.stringify(entries, null, 2)}
 
