@@ -30,7 +30,7 @@ Your job is to analyze this and return a JSON object with exactly this shape:
       "gap": <points_required minus user_balance; null if reachable OR if no matching entry was found>
     }
   ],
-  "explanation": "<2-3 sentence plain-English summary. If dream destinations were specified, address those first, then summarize what else is reachable.>"
+  "explanation": "<2 sentences max. If dream destinations were specified, address those first. Be specific and concise — no padding.>"
 }
 
 Rules:
