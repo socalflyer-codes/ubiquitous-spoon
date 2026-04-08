@@ -101,7 +101,7 @@ export default function HomePage() {
             <span className="text-gray-400 font-normal normal-case ml-2">(optional)</span>
           </label>
           <div className="flex flex-wrap gap-2">
-            {(['Economy', 'Premium Economy', 'Business', 'First'] as Cabin[]).map((c) => (
+            {(['Economy', 'First'] as Cabin[]).map((c) => (
               <button
                 key={c}
                 type="button"
