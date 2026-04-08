@@ -30,17 +30,21 @@ interface Props {
 
 export default function OriginInput({ value, onChange }: Props) {
   return (
-    <select
-      value={value}
-      onChange={(e) => onChange(e.target.value)}
-      className="w-64 border border-gray-300 rounded-lg px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white text-gray-700"
-    >
-      <option value="">Select your city...</option>
+    <div className="flex flex-wrap gap-2">
       {CITIES.map((c) => (
-        <option key={c.city} value={c.city}>
+        <button
+          key={c.city}
+          type="button"
+          onClick={() => onChange(value === c.city ? '' : c.city)}
+          className={`px-3 py-1.5 rounded-lg text-sm font-medium border transition-colors ${
+            value === c.city
+              ? 'bg-blue-600 text-white border-blue-600'
+              : 'bg-white text-gray-600 border-gray-300 hover:border-blue-400'
+          }`}
+        >
           {c.city} ({c.airports.join('/')})
-        </option>
+        </button>
       ))}
-    </select>
+    </div>
   )
 }
