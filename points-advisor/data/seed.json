@@ -28,17 +28,17 @@
     "destination": "US Domestic",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 10000,
+    "points_required": 12500,
     "pricing_type": "dynamic",
     "points_range": [
-      7500,
+      10000,
       15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "Saver economy one-way domestic. Short-haul starts ~7,500–10,000; transcontinental 12,500–15,000. Saver availability limited — book early on united.com.",
+    "notes": "Saver economy one-way domestic between major US hubs. Mid-range routes typically 10,000–12,500; transcontinental 12,500–15,000. Saver availability limited — book early on united.com.",
     "transferable_from": [
       "Chase Ultimate Rewards"
     ],
@@ -49,17 +49,17 @@
     "destination": "Chicago",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 10000,
+    "points_required": 12500,
     "pricing_type": "dynamic",
     "points_range": [
-      7500,
+      10000,
       15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "notes": "United saver economy one-way to ORD. Well-served nonstop from all major US hubs. Check Saver availability on united.com.",
     "transferable_from": [
       "Chase Ultimate Rewards"
     ],
@@ -70,17 +70,17 @@
     "destination": "Los Angeles",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 10000,
+    "points_required": 12500,
     "pricing_type": "dynamic",
     "points_range": [
-      7500,
+      10000,
       15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "notes": "United saver economy one-way to LAX. Transcontinental routes (ORD, EWR, IAD→LAX) at higher end of range.",
     "transferable_from": [
       "Chase Ultimate Rewards"
     ],
@@ -91,17 +91,17 @@
     "destination": "Miami",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 10000,
+    "points_required": 12500,
     "pricing_type": "dynamic",
     "points_range": [
-      7500,
+      10000,
       15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "notes": "United saver economy one-way to MIA. Well-served nonstop from most major US hubs.",
     "transferable_from": [
       "Chase Ultimate Rewards"
     ],
@@ -112,17 +112,17 @@
     "destination": "Philadelphia",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 10000,
+    "points_required": 12500,
     "pricing_type": "dynamic",
     "points_range": [
-      7500,
+      10000,
       15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "notes": "United saver economy one-way to PHL. Mid-range domestic routes at lower end; longer routes at higher end.",
     "transferable_from": [
       "Chase Ultimate Rewards"
     ],
@@ -133,17 +133,17 @@
     "destination": "San Diego",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 10000,
+    "points_required": 12500,
     "pricing_type": "dynamic",
     "points_range": [
-      7500,
+      10000,
       15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "notes": "United saver economy one-way to SAN. Transcontinental routes at higher end of range.",
     "transferable_from": [
       "Chase Ultimate Rewards"
     ],
@@ -154,17 +154,17 @@
     "destination": "Seattle",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 10000,
+    "points_required": 12500,
     "pricing_type": "dynamic",
     "points_range": [
-      7500,
+      10000,
       15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "notes": "United saver economy one-way to SEA. Transcontinental routes (ORD, EWR, IAD→SEA) at higher end of range.",
     "transferable_from": [
       "Chase Ultimate Rewards"
     ],
@@ -175,17 +175,17 @@
     "destination": "Washington DC",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 10000,
+    "points_required": 12500,
     "pricing_type": "dynamic",
     "points_range": [
-      7500,
+      10000,
       15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "notes": "United saver economy one-way to IAD. Well-served nonstop from most major US hubs.",
     "transferable_from": [
       "Chase Ultimate Rewards"
     ],
@@ -196,17 +196,17 @@
     "destination": "Las Vegas",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 10000,
+    "points_required": 11000,
     "pricing_type": "dynamic",
     "points_range": [
-      7500,
+      10000,
       12500
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "United saver economy one-way. Well-served nonstop from most major US hubs. Short routes (e.g. LAX→LAS) at lower end of range.",
+    "notes": "United saver economy one-way to LAS. Well-served nonstop from all major US hubs. Lower range than transcontinental routes.",
     "transferable_from": [
       "Chase Ultimate Rewards"
     ],
@@ -241,17 +241,17 @@
     "destination": "New York",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 10000,
+    "points_required": 12500,
     "pricing_type": "dynamic",
     "points_range": [
-      7500,
+      10000,
       15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "United saver economy to EWR or JFK. Well-served nonstop from all major US hubs. Transcontinental routes (LAX/SFO/SEA→EWR) at higher end of range.",
+    "notes": "United saver economy to EWR or JFK. Well-served nonstop from all major US hubs. Transcontinental routes (LAX, SEA, DEN→EWR) at higher end of range.",
     "transferable_from": [
       "Chase Ultimate Rewards"
     ],

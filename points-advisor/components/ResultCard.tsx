@@ -37,16 +37,28 @@ const ORIGIN_CODES: Record<string, string> = {
   'Washington DC': 'IAD',
 }
 
+// Returns a date 30 days from now in MM/DD/YYYY format, URL-encoded (e.g. "04%2F07%2F2026")
+function defaultDepartureDate(): string {
+  const d = new Date()
+  d.setDate(d.getDate() + 30)
+  const mm = String(d.getMonth() + 1).padStart(2, '0')
+  const dd = String(d.getDate()).padStart(2, '0')
+  const yyyy = d.getFullYear()
+  return encodeURIComponent(`${mm}/${dd}/${yyyy}`)
+}
+
 function buildBookingUrl(matchedProgram: string, origin: string, destination: string): string | null {
   const from = ORIGIN_CODES[origin] ?? origin
   const to = DESTINATION_CODES[destination]
   if (!to) return null
 
+  const date = defaultDepartureDate()
+
   if (matchedProgram.includes('United MileagePlus')) {
-    return `https://www.united.com/en/us/fsr/choose-flights?f=${from}&t=${to}&tt=1&at=1&sc=7&px=1&taxng=1&fareFamily=mixed`
+    return `https://www.united.com/en/us/fsr/choose-flights?f=${from}&t=${to}&d1=${date}&tt=1&at=1&sc=7&px=1&taxng=1&fareFamily=mixed`
   }
   if (matchedProgram.includes('British Airways Avios')) {
-    return `https://www.aa.com/booking/search?locale=en_US&pax=1&adult=1&type=OneWay&searchType=Award&cabin=&carriers=ALL&maxStops=0&origin=${from}&destination=${to}`
+    return `https://www.aa.com/booking/search?locale=en_US&pax=1&adult=1&type=OneWay&searchType=Award&cabin=&carriers=ALL&maxStops=0&origin=${from}&destination=${to}&departureDate=${date}`
   }
   return null
 }
