@@ -32,13 +32,20 @@ function getAirlineName(matchedProgram: string): string {
 export default function ResultCard({ entry, matchedProgram, userBalance, gap, hasProgram = true }: Props) {
   const [showDetails, setShowDetails] = useState(false)
 
-  const startingPoints = entry.pricing_type === 'dynamic' && entry.points_range
-    ? entry.points_range[0]
-    : entry.points_required
+  const pointsDisplay = entry.pricing_type === 'dynamic' && entry.points_range
+    ? `${entry.points_range[0].toLocaleString()}–${entry.points_range[1].toLocaleString()} points one-way`
+    : `${entry.points_required.toLocaleString()} points one-way`
 
   const bookingUrl = getBookingUrl(matchedProgram)
   const airlineName = getAirlineName(matchedProgram)
   const canBook = hasProgram && gap == null
+
+  // Plain-English transfer instruction e.g. "Transfer Chase points → United, then book"
+  const transferInstruction = matchedProgram.includes('United MileagePlus')
+    ? 'Transfer your Chase points to United MileagePlus, then book on united.com'
+    : matchedProgram.includes('British Airways Avios')
+    ? 'Transfer your Chase points to British Airways Avios, then book on aa.com'
+    : null
 
   return (
     <div className="border border-gray-200 rounded-xl p-5 bg-white shadow-sm space-y-4">
@@ -48,7 +55,7 @@ export default function ResultCard({ entry, matchedProgram, userBalance, gap, ha
           <h3 className="font-bold text-gray-900 text-xl">{entry.destination}</h3>
           <p className="text-sm text-gray-500 mt-0.5">
             {canBook
-              ? `Starting from ${startingPoints.toLocaleString()} points one-way`
+              ? pointsDisplay
               : !hasProgram
               ? `You'd need to earn ${entry.program} points`
               : `You need ${gap?.toLocaleString()} more points`}
@@ -66,39 +73,47 @@ export default function ResultCard({ entry, matchedProgram, userBalance, gap, ha
         )}
       </div>
 
-      {/* Cabin */}
+      {/* Cabin + airline */}
       {entry.cabin && (
         <p className="text-sm text-gray-600">
           {entry.cabin} class · {airlineName}
         </p>
       )}
 
-      {/* CTA */}
-      {canBook && bookingUrl && (
-        <a
-          href={bookingUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-block bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors"
-        >
-          Search availability →
-        </a>
+      {/* How to book — transfer instruction */}
+      {canBook && transferInstruction && (
+        <p className="text-sm text-gray-500 bg-gray-50 rounded-lg px-3 py-2">
+          {transferInstruction}
+        </p>
       )}
 
-      {/* Details toggle */}
-      <button
-        type="button"
-        onClick={() => setShowDetails(!showDetails)}
-        className="text-xs text-gray-400 hover:text-gray-600"
-      >
-        {showDetails ? 'Hide details' : 'Show details'}
-      </button>
+      {/* CTA */}
+      {canBook && bookingUrl && (
+        <div>
+          <a
+            href={bookingUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors"
+          >
+            Search availability →
+          </a>
+        </div>
+      )}
+
+      {/* Details toggle — always on its own line */}
+      <div>
+        <button
+          type="button"
+          onClick={() => setShowDetails(!showDetails)}
+          className="text-xs text-gray-400 hover:text-gray-600"
+        >
+          {showDetails ? 'Hide details' : 'Show details'}
+        </button>
+      </div>
 
       {showDetails && (
         <div className="text-xs text-gray-400 space-y-1 border-t border-gray-100 pt-3">
-          {entry.pricing_type === 'dynamic' && entry.points_range && (
-            <p>Points range: {entry.points_range[0].toLocaleString()}–{entry.points_range[1].toLocaleString()} depending on dates</p>
-          )}
           {entry.notes && <p>{entry.notes}</p>}
           <p>Source: {entry.source_site} · {entry.published_date}</p>
         </div>
