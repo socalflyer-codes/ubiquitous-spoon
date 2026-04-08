@@ -124,6 +124,20 @@ export default function ResultsPage() {
           <p className="text-sm mt-2">Try adding more programs or increasing your balances.</p>
         </div>
       )}
+
+      <div className="border-t border-gray-100 pt-8 text-sm text-gray-500 leading-relaxed">
+        <p>
+          Don't see what you're looking for? Chase, Amex, Capital One, and Citi all transfer
+          points to multiple airlines and hotels — if you hold any of those cards, try adding
+          them to see more options.
+        </p>
+        <button
+          onClick={() => router.push('/')}
+          className="mt-3 text-blue-600 hover:underline text-sm"
+        >
+          ← Start over with different programs
+        </button>
+      </div>
     </main>
   )
 }
