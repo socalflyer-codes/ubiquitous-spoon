@@ -5,11 +5,11 @@ import { useRouter } from 'next/navigation'
 import BalanceInput from '@/components/BalanceInput'
 import DestinationInput from '@/components/DestinationInput'
 import OriginInput, { formatOriginForPrompt } from '@/components/OriginInput'
-import type { Balance, Cabin } from '@/types'
+import type { Cabin } from '@/types'
 
 export default function HomePage() {
   const router = useRouter()
-  const [balances, setBalances] = useState<Balance[]>([{ program: '', amount: 0 }])
+  const [balance, setBalance] = useState(0)
   const [destinations, setDestinations] = useState<string[]>([])
   const [cabins, setCabins] = useState<Cabin[]>([])
   const [origin, setOrigin] = useState('')
@@ -19,14 +19,13 @@ export default function HomePage() {
   async function submit(inspire: boolean) {
     setError(null)
 
-    const validBalances = balances.filter((b) => b.program.trim() && b.amount > 0)
-    if (validBalances.length === 0) {
-      setError('Please enter at least one loyalty program with a point balance.')
+    if (!balance || balance <= 0) {
+      setError('Please enter your Chase Ultimate Rewards balance.')
       return
     }
 
-    if (!origin.trim()) {
-      setError('Please enter your departure city so we can check nonstop routes.')
+    if (!origin) {
+      setError('Please select your departure city.')
       return
     }
 
@@ -35,7 +34,13 @@ export default function HomePage() {
       const res = await fetch('/api/recommend', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ balances: validBalances, destinations: inspire ? [] : destinations, inspire, cabins: cabins.length > 0 ? cabins : undefined, origin: origin.trim() ? formatOriginForPrompt(origin.trim()) : undefined }),
+        body: JSON.stringify({
+          balances: [{ program: 'Chase Ultimate Rewards', amount: balance }],
+          destinations: inspire ? [] : destinations,
+          inspire,
+          cabins: cabins.length > 0 ? cabins : undefined,
+          origin: formatOriginForPrompt(origin),
+        }),
       })
 
       if (!res.ok) throw new Error('Request failed')
@@ -51,26 +56,28 @@ export default function HomePage() {
     }
   }
 
-  async function handleSubmit(e: React.FormEvent) {
-    e.preventDefault()
-    await submit(false)
-  }
-
   return (
     <main className="max-w-2xl mx-auto px-6 py-16">
       <div className="space-y-2 mb-10">
         <h1 className="text-4xl font-bold text-gray-900">Points Advisor</h1>
         <p className="text-gray-500 text-lg">
-          Enter your loyalty point balances and find out where you can go.
+          Find out where your Chase points can take you.
         </p>
       </div>
 
-      <form onSubmit={handleSubmit} className="space-y-8">
+      <form onSubmit={(e) => { e.preventDefault(); submit(false) }} className="space-y-8">
         <div className="space-y-3">
           <label className="block text-sm font-semibold text-gray-700 uppercase tracking-wide">
-            Your Point Balances
+            Your Balance
           </label>
-          <BalanceInput balances={balances} onChange={setBalances} />
+          <BalanceInput balance={balance} onChange={setBalance} />
+        </div>
+
+        <div className="space-y-3">
+          <label className="block text-sm font-semibold text-gray-700 uppercase tracking-wide">
+            Departure City
+          </label>
+          <OriginInput value={origin} onChange={setOrigin} />
         </div>
 
         <div className="space-y-3">
@@ -79,13 +86,6 @@ export default function HomePage() {
             <span className="text-gray-400 font-normal normal-case ml-2">(optional)</span>
           </label>
           <DestinationInput value={destinations} onChange={setDestinations} />
-        </div>
-
-        <div className="space-y-3">
-          <label className="block text-sm font-semibold text-gray-700 uppercase tracking-wide">
-            Departure City
-          </label>
-          <OriginInput value={origin} onChange={setOrigin} />
         </div>
 
         <div className="space-y-3">

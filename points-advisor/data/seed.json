@@ -24,71 +24,6 @@
     "verified": true
   },
   {
-    "program": "American AAdvantage",
-    "destination": "US Domestic",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 15000,
-    "pricing_type": "dynamic",
-    "points_range": [
-      8000,
-      30000
-    ],
-    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Fully dynamic since 2023. Short-haul economy typically 8–15k; transcontinental economy up to 25–30k. No fixed chart — check aa.com for live pricing.",
-    "transferable_from": [
-      "Citi ThankYou Points"
-    ],
-    "verified": false
-  },
-  {
-    "program": "Avianca LifeMiles",
-    "destination": "US Domestic",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 7500,
-    "pricing_type": "fixed",
-    "points_range": [
-      7500,
-      7500
-    ],
-    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-avianca-lifemiles/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "United domestic short-haul; very low cost",
-    "transferable_from": [
-      "Amex Membership Rewards",
-      "Capital One Miles",
-      "Citi ThankYou Points"
-    ],
-    "verified": true
-  },
-  {
-    "program": "Delta SkyMiles",
-    "destination": "US Domestic",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 5000,
-    "pricing_type": "dynamic",
-    "points_range": [
-      5000,
-      30000
-    ],
-    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Domestic short-haul; check flash sales for 5k miles",
-    "transferable_from": [
-      "Amex Membership Rewards"
-    ],
-    "verified": true
-  },
-  {
     "program": "United MileagePlus",
     "destination": "US Domestic",
     "region": "North America",
@@ -257,111 +192,6 @@
     "verified": false
   },
   {
-    "program": "Delta SkyMiles",
-    "destination": "Chicago",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 10000,
-    "pricing_type": "dynamic",
-    "points_range": [
-      5000,
-      30000
-    ],
-    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Fully dynamic pricing. Flash sales can dip to 5k miles; peak routes up to 30k+. Check delta.com for live rates.",
-    "transferable_from": [
-      "Amex Membership Rewards"
-    ],
-    "verified": false
-  },
-  {
-    "program": "Delta SkyMiles",
-    "destination": "Los Angeles",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 10000,
-    "pricing_type": "dynamic",
-    "points_range": [
-      5000,
-      30000
-    ],
-    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Fully dynamic pricing. Flash sales can dip to 5k miles; peak routes up to 30k+. Check delta.com for live rates.",
-    "transferable_from": [
-      "Amex Membership Rewards"
-    ],
-    "verified": false
-  },
-  {
-    "program": "Delta SkyMiles",
-    "destination": "Miami",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 10000,
-    "pricing_type": "dynamic",
-    "points_range": [
-      5000,
-      30000
-    ],
-    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Fully dynamic pricing. Flash sales can dip to 5k miles; peak routes up to 30k+. Check delta.com for live rates.",
-    "transferable_from": [
-      "Amex Membership Rewards"
-    ],
-    "verified": false
-  },
-  {
-    "program": "Delta SkyMiles",
-    "destination": "Seattle",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 10000,
-    "pricing_type": "dynamic",
-    "points_range": [
-      5000,
-      30000
-    ],
-    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Fully dynamic pricing. Flash sales can dip to 5k miles; peak routes up to 30k+. Check delta.com for live rates.",
-    "transferable_from": [
-      "Amex Membership Rewards"
-    ],
-    "verified": false
-  },
-  {
-    "program": "Delta SkyMiles",
-    "destination": "Washington DC",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 10000,
-    "pricing_type": "dynamic",
-    "points_range": [
-      5000,
-      30000
-    ],
-    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Fully dynamic pricing. Flash sales can dip to 5k miles; peak routes up to 30k+. Check delta.com for live rates.",
-    "transferable_from": [
-      "Amex Membership Rewards"
-    ],
-    "verified": false
-  },
-  {
     "program": "United MileagePlus",
     "destination": "Las Vegas",
     "region": "North America",
@@ -379,27 +209,6 @@
     "notes": "United saver economy one-way. Well-served nonstop from most major US hubs. Short routes (e.g. LAX→LAS) at lower end of range.",
     "transferable_from": [
       "Chase Ultimate Rewards"
-    ],
-    "verified": false
-  },
-  {
-    "program": "Delta SkyMiles",
-    "destination": "Las Vegas",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 10000,
-    "pricing_type": "dynamic",
-    "points_range": [
-      5000,
-      20000
-    ],
-    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Dynamic pricing. Flash sales from ATL and other hubs can be very cheap. Check delta.com for live rates.",
-    "transferable_from": [
-      "Amex Membership Rewards"
     ],
     "verified": false
   },
@@ -445,27 +254,6 @@
     "notes": "United saver economy to EWR or JFK. Well-served nonstop from all major US hubs. Transcontinental routes (LAX/SFO/SEA→EWR) at higher end of range.",
     "transferable_from": [
       "Chase Ultimate Rewards"
-    ],
-    "verified": false
-  },
-  {
-    "program": "Delta SkyMiles",
-    "destination": "New York",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 10000,
-    "pricing_type": "dynamic",
-    "points_range": [
-      5000,
-      25000
-    ],
-    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Dynamic pricing to JFK or LGA. ATL→JFK is a Delta hub route with frequent flash sales. Transcontinental routes cost more.",
-    "transferable_from": [
-      "Amex Membership Rewards"
     ],
     "verified": false
   },
