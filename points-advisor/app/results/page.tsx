@@ -23,7 +23,13 @@ export default function ResultsPage() {
 
   if (!results) return null
 
-  const hasReachable = results.reachable.length > 0
+  // Don't show "US Domestic" as a destination — it's an internal dataset label
+  const dreamDestinationNames = new Set(results.dream_destinations.map((d) => d.destination))
+  const reachableFiltered = results.reachable.filter(
+    (r) => r.entry.destination !== 'US Domestic' && !dreamDestinationNames.has(r.entry.destination)
+  )
+
+  const hasReachable = reachableFiltered.length > 0
   const hasDreams = results.dream_destinations.length > 0
 
   // Inspire mode: single featured pick
@@ -106,7 +112,7 @@ export default function ResultsPage() {
       {hasReachable && (
         <ResultsSection heading="You Can Go Here Now">
           <div className="space-y-4">
-            {results.reachable.map((r, i) => (
+            {reachableFiltered.map((r, i) => (
               <ResultCard
                 key={i}
                 entry={r.entry}
@@ -127,15 +133,13 @@ export default function ResultsPage() {
 
       <div className="border-t border-gray-100 pt-8 text-sm text-gray-500 leading-relaxed">
         <p>
-          Don't see what you're looking for? Chase, Amex, Capital One, and Citi all transfer
-          points to multiple airlines and hotels — if you hold any of those cards, try adding
-          them to see more options.
+          Don't see what you're looking for? Try a different departure city or adjust your balance — Chase Ultimate Rewards transfer 1:1 to United MileagePlus and British Airways Avios.
         </p>
         <button
           onClick={() => router.push('/')}
           className="mt-3 text-blue-600 hover:underline text-sm"
         >
-          ← Start over with different programs
+          ← Start over
         </button>
       </div>
     </main>
