@@ -1403,21 +1403,21 @@
     "destination": "US Domestic",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 7500,
-    "pricing_type": "fixed",
+    "points_required": 15000,
+    "pricing_type": "dynamic",
     "points_range": [
-      7500,
-      7500
+      6000,
+      50000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "Short-haul domestic American; 7,500 miles off-peak",
+    "notes": "Fully dynamic since 2023. Short-haul can start around 6k miles but varies widely — check aa.com for live pricing.",
     "transferable_from": [
       "Citi ThankYou Points"
     ],
-    "verified": true
+    "verified": false
   },
   {
     "program": "American AAdvantage",
