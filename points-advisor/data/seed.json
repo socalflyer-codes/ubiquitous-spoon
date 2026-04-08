@@ -4343,5 +4343,601 @@
       "Chase Ultimate Rewards"
     ],
     "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Chicago",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Los Angeles",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Miami",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Philadelphia",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "San Diego",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Seattle",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Washington DC",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United saver domestic one-way. Short-haul starts at 5k; transcontinental up to 12.5k. Check Saver availability on united.com.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "Chicago",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Distance-based Avios on AA-operated flights. 7,500 Avios for routes under 1,151 miles. Longer routes (e.g. East Coast → LA) cost more.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "Miami",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Distance-based Avios on AA-operated flights. 7,500 Avios for routes under 1,151 miles. Longer routes (e.g. East Coast → LA) cost more.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "Philadelphia",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Distance-based Avios on AA-operated flights. 7,500 Avios for routes under 1,151 miles. Longer routes (e.g. East Coast → LA) cost more.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "San Diego",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Distance-based Avios on AA-operated flights. 7,500 Avios for routes under 1,151 miles. Longer routes (e.g. East Coast → LA) cost more.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "Washington DC",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 7500,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Distance-based Avios on AA-operated flights. 7,500 Avios for routes under 1,151 miles. Longer routes (e.g. East Coast → LA) cost more.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Chicago",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 10000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Fully dynamic pricing. Flash sales can dip to 5k miles; peak routes up to 30k+. Check delta.com for live rates.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Los Angeles",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 10000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Fully dynamic pricing. Flash sales can dip to 5k miles; peak routes up to 30k+. Check delta.com for live rates.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Miami",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 10000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Fully dynamic pricing. Flash sales can dip to 5k miles; peak routes up to 30k+. Check delta.com for live rates.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Seattle",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 10000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Fully dynamic pricing. Flash sales can dip to 5k miles; peak routes up to 30k+. Check delta.com for live rates.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Washington DC",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 10000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Fully dynamic pricing. Flash sales can dip to 5k miles; peak routes up to 30k+. Check delta.com for live rates.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Cancun",
+    "region": "Caribbean",
+    "cabin": "Economy",
+    "points_required": 12500,
+    "pricing_type": "fixed",
+    "points_range": [
+      12500,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Saver economy one-way. Nonstop service from ORD, IAH, EWR, LAX, DEN, DFW. Strong availability in shoulder season.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": true
+  },
+  {
+    "program": "American AAdvantage",
+    "destination": "Cancun",
+    "region": "Caribbean",
+    "cabin": "Economy",
+    "points_required": 15000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      10000,
+      30000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Fully dynamic since 2023. Nonstop from most AA hubs (JFK, ORD, DFW, MIA, LAX). Check aa.com for live pricing.",
+    "transferable_from": [
+      "Citi ThankYou Points"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Emirates Skywards",
+    "destination": "Dubai",
+    "region": "Middle East",
+    "cabin": "Economy",
+    "points_required": 45000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      35000,
+      65000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-emirates-skywards-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Economy one-way from US. Nonstop service on Emirates from JFK and ORD to DXB. Dynamic pricing — East Coast routes generally cheaper.",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Citi ThankYou Points"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Emirates Skywards",
+    "destination": "Dubai",
+    "region": "Middle East",
+    "cabin": "Business",
+    "points_required": 90000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      75000,
+      130000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-emirates-skywards-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Business class one-way from US. Emirates Business is among the best in the world. Nonstop from JFK and ORD. Dynamic — book early for lower rates.",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Citi ThankYou Points"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Flying Blue",
+    "destination": "Paris",
+    "region": "Europe",
+    "cabin": "Economy",
+    "points_required": 30000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      20000,
+      60000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-france-klm-flying-blue-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Air France/Delta nonstop from ATL, JFK, LAX, ORD, IAD, MIA. Flying Blue promo awards drop monthly — watch for 20k economy deals.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Flying Blue",
+    "destination": "Paris",
+    "region": "Europe",
+    "cabin": "Business",
+    "points_required": 70000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      50000,
+      120000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-air-france-klm-flying-blue-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Air France La Première and Business nonstop from JFK, LAX, ORD, ATL, IAD. Promo awards can be exceptional value.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": false
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "Paris",
+    "region": "Europe",
+    "cabin": "Economy",
+    "points_required": 26000,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Distance-based Avios chart — US East Coast to Paris is ~5,500 miles (26k Avios one-way economy). Fuel surcharges apply on BA metal; book on AA codeshares to avoid them.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Hong Kong",
+    "region": "Asia",
+    "cabin": "Economy",
+    "points_required": 35000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      25000,
+      50000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Economy one-way via United partners. Nonstop on Cathay Pacific from LAX, JFK, ORD, DFW. Dynamic pricing — saver availability limited.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Cathay Pacific Asia Miles",
+    "destination": "Hong Kong",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 75000,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-cathay-pacific-asia-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Cathay Business Class is one of the best in the world. Nonstop from LAX, JFK, ORD, DFW. Fixed award chart — book early for availability.",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Chase Ultimate Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "Singapore KrisFlyer",
+    "destination": "Bali",
+    "region": "Asia",
+    "cabin": "Business",
+    "points_required": 89500,
+    "pricing_type": "fixed",
+    "points_range": null,
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-singapore-airlines-krisflyer-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "No nonstop flights from the US to Bali (DPS). All routes connect through Singapore, Tokyo, or Seoul. Singapore Business from US West Coast (LAX/SFO) to SIN, then short hop to Bali.",
+    "transferable_from": [
+      "Amex Membership Rewards",
+      "Chase Ultimate Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Iceland",
+    "region": "Europe",
+    "cabin": "Economy",
+    "points_required": 25000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      18000,
+      45000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Delta operates seasonal nonstop JFK→KEF. Dynamic pricing — shoulder season (Apr/May, Sep/Oct) offers best rates. Summer nonstops also from BOS and MSP.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": false
   }
 ]
