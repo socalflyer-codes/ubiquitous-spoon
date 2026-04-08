@@ -40,6 +40,7 @@ Rules:
 - Interpret IATA airport and city codes as destinations before searching (e.g. PPT → French Polynesia/Tahiti, NRT/TYO → Japan, LHR/LON → UK/Europe, MLE → Maldives, SYD → Australia)
 - For dream destinations, search the dataset by destination name and region — partial matches are fine
 - Rank "reachable" entries by value: fixed pricing first, then by surplus (ascending — closest to exact value)
+- If dream destinations were specified, only include entries in "reachable" that share meaningful traits with those dreams (e.g. climate, vibe, geography — warm/beach cities, major metros, outdoor destinations). Do not surface unrelated destinations just because they are affordable. If no dream destinations were specified, include all reachable entries.
 - Return ONLY the JSON object. No markdown, no explanation outside the JSON.`
 }
 
