@@ -10,7 +10,7 @@ import type { Balance, Cabin } from '@/types'
 export default function HomePage() {
   const router = useRouter()
   const [balances, setBalances] = useState<Balance[]>([{ program: '', amount: 0 }])
-  const [destinations, setDestinations] = useState('')
+  const [destinations, setDestinations] = useState<string[]>([])
   const [cabins, setCabins] = useState<Cabin[]>([])
   const [origin, setOrigin] = useState('')
   const [loading, setLoading] = useState<false | 'search' | 'inspire'>(false)
@@ -27,15 +27,10 @@ export default function HomePage() {
 
     setLoading(inspire ? 'inspire' : 'search')
     try {
-      const destinationList = destinations
-        .split(',')
-        .map((d) => d.trim())
-        .filter(Boolean)
-
       const res = await fetch('/api/recommend', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ balances: validBalances, destinations: inspire ? [] : destinationList, inspire, cabins: cabins.length > 0 ? cabins : undefined, origin: origin.trim() ? formatOriginForPrompt(origin.trim()) : undefined }),
+        body: JSON.stringify({ balances: validBalances, destinations: inspire ? [] : destinations, inspire, cabins: cabins.length > 0 ? cabins : undefined, origin: origin.trim() ? formatOriginForPrompt(origin.trim()) : undefined }),
       })
 
       if (!res.ok) throw new Error('Request failed')
@@ -124,7 +119,15 @@ export default function HomePage() {
             disabled={loading !== false}
             className="w-full bg-blue-600 hover:bg-blue-700 disabled:bg-blue-400 text-white font-semibold py-3 px-6 rounded-xl transition-colors"
           >
-            {loading === 'search' ? 'Analyzing your points...' : 'Find My Redemptions'}
+            {loading === 'search' ? (
+              <span className="flex items-center justify-center gap-2">
+                <svg className="animate-spin h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                  <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                  <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
+                </svg>
+                Analyzing your points...
+              </span>
+            ) : 'Find My Redemptions'}
           </button>
           <button
             type="button"
@@ -132,7 +135,15 @@ export default function HomePage() {
             onClick={() => submit(true)}
             className="w-full bg-white hover:bg-gray-50 disabled:opacity-50 border border-gray-300 text-gray-700 font-semibold py-3 px-6 rounded-xl transition-colors"
           >
-            {loading === 'inspire' ? 'Finding inspiration...' : 'Inspire Me'}
+            {loading === 'inspire' ? (
+              <span className="flex items-center justify-center gap-2">
+                <svg className="animate-spin h-4 w-4 text-gray-700" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                  <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                  <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
+                </svg>
+                Finding inspiration...
+              </span>
+            ) : 'Inspire Me'}
           </button>
         </div>
       </form>
