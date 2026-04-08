@@ -4,14 +4,17 @@
     "destination": "US Domestic",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 7500,
-    "pricing_type": "fixed",
-    "points_range": null,
+    "points_required": 15000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      7500,
+      30000
+    ],
     "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2025-10-08",
-    "notes": "Distance-based Avios chart on AA-operated flights under 1,151 miles. One of the best short-haul domestic sweet spots — many city pairs covered.",
+    "notes": "Distance-based chart on AA-operated flights. Under 1,151 mi: 7,500 Avios (e.g. NYC→DC, Chicago→Philly). 1,152–2,000 mi: 15,000 (e.g. Chicago→Miami). 2,001–3,000 mi: 22,500 (e.g. NYC→LA). Over 3,000 mi: 30,000. No fuel surcharges on AA metal.",
     "transferable_from": [
       "Chase Ultimate Rewards",
       "Amex Membership Rewards",
@@ -28,14 +31,14 @@
     "points_required": 15000,
     "pricing_type": "dynamic",
     "points_range": [
-      6000,
-      50000
+      8000,
+      30000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-american-airlines-aadvantage-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "Fully dynamic since 2023. Short-haul can start around 6k miles but varies widely — check aa.com for live pricing.",
+    "notes": "Fully dynamic since 2023. Short-haul economy typically 8–15k; transcontinental economy up to 25–30k. No fixed chart — check aa.com for live pricing.",
     "transferable_from": [
       "Citi ThankYou Points"
     ],
@@ -90,17 +93,17 @@
     "destination": "US Domestic",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 5000,
-    "pricing_type": "fixed",
+    "points_required": 10000,
+    "pricing_type": "dynamic",
     "points_range": [
-      5000,
-      5000
+      7500,
+      15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
     "source_geo": "US",
     "published_date": "2026-04-07",
-    "notes": "Saver domestic short-haul; floor pricing",
+    "notes": "Saver economy one-way domestic. Short-haul starts ~7,500–10,000; transcontinental 12,500–15,000. Saver availability limited — book early on united.com.",
     "transferable_from": [
       "Chase Ultimate Rewards"
     ],
@@ -111,11 +114,11 @@
     "destination": "Chicago",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 7500,
+    "points_required": 10000,
     "pricing_type": "dynamic",
     "points_range": [
-      5000,
-      12500
+      7500,
+      15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
@@ -132,11 +135,11 @@
     "destination": "Los Angeles",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 7500,
+    "points_required": 10000,
     "pricing_type": "dynamic",
     "points_range": [
-      5000,
-      12500
+      7500,
+      15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
@@ -153,11 +156,11 @@
     "destination": "Miami",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 7500,
+    "points_required": 10000,
     "pricing_type": "dynamic",
     "points_range": [
-      5000,
-      12500
+      7500,
+      15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
@@ -174,11 +177,11 @@
     "destination": "Philadelphia",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 7500,
+    "points_required": 10000,
     "pricing_type": "dynamic",
     "points_range": [
-      5000,
-      12500
+      7500,
+      15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
@@ -195,11 +198,11 @@
     "destination": "San Diego",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 7500,
+    "points_required": 10000,
     "pricing_type": "dynamic",
     "points_range": [
-      5000,
-      12500
+      7500,
+      15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
@@ -216,11 +219,11 @@
     "destination": "Seattle",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 7500,
+    "points_required": 10000,
     "pricing_type": "dynamic",
     "points_range": [
-      5000,
-      12500
+      7500,
+      15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
@@ -237,11 +240,11 @@
     "destination": "Washington DC",
     "region": "North America",
     "cabin": "Economy",
-    "points_required": 7500,
+    "points_required": 10000,
     "pricing_type": "dynamic",
     "points_range": [
-      5000,
-      12500
+      7500,
+      15000
     ],
     "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
     "source_site": "Upgraded Points",
@@ -252,111 +255,6 @@
       "Chase Ultimate Rewards"
     ],
     "verified": false
-  },
-  {
-    "program": "British Airways Avios",
-    "destination": "Chicago",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 7500,
-    "pricing_type": "fixed",
-    "points_range": null,
-    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Distance-based Avios on AA-operated flights. 7,500 Avios for routes under 1,151 miles. Longer routes (e.g. East Coast → LA) cost more.",
-    "transferable_from": [
-      "Chase Ultimate Rewards",
-      "Amex Membership Rewards",
-      "Capital One Miles",
-      "Citi ThankYou Points"
-    ],
-    "verified": true
-  },
-  {
-    "program": "British Airways Avios",
-    "destination": "Miami",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 7500,
-    "pricing_type": "fixed",
-    "points_range": null,
-    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Distance-based Avios on AA-operated flights. 7,500 Avios for routes under 1,151 miles. Longer routes (e.g. East Coast → LA) cost more.",
-    "transferable_from": [
-      "Chase Ultimate Rewards",
-      "Amex Membership Rewards",
-      "Capital One Miles",
-      "Citi ThankYou Points"
-    ],
-    "verified": true
-  },
-  {
-    "program": "British Airways Avios",
-    "destination": "Philadelphia",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 7500,
-    "pricing_type": "fixed",
-    "points_range": null,
-    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Distance-based Avios on AA-operated flights. 7,500 Avios for routes under 1,151 miles. Longer routes (e.g. East Coast → LA) cost more.",
-    "transferable_from": [
-      "Chase Ultimate Rewards",
-      "Amex Membership Rewards",
-      "Capital One Miles",
-      "Citi ThankYou Points"
-    ],
-    "verified": true
-  },
-  {
-    "program": "British Airways Avios",
-    "destination": "San Diego",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 7500,
-    "pricing_type": "fixed",
-    "points_range": null,
-    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Distance-based Avios on AA-operated flights. 7,500 Avios for routes under 1,151 miles. Longer routes (e.g. East Coast → LA) cost more.",
-    "transferable_from": [
-      "Chase Ultimate Rewards",
-      "Amex Membership Rewards",
-      "Capital One Miles",
-      "Citi ThankYou Points"
-    ],
-    "verified": true
-  },
-  {
-    "program": "British Airways Avios",
-    "destination": "Washington DC",
-    "region": "North America",
-    "cabin": "Economy",
-    "points_required": 7500,
-    "pricing_type": "fixed",
-    "points_range": null,
-    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
-    "source_site": "Upgraded Points",
-    "source_geo": "US",
-    "published_date": "2026-04-07",
-    "notes": "Distance-based Avios on AA-operated flights. 7,500 Avios for routes under 1,151 miles. Longer routes (e.g. East Coast → LA) cost more.",
-    "transferable_from": [
-      "Chase Ultimate Rewards",
-      "Amex Membership Rewards",
-      "Capital One Miles",
-      "Citi ThankYou Points"
-    ],
-    "verified": true
   },
   {
     "program": "Delta SkyMiles",
@@ -462,5 +360,137 @@
       "Amex Membership Rewards"
     ],
     "verified": false
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "Las Vegas",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 10000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      7500,
+      12500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United saver economy one-way. Well-served nonstop from most major US hubs. Short routes (e.g. LAX→LAS) at lower end of range.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "Las Vegas",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 10000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      20000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Dynamic pricing. Flash sales from ATL and other hubs can be very cheap. Check delta.com for live rates.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "Las Vegas",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 15000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      7500,
+      22500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Distance-based Avios on AA metal. LAX→LAS is under 250 miles (7,500 Avios). From East Coast hubs LAS is 1,500–2,500 miles (15,000–22,500 Avios). Check distance chart before booking.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
+  },
+  {
+    "program": "United MileagePlus",
+    "destination": "New York",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 10000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      7500,
+      15000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-united-mileageplus-miles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "United saver economy to EWR or JFK. Well-served nonstop from all major US hubs. Transcontinental routes (LAX/SFO/SEA→EWR) at higher end of range.",
+    "transferable_from": [
+      "Chase Ultimate Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "Delta SkyMiles",
+    "destination": "New York",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 10000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      5000,
+      25000
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/best-ways-to-use-delta-skymiles/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Dynamic pricing to JFK or LGA. ATL→JFK is a Delta hub route with frequent flash sales. Transcontinental routes cost more.",
+    "transferable_from": [
+      "Amex Membership Rewards"
+    ],
+    "verified": false
+  },
+  {
+    "program": "British Airways Avios",
+    "destination": "New York",
+    "region": "North America",
+    "cabin": "Economy",
+    "points_required": 15000,
+    "pricing_type": "dynamic",
+    "points_range": [
+      7500,
+      22500
+    ],
+    "source_url": "https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/",
+    "source_site": "Upgraded Points",
+    "source_geo": "US",
+    "published_date": "2026-04-07",
+    "notes": "Distance-based Avios on AA metal to JFK. Short routes (DC→NYC ~215 miles, Chicago→NYC ~740 miles) cost 7,500 Avios. Longer routes (LAX→JFK ~2,450 miles) cost 22,500 Avios.",
+    "transferable_from": [
+      "Chase Ultimate Rewards",
+      "Amex Membership Rewards",
+      "Capital One Miles",
+      "Citi ThankYou Points"
+    ],
+    "verified": true
   }
 ]
