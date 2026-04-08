@@ -61,7 +61,7 @@ export function buildUserPrompt(
       : '  (none specified)'
 
   const originInstruction = origin
-    ? `\nORIGIN AIRPORT: The user is flying from ${origin}. Factor this into your analysis — note if a recommended route isn't well-served from ${origin}, requires a connection, or if certain partners have limited access from that airport. Mention it in the explanation if relevant.`
+    ? `\nORIGIN: The user is flying from ${origin}. Assume they prefer nonstop flights. For each recommended redemption, assess whether a nonstop route exists from ${origin} to that destination on the relevant airline or its partners. If nonstop service exists, say so. If only connections are available, flag it clearly in the explanation. If you are uncertain whether a nonstop exists, say so rather than assuming.`
     : ''
 
   const cabinInstruction = cabins && cabins.length > 0

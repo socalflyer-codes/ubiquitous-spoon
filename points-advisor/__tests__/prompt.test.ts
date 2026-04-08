@@ -90,4 +90,15 @@ describe('buildUserPrompt', () => {
     expect(typeof prompt).toBe('string')
     expect(prompt.length).toBeGreaterThan(0)
   })
+
+  it('includes nonstop instruction when origin is provided', () => {
+    const prompt = buildUserPrompt(mockBalances, [], mockEntries, false, undefined, 'New York (JFK/LGA/EWR)')
+    expect(prompt).toContain('nonstop')
+    expect(prompt).toContain('New York')
+  })
+
+  it('omits origin instruction when origin is not provided', () => {
+    const prompt = buildUserPrompt(mockBalances, [], mockEntries)
+    expect(prompt).not.toContain('ORIGIN')
+  })
 })

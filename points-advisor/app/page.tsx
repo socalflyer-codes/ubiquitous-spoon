@@ -25,6 +25,11 @@ export default function HomePage() {
       return
     }
 
+    if (!origin.trim()) {
+      setError('Please enter your departure city so we can check nonstop routes.')
+      return
+    }
+
     setLoading(inspire ? 'inspire' : 'search')
     try {
       const res = await fetch('/api/recommend', {
@@ -78,8 +83,7 @@ export default function HomePage() {
 
         <div className="space-y-3">
           <label className="block text-sm font-semibold text-gray-700 uppercase tracking-wide">
-            Origin Airport
-            <span className="text-gray-400 font-normal normal-case ml-2">(optional)</span>
+            Departure City
           </label>
           <OriginInput value={origin} onChange={setOrigin} />
         </div>
