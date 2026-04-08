@@ -101,6 +101,7 @@ export default function ResultsPage() {
                     userBalance={d.user_balance ?? 0}
                     gap={d.reachable ? null : d.gap}
                     hasProgram={d.matched_program !== null}
+                    originCode={origin}
                   />
                 ) : (
                   <div className="border border-gray-200 rounded-xl p-5 bg-white shadow-sm">
@@ -125,6 +126,7 @@ export default function ResultsPage() {
                 entry={r.entry}
                 matchedProgram={r.matched_program}
                 userBalance={r.user_balance}
+                originCode={origin}
               />
             ))}
           </div>

@@ -9,17 +9,45 @@ interface Props {
   userBalance: number
   gap?: number | null
   hasProgram?: boolean
+  originCode?: string  // IATA code of departure airport e.g. "ORD"
 }
 
-// Maps program name to its booking URL
-const BOOKING_URLS: Record<string, string> = {
-  'United MileagePlus': 'https://www.united.com/en/us/book-flight/united-awards',
-  'British Airways Avios': 'https://www.aa.com/reservation/startSSO.do',
+// Primary IATA code per destination city (largest airport)
+const DESTINATION_CODES: Record<string, string> = {
+  'Chicago': 'ORD',
+  'Las Vegas': 'LAS',
+  'Los Angeles': 'LAX',
+  'Miami': 'MIA',
+  'New York': 'JFK',
+  'Philadelphia': 'PHL',
+  'San Diego': 'SAN',
+  'Seattle': 'SEA',
+  'Washington DC': 'IAD',
 }
 
-function getBookingUrl(matchedProgram: string): string | null {
-  if (matchedProgram.includes('United MileagePlus')) return BOOKING_URLS['United MileagePlus']
-  if (matchedProgram.includes('British Airways Avios')) return BOOKING_URLS['British Airways Avios']
+// Primary IATA code per origin city
+const ORIGIN_CODES: Record<string, string> = {
+  'Atlanta': 'ATL',
+  'Chicago': 'ORD',
+  'Dallas': 'DFW',
+  'Denver': 'DEN',
+  'Los Angeles': 'LAX',
+  'Miami': 'MIA',
+  'New York': 'JFK',
+  'Washington DC': 'IAD',
+}
+
+function buildBookingUrl(matchedProgram: string, origin: string, destination: string): string | null {
+  const from = ORIGIN_CODES[origin] ?? origin
+  const to = DESTINATION_CODES[destination]
+  if (!to) return null
+
+  if (matchedProgram.includes('United MileagePlus')) {
+    return `https://www.united.com/en/us/fsr/choose-flights?f=${from}&t=${to}&tt=1&at=1&sc=7&px=1&taxng=1&fareFamily=mixed`
+  }
+  if (matchedProgram.includes('British Airways Avios')) {
+    return `https://www.aa.com/booking/search?locale=en_US&pax=1&adult=1&type=OneWay&searchType=Award&cabin=&carriers=ALL&maxStops=0&origin=${from}&destination=${to}`
+  }
   return null
 }
 
@@ -29,14 +57,16 @@ function getAirlineName(matchedProgram: string): string {
   return matchedProgram
 }
 
-export default function ResultCard({ entry, matchedProgram, userBalance, gap, hasProgram = true }: Props) {
+export default function ResultCard({ entry, matchedProgram, userBalance, gap, hasProgram = true, originCode }: Props) {
   const [showDetails, setShowDetails] = useState(false)
 
   const pointsDisplay = entry.pricing_type === 'dynamic' && entry.points_range
     ? `${entry.points_range[0].toLocaleString()}–${entry.points_range[1].toLocaleString()} points one-way`
     : `${entry.points_required.toLocaleString()} points one-way`
 
-  const bookingUrl = getBookingUrl(matchedProgram)
+  const bookingUrl = originCode
+    ? buildBookingUrl(matchedProgram, originCode, entry.destination)
+    : null
   const airlineName = getAirlineName(matchedProgram)
   const canBook = hasProgram && gap == null
 

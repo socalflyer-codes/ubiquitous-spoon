@@ -53,13 +53,20 @@ describe('ResultCard', () => {
     expect(screen.getByText(/3,000 pts short/)).toBeTruthy()
   })
 
-  it('shows search availability link when bookable', () => {
-    render(<ResultCard entry={fixedEntry} matchedProgram="Chase Ultimate Rewards → United MileagePlus" userBalance={70000} />)
-    expect(screen.getByText(/Search availability/)).toBeTruthy()
+  it('shows search availability link when bookable and origin provided', () => {
+    render(<ResultCard entry={fixedEntry} matchedProgram="Chase Ultimate Rewards → United MileagePlus" userBalance={70000} originCode="Chicago" />)
+    const link = screen.getByText(/Search availability/)
+    expect(link).toBeTruthy()
+    expect(link.closest('a')?.href).toContain('f=ORD&t=MIA')
   })
 
-  it('hides search availability link when not bookable', () => {
-    render(<ResultCard entry={fixedEntry} matchedProgram="Chase Ultimate Rewards → United MileagePlus" userBalance={70000} gap={3000} />)
+  it('hides search availability link when points short', () => {
+    render(<ResultCard entry={fixedEntry} matchedProgram="Chase Ultimate Rewards → United MileagePlus" userBalance={70000} gap={3000} originCode="Chicago" />)
+    expect(screen.queryByText(/Search availability/)).toBeNull()
+  })
+
+  it('hides search availability link when no origin provided', () => {
+    render(<ResultCard entry={fixedEntry} matchedProgram="Chase Ultimate Rewards → United MileagePlus" userBalance={70000} />)
     expect(screen.queryByText(/Search availability/)).toBeNull()
   })
 
