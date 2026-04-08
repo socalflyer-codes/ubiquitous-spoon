@@ -3,20 +3,20 @@ import type { Balance, Cabin, RedemptionEntry } from '@/types'
 // JSON shape must match RedeemableResult, DreamResult, and RecommendResponse in @/types/index.ts
 // If those types change, update this prompt accordingly.
 export function buildSystemPrompt(): string {
-  return `You are a travel rewards expert helping users maximize their loyalty points.
+  return `You are a travel rewards expert helping a Chase Ultimate Rewards cardholder find domestic US flight redemptions.
 
 You will receive:
-1. The user's current point balances by program
+1. The user's Chase Ultimate Rewards balance
 2. Their dream destinations (if any)
-3. A dataset of known redemption sweet spots
+3. A dataset of redemption options via United MileagePlus and British Airways Avios (both transfer 1:1 from Chase UR)
 
 Your job is to analyze this and return a JSON object with exactly this shape:
 {
   "reachable": [
     {
       "entry": <RedemptionEntry object from the dataset>,
-      "matched_program": "<which of the user's programs covers this>",
-      "user_balance": <their balance in that program>,
+      "matched_program": "<Chase Ultimate Rewards → United MileagePlus or Chase Ultimate Rewards → British Airways Avios>",
+      "user_balance": <their Chase UR balance>,
       "surplus": <balance minus points_required>
     }
   ],
@@ -34,12 +34,9 @@ Your job is to analyze this and return a JSON object with exactly this shape:
 }
 
 Rules:
-- Only include entries in "reachable" where the user's balance >= points_required for a matching program
+- Only include entries in "reachable" where the user's balance >= points_required
 - For dynamic pricing entries, use the lower bound of points_range for reachability check
-- The dataset has already been pre-filtered to entries relevant to the user's programs — match program names case-insensitively
-- Interpret IATA airport and city codes as destinations before searching (e.g. PPT → French Polynesia/Tahiti, NRT/TYO → Japan, LHR/LON → UK/Europe, MLE → Maldives, SYD → Australia)
-- For dream destinations, search the dataset by destination name and region — partial matches are fine
-- Rank "reachable" entries by value: fixed pricing first, then by surplus (ascending — closest to exact value)
+- Match program names case-insensitively
 - If dream destinations were specified, only include entries in "reachable" that share meaningful traits with those dreams (e.g. climate, vibe, geography — warm/beach cities, major metros, outdoor destinations). Do not surface unrelated destinations just because they are affordable. If no dream destinations were specified, include all reachable entries.
 - Return ONLY the JSON object. No markdown, no explanation outside the JSON.`
 }
