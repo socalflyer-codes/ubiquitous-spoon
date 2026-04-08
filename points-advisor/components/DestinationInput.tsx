@@ -4,28 +4,18 @@ import { useState } from 'react'
 
 // Keep in sync with data/seed.json destinations.
 // "US to X" route labels are excluded — Claude matches them via partial destination name.
-const CATEGORIES = [
-  {
-    label: 'Regions',
-    destinations: [
-      'Africa', 'Asia', 'Caribbean', 'Central America', 'Europe',
-      'Hawaii', 'Middle East', 'South America', 'Southeast Asia', 'West Africa',
-    ],
-  },
-  {
-    label: 'Countries',
-    destinations: [
-      'Australia', 'Canada', 'Costa Rica', 'India', 'Israel',
-      'Japan', 'Maldives', 'Mexico', 'Nepal', 'New Zealand', 'South Africa',
-    ],
-  },
+const CATEGORIES: { label: string; destinations: string[]; comingSoon?: boolean }[] = [
   {
     label: 'Cities',
     destinations: [
-      'Bali', 'Cancun', 'Chicago', 'Dubai', 'Hong Kong', 'Iceland',
-      'Las Vegas', 'Los Angeles', 'Miami', 'New York', 'Paris',
-      'Philadelphia', 'San Diego', 'Seattle', 'Washington DC',
+      'Chicago', 'Las Vegas', 'Los Angeles', 'Miami',
+      'New York', 'Philadelphia', 'San Diego', 'Seattle', 'Washington DC',
     ],
+  },
+  {
+    label: 'International',
+    destinations: [],
+    comingSoon: true,
   },
 ]
 
@@ -55,21 +45,33 @@ export default function DestinationInput({ value, onChange }: Props) {
           <div key={cat.label} className="border border-gray-200 rounded-lg overflow-hidden">
             <button
               type="button"
-              onClick={() => setOpen(isOpen ? null : cat.label)}
-              className="w-full flex items-center justify-between px-4 py-3 text-sm font-medium text-gray-700 hover:bg-gray-50 transition-colors"
+              onClick={() => !cat.comingSoon && setOpen(isOpen ? null : cat.label)}
+              disabled={cat.comingSoon}
+              className={`w-full flex items-center justify-between px-4 py-3 text-sm font-medium transition-colors ${
+                cat.comingSoon
+                  ? 'text-gray-300 cursor-not-allowed'
+                  : 'text-gray-700 hover:bg-gray-50'
+              }`}
             >
               <span>{cat.label}</span>
               <div className="flex items-center gap-2">
-                {selectedInCategory.length > 0 && (
+                {cat.comingSoon && (
+                  <span className="text-xs bg-gray-100 text-gray-400 px-2 py-0.5 rounded-full">
+                    coming soon
+                  </span>
+                )}
+                {!cat.comingSoon && selectedInCategory.length > 0 && (
                   <span className="text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full font-medium">
                     {selectedInCategory.length} selected
                   </span>
                 )}
-                <span className="text-gray-400 text-xs">{isOpen ? '▲' : '▼'}</span>
+                {!cat.comingSoon && (
+                  <span className="text-gray-400 text-xs">{isOpen ? '▲' : '▼'}</span>
+                )}
               </div>
             </button>
 
-            {isOpen && (
+            {isOpen && !cat.comingSoon && (
               <div className="px-4 pb-4 pt-1 flex flex-wrap gap-2 border-t border-gray-100">
                 {cat.destinations.map((dest) => (
                   <button
