@@ -12,18 +12,22 @@
 - [ ] Read `PROJECT.md` — current status, what's not done yet, key file locations
 - [ ] Read `CHANGELOG.md` — last entry's "Next" section tells you where to pick up
 
-### 2. Verify state
+### 2. Dev server
+- [ ] If UI work or `test:agents` will be run this session: start dev server in a separate terminal — `cd .worktrees/points-advisor-v0.1/points-advisor && npm run dev`
+- [ ] Confirm it's running at `http://localhost:3000` before any Playwright or browser work
+
+### 3. Verify state
 - [ ] Confirm active worktree branch: `git -C .worktrees/points-advisor-v0.1 status`
 - [ ] Confirm main is up to date with remote: `git status`
 - [ ] Check for any uncommitted work left from last session — if found, surface to user before proceeding
 
-### 3. Route the request
+### 4. Route the request
 - [ ] User states what they want to work on
 - [ ] Match to routing table in `ROUTING.md` — load the specified files
 - [ ] Confirm in one sentence what you're about to do before proceeding
 - [ ] Flag anything ambiguous before touching any file or code
 
-### 4. Before writing any code
+### 5. Before writing any code
 - [ ] Is this request covered by an existing plan in `docs/superpowers/plans/`?
 - [ ] Does the relevant component already exist in `COMPONENTS.md`?
 - [ ] Is there a prompt pattern in `PROMPTS.md` for this task type?

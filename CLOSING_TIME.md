@@ -35,7 +35,10 @@
 - [ ] Anything explicitly punted this session is captured in `PROJECT.md` "What's not done yet" or `CHANGELOG.md` "Next" — not floating
 - [ ] Any unresolved questions added to the relevant `.md` file's open questions table
 
-### 6. Push
+### 6. Dev server
+- [ ] Stop the dev server if running (Ctrl+C in the terminal running `npm run dev`)
+
+### 7. Push
 - [ ] All updated `.md` files committed and pushed
 - [ ] `git status` clean on main
 - [ ] `git log --oneline -3` confirms remote is up to date
