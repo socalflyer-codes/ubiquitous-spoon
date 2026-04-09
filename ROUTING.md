@@ -106,7 +106,7 @@ Switch as often as needed. Context persists across switches.
 
 1. Remind the user: "Session ending — want to update any .md files before we close?"
 2. Wait for their decision
-3. If yes — identify which files changed this session and update together
+3. If yes — run through `CLOSING_TIME.md` checklist together
 4. If no — note it and close
 
 ---
