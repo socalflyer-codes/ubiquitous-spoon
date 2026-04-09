@@ -6,10 +6,13 @@
 
 ## SESSION START PROTOCOL
 
+Run `OPENING_TIME.md` checklist before doing anything else.
+
 1. **Read** `PROJECT.md` to confirm current project state and active worktree
-2. **Confirm** what you're about to work on in one sentence before proceeding
-3. **Route** the request using the mode selection table below
-4. **Flag** anything ambiguous before touching any file or code
+2. **Read** last entry in `CHANGELOG.md` — "Next" section tells you where to pick up
+3. **Confirm** what you're about to work on in one sentence before proceeding
+4. **Route** the request using the mode selection table below
+5. **Flag** anything ambiguous before touching any file or code
 
 ---
 
@@ -35,7 +38,8 @@ If a request does not clearly match a routing rule:
 | Multi-file implementation, complex execution | sonnet | `PROJECT.md` + relevant plan doc |
 | Single-file edits, quick fixes, lookups | haiku | file path only |
 | Technical or process decision | sonnet | `DECISIONS.md` |
-| Weekly update / end of session | haiku | `CHANGELOG.md` + any files changed this session |
+| Start of session | haiku | `OPENING_TIME.md` → `PROJECT.md` → `CHANGELOG.md` |
+| End of session | haiku | `CLOSING_TIME.md` + any files changed this session |
 | Recurring task (seed entry, test case, component) | haiku | `PROMPTS.md` |
 | Anything that doesn't fit above | — | STOP — flag it, ask before proceeding |
 
