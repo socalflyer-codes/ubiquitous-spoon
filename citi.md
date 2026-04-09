@@ -1,0 +1,1585 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Credit Cards" [ref=e42] [cursor=pointer]:
+                  - /url: /credit-cards/
+            - heading "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [level=1] [ref=e43]
+            - generic [ref=e44]:
+              - figure [ref=e45]:
+                - img "Spencer Howard's image" [ref=e46]
+              - generic [ref=e47]:
+                - generic "Open Tooltip" [ref=e51]: Spencer Howard
+                - generic [ref=e52]:
+                  - text: "Updated:"
+                  - time [ref=e53]: January 28, 2026, 6:16pm CST
+                - generic [ref=e54]:
+                  - generic [ref=e55]:
+                    - text: "Edited by:"
+                    - generic [ref=e56]: Juan Ruiz
+                  - generic [ref=e57]:
+                    - text: "&"
+                    - generic [ref=e58]: Keri Stooksbury
+          - figure [ref=e59]:
+            - img "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [ref=e61]
+        - generic [ref=e62]:
+          - group [ref=e1480]:
+            - generic "Jump to Section" [ref=e1481] [cursor=pointer]
+          - paragraph [ref=e66]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e67] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e68]:
+            - generic [ref=e70]:
+              - generic [ref=e71]:
+                - generic [ref=e72]:
+                  - heading "Key Takeaways" [level=2] [ref=e74]
+                  - list [ref=e76]:
+                    - listitem [ref=e77]: Citi ThankYou Points can be redeemed for flights directly through the Citi ThankYou travel portal or by transferring to airline and hotel partners.
+                    - listitem [ref=e78]: Airline transfer partners include American Airlines, Cathay Pacific, Etihad Airways, Singapore Airlines, and Virgin Atlantic.
+                    - listitem [ref=e79]: Some of the best redemption options include Singapore Suites on the A380, transcontinental flights on United, and flying Virgin Atlantic Upper Class to Europe.
+                - paragraph [ref=e80]: Citi has an assembly of cards that earn Citi ThankYou Points, and one of the best ways to use these points is to transfer them to airline programs — that’s how you’re going to get the most value.
+                - paragraph [ref=e81]: Unfortunately, not all redemption options are of equal value, but Citi offers many ways to use your Citi ThankYou Points for some amazing trips!
+                - heading "Earning Citi ThankYou Points" [level=2] [ref=e82]
+                - paragraph [ref=e83]:
+                  - text: The best way to earn Citi ThankYou Points is through the strategic use of
+                  - link "credit cards that earn these valuable points" [ref=e84] [cursor=pointer]:
+                    - /url: /credit-cards/best-citi-credit-cards/
+                  - text: .
+                - paragraph [ref=e85]:
+                  - text: Cardholders of the
+                  - link "Citi Strata Premier℠ Card" [ref=e86] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/reviews/citi-strata-premier-card/
+                  - text: ","
+                  - link "Citi Strata Elite℠ Card" [ref=e87] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/citi-strata-elite-card/
+                  - text: ", and Citi Prestige"
+                  - superscript [ref=e88]: ®
+                  - text: Card (no longer open to new applicants) have the option to transfer their Citi ThankYou Points to all of
+                  - link "Citi’s airline and hotel partners" [ref=e89] [cursor=pointer]:
+                    - /url: /credit-cards/citi-thankyou-points-transfer-partners/
+                  - text: ", with the best transfer rate."
+                - paragraph [ref=e90]:
+                  - text: Those with the
+                  - link "Citi Strata℠ Card" [ref=e91] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/citi-strata-card/
+                  - text: ","
+                  - link "Citi Double Cash® Card" [ref=e92] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/citi-double-cash-card/
+                    - text: Citi Double Cash
+                    - superscript [ref=e93]: ®
+                    - text: Card
+                  - text: ","
+                  - link "Citi Custom Cash® Card" [ref=e94] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/citi-custom-cash-card/
+                    - text: Citi Custom Cash
+                    - superscript [ref=e95]: ®
+                    - text: Card
+                  - text: ", Citi ThankYou"
+                  - superscript [ref=e96]: ®
+                  - text: Mastercard
+                  - superscript [ref=e97]: ®
+                  - text: (no longer open to new applicants), and
+                  - link "Citi ThankYou® Preferred Card" [ref=e98] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/citi-thankyou-preferred-card/
+                    - text: Citi ThankYou
+                    - superscript [ref=e99]: ®
+                    - text: Preferred Card
+                  - text: (no longer open to new applicants) can transfer ThankYou Points to every Citi airline and hotel partner, but at a lower transfer rate than with the premium cards mentioned above.
+                - generic [ref=e101]:
+                  - generic [ref=e102]:
+                    - img "Citi Strata℠ Card" [ref=e103]
+                    - generic [ref=e104]:
+                      - generic [ref=e105]:
+                        - img "Star rating icon" [ref=e108]
+                        - img "Star rating icon" [ref=e111]
+                        - img "Star rating icon" [ref=e114]
+                        - generic [ref=e115]:
+                          - img "Star rating icon" [ref=e117]
+                          - img "Star rating icon" [ref=e119]
+                        - generic [ref=e120]:
+                          - img "Star rating icon" [ref=e122]
+                          - img "Star rating icon" [ref=e123]
+                      - generic [ref=e124]:
+                        - generic [ref=e125]: U.P. Rating
+                        - img [ref=e128]:
+                          - img [ref=e129]
+                  - generic [ref=e132]:
+                    - link "Citi Strata℠ Card" [ref=e136] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/citi-strata-card/
+                    - generic [ref=e137]:
+                      - generic [ref=e138]:
+                        - generic [ref=e139]:
+                          - generic [ref=e140]: Welcome Offer
+                          - img [ref=e143]:
+                            - img [ref=e144]
+                        - generic [ref=e147]: 20,000 points
+                      - generic [ref=e148]:
+                        - generic [ref=e150]: "UP's Offer Valuation*:"
+                        - generic [ref=e151]: $320
+                    - generic [ref=e152]:
+                      - generic [ref=e153]:
+                        - generic [ref=e155]: Annual Fee
+                        - generic [ref=e156]: $0
+                      - generic [ref=e157]:
+                        - generic [ref=e159]: APR
+                        - generic [ref=e160]: 0% intro APR on purchases and balance transfers for 15 months, and then a variable APR 18.49% to 28.49%.
+                      - generic [ref=e161]:
+                        - generic [ref=e162]:
+                          - generic [ref=e163]: Credit Recommended
+                          - img [ref=e166]:
+                            - img [ref=e167]
+                        - generic [ref=e170]: Good to Excellent
+                    - generic [ref=e171]:
+                      - group [ref=e172]:
+                        - generic "Why We Like This Card" [ref=e173] [cursor=pointer]
+                      - group [ref=e174]:
+                        - generic "Pros & Cons" [ref=e175] [cursor=pointer]
+                      - group [ref=e176]:
+                        - generic "Card Highlights" [ref=e177] [cursor=pointer]
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - img "Citi Strata Premier℠ Card" [ref=e181]
+                    - generic [ref=e182]:
+                      - generic [ref=e183]:
+                        - img "Star rating icon" [ref=e186]
+                        - img "Star rating icon" [ref=e189]
+                        - img "Star rating icon" [ref=e192]
+                        - img "Star rating icon" [ref=e195]
+                        - generic [ref=e196]:
+                          - img "Star rating icon" [ref=e198]
+                          - img "Star rating icon" [ref=e199]
+                      - generic [ref=e200]:
+                        - generic [ref=e201]: U.P. Rating
+                        - img [ref=e204]:
+                          - img [ref=e205]
+                  - generic [ref=e208]:
+                    - link "Citi Strata Premier℠ Card" [ref=e212] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/citi-strata-premier-card/
+                    - generic [ref=e213]:
+                      - generic [ref=e214]:
+                        - generic [ref=e215]:
+                          - generic [ref=e216]: Welcome Offer
+                          - img [ref=e219]:
+                            - img [ref=e220]
+                        - generic [ref=e223]: 60,000 points
+                      - generic [ref=e224]:
+                        - generic [ref=e226]: "UP's Offer Valuation*:"
+                        - generic [ref=e227]: $960
+                    - generic [ref=e228]:
+                      - generic [ref=e229]:
+                        - generic [ref=e231]: Annual Fee
+                        - generic [ref=e232]: $95
+                      - generic [ref=e233]:
+                        - generic [ref=e235]: APR
+                        - generic [ref=e236]: 19.49% to 27.49% Variable
+                    - generic [ref=e237]:
+                      - group [ref=e238]:
+                        - generic "Why We Like This Card" [ref=e239] [cursor=pointer]
+                      - group [ref=e240]:
+                        - generic "Pros & Cons" [ref=e241] [cursor=pointer]
+                      - group [ref=e242]:
+                        - generic "Card Highlights" [ref=e243] [cursor=pointer]
+                - generic [ref=e245]:
+                  - generic [ref=e246]:
+                    - img "Citi Strata Elite℠ Card" [ref=e247]
+                    - generic [ref=e248]:
+                      - generic [ref=e249]:
+                        - img "Star rating icon" [ref=e252]
+                        - img "Star rating icon" [ref=e255]
+                        - img "Star rating icon" [ref=e258]
+                        - generic [ref=e259]:
+                          - img "Star rating icon" [ref=e261]
+                          - img "Star rating icon" [ref=e263]
+                        - generic [ref=e264]:
+                          - img "Star rating icon" [ref=e266]
+                          - img "Star rating icon" [ref=e267]
+                      - generic [ref=e268]:
+                        - generic [ref=e269]: U.P. Rating
+                        - img [ref=e272]:
+                          - img [ref=e273]
+                  - generic [ref=e276]:
+                    - generic [ref=e278]:
+                      - link "Citi Strata Elite℠ Card" [ref=e280] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/citi-strata-elite-card/
+                      - text: The Citi Strata Elite card is Citi's most premium card built for frequent travelers and foodies.
+                    - generic [ref=e281]:
+                      - generic [ref=e282]:
+                        - generic [ref=e283]:
+                          - generic [ref=e284]: Welcome Offer
+                          - img [ref=e287]:
+                            - img [ref=e288]
+                        - generic [ref=e291]: 75,000 points
+                      - generic [ref=e292]:
+                        - generic [ref=e294]: "UP's Offer Valuation*:"
+                        - generic [ref=e295]: Up to $1,200
+                    - generic [ref=e296]:
+                      - generic [ref=e297]:
+                        - generic [ref=e299]: Annual Fee
+                        - generic [ref=e300]: $595
+                      - generic [ref=e301]:
+                        - generic [ref=e303]: APR
+                        - generic [ref=e304]: 20.49% to 28.49% Variable
+                    - generic [ref=e305]:
+                      - group [ref=e306]:
+                        - generic "Why We Like This Card" [ref=e307] [cursor=pointer]
+                      - group [ref=e308]:
+                        - generic "Pros & Cons" [ref=e309] [cursor=pointer]
+                      - group [ref=e310]:
+                        - generic "Card Highlights" [ref=e311] [cursor=pointer]
+                - generic [ref=e313]:
+                  - generic [ref=e314]:
+                    - img "Citi Double Cash® Card" [ref=e315]
+                    - generic [ref=e316]:
+                      - generic [ref=e317]:
+                        - img "Star rating icon" [ref=e320]
+                        - img "Star rating icon" [ref=e323]
+                        - img "Star rating icon" [ref=e326]
+                        - img "Star rating icon" [ref=e329]
+                        - generic [ref=e330]:
+                          - img "Star rating icon" [ref=e332]
+                          - img "Star rating icon" [ref=e334]
+                      - generic [ref=e335]:
+                        - generic [ref=e336]: U.P. Rating
+                        - img [ref=e339]:
+                          - img [ref=e340]
+                  - generic [ref=e343]:
+                    - generic [ref=e345]:
+                      - link "Citi Double Cash® Card" [ref=e347] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/citi-double-cash-card/
+                        - text: Citi Double Cash
+                        - superscript [ref=e348]: ®
+                        - text: Card
+                      - text: Great card for the average spender with no specific focus category; worry-free cash-back earning on everything!
+                    - generic [ref=e350]:
+                      - generic [ref=e351]:
+                        - generic [ref=e352]: Welcome Offer
+                        - img [ref=e355]:
+                          - img [ref=e356]
+                      - generic [ref=e359]: $200 cash-back
+                    - generic [ref=e360]:
+                      - generic [ref=e361]:
+                        - generic [ref=e363]: Annual Fee
+                        - generic [ref=e364]: $0
+                      - generic [ref=e365]:
+                        - generic [ref=e367]: APR
+                        - generic [ref=e368]: 17.49% to 27.49% Variable
+                      - generic [ref=e369]:
+                        - generic [ref=e370]:
+                          - generic [ref=e371]: Credit Recommended
+                          - img [ref=e374]:
+                            - img [ref=e375]
+                        - generic [ref=e378]: Fair to Excellent (580-850)
+                    - generic [ref=e379]:
+                      - group [ref=e380]:
+                        - generic "Why We Like This Card" [ref=e381] [cursor=pointer]
+                      - group [ref=e382]:
+                        - generic "Pros & Cons" [ref=e383] [cursor=pointer]
+                      - group [ref=e384]:
+                        - generic "Card Highlights" [ref=e385] [cursor=pointer]
+                - generic [ref=e387]:
+                  - generic [ref=e388]:
+                    - img "Citi Custom Cash® Card" [ref=e389]
+                    - generic [ref=e390]:
+                      - generic [ref=e391]:
+                        - img "Star rating icon" [ref=e394]
+                        - img "Star rating icon" [ref=e397]
+                        - img "Star rating icon" [ref=e400]
+                        - img "Star rating icon" [ref=e403]
+                        - generic [ref=e404]:
+                          - img "Star rating icon" [ref=e406]
+                          - img "Star rating icon" [ref=e408]
+                      - generic [ref=e409]:
+                        - generic [ref=e410]: U.P. Rating
+                        - img [ref=e413]:
+                          - img [ref=e414]
+                  - generic [ref=e417]:
+                    - generic [ref=e419]:
+                      - link "Citi Custom Cash® Card" [ref=e421] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/citi-custom-cash-card/
+                        - text: Citi Custom Cash
+                        - superscript [ref=e422]: ®
+                        - text: Card
+                      - text: Earn big on purchases in your top eligible spend category, up to the first $500 each billing cycle, without an annual fee!
+                    - generic [ref=e424]:
+                      - generic [ref=e425]:
+                        - generic [ref=e426]: Welcome Offer
+                        - img [ref=e429]:
+                          - img [ref=e430]
+                      - generic [ref=e433]: $200
+                    - generic [ref=e434]:
+                      - generic [ref=e435]:
+                        - generic [ref=e437]: Annual Fee
+                        - generic [ref=e438]: $0
+                      - generic [ref=e439]:
+                        - generic [ref=e441]: APR
+                        - generic [ref=e442]: 17.49% - 27.49% Variable
+                      - generic [ref=e443]:
+                        - generic [ref=e444]:
+                          - generic [ref=e445]: Credit Recommended
+                          - img [ref=e448]:
+                            - img [ref=e449]
+                        - generic [ref=e452]: Fair to Excellent (580-850)
+                    - generic [ref=e453]:
+                      - group [ref=e454]:
+                        - generic "Why We Like This Card" [ref=e455] [cursor=pointer]
+                      - group [ref=e456]:
+                        - generic "Pros & Cons" [ref=e457] [cursor=pointer]
+                      - group [ref=e458]:
+                        - generic "Card Highlights" [ref=e459] [cursor=pointer]
+                - heading "Transferring Citi ThankYou Points to Travel Partners" [level=2] [ref=e460]:
+                  - strong [ref=e462]: Transferring Citi ThankYou Points to Travel Partners
+                - paragraph [ref=e463]: "The Citi ThankYou Program provides 2 ways to redeem ThankYou Points for flights:"
+                - list [ref=e464]:
+                  - listitem [ref=e465]:
+                    - text: Redemptions for flights through the
+                    - link "Citi ThankYou travel portal" [ref=e466] [cursor=pointer]:
+                      - /url: /travel/citi-thankyou-travel-portal/
+                  - listitem [ref=e467]:
+                    - text: Direct
+                    - link "transfers to airline and hotel partners" [ref=e468] [cursor=pointer]:
+                      - /url: /credit-cards/citi-thankyou-points-transfer-partners/
+                - heading "Using the Citi ThankYou Travel Portal" [level=3] [ref=e469]
+                - paragraph [ref=e470]: Citi ThankYou cardholders can redeem points for flights through the Citi ThankYou travel portal at a rate of 1 cent per point.
+                - paragraph [ref=e471]: The Citi ThankYou travel portal is a useful tool because it allows you to use your reward points with airlines other than the Citi ThankYou airline partners.
+                - 'figure "Citi ThankYou travel portal. Image Credit: Citi" [ref=e473]':
+                  - img "Citi Travel Center" [ref=e475]
+                  - generic [ref=e476]: "Citi ThankYou travel portal. Image Credit: Citi"
+                - paragraph [ref=e477]:
+                  - text: A great perk of using ThankYou Points to purchase flights via the Citi ThankYou travel portal is that
+                  - strong [ref=e478]: you will earn miles with the airline you fly
+                  - text: (or the airline you choose to credit the flight). In effect, this provides a nice rebate when you use ThankYou Points to book airfare.
+                - paragraph [ref=e479]:
+                  - text: Cardmembers can redeem ThankYou Points for flights at around a
+                  - strong [ref=e480]: rate of 1 cent per point
+                  - text: . This means that a $100 flight will cost 10,000 ThankYou Points.
+                - heading "Citi ThankYou Transfer Partners" [level=3] [ref=e481]
+                - paragraph [ref=e482]:
+                  - text: Citi airline partners include some great programs, such as
+                  - link "American Airlines AAdvantage" [ref=e483] [cursor=pointer]:
+                    - /url: /travel/airlines/american-airlines-aadvantage-loyalty-program/
+                  - text: ","
+                  - link "Cathay Pacific’s Cathay" [ref=e484] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-cathay-pacific-asia-miles/
+                  - text: ","
+                  - link "Etihad Guest" [ref=e485] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-etihad-guest-miles/
+                  - text: ","
+                  - link "JetBlue TrueBlue" [ref=e486] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-jetblue-trueblue-points/
+                  - text: ","
+                  - link "Avianca Lifemiles" [ref=e487] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-redeem-avianca-vuela-lifemiles/
+                  - text: ", and"
+                  - link "Turkish Airlines Miles&Smiles" [ref=e488] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-redeem-turkish-airlines-miles-smiles/
+                  - text: . You may get a 1:1 transfer rate or less, depending on the card you hold.
+                - table [ref=e492]:
+                  - rowgroup [ref=e493]:
+                    - row "Citi Transfer Partner (Minimum Transfer Is 1,000 Points) Premium Card Transfer Ratio (Citi > Partner) Non-Premium Card Transfer Ratio (Citi > Partner) Transfer Time" [ref=e494]:
+                      - cell "Citi Transfer Partner (Minimum Transfer Is 1,000 Points)" [ref=e495]:
+                        - paragraph [ref=e496]:
+                          - strong [ref=e497]: Citi Transfer Partner
+                        - paragraph [ref=e498]:
+                          - strong [ref=e499]: (Minimum Transfer Is 1,000 Points)
+                      - cell "Premium Card Transfer Ratio (Citi > Partner)" [ref=e500]:
+                        - paragraph [ref=e501]:
+                          - strong [ref=e502]: Premium Card Transfer Ratio
+                        - paragraph [ref=e503]:
+                          - strong [ref=e504]: (Citi > Partner)
+                      - cell "Non-Premium Card Transfer Ratio (Citi > Partner)" [ref=e505]:
+                        - paragraph [ref=e506]:
+                          - strong [ref=e507]: Non-Premium Card Transfer Ratio
+                        - paragraph [ref=e508]:
+                          - strong [ref=e509]: (Citi > Partner)
+                      - cell "Transfer Time" [ref=e510]:
+                        - paragraph [ref=e511]:
+                          - strong [ref=e512]: Transfer Time
+                    - row "Aeromexico Rewards 1:1 1:0.7 Almost Instantly" [ref=e513]:
+                      - cell "Aeromexico Rewards" [ref=e514]:
+                        - paragraph [ref=e515]:
+                          - link "Aeromexico Rewards" [ref=e516] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-aeromexico-rewards-points/
+                      - cell "1:1" [ref=e517]:
+                        - paragraph [ref=e518]: 1:1
+                      - cell "1:0.7" [ref=e519]:
+                        - paragraph [ref=e520]: 1:0.7
+                      - cell "Almost Instantly" [ref=e521]:
+                        - paragraph [ref=e522]: Almost Instantly
+                    - row "Air France-KLM Flying Blue 1:1 1:0.7 Almost Instantly" [ref=e523]:
+                      - cell "Air France-KLM Flying Blue" [ref=e524]:
+                        - paragraph [ref=e525]:
+                          - link "Air France-KLM Flying Blue" [ref=e526] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-air-france-klm-flying-blue-miles/
+                      - cell "1:1" [ref=e527]:
+                        - paragraph [ref=e528]: 1:1
+                      - cell "1:0.7" [ref=e529]:
+                        - paragraph [ref=e530]: 1:0.7
+                      - cell "Almost Instantly" [ref=e531]:
+                        - paragraph [ref=e532]: Almost Instantly
+                    - row "ALL – Accor Live Limitless 2:1 1:0.35 Almost Instantly" [ref=e533]:
+                      - cell "ALL – Accor Live Limitless" [ref=e534]:
+                        - paragraph [ref=e535]:
+                          - link "ALL – Accor Live Limitless" [ref=e536] [cursor=pointer]:
+                            - /url: /travel/hotels/all-accor-live-limitless-loyalty-program/
+                      - cell "2:1" [ref=e537]:
+                        - paragraph [ref=e538]: 2:1
+                      - cell "1:0.35" [ref=e539]:
+                        - paragraph [ref=e540]: 1:0.35
+                      - cell "Almost Instantly" [ref=e541]:
+                        - paragraph [ref=e542]: Almost Instantly
+                    - row "American Airlines AAdvantage 1:1 1:0.7 Almost Instantly" [ref=e543]:
+                      - cell "American Airlines AAdvantage" [ref=e544]:
+                        - paragraph [ref=e545]:
+                          - link "American Airlines AAdvantage" [ref=e546] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/american-airlines-aadvantage-loyalty-program/
+                      - cell "1:1" [ref=e547]:
+                        - paragraph [ref=e548]: 1:1
+                      - cell "1:0.7" [ref=e549]:
+                        - paragraph [ref=e550]: 1:0.7
+                      - cell "Almost Instantly" [ref=e551]:
+                        - paragraph [ref=e552]: Almost Instantly
+                    - row "Avianca Lifemiles 1:1 1:0.7 Almost Instantly" [ref=e553]:
+                      - cell "Avianca Lifemiles" [ref=e554]:
+                        - paragraph [ref=e555]:
+                          - link "Avianca Lifemiles" [ref=e556] [cursor=pointer]:
+                            - /url: /travel/airlines/best-ways-to-redeem-avianca-vuela-lifemiles/
+                      - cell "1:1" [ref=e557]:
+                        - paragraph [ref=e558]: 1:1
+                      - cell "1:0.7" [ref=e559]:
+                        - paragraph [ref=e560]: 1:0.7
+                      - cell "Almost Instantly" [ref=e561]:
+                        - paragraph [ref=e562]: Almost Instantly
+                    - row "Cathay Pacific Cathay 1:1 1:0.7 Almost Instantly" [ref=e563]:
+                      - cell "Cathay Pacific Cathay" [ref=e564]:
+                        - paragraph [ref=e565]:
+                          - link "Cathay Pacific Cathay" [ref=e566] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-cathay-pacific-asia-miles/
+                      - cell "1:1" [ref=e567]:
+                        - paragraph [ref=e568]: 1:1
+                      - cell "1:0.7" [ref=e569]:
+                        - paragraph [ref=e570]: 1:0.7
+                      - cell "Almost Instantly" [ref=e571]:
+                        - paragraph [ref=e572]: Almost Instantly
+                    - row "Choice Privileges 1:2 1:1.4 Almost Instantly" [ref=e573]:
+                      - cell "Choice Privileges" [ref=e574]:
+                        - paragraph [ref=e575]:
+                          - link "Choice Privileges" [ref=e576] [cursor=pointer]:
+                            - /url: /travel/hotels/best-ways-to-redeem-choice-privileges-hotel-rewards-points/
+                      - cell "1:2" [ref=e577]:
+                        - paragraph [ref=e578]: 1:2
+                      - cell "1:1.4" [ref=e579]:
+                        - paragraph [ref=e580]: 1:1.4
+                      - cell "Almost Instantly" [ref=e581]:
+                        - paragraph [ref=e582]: Almost Instantly
+                    - row "Emirates Skywards 1:0.8 1:0.56 Almost Instantly" [ref=e583]:
+                      - cell "Emirates Skywards" [ref=e584]:
+                        - paragraph [ref=e585]:
+                          - link "Emirates Skywards" [ref=e586] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+                      - cell "1:0.8" [ref=e587]:
+                        - paragraph [ref=e588]: 1:0.8
+                      - cell "1:0.56" [ref=e589]:
+                        - paragraph [ref=e590]: 1:0.56
+                      - cell "Almost Instantly" [ref=e591]:
+                        - paragraph [ref=e592]: Almost Instantly
+                    - row "Etihad Guest 1:1 1:0.7 Almost Instantly" [ref=e593]:
+                      - cell "Etihad Guest" [ref=e594]:
+                        - paragraph [ref=e595]:
+                          - link "Etihad Guest" [ref=e596] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-etihad-guest-miles/
+                      - cell "1:1" [ref=e597]:
+                        - paragraph [ref=e598]: 1:1
+                      - cell "1:0.7" [ref=e599]:
+                        - paragraph [ref=e600]: 1:0.7
+                      - cell "Almost Instantly" [ref=e601]:
+                        - paragraph [ref=e602]: Almost Instantly
+                    - row "EVA Air Infinity MileageLands 1:1 1:0.7 2 Days" [ref=e603]:
+                      - cell "EVA Air Infinity MileageLands" [ref=e604]:
+                        - paragraph [ref=e605]:
+                          - link "EVA Air Infinity MileageLands" [ref=e606] [cursor=pointer]:
+                            - /url: /travel/airlines/best-ways-to-redeem-eva-air-miles/
+                      - cell "1:1" [ref=e607]:
+                        - paragraph [ref=e608]: 1:1
+                      - cell "1:0.7" [ref=e609]:
+                        - paragraph [ref=e610]: 1:0.7
+                      - cell "2 Days" [ref=e611]:
+                        - paragraph [ref=e612]: 2 Days
+                    - row "JetBlue TrueBlue 1:1 1:0.7 Almost Instantly" [ref=e613]:
+                      - cell "JetBlue TrueBlue" [ref=e614]:
+                        - paragraph [ref=e615]:
+                          - link "JetBlue TrueBlue" [ref=e616] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-jetblue-trueblue-points/
+                      - cell "1:1" [ref=e617]:
+                        - paragraph [ref=e618]: 1:1
+                      - cell "1:0.7" [ref=e619]:
+                        - paragraph [ref=e620]: 1:0.7
+                      - cell "Almost Instantly" [ref=e621]:
+                        - paragraph [ref=e622]: Almost Instantly
+                    - row "Leading Hotels of the World Leaders Club 5:1 1:0.14 Almost Instantly" [ref=e623]:
+                      - cell "Leading Hotels of the World Leaders Club" [ref=e624]:
+                        - paragraph [ref=e625]:
+                          - link "Leading Hotels of the World Leaders Club" [ref=e626] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/hotels/leading-hotels-of-the-world-leaders-club-loyalty-program/
+                      - cell "5:1" [ref=e627]:
+                        - paragraph [ref=e628]: 5:1
+                      - cell "1:0.14" [ref=e629]:
+                        - paragraph [ref=e630]: 1:0.14
+                      - cell "Almost Instantly" [ref=e631]:
+                        - paragraph [ref=e632]: Almost Instantly
+                    - row "Preferred Hotels & Resorts I Prefer 1:4 1:2.8 Unknown" [ref=e633]:
+                      - cell "Preferred Hotels & Resorts I Prefer" [ref=e634]:
+                        - paragraph [ref=e635]: Preferred Hotels & Resorts I Prefer
+                      - cell "1:4" [ref=e636]:
+                        - paragraph [ref=e637]: 1:4
+                      - cell "1:2.8" [ref=e638]:
+                        - paragraph [ref=e639]: 1:2.8
+                      - cell "Unknown" [ref=e640]:
+                        - paragraph [ref=e641]: Unknown
+                    - row "Qantas Frequent Flyer 1:1 1:0.7 Almost Instantly" [ref=e642]:
+                      - cell "Qantas Frequent Flyer" [ref=e643]:
+                        - paragraph [ref=e644]:
+                          - link "Qantas Frequent Flyer" [ref=e645] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-qantas-points/
+                      - cell "1:1" [ref=e646]:
+                        - paragraph [ref=e647]: 1:1
+                      - cell "1:0.7" [ref=e648]:
+                        - paragraph [ref=e649]: 1:0.7
+                      - cell "Almost Instantly" [ref=e650]:
+                        - paragraph [ref=e651]: Almost Instantly
+                    - row "Qatar Airways Privilege Club 1:1 1:0.7 2 Days" [ref=e652]:
+                      - cell "Qatar Airways Privilege Club" [ref=e653]:
+                        - paragraph [ref=e654]:
+                          - link "Qatar Airways Privilege Club" [ref=e655] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-qatar-avios/
+                      - cell "1:1" [ref=e656]:
+                        - paragraph [ref=e657]: 1:1
+                      - cell "1:0.7" [ref=e658]:
+                        - paragraph [ref=e659]: 1:0.7
+                      - cell "2 Days" [ref=e660]:
+                        - paragraph [ref=e661]: 2 Days
+                    - row "Singapore Airlines KrisFlyer 1:1 1:0.7 2 Days" [ref=e662]:
+                      - cell "Singapore Airlines KrisFlyer" [ref=e663]:
+                        - paragraph [ref=e664]:
+                          - link "Singapore Airlines KrisFlyer" [ref=e665] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/
+                      - cell "1:1" [ref=e666]:
+                        - paragraph [ref=e667]: 1:1
+                      - cell "1:0.7" [ref=e668]:
+                        - paragraph [ref=e669]: 1:0.7
+                      - cell "2 Days" [ref=e670]:
+                        - paragraph [ref=e671]: 2 Days
+                    - row "Thai Airways Royal Orchid Plus 1:1 1:0.7 4 Days" [ref=e672]:
+                      - cell "Thai Airways Royal Orchid Plus" [ref=e673]:
+                        - paragraph [ref=e674]:
+                          - link "Thai Airways Royal Orchid Plus" [ref=e675] [cursor=pointer]:
+                            - /url: /travel/airlines/best-ways-to-redeem-thai-airways-royal-orchid-plus-miles/
+                      - cell "1:1" [ref=e676]:
+                        - paragraph [ref=e677]: 1:1
+                      - cell "1:0.7" [ref=e678]:
+                        - paragraph [ref=e679]: 1:0.7
+                      - cell "4 Days" [ref=e680]:
+                        - paragraph [ref=e681]: 4 Days
+                    - row "Turkish Airlines Miles&Smiles 1:1 1:0.7 Almost Instantly" [ref=e682]:
+                      - cell "Turkish Airlines Miles&Smiles" [ref=e683]:
+                        - paragraph [ref=e684]:
+                          - link "Turkish Airlines Miles&Smiles" [ref=e685] [cursor=pointer]:
+                            - /url: /travel/airlines/best-ways-to-redeem-turkish-airlines-miles-smiles/
+                      - cell "1:1" [ref=e686]:
+                        - paragraph [ref=e687]: 1:1
+                      - cell "1:0.7" [ref=e688]:
+                        - paragraph [ref=e689]: 1:0.7
+                      - cell "Almost Instantly" [ref=e690]:
+                        - paragraph [ref=e691]: Almost Instantly
+                    - row "Virgin Atlantic Flying Club 1:1 1:0.7 Almost Instantly" [ref=e692]:
+                      - cell "Virgin Atlantic Flying Club" [ref=e693]:
+                        - paragraph [ref=e694]:
+                          - link "Virgin Atlantic Flying Club" [ref=e695] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-virgin-atlantic-miles/
+                      - cell "1:1" [ref=e696]:
+                        - paragraph [ref=e697]: 1:1
+                      - cell "1:0.7" [ref=e698]:
+                        - paragraph [ref=e699]: 1:0.7
+                      - cell "Almost Instantly" [ref=e700]:
+                        - paragraph [ref=e701]: Almost Instantly
+                    - row "Wyndham Rewards 1:1 1:0.7 Within 24 Hours" [ref=e702]:
+                      - cell "Wyndham Rewards" [ref=e703]:
+                        - paragraph [ref=e704]:
+                          - link "Wyndham Rewards" [ref=e705] [cursor=pointer]:
+                            - /url: /travel/hotels/best-ways-to-use-wyndham-points/
+                      - cell "1:1" [ref=e706]:
+                        - paragraph [ref=e707]: 1:1
+                      - cell "1:0.7" [ref=e708]:
+                        - paragraph [ref=e709]: 1:0.7
+                      - cell "Within 24 Hours" [ref=e710]:
+                        - paragraph [ref=e711]: Within 24 Hours
+                - paragraph [ref=e713]: Advertisement
+                - heading "The 28 Best Ways To Use Your Citi ThankYou Points" [level=2] [ref=e714]:
+                  - strong [ref=e716]: The 28 Best Ways To Use Your Citi ThankYou Points
+                - paragraph [ref=e717]:
+                  - text: Sure, you could use your points for statement credits, gift cards, or one of the other redemption options. But
+                  - strong [ref=e718]: to get the maximum value from your Citi ThankYou Points, you should transfer your points to frequent flyer programs.
+                - paragraph [ref=e719]: These redemptions are especially valuable for international flights.
+                - paragraph [ref=e720]:
+                  - text: Please keep in mind that these options aren’t the
+                  - emphasis [ref=e721]: only
+                  - text: options for redemption, but are some of the
+                  - emphasis [ref=e722]: best
+                  - text: ways to use your Citi ThankYou Points to boost your points’ value.
+                - paragraph [ref=e723]:
+                  - generic [ref=e724]:
+                    - strong [ref=e725]: "Hot Tip:"
+                    - text: Need to earn points first? See our article on the
+                    - link "best ways to earn Citi ThankYou Points" [ref=e726] [cursor=pointer]:
+                      - /url: /credit-cards/how-to-earn-citi-thankyou-points/
+                    - text: .
+                - heading "1. Fly Singapore Suites on the A380 (KrisFlyer)" [level=3] [ref=e727]:
+                  - strong [ref=e729]: 1. Fly Singapore Suites on the A380 (KrisFlyer)
+                - 'figure "Singapore Airlines’ new A380 Suites features a double bed and separate lounge chair. Image Credit: Greg Stone" [ref=e731]':
+                  - link "Singapore Airlines new A380 First Suite Double Bed" [ref=e732] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/11/33-Singapore-Airlines-new-A380-First-Suite-Double-Bed.jpg?auto=webp&disable=upscale
+                    - img "Singapore Airlines new A380 First Suite Double Bed" [ref=e734]
+                  - generic [ref=e735]:
+                    - text: "Singapore Airlines’ new A380 Suites features a double bed and separate lounge chair. Image Credit:"
+                    - link "Greg Stone" [ref=e736] [cursor=pointer]:
+                      - /url: /travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/
+                - paragraph [ref=e737]:
+                  - text: Many people transfer points to
+                  - link "Singapore Airlines’ KrisFlyer" [ref=e738] [cursor=pointer]:
+                    - /url: /travel/airlines/singapore-airlines-krisflyer-loyalty-program/
+                  - text: so that they can experience
+                  - link "Singapore Suites," [ref=e739] [cursor=pointer]:
+                    - /url: /travel/airlines/singapore-suites-a380-review/
+                  - text: one of the premier first class products available. If you have a travel date, you can even enjoy a double bed in the sky! It’s safe to say this is one experience you don’t want to miss.
+                - paragraph [ref=e740]: There is only 1 option to fly Singapore Suites from the U.S., and that’s out of New York. For 106,500 miles you can try Suites from New York to Frankfurt.
+                - paragraph [ref=e741]: If 7 hours in suites class isn’t enough, you can continue on to Singapore for a total of 156,000 miles. Feeling adventurous? You can fly from New York to Sydney for 203,000 miles, which would give you over 24 hours in luxury!
+                - paragraph [ref=e742]: If you aren’t based in New York, you can still enjoy suites after connecting there to start your journey.
+                - paragraph [ref=e743]:
+                  - text: Need help booking? See our step-by-step guide for
+                  - link "booking Singapore Suites or first class" [ref=e744] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-singapore-airlines-first-class/
+                  - text: .
+                - heading "2. Fly United Domestic Economy or Business Class (KrisFlyer)" [level=3] [ref=e745]:
+                  - strong [ref=e747]: 2. Fly United Domestic Economy or Business Class (KrisFlyer)
+                - paragraph [ref=e748]: If you’re looking for a transcontinental flight on United you can use KrisFlyer miles.
+                - paragraph [ref=e749]: One-way in business class costs 29,000 KrisFlyer miles, and one-way in economy class will cost 15,000 KrisFlyer miles.
+                - heading "3. Fly Between the Continental U.S. and Hawaii (KrisFlyer)" [level=3] [ref=e750]:
+                  - strong [ref=e751]: 3. Fly Between the Continental U.S. and Hawaii (KrisFlyer)
+                - 'figure "United Boeing 777 economy cabin. Image Credit: Ryan Smith" [ref=e753]':
+                  - img "United Boeing 777 200 economy seats in front cabin" [ref=e755]
+                  - generic [ref=e756]: "United Boeing 777 economy cabin. Image Credit: Ryan Smith"
+                - paragraph [ref=e757]:
+                  - text: Flying to Hawaii is, without a doubt, one of the most popular uses of miles and reward points. KrisFlyer again provides a great way to utilize the
+                  - link "Star Alliance network" [ref=e758] [cursor=pointer]:
+                    - /url: /travel/airlines/the-star-alliance/
+                  - text: .
+                - paragraph [ref=e759]: For economy or business/first class flights, you will need 20,500 or 43,000 Krisflyer miles, respectively. United charges much more than that for the same flights in many cases.
+                - heading "4. Fly to Europe From the U.S. (AAdvantage)" [level=3] [ref=e760]:
+                  - strong [ref=e761]: 4. Fly to Europe From the U.S. (AAdvantage)
+                - paragraph [ref=e762]:
+                  - text: Looking for a
+                  - link "cheap way to get to Europe" [ref=e763] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-europe-with-points/
+                  - text: "? You can get a one-way flight in economy class on a"
+                  - link "Oneworld alliance partner" [ref=e764] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/oneworld-alliance/
+                  - text: for only 22,500 American AAdvantage miles during off-peak season. AA partners that fly to Europe include British Airways, Finnair, and Iberia.
+                - paragraph [ref=e765]: "The AAdvantage program classifies the following dates as off-peak for travel to europe: January 10 – March 14, November 1 – December 14."
+                - heading "5. Fly to the Middle East or North Africa From the U.S. (AAdvantage)" [level=3] [ref=e766]:
+                  - strong [ref=e767]: 5. Fly to the Middle East or North Africa From the U.S. (AAdvantage)
+                - paragraph [ref=e768]:
+                  - text: The AAdvantage program has some amazing partner redemption options to the
+                  - link "Middle East and North Africa" [ref=e769] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-middle-east-and-north-africa-with-points/
+                  - text: ": one-way in economy class for 40,000 miles, one-way in business for 70,000-75,000 miles, or one-way in first class for 115,000-120,00 miles."
+                - paragraph [ref=e770]: You can fly these routes on Qatar Airways, Royal Air Maroc, or Royal Jordanian Airlines.
+                - heading "6. Fly From the U.S. to Central or South Africa (KrisFlyer)" [level=3] [ref=e771]:
+                  - strong [ref=e772]: 6. Fly From the U.S. to Central or South Africa (KrisFlyer)
+                - paragraph [ref=e773]:
+                  - text: Flying to central and
+                  - link "South Africa" [ref=e774] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-south-africa-with-points-and-miles/
+                  - text: is not always easy and often expensive, but KrisFlyer provides a great option in business class. You can book a one-way flight on a Star Alliance partner in business class for 122,500 miles.
+                - heading "7. Fly From Los Angeles to Tokyo (KrisFlyer)" [level=3] [ref=e775]:
+                  - strong [ref=e776]: 7. Fly From Los Angeles to Tokyo (KrisFlyer)
+                - 'figure "Singapore Airlines First Class. Image Credit: Greg Stone" [ref=e778]':
+                  - img "Singapore Airlines Boeing 777 First Class - From Rear" [ref=e780]
+                  - generic [ref=e781]: "Singapore Airlines First Class. Image Credit: Greg Stone"
+                - paragraph [ref=e782]: Check out Singapore Airlines flights from Los Angeles to Tokyo. For 132,500 miles, you can enjoy a great first class experience.
+                - heading "8. Fly From San Francisco to Singapore (KrisFlyer)" [level=3] [ref=e783]
+                - 'figure "Singapore Airlines Airbus A350 business class. Image Credit: Greg Stone" [ref=e785]':
+                  - link "Singapore Airlines Airbus A350 Business Class" [ref=e786] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/07/05-Singapore-Airlines-Airbus-A350-Business-Class-Middle-Seat-Bulkhead-Legroom.jpg?auto=webp&disable=upscale
+                    - img "Singapore Airlines Airbus A350 Business Class" [ref=e788]
+                  - generic [ref=e789]: "Singapore Airlines Airbus A350 business class. Image Credit: Greg Stone"
+                - paragraph [ref=e790]:
+                  - text: If you’re looking for a premium experience to
+                  - link "Southeast Asia" [ref=e791] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-fly-to-southeast-asia-with-points/
+                  - text: ", you can use KrisFlyer miles to fly Singapore first class class to"
+                  - link "Singapore" [ref=e792] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-singapore-with-points-and-miles/
+                  - text: for 154,000 miles or business class for 112,500.
+                - paragraph [ref=e793]:
+                  - text: Need help booking? See our step-by-step guide for
+                  - link "booking Singapore business class using points" [ref=e794] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-singapore-airlines-business-class/
+                  - text: .
+                - heading "9. Fly Virgin Atlantic Upper Class to Europe (Virgin Atlantic Flying Club)" [level=3] [ref=e795]
+                - 'figure "Virgin Atlantic Airbus A350 Upper Class Cabin from Front. Image Credit: Greg Stone" [ref=e797]':
+                  - img "Virgin Atlantic Airbus A350 Upper Class Cabin from Front" [ref=e799]
+                  - generic [ref=e800]: "Virgin Atlantic Airbus A350 Upper Class Cabin from Front. Image Credit: Greg Stone"
+                - paragraph [ref=e801]:
+                  - text: By transferring Citi ThankYou points to
+                  - link "Virgin Atlantic Flying Club" [ref=e802] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/how-to-redeem-virgin-atlantic-miles/
+                  - text: ", you can experience Upper Class for as few as 28,500 miles one-way. These saver awards can offer terrific value on a ticket that would otherwise cost thousands of dollars."
+                - paragraph [ref=e803]: Even if you can’t find a saver award, you’ll still find Upper Class seats to the U.K. for around 47,500 to 77,500 points each way. The exact number of points will depend on your departure city and travel dates.
+                - paragraph [ref=e804]:
+                  - strong [ref=e805]: Need Help Booking?
+                  - text: Check out our step-by-step guide to
+                  - link "booking Virgin Atlantic Upper Class using points" [ref=e806] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-virgin-atlantic-upper-class/
+                  - text: .
+                - heading "10. Fly Lufthansa First Class to Europe (Avianca Lifemiles)" [level=3] [ref=e807]
+                - 'figure "Seats 1A and 1K. Image Credit: Cherag Dubash" [ref=e809]':
+                  - link "Lufthansa B747-8 First Class Seat" [ref=e810] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/10/Lufthansa_B747-8_First_Class_Seat_1A_1K_Cherag_Dubash.jpg?auto=webp&disable=upscale
+                    - img "Lufthansa B747-8 First Class Seat" [ref=e812]
+                  - generic [ref=e813]:
+                    - text: "Seats 1A and 1K. Image Credit:"
+                    - link "Cherag Dubash" [ref=e814] [cursor=pointer]:
+                      - /url: /author/cherag/
+                - paragraph [ref=e815]: Without a doubt, Lufthansa first class is an aspirational experience that should be on your list. For 87,000 Avianca Lifemiles, you can fly to Europe and enjoy one of the best first class products in the sky.
+                - paragraph [ref=e816]: To top it off, if you connect in Frankfurt, you will have a chance to visit the Lufthansa First Class Terminal. This is a lounge experience of a lifetime, so make sure your connection leaves you a few hours.
+                - paragraph [ref=e817]: Best of all, you won’t be hit with enormous fuel surcharges!
+                - paragraph [ref=e818]:
+                  - strong [ref=e819]: Need help booking?
+                  - text: Check out our step-by-step
+                  - link "guide to booking Lufthansa first class" [ref=e820] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-lufthansa-first-class/
+                  - text: .
+                - heading "11. Fly Between the South Pacific Islands (KrisFlyer)" [level=3] [ref=e821]
+                - paragraph [ref=e822]: If you’d like to visit some South Pacific islands, KrisFlyer miles can be a great choice.
+                - paragraph [ref=e823]: Singapore charges 14,500 miles in economy. At 38,000 miles for business, KrisFlyer is no longer the great deal it used to be. United charges 30,000 miles for business class, in comparison.
+                - paragraph [ref=e824]:
+                  - text: Availability on this one can be tough, but it will be worth the effort if you can make it work with your schedule. You can learn about more
+                  - link "KrisFlyer redemptions" [ref=e825] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/
+                  - text: by using Singapore Airlines’ Star Alliance award chart.
+                - heading "12. Fly Air France or KLM With Promo Rewards (Flying Blue)" [level=3] [ref=e826]
+                - 'figure "Use your Citi ThankYou Points to access Air France business class! Image Credit: Nick Ellis" [ref=e828]':
+                  - img "Air France 777 Business Class Business Class Cabin From Front" [ref=e830]
+                  - generic [ref=e831]:
+                    - text: "Use your Citi ThankYou Points to access Air France business class! Image Credit:"
+                    - link "Nick Ellis" [ref=e832] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/nick/
+                - paragraph [ref=e833]:
+                  - link "Air France/KLM Flying Blue" [ref=e834] [cursor=pointer]:
+                    - /url: /travel/airlines/flying-blue-air-france-klm-loyalty-program/
+                  - text: utilizes a variable award pricing calculator, which it says is tied to revenue prices. This simply isn’t true; as a result, it’s very difficult to pin down an exact cost, as there are many award pricing levels now.
+                - paragraph [ref=e835]:
+                  - text: Probably the best way to
+                  - link "use the Flying Blue program" [ref=e836] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-air-france-klm-flying-blue-miles/
+                  - text: is its
+                  - link "Promo Rewards" [ref=e837] [cursor=pointer]:
+                    - /url: /news/flying-blue-promo-rewards/
+                  - text: . These awards run throughout the year and change every few months. You will generally receive a 25% to 50% discount on economy and business class award tickets from Europe to specific cities.
+                - paragraph [ref=e838]: Typically, Flying Blue awards between the U.S. and Europe cost 25,000 miles for economy class and 60,000 miles for business class. With just a 25% discount, that drops the mileage cost to 18,759 miles and 45,000 miles, respectively.
+                - paragraph [ref=e839]:
+                  - text: Flying Blue award flights
+                  - emphasis [ref=e840]: do
+                  - text: incur surcharges, so keep that in mind when booking these. Even with the surcharges, though, these awards can provide great value.
+                - paragraph [ref=e841]:
+                  - generic [ref=e842]:
+                    - strong [ref=e843]: "Hot Tip:"
+                    - text: If you need extra Flying Blue miles, you can also transfer any points you have with your Chase Ultimate Rewards cards, including the
+                    - link "Chase Sapphire Preferred® Card" [ref=e844] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                      - text: Chase Sapphire Preferred
+                      - superscript [ref=e845]: ®
+                      - text: Card
+                    - text: and
+                    - link "Ink Business Preferred® Credit Card" [ref=e846] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/chase-ink-business-preferred-credit-card/
+                      - text: Ink Business Preferred
+                      - superscript [ref=e847]: ®
+                      - text: Credit Card
+                    - text: .
+                - heading "13. Take Advantage of a Broad Definition of Europe (Flying Blue)" [level=3] [ref=e848]
+                - paragraph [ref=e849]: Flying Blue really shines with its broad definition of Europe. This gives you access to countries such as Algeria, Morocco, Tunisia, and the Canary Islands at a lower redemption level.
+                - 'figure "Image Credit: Daniel Ross" [ref=e851]':
+                  - img "Air France Business Class London Heathrow Airbus A220" [ref=e853]
+                  - generic [ref=e854]: "Image Credit: Daniel Ross"
+                - paragraph [ref=e855]: As mentioned above, a one-way business class award flight to “Europe” will cost 60,000 miles, which is a solid redemption. If you’re booking an economy class award flight, 25,000 miles for a one-way flight to North Africa is a fantastic deal.
+                - heading "14. Fly to Hawaii From the Continental U.S. (Flying Blue)" [level=3] [ref=e856]
+                - 'figure "Delta One cabin. Image Credit: Stella Shon" [ref=e858]':
+                  - img "Delta One Cabin" [ref=e860]
+                  - generic [ref=e861]:
+                    - text: "Delta One cabin. Image Credit:"
+                    - link "Stella Shon" [ref=e862] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/stella/
+                - paragraph [ref=e863]:
+                  - text: Another great redemption option is for flights from the continental U.S. to Hawaii. At only 15,000 miles for economy class and 30,000 miles for business class award flights on Flying Blue partner
+                  - link "Delta" [ref=e864] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-delta-skymiles/
+                  - text: ", these are among the cheapest options available."
+                - paragraph [ref=e865]:
+                  - text: This is actually cheaper than using Delta’s own SkyMiles program to book an award flight with Delta! Read this article for more
+                  - link "ideas on using Flying Blue miles" [ref=e866] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-air-france-klm-flying-blue-miles/
+                  - text: .
+                - heading "15. Fly to Mexico at Domestic Redemption Rates (Flying Blue)" [level=3] [ref=e867]
+                - paragraph [ref=e868]:
+                  - text: Unlike many programs, Flying Blue includes
+                  - link "Mexico" [ref=e869] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-mexico-with-points/
+                  - text: in the same region as the U.S. rather than the Caribbean and Central America. Because of this, you can book a one-way award flight from the U.S. to Mexico for only 12,500 miles.
+                - heading "16. Fly From the U.S. to the Caribbean (Flying Blue)" [level=3] [ref=e870]
+                - paragraph [ref=e871]:
+                  - text: Speaking of the
+                  - link "Caribbean" [ref=e872] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-the-caribbean-with-points/
+                  - text: ", you can book an award flight from the U.S. for 15,000 miles one-way. This means you will save at least 5,000 miles per round-trip flight compared to using a U.S. carrier’s program."
+                - heading "17. Cheap Awards to Australia and the South Pacific (Flying Blue)" [level=3] [ref=e873]
+                - paragraph [ref=e874]:
+                  - text: Flying Blue provides a solid redemption option to the
+                  - link "South Pacific" [ref=e875] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-fly-to-the-south-pacific-with-points/
+                  - text: ", with one-way business class award flights costing 75,000 miles. The program also provides the cheapest award option in economy class at 48,000 miles one-way."
+                - paragraph [ref=e876]:
+                  - text: At these rates to
+                  - link "Australia" [ref=e877] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-australia-with-points/
+                  - text: ", Flying Blue becomes a competitive program for flights down under. You can also fly directly from Los Angeles (LAX) to Tahiti (PPT) for 25,500 Flying Blue miles!"
+                - paragraph [ref=e878]:
+                  - text: To see how many miles you would need for an award flight, check out
+                  - link "Flying Blue’s miles price estimator" [ref=e879] [cursor=pointer]:
+                    - /url: https://www.flyingblue.us/en/earn-spend/flights/reward-tickets
+                  - text: .
+                - heading "18. A Cheap Business Class Flight to Europe (Etihad)" [level=3] [ref=e880]
+                - paragraph [ref=e881]: While Etihad may not be a member of a major airline alliance, it does have tons of partners. It also has a different award chart for each partner airline. Though the booking process may be tedious, there are some solid awards to be found.
+                - paragraph [ref=e882]: One of these bookings is a round-trip business class trip on Brussels Airlines between New York (JFK) and Brussels (BRU) for 88,000 miles. You can book a round-trip economy class award flight for only 54,000 miles if economy is more your style. The same redemption rates can also be found from Toronto (YYZ) and Washington, D.C. (IAD).
+                - paragraph [ref=e883]: Availability can be tough to find, but for one of the best award flight deals, it’s definitely worth the patience!
+                - heading "19. Fly American Airlines in Flagship Business or Flagship First (Etihad)" [level=3] [ref=e884]
+                - 'figure "Flying American Airlines in business class using Etihad Guest is a steal! Image Credit: Chris Hassan" [ref=e886]':
+                  - img "American Airlines First Flagship Business Class Miami to Boston aisle" [ref=e888]
+                  - generic [ref=e889]:
+                    - text: "Flying American Airlines in business class using Etihad Guest is a steal! Image Credit:"
+                    - link "Chris Hassan" [ref=e890] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/chrishassan/
+                - paragraph [ref=e891]: Etihad’s award chart for American allows you to book flights on American Airlines at some exceptional prices.
+                - paragraph [ref=e892]:
+                  - text: Let’s take a look at some of the great options you have by flying
+                  - link "American Flagship First or Flagship Business" [ref=e893] [cursor=pointer]:
+                    - /url: /travel/airlines/american-flagship/
+                  - text: "with Etihad miles:"
+                - list [ref=e894]:
+                  - listitem [ref=e895]: Fly to Europe for 50,000 miles in business class or 62,500 miles in first class
+                  - listitem [ref=e896]: Fly to Asia 1 (Japan, Korea, Mongolia) for 50,000 miles in business class or 62,500 miles in first class
+                  - listitem [ref=e897]: Fly to Asia 2 (China, Thailand, Malaysia, Singapore, etc.) for 55,000 miles in business class and 67,500 miles in first class
+                  - listitem [ref=e898]: Fly to the South Pacific (Australia, New Zealand, Fiji, etc.) for 62,500 in business class and 67,500 in first class
+                - paragraph [ref=e899]:
+                  - strong [ref=e900]: Need Help Booking?
+                  - text: See our step-by-step instructions on booking
+                  - link "American Airlines first class" [ref=e901] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-american-airlines-first-class/
+                  - text: or
+                  - link "business class" [ref=e902] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-american-airlines-business-class/
+                  - text: using points.
+                - heading "20. Fly Royal Air Maroc to Casablanca (Etihad)" [level=3] [ref=e903]
+                - 'figure "Maybe you haven’t heard much about Royal Air Maroc, but keep them in mind if you want to visit Morocco! Image Credit: Ryan Smith" [ref=e905]':
+                  - img "Royal Air Maroc B787 business class cabin" [ref=e907]
+                  - generic [ref=e908]:
+                    - text: "Maybe you haven’t heard much about Royal Air Maroc, but keep them in mind if you want to visit Morocco! Image Credit:"
+                    - link "Ryan Smith" [ref=e909] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/ryansmith/
+                - paragraph [ref=e910]:
+                  - link "Etihad’s award chart for Royal Air Maroc" [ref=e911] [cursor=pointer]:
+                    - /url: https://www.etihadguest.com/en/spend-miles/flying/royal-air-maroc.html
+                  - text: is distance-based. For flights of 2,001 miles or more on Royal Air Maroc, you can book a one-way ticket in economy for 22,000 miles or business for 44,000 miles.
+                - paragraph [ref=e912]: This includes the routes between New York (JFK) to Casablanca (CMN), Miami (MIA) to Casablanca (CMN), and Washington, D.C. (IAD) to Casablanca (CMN), which is an amazing way to reach North Africa!
+                - heading "21. Fly Oman Air in Business Class (Etihad)" [level=3] [ref=e913]
+                - 'figure "Experience a great business class product on an under-the-radar airline, Oman Air. Image Credit: Cherag Dubash" [ref=e915]':
+                  - img "Oman Air B787-9 Business Class - Cherag Dubash" [ref=e917]
+                  - generic [ref=e918]: "Experience a great business class product on an under-the-radar airline, Oman Air. Image Credit: Cherag Dubash"
+                - paragraph [ref=e919]: Etihad has 2 great award flights on Oman Air. If you are in London, you can fly from London to Muscat one-way in business class for 44,000 miles.
+                - paragraph [ref=e920]:
+                  - text: If you are already in the Middle East, check out Oman Air’s route between Muscat and Singapore. For only 42,000 Etihad miles, you can fly one-way in
+                  - link "business class on Oman Air" [ref=e921] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-oman-air-business-class-with-points/
+                  - text: .
+                - paragraph [ref=e922]: While not as well known as some major international airlines, Oman Air’s business class has received great reviews.
+                - heading "22. Fly Delta One Suites Round-trip (Virgin Atlantic)" [level=3] [ref=e923]:
+                  - strong [ref=e925]: 22. Fly Delta One Suites Round-trip (Virgin Atlantic)
+                - 'figure "Delta One Suites A350-900. Image Credit: Stephen Au" [ref=e927]':
+                  - link "Delta One Suites A350-900" [ref=e928] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/10/Delta-One-Suites-A350-900-1.jpg?auto=webp&disable=upscale
+                    - img "Delta One Suites A350-900" [ref=e930]
+                  - generic [ref=e931]:
+                    - text: "Delta One Suites A350-900. Image Credit:"
+                    - link "Stephen Au" [ref=e932] [cursor=pointer]:
+                      - /url: /author/stephen/
+                - paragraph [ref=e933]: Have you always wanted to try Delta One Suites, the phenomenal business class product from Delta Air Lines? You’re in luck! Virgin Atlantic, a Delta partner, has some of the best redemption rates for Delta One Suites.
+                - paragraph [ref=e934]: "Here are the routes you can take:"
+                - paragraph [ref=e935]:
+                  - strong [ref=e936]: A350 Routes
+                - generic [ref=e937]:
+                  - paragraph
+                  - list [ref=e938]:
+                    - listitem [ref=e939]: Atlanta (ATL) – Seoul (ICN)
+                    - listitem [ref=e940]: Detroit (DTW) – Amsterdam (AMS)
+                    - listitem [ref=e941]: Detroit (DTW) – Beijing (PEK)
+                    - listitem [ref=e942]: Detroit (DTW) – Seoul (ICN)
+                    - listitem [ref=e943]: Detroit (DTW) – Shanghai (PVG)
+                    - listitem [ref=e944]: Detroit (DTW) – Tokyo (NRT)
+                    - listitem [ref=e945]: Los Angeles (LAX) – Shanghai (PVG)
+                    - listitem [ref=e946]: Los Angeles (LAX) – Tokyo (HND)
+                    - listitem [ref=e947]: Seattle (SEA) – Tokyo (NRT)
+                  - paragraph
+                - paragraph [ref=e948]: In general, the best sweet spots are flights between the U.S. and Europe (excluding the United Kingdom), which start at 47,500 miles one-way in Delta One Suites. All other flights will be significantly more expensive, including flights to the U.K., Asia, and Australia.
+                - paragraph [ref=e949]:
+                  - text: If you’d like to see some other great ways to
+                  - link "book Delta One flights" [ref=e950] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-delta-first-class/
+                  - text: ", check out our booking guide!"
+                - heading "23. U.S. to Australia on Cathay Pacific (Cathay Pacific Cathay)" [level=3] [ref=e951]
+                - 'figure "Cathay Pacific 777 first class is phenomenal. Image Credit: Stephen Au" [ref=e953]':
+                  - img "Cathay Pacific 777 first class cabin" [ref=e955]
+                  - generic [ref=e956]: "Cathay Pacific 777 first class is phenomenal. Image Credit: Stephen Au"
+                - paragraph [ref=e957]: On Cathay Pacific, U.S. to Australia awards now price under the ultra-long-haul one-way price of 115,000 miles in business or 160,000 in first.
+                - paragraph [ref=e958]: "Remember that for each of these award prices, you will need to stop in Hong Kong before continuing to Australia. Here are a few routes you can use:"
+                - list [ref=e959]:
+                  - listitem [ref=e960]:
+                    - strong [ref=e961]: Boston (BOS) – Hong Kong (HKG) – Adelaide (ADL)
+                  - listitem [ref=e962]:
+                    - strong [ref=e963]: Chicago (ORD) – Hong Kong (HKG) – Melbourne (MEL)
+                  - listitem [ref=e964]:
+                    - strong [ref=e965]: Los Angeles (LAX) – Hong Kong (HKG) – Brisbane (BNE)
+                  - listitem [ref=e966]:
+                    - strong [ref=e967]: New York (JFK) – Hong Kong (HKG) – Perth (PER)
+                  - listitem [ref=e968]:
+                    - strong [ref=e969]: San Francisco (SFO) – Hong Kong (HKG) – Sydney (SYD)
+                - heading "24. See 2 Asian Cities and 3 Pacific Islands (EVA Air)" [level=3] [ref=e970]
+                - 'figure "EVA Air 777-300ER Business Class. Image Credit: Stephen Au" [ref=e972]':
+                  - link "EVA Air 777-300ER business class" [ref=e973] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/06/EVA-Air-777-300ER-Business-Class.jpg?auto=webp&disable=upscale
+                    - img "EVA Air 777-300ER business class" [ref=e975]
+                  - generic [ref=e976]: "EVA Air 777-300ER Business Class. Image Credit: Stephen Au"
+                - paragraph [ref=e977]:
+                  - text: EVA Air’s
+                  - link "Infinity MileageLands" [ref=e978] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-earn-eva-air-infinity-mileagelands-miles/
+                  - text: program doesn’t provide many great options for award bookings, but it does have some solid options in Asia. It also allows 2 stopovers and an open-jaw on round-trip Star Alliance award flights.
+                - paragraph [ref=e979]: To see 3 islands and 2 Asian cities, you can fly round-trip in business class on United Airlines and Asiana for 55,000 miles.
+                - paragraph [ref=e980]: For example, you can start in Tokyo and stopover in Guam with Saipan as your destination. You can then open-jaw to Palau by using 12,500 United miles for an economy class flight. From Palau, you can then fly to Seoul for your second stopover before returning to Tokyo.
+                - heading "25. Fly to Hawaii, Then Central America (EVA Air)" [level=3] [ref=e981]
+                - paragraph [ref=e982]: If you want a fun island adventure, you can fly round-trip in business class for 80,000 EVA Air miles to see Hawaii and 2 Caribbean islands.
+                - paragraph [ref=e983]: "Here’s an example of a possible routing: fly from San Francisco to St. Thomas with a stopover in Hawaii, then open-jaw to St. Maarten, and finally stopover in Toronto before returning to San Francisco."
+                - heading "26. Fly Around Europe (EVA Air)" [level=3] [ref=e984]
+                - paragraph [ref=e985]: Another fun option with EVA Infinity MileageLand miles is to fly around Europe. For 30,000 miles in economy class or 55,000 miles in business class, you can see several cities in Europe.
+                - paragraph [ref=e986]: EVA Air’s award chart includes both Iceland and Russia in “Europe,” so you have a lot of options!
+                - paragraph [ref=e987]:
+                  - text: A sample routing could include a flight from Istanbul to Rome (stopover) and then on to Frankfurt (destination). You could then open-jaw to Berlin before flying to Copenhagen (stopover) and back to Istanbul. This route would include flights on
+                  - link "Turkish Airlines" [ref=e988] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/turkish-airlines-review/
+                  - text: ", and Lufthansa."
+                - paragraph [ref=e989]:
+                  - text: Other than the above options, Singapore Airlines is probably the better deal for transferring points from the Citi ThankYou reward program to a partner airline. For more award flights, see
+                  - link "EVA’s award charts" [ref=e990] [cursor=pointer]:
+                    - /url: https://www.evaair.com/en-us/infinity-mileagelands/mileage-award-program/mileage-redemption/award-ticket/eva-uni-air/
+                  - text: .
+                - paragraph [ref=e991]:
+                  - generic [ref=e992]:
+                    - strong [ref=e993]: "Hot Tip:"
+                    - text: For more information, check out these ways to
+                    - link "redeem EVA Air Miles for maximum value" [ref=e994] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-redeem-eva-air-miles/
+                    - text: .
+                - heading "27. Fly Qatar Airways in Business Class (Qatar)" [level=3] [ref=e995]
+                - 'figure "Qatar Airways Qsuites are a sight to see. Image Credit: Greg Stone" [ref=e997]':
+                  - img "Qatar Airways Boeing 777 Qsuite Business Class Cabin" [ref=e999]
+                  - generic [ref=e1000]: "Qatar Airways Qsuites are a sight to see. Image Credit: Greg Stone"
+                - paragraph [ref=e1001]:
+                  - text: The
+                  - link "Qatar Airways Privilege Club" [ref=e1002] [cursor=pointer]:
+                    - /url: /travel/airlines/qatar-airways-privilege-club-loyalty-program/
+                  - text: doesn’t provide a lot of great redemptions, but you can
+                  - link "fly in business class to Doha" [ref=e1003] [cursor=pointer]:
+                    - /url: /travel/airlines/qatar-airways-777-qsuites-business-class-review-sydney-to-doha/
+                  - text: at a reasonable redemption rate.
+                - paragraph [ref=e1004]: For 70,000 Avios, you can book a one-way award flight from the U.S. to Doha on Qatar Airways and experience one of the best business class products in the sky.
+                - paragraph [ref=e1005]:
+                  - text: "You can even try one of the most coveted business class products in the world:"
+                  - link "Qatar Airways Qsuites" [ref=e1006] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-qatar-qsuites-with-points-and-miles/
+                  - text: .
+                - heading "28. East Coast to Dubai Round-Trip on Emirates (Qantas)" [level=3] [ref=e1007]:
+                  - strong [ref=e1008]: 28. East Coast to Dubai Round-Trip on Emirates (Qantas)
+                - 'figure "Emirates A380 business class. Image Credit: Cherag Dubash" [ref=e1010]':
+                  - link "Emirates A380 Business Class" [ref=e1011] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/07/Emirates_Inaugural_Worlds_Shortest_A380_Flight_Business_Class_Seat_16K_Cherag_Dubash.jpg?auto=webp&disable=upscale
+                    - img "Emirates A380 Business Class" [ref=e1013]
+                  - generic [ref=e1014]: "Emirates A380 business class. Image Credit: Cherag Dubash"
+                - paragraph [ref=e1015]:
+                  - text: Emirates is known to have one of the best economy products and a
+                  - link "fantastic business class" [ref=e1016] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-emirates-business-class/
+                  - text: .
+                - paragraph [ref=e1017]:
+                  - text: There are several East Coast cities in this points range that
+                  - link "fly direct to Dubai" [ref=e1018] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-dubai-with-points/
+                  - text: ", including Boston (BOS), New York (JFK), and Toronto (YYZ). For Emirates award flights, you should reference the first"
+                  - link "Qantas award chart" [ref=e1019] [cursor=pointer]:
+                    - /url: https://www.qantas.com/au/en/frequent-flyer/use-points/classic-flight-rewards/tables.html
+                  - text: ; since the one-way distance is less than 7,000 flown miles, Zone 7 pricing applies.
+                - paragraph [ref=e1020]:
+                  - strong [ref=e1021]: Need Help Booking?
+                  - text: Read our guide on
+                  - link "how to book Emirates business class using points" [ref=e1022] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-emirates-business-class/
+                  - text: .
+                - heading "How To Transfer Citi ThankYou Points to Partners" [level=2] [ref=e1023]
+                - paragraph [ref=e1024]:
+                  - text: You can visit the
+                  - link "Citi ThankYou travel portal" [ref=e1025] [cursor=pointer]:
+                    - /url: https://www.thankyou.com/
+                  - text: and click
+                  - strong [ref=e1026]: Travel,
+                  - text: then select
+                  - strong [ref=e1027]: Points Transfer
+                  - text: from the dropdown menu, or you can jump straight to the
+                  - link "Points Transfer page" [ref=e1028] [cursor=pointer]:
+                    - /url: https://www.thankyou.com/partnerProgramsListing.htm
+                  - text: .
+                - 'figure "Click on “Points Transfer” to proceed to the screen where you can transfer your points. Image Credit: Citi" [ref=e1030]':
+                  - link "Transfer Citi Points" [ref=e1031] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/10/TYP1.png?auto=webp&disable=upscale
+                    - img "Transfer Citi Points" [ref=e1033]
+                  - generic [ref=e1034]: "Click on “Points Transfer” to proceed to the screen where you can transfer your points. Image Credit: Citi"
+                - paragraph [ref=e1035]: Now, it’s time to choose which airline you want to transfer your ThankYou Points to.
+                - 'figure "You will see a list of all the airlines you can transfer your points to and the rates of each transfer. Each transfer starts at a minimum of 1,000 points. Image Credit: Citi" [ref=e1037]':
+                  - link "Citi Transfer Partners" [ref=e1038] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/10/TYP2.png?auto=webp&disable=upscale
+                    - img "Citi Transfer Partners" [ref=e1040]
+                  - generic [ref=e1041]: "You will see a list of all the airlines you can transfer your points to and the rates of each transfer. Each transfer starts at a minimum of 1,000 points. Image Credit: Citi"
+                - paragraph [ref=e1042]: Once you select a transfer partner, you’ll need to choose how many points you would like to transfer.
+                - 'figure "You can choose the number of points to transfer using the slider or by manually entering a number. It will tell you how many points you have available to transfer. Image Credit: Citi" [ref=e1044]':
+                  - link "Citi Point Transfer" [ref=e1045] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/10/TYP3.png?auto=webp&disable=upscale
+                    - img "Citi Point Transfer" [ref=e1047]
+                  - generic [ref=e1048]: "You can choose the number of points to transfer using the slider or by manually entering a number. It will tell you how many points you have available to transfer. Image Credit: Citi"
+                - paragraph [ref=e1049]: Then it’s time to enter your loyalty program number.
+                - 'figure "Enter your loyalty account information for your desired airline. You can save it for later! Image Credit: Citi" [ref=e1051]':
+                  - link "Citi Point Transfer" [ref=e1052] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/10/TYP4.png?auto=webp&disable=upscale
+                    - img "Citi Point Transfer" [ref=e1054]
+                  - generic [ref=e1055]: "Enter your loyalty account information for your desired airline. You can save it for later! Image Credit: Citi"
+                - paragraph [ref=e1056]: Once you accept the terms and conditions, you are only 1 step away from completing the transfer.
+                - 'figure "Accept the transfer amount and the terms and conditions to complete the transfer. Image Credit: Citi" [ref=e1058]':
+                  - link "Citi Transfer" [ref=e1059] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/10/TYP5.png?auto=webp&disable=upscale
+                    - img "Citi Transfer" [ref=e1061]
+                  - generic [ref=e1062]: "Accept the transfer amount and the terms and conditions to complete the transfer. Image Credit: Citi"
+                - paragraph [ref=e1063]:
+                  - strong [ref=e1064]: Once you confirm the transfer, there is no way to reverse it
+                  - text: . Make sure you want to transfer the points before confirming!
+                - paragraph [ref=e1065]:
+                  - generic [ref=e1066]:
+                    - strong [ref=e1067]: "Bottom Line:"
+                    - text: Still have more questions? Check out this list of
+                    - link "FAQs about Citi ThankYou Points" [ref=e1068] [cursor=pointer]:
+                      - /url: /credit-cards/citi-thankyou-points-faqs/
+                    - text: to get answers.
+                - heading "Final Thoughts" [level=2] [ref=e1069]:
+                  - strong [ref=e1070]: Final Thoughts
+                - paragraph [ref=e1071]: Transferring your Citi ThankYou Points to one of its partner airlines can provide some fantastic travel options, and is in our opinion the best way to use Citi points.
+                - paragraph [ref=e1072]: Make sure you do your research when deciding between transferring your miles to a partner’s program and using the Citi ThankYou travel portal.
+                - paragraph [ref=e1073]: With a little planning, you’ll be on your way to Frankfurt in Singapore’s luxury suites class or to Brussels in business class for the fewest points possible.
+                - paragraph [ref=e1074]:
+                  - generic [ref=e1075]:
+                    - text: The information regarding the Citi ThankYou
+                    - superscript [ref=e1076]: ®
+                    - text: Mastercard
+                    - superscript [ref=e1077]: ®
+                    - text: was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+              - generic [ref=e1078]:
+                - generic [ref=e1079]:
+                  - separator [ref=e1080]
+                  - text: "Featured Image Credit:"
+                  - link "Greg Stone" [ref=e1081] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/greg/
+                - generic [ref=e1082]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1083]
+                  - group [ref=e1084]:
+                    - generic "What are Citi points?" [ref=e1085] [cursor=pointer]
+                    - paragraph [ref=e1087]: Citi’s primary rewards program is ThankYou Rewards and the points you earn are Citi ThankYou Points.
+                  - group [ref=e1088]:
+                    - generic "Which credit cards earn Citi ThankYou Points?" [ref=e1089] [cursor=pointer]
+                    - generic [ref=e1090]:
+                      - paragraph [ref=e1091]: There are currently several Citi cards that earn ThankYou Points, including the Citi Strata card, Citi Strata Premier card, Citi Strata Elite card, and Citi Double Cash card.
+                      - paragraph [ref=e1092]: The Citi Prestige card and Citi ThankYou Preferred card also earn points but are no longer open to new applicants.
+                  - group [ref=e1093]:
+                    - generic "What are Citi ThankYou Points worth?" [ref=e1094] [cursor=pointer]
+                    - generic [ref=e1095]:
+                      - paragraph [ref=e1096]:
+                        - text: The value of Citi ThankYou Points depends on the redemption. Overall, we value Citi ThankYou Points at
+                        - link "1.6 cents per point" [ref=e1097] [cursor=pointer]:
+                          - /url: /travel/points-and-miles-valuations/
+                        - text: when redeemed with travel partners. That being said, redemptions for less than 1 cent per point should be avoided.
+                      - paragraph [ref=e1098]:
+                        - text: Airline partners are where you will find the most value for your points, particularly on award flights in international premium cabins. Transferring your ThankYou Points to partners can increase your ROI to around
+                        - strong [ref=e1099]: 3 to 10 cents per point!
+                      - paragraph [ref=e1100]: If you redeem for flights through the Citi ThankYou travel portal, the value of your ThankYou Points will max out at about 1 cent per point. That’s like getting a $100 ticket for the equivalent of about 10,000 ThankYou Points.
+                      - paragraph [ref=e1101]: While you can redeem points for gift cards and statement credit for up to 1 cent each, we highly recommend using points for travel rewards.
+                  - group [ref=e1102]:
+                    - generic "What are Citi ThankYou Points worth on Amazon?" [ref=e1103] [cursor=pointer]
+                    - generic [ref=e1104]:
+                      - paragraph [ref=e1105]: You can pay with points on Amazon.com at a rate of 0.8 cents per point.
+                      - paragraph [ref=e1106]: While it may be tempting to use ThankYou Points to buy any number of items on Amazon, you would be better off using your ThankYou Points on travel.
+                  - group [ref=e1107]:
+                    - generic "When do Citi ThankYou Points update in your account?" [ref=e1108] [cursor=pointer]
+                    - paragraph [ref=e1110]: Points earned will appear in your account at the end of each monthly billing cycle.
+                  - group [ref=e1111]:
+                    - generic "When do Citi ThankYou Points expire?" [ref=e1112] [cursor=pointer]
+                    - paragraph [ref=e1114]: Citi ThankYou Points will never expire as long as you have an open Citi card that earns ThankYou Points. You will have 30 days from account closing to use your Citi ThankYou Points.
+                - complementary [ref=e1115]:
+                  - paragraph [ref=e1117]:
+                    - generic [ref=e1119]:
+                      - text: The information for the Citi Prestige
+                      - superscript [ref=e1120]: ®
+                      - text: Card has been collected independently by Upgraded Points and not provided nor reviewed by the issuer.
+                    - generic [ref=e1121]:
+                      - text: The information regarding the Citi Double Cash
+                      - superscript [ref=e1122]: ®
+                      - text: Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - generic [ref=e1125]:
+                      - text: The information for the Citi ThankYou
+                      - superscript [ref=e1126]: ®
+                      - text: Preferred Card has been collected independently by Upgraded Points and not provided nor reviewed by the issuer.
+                    - generic [ref=e1127]: The information regarding the Citi Strata Premier℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - generic [ref=e1128]: The information regarding the Citi Strata℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - generic [ref=e1129]: The information regarding the Citi Strata Elite℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                - group "Was this page helpful?" [ref=e1131]:
+                  - paragraph [ref=e1132]: Was this page helpful?
+                  - generic [ref=e1133]:
+                    - button "Yes" [ref=e1134] [cursor=pointer]
+                    - button "No" [ref=e1135] [cursor=pointer]
+                - generic [ref=e1136]:
+                  - figure [ref=e1138]:
+                    - img "Spencer Howard's image" [ref=e1139]
+                  - generic [ref=e1140]:
+                    - heading "About Spencer Howard" [level=2] [ref=e1141]:
+                      - text: About
+                      - link "Spencer Howard" [ref=e1142] [cursor=pointer]:
+                        - /url: /author/spencer/
+                    - paragraph [ref=e1143]: Always a fan of flying, it was only natural that Spencer was drawn to finding a way to improve the travel experience.
+                    - paragraph [ref=e1144]: Like many, he started this journey searching for cheap flights to take him around the world. This was fun for a while, but Spencer was intrigued by the idea of flying in business and first class!
+                    - paragraph [ref=e1145]: Throwing himself into what became an extensive research project, Spencer spent 3-4 hours per night learning everything he could about frequent flyer miles over the course of several months (he thinks this is normal). He runs Straight to the Points, an award-seat alert platform.
+                    - list [ref=e1147]:
+                      - listitem [ref=e1148]:
+                        - link "Instagram icon" [ref=e1149] [cursor=pointer]:
+                          - /url: https://www.instagram.com/straighttothepoints/
+                          - img "Instagram icon" [ref=e1150]
+                      - listitem [ref=e1151]:
+                        - link "LinkedIn icon" [ref=e1152] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/spencer-howard-82072710
+                          - img "LinkedIn icon" [ref=e1153]
+                      - listitem [ref=e1154]:
+                        - link "Twitter icon" [ref=e1155] [cursor=pointer]:
+                          - /url: https://twitter.com/spencerformiles
+                          - img "Twitter icon" [ref=e1156]
+                      - listitem [ref=e1157]:
+                        - link "email icon" [ref=e1158] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1159]
+                - generic [ref=e1161]:
+                  - generic [ref=e1162]:
+                    - paragraph [ref=e1163]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1164]: ™
+                    - generic [ref=e1165]:
+                      - paragraph [ref=e1166]:
+                        - text: Get the
+                        - strong [ref=e1167]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1168]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1169]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1170]:
+                      - textbox "First Name" [ref=e1171]
+                      - textbox "Email" [ref=e1172]
+                      - button "Join Now" [disabled] [ref=e1173]
+                    - paragraph [ref=e1175]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1176] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1177] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1178] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1180]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1182]
+                - generic [ref=e1184]:
+                  - paragraph [ref=e1185]: We Recommend
+                  - generic [ref=e1186]:
+                    - generic [ref=e1187]:
+                      - link "Platinum Card® from American Express" [ref=e1188] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1189]
+                      - link "Terms Apply / Rates & Fees" [ref=e1190] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1191] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1192]
+                        - text: Apply Now
+                    - generic [ref=e1195]:
+                      - paragraph [ref=e1196]:
+                        - link "Platinum Card® from American Express" [ref=e1197] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1198]:
+                            - text: Platinum Card
+                            - superscript [ref=e1199]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1201]:
+                        - generic [ref=e1202]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1203] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1204]:
+                        - listitem [ref=e1205]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1206]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1207]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1208]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1209]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1210]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1211]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1212] [cursor=pointer]
+            - complementary [ref=e1214]:
+              - generic [ref=e1215]:
+                - generic [ref=e1217]:
+                  - paragraph [ref=e1218]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1219] [cursor=pointer]
+                  - generic [ref=e1220]:
+                    - generic [ref=e1223]:
+                      - generic [ref=e1224]:
+                        - generic [ref=e1225]:
+                          - img [ref=e1226]
+                          - generic [ref=e1228]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1229] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1230]
+                      - generic [ref=e1231]:
+                        - paragraph [ref=e1232]:
+                          - link "Platinum Card® from American Express" [ref=e1233] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1234]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1235] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1236]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1238] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1241]:
+                      - generic [ref=e1242]:
+                        - generic [ref=e1243]:
+                          - img [ref=e1244]
+                          - generic [ref=e1246]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1247] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1248]
+                      - generic [ref=e1249]:
+                        - paragraph [ref=e1250]:
+                          - link "American Express® Gold Card" [ref=e1251] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1252]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1253] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1254]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1256] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1259]:
+                      - generic [ref=e1260]:
+                        - generic [ref=e1261]:
+                          - img [ref=e1262]
+                          - generic [ref=e1264]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1265] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1266]
+                      - generic [ref=e1267]:
+                        - paragraph [ref=e1268]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1269] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1270]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1271] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1272]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1274] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/484/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1277]:
+                      - generic [ref=e1278]:
+                        - generic [ref=e1279]:
+                          - img [ref=e1280]
+                          - generic [ref=e1282]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1283] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/484/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1284]
+                      - generic [ref=e1285]:
+                        - paragraph [ref=e1286]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1287] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/484/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1288]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1289] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/484/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1290]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1292] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/484/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1294] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1297]: Advertisement
+      - generic [ref=e1299]:
+        - paragraph [ref=e1300]: Related Posts
+        - generic [ref=e1301]:
+          - generic [ref=e1302]:
+            - link [ref=e1303] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+              - figure [ref=e1304]:
+                - img "14 Best Ways To Redeem Emirates Skywards Miles for Max Value" [ref=e1306]
+            - link "14 Best Ways To Redeem Emirates Skywards Miles for Max Value" [ref=e1307] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+          - generic [ref=e1308]:
+            - link [ref=e1309] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-alaska-airlines-atmos-rewards-points/
+              - figure [ref=e1310]:
+                - img "10 Best Ways To Redeem Alaska Atmos Rewards Points for Max Value" [ref=e1312]
+            - link "10 Best Ways To Redeem Alaska Atmos Rewards Points for Max Value" [ref=e1313] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-alaska-airlines-atmos-rewards-points/
+          - generic [ref=e1314]:
+            - link [ref=e1315] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-amex-membership-rewards-points/
+              - figure [ref=e1316]:
+                - img "52 Best Ways To Redeem Amex Membership Rewards Points for Max Value" [ref=e1318]
+            - link "52 Best Ways To Redeem Amex Membership Rewards Points for Max Value" [ref=e1319] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-amex-membership-rewards-points/
+          - generic [ref=e1320]:
+            - link [ref=e1321] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-etihad-first-class/
+              - figure [ref=e1322]:
+                - img "Best Ways To Book Etihad First Class Using Points [Step by Step]" [ref=e1324]
+            - link "Best Ways To Book Etihad First Class Using Points [Step by Step]" [ref=e1325] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-etihad-first-class/
+    - contentinfo [ref=e1326]:
+      - img [ref=e1327]
+      - img [ref=e1346]
+      - generic [ref=e1365]:
+        - generic [ref=e1366]:
+          - img [ref=e1368]
+          - generic [ref=e1373]:
+            - generic [ref=e1374]:
+              - paragraph [ref=e1375]: Upgrade your travel experience
+              - list [ref=e1376]:
+                - listitem [ref=e1377]:
+                  - link [ref=e1378] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1379]:
+                      - img "Facebook" [ref=e1380]
+                - listitem [ref=e1381]:
+                  - link [ref=e1382] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1383]:
+                      - img "Twitter" [ref=e1384]
+                - listitem [ref=e1385]:
+                  - link [ref=e1386] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1387]:
+                      - img "Instagram" [ref=e1388]
+                - listitem [ref=e1389]:
+                  - link [ref=e1390] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1391]:
+                      - img "Pinterest" [ref=e1392]
+                - listitem [ref=e1393]:
+                  - link [ref=e1394] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1395]:
+                      - img "Linkedin" [ref=e1396]
+                - listitem [ref=e1397]:
+                  - link [ref=e1398] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1399]:
+                      - img "Youtube" [ref=e1400]
+            - generic [ref=e1402]:
+              - list [ref=e1403]:
+                - listitem [ref=e1404]:
+                  - link "News" [ref=e1405] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1406]:
+                  - link "Credit Cards" [ref=e1407] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1408]:
+                  - link "Business" [ref=e1409] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1410]:
+                - listitem [ref=e1411]:
+                  - link "Finance" [ref=e1412] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1413]:
+                  - link "Travel Guides" [ref=e1414] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1415]:
+                  - link "Air Travel" [ref=e1416] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1417]:
+                - listitem [ref=e1418]:
+                  - link "Hotel Guides" [ref=e1419] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1420]:
+                  - link "Beginners" [ref=e1421] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1422]:
+                  - link "About" [ref=e1423] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1424]:
+                - listitem [ref=e1425]:
+                  - link "Podcast" [ref=e1426] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1427]:
+                  - link "Jobs & Careers" [ref=e1428] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1429]:
+                  - link "Contact Us" [ref=e1430] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1431]:
+          - paragraph [ref=e1432]:
+            - link "Privacy Policy" [ref=e1433] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1434] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1435] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1436] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1437] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1438] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1479] [cursor=pointer]
+          - paragraph [ref=e1439]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1440]:
+          - link "DMCA.com Protection Status" [ref=e1441] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1442]
+          - img "Comodo Secure Seal" [ref=e1444]
+        - generic [ref=e1445]:
+          - generic [ref=e1446]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1447]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1448]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1449]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1450]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1451] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1452]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1453]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1455]:
+    - generic [ref=e1456]:
+      - generic [ref=e1457]:
+        - button "close banner" [ref=e1458] [cursor=pointer]:
+          - img "close banner" [ref=e1459]
+        - img "company logo" [ref=e1461]
+      - generic [ref=e1462]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1464]
+        - generic [ref=e1465]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1466] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1467] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1469]:
+        - button "Manage" [ref=e1470] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1471] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1472] [cursor=pointer]
+    - generic [ref=e1474]:
+      - generic [ref=e1475]: "Powered by:"
+      - link "trustarc" [ref=e1476] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1477]

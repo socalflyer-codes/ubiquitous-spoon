@@ -1,0 +1,1793 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "9 Best Ways To Redeem Air Canada Aeroplan Points for Maximum Value" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Michael McHugh's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Michael McHugh
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: February 10, 2026, 9:32am CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Michael Y. Park
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Kellie Jez
+          - figure [ref=e61]:
+            - img "9 Best Ways To Redeem Air Canada Aeroplan Points for Maximum Value" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e65]:
+            - generic "Jump to Section" [ref=e66] [cursor=pointer]
+          - paragraph [ref=e70]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e71] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e72]:
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - generic [ref=e76]:
+                  - heading "Key Takeaways" [level=2] [ref=e78]
+                  - list [ref=e80]:
+                    - listitem [ref=e81]: Aeroplan miles are best used for award flights on Star Alliance partners, with the greatest value often found in premium cabins on long-haul routes.
+                    - listitem [ref=e82]: Air Canada also has non-alliance partners too such as Etihad and Emirates.
+                    - listitem [ref=e83]: Aeroplan’s stopover and open-jaw policies can maximize the value of miles, allowing travelers to see multiple destinations on a single award ticket.
+                - paragraph [ref=e84]: Air Canada Aeroplan has become a fan-favorite loyalty program over the years, thanks to its strong redemption opportunities with Star Alliance carriers and how easy it is to earn miles.
+                - paragraph [ref=e85]: The program has gone through significant changes in recent years, but there are some good things that came from these changes. The airline simplified its award chart, eliminated carrier-imposed surcharges for partner airline redemptions, and updated its incredibly generous stopover policy.
+                - paragraph [ref=e86]: We’ll cover how to earn Aeroplan points, how to leverage Aeroplan’s network of airline partners, and the best ways to use your Aeroplan points for maximum value.
+                - heading "Best Ways To Earn Aeroplan Points" [level=2] [ref=e87]
+                - paragraph [ref=e88]:
+                  - text: You can transfer Aeroplan points from
+                  - link "American Express Membership Rewards" [ref=e89] [cursor=pointer]:
+                    - /url: /credit-cards/american-express-membership-rewards-review/
+                  - text: ","
+                  - link "Bilt Rewards" [ref=e90] [cursor=pointer]:
+                    - /url: /credit-cards/bilt-rewards-program-review/
+                  - text: ","
+                  - link "Capital One Miles" [ref=e91] [cursor=pointer]:
+                    - /url: /credit-cards/capital-one-miles-program-review/
+                  - text: ", and"
+                  - link "Chase Ultimate Rewards" [ref=e92] [cursor=pointer]:
+                    - /url: /credit-cards/chase-ultimate-rewards-review/
+                  - text: at a 1:1 ratio. Meanwhile, you can transfer points from
+                  - link "Marriott Bonvoy" [ref=e93] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/marriott-bonvoy-brilliant-american-express-card/
+                  - text: at a 3:1 ratio, with a 5,000-point bonus for every 60,000
+                  - link "Marriott Bonvoy points" [ref=e94] [cursor=pointer]:
+                    - /url: /travel/hotels/how-to-earn-marriott-rewards-points/
+                  - text: transferred.
+                - paragraph [ref=e95]:
+                  - text: You can also earn Aeroplan points directly with the
+                  - link "Aeroplan® Credit Card" [ref=e96] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/chase-aeroplan/
+                    - text: Aeroplan
+                    - superscript [ref=e97]: ®
+                    - text: Credit Card
+                  - text: issued by Chase.
+                - generic [ref=e99]:
+                  - generic [ref=e100]:
+                    - img "Aeroplan® Credit Card" [ref=e101]
+                    - generic [ref=e102]:
+                      - generic [ref=e103]:
+                        - img "Star rating icon" [ref=e106]
+                        - img "Star rating icon" [ref=e109]
+                        - img "Star rating icon" [ref=e112]
+                        - img "Star rating icon" [ref=e115]
+                        - generic [ref=e116]:
+                          - img "Star rating icon" [ref=e118]
+                          - img "Star rating icon" [ref=e120]
+                      - generic [ref=e121]:
+                        - generic [ref=e122]: U.P. Rating
+                        - img [ref=e125]:
+                          - img [ref=e126]
+                  - generic [ref=e129]:
+                    - generic [ref=e131]:
+                      - link "Aeroplan® Credit Card" [ref=e133] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-aeroplan/
+                        - text: Aeroplan
+                        - superscript [ref=e134]: ®
+                        - text: Credit Card
+                      - text: The Aeroplan card is a great option for Air Canada flyers looking to earn more points and receive automatic elite status.
+                    - generic [ref=e135]:
+                      - generic [ref=e136]:
+                        - generic [ref=e137]:
+                          - generic [ref=e138]: Welcome Offer
+                          - img [ref=e141]:
+                            - img [ref=e142]
+                        - generic [ref=e145]: 60,000 points
+                      - generic [ref=e146]:
+                        - generic [ref=e148]: "UP's Offer Valuation*:"
+                        - generic [ref=e149]: $900
+                    - generic [ref=e150]:
+                      - generic [ref=e151]:
+                        - generic [ref=e153]: Annual Fee
+                        - generic [ref=e154]: $95
+                      - generic [ref=e155]:
+                        - generic [ref=e157]: APR
+                        - generic [ref=e158]: 19.74% - 28.24% Variable
+                      - generic [ref=e159]:
+                        - generic [ref=e160]:
+                          - generic [ref=e161]: Credit Recommended
+                          - img [ref=e164]:
+                            - img [ref=e165]
+                        - generic [ref=e168]: Good to Excellent (670-850)
+                    - generic [ref=e169]:
+                      - group [ref=e170]:
+                        - generic "Why We Like This Card" [ref=e171] [cursor=pointer]
+                      - group [ref=e172]:
+                        - generic "Pros & Cons" [ref=e173] [cursor=pointer]
+                      - group [ref=e174]:
+                        - generic "Card Highlights" [ref=e175] [cursor=pointer]
+                - heading "Recommended American Express Cards" [level=3] [ref=e176]
+                - generic [ref=e178]:
+                  - generic [ref=e179]:
+                    - img [ref=e180]
+                    - generic [ref=e182]: BEST LOUNGE CARD
+                  - generic [ref=e183]:
+                    - link "Platinum Card® from American Express" [ref=e184] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Platinum Card® from American Express" [ref=e185]
+                    - link "Terms Apply / Rates & Fees" [ref=e186] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e187]: Terms Apply / Rates & Fees
+                    - generic [ref=e188]:
+                      - generic [ref=e189]:
+                        - img "Star rating icon" [ref=e192]
+                        - img "Star rating icon" [ref=e195]
+                        - img "Star rating icon" [ref=e198]
+                        - img "Star rating icon" [ref=e201]
+                        - generic [ref=e202]:
+                          - img "Star rating icon" [ref=e204]
+                          - img "Star rating icon" [ref=e206]
+                      - generic [ref=e207]:
+                        - generic [ref=e208]: U.P. Rating
+                        - img [ref=e211]:
+                          - img [ref=e212]
+                    - link "Apply Now" [ref=e215] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e216]
+                      - text: Apply Now
+                    - generic [ref=e219]: (at Amex's secure site)
+                    - generic [ref=e220]:
+                      - heading "Apply With Confidence" [level=4] [ref=e221]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e222]
+                      - paragraph [ref=e223]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e224]:
+                    - generic [ref=e226]:
+                      - link "Platinum Card® from American Express" [ref=e228] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-platinum-card/
+                        - text: Platinum Card
+                        - superscript [ref=e229]: ®
+                        - text: from American Express
+                      - text: The Amex Platinum reigns supreme for luxury travel, offering the best airport lounge access plus generous statement credits, and complimentary elite status.
+                    - generic [ref=e230]:
+                      - generic [ref=e231]:
+                        - generic [ref=e232]:
+                          - generic [ref=e233]: Welcome Offer
+                          - img [ref=e236]:
+                            - img [ref=e237]
+                        - generic [ref=e240]: As High As 175,000 Points. Find Out Your Offer.
+                      - generic [ref=e241]:
+                        - generic [ref=e243]: "UP's Offer Valuation*:"
+                        - generic [ref=e244]: Up to $3,850
+                    - generic [ref=e245]:
+                      - generic [ref=e246]:
+                        - generic [ref=e248]: Annual Fee
+                        - generic [ref=e249]: $895
+                      - generic [ref=e250]:
+                        - generic [ref=e252]: APR
+                        - generic [ref=e253]: See Pay Over Time APR
+                      - generic [ref=e254]:
+                        - generic [ref=e255]:
+                          - generic [ref=e256]: Credit Recommended
+                          - img [ref=e259]:
+                            - img [ref=e260]
+                        - generic [ref=e263]: Good to Excellent
+                    - generic [ref=e264]:
+                      - group [ref=e265]:
+                        - generic "Why We Like This Card" [ref=e266] [cursor=pointer]
+                      - group [ref=e267]:
+                        - generic "Pros & Cons" [ref=e268] [cursor=pointer]
+                      - group [ref=e269]:
+                        - generic "Card Highlights" [ref=e270] [cursor=pointer]
+                - generic [ref=e272]:
+                  - generic [ref=e273]:
+                    - img [ref=e274]
+                    - generic [ref=e276]: BEST FOR DINING
+                  - generic [ref=e277]:
+                    - link "American Express® Gold Card" [ref=e278] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "American Express® Gold Card" [ref=e279]
+                    - link "Terms Apply / Rates & Fees" [ref=e280] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e281]: Terms Apply / Rates & Fees
+                    - generic [ref=e282]:
+                      - generic [ref=e283]:
+                        - img "Star rating icon" [ref=e286]
+                        - img "Star rating icon" [ref=e289]
+                        - img "Star rating icon" [ref=e292]
+                        - img "Star rating icon" [ref=e295]
+                        - generic [ref=e296]:
+                          - img "Star rating icon" [ref=e298]
+                          - img "Star rating icon" [ref=e300]
+                      - generic [ref=e301]:
+                        - generic [ref=e302]: U.P. Rating
+                        - img [ref=e305]:
+                          - img [ref=e306]
+                    - link "Apply Now" [ref=e309] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e310]
+                      - text: Apply Now
+                    - generic [ref=e313]: (at Amex's secure site)
+                    - generic [ref=e314]:
+                      - heading "Apply With Confidence" [level=4] [ref=e315]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e316]
+                      - paragraph [ref=e317]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e318]:
+                    - generic [ref=e320]:
+                      - link "American Express® Gold Card" [ref=e322] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-gold-card/
+                        - text: American Express
+                        - superscript [ref=e323]: ®
+                        - text: Gold Card
+                      - text: This is the best card for food lovers who dine out at restaurants (worldwide), order take-out and want big rewards at U.S. supermarkets!
+                    - generic [ref=e324]:
+                      - generic [ref=e325]:
+                        - generic [ref=e326]:
+                          - generic [ref=e327]: Welcome Offer
+                          - img [ref=e330]:
+                            - img [ref=e331]
+                        - generic [ref=e334]: As High As 100,000 Points. Find Out Your Offer.
+                      - generic [ref=e335]:
+                        - generic [ref=e337]: "UP's Offer Valuation*:"
+                        - generic [ref=e338]: Up to $2,200
+                    - generic [ref=e339]:
+                      - generic [ref=e340]:
+                        - generic [ref=e342]: Annual Fee
+                        - generic [ref=e343]: $325
+                      - generic [ref=e344]:
+                        - generic [ref=e346]: APR
+                        - generic [ref=e347]: See Pay Over Time APR
+                      - generic [ref=e348]:
+                        - generic [ref=e349]:
+                          - generic [ref=e350]: Credit Recommended
+                          - img [ref=e353]:
+                            - img [ref=e354]
+                        - generic [ref=e357]: Good to Excellent
+                    - generic [ref=e358]:
+                      - group [ref=e359]:
+                        - generic "Why We Like This Card" [ref=e360] [cursor=pointer]
+                      - group [ref=e361]:
+                        - generic "Pros & Cons" [ref=e362] [cursor=pointer]
+                      - group [ref=e363]:
+                        - generic "Card Highlights" [ref=e364] [cursor=pointer]
+                - paragraph [ref=e365]:
+                  - strong [ref=e366]: Are you a business owner?
+                  - text: Check out our article on the best
+                  - link "Amex business cards" [ref=e367] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-amex-business-credit-cards/
+                  - text: for earning Membership Rewards.
+                - heading "Recommended Capital One Cards" [level=3] [ref=e368]
+                - generic [ref=e370]:
+                  - generic [ref=e371]:
+                    - img [ref=e372]
+                    - generic [ref=e374]: TOP PICK
+                  - generic [ref=e375]:
+                    - img "Capital One Venture X Rewards Credit Card" [ref=e376]
+                    - generic [ref=e377]:
+                      - generic [ref=e378]:
+                        - img "Star rating icon" [ref=e381]
+                        - img "Star rating icon" [ref=e384]
+                        - img "Star rating icon" [ref=e387]
+                        - img "Star rating icon" [ref=e390]
+                        - generic [ref=e391]:
+                          - img "Star rating icon" [ref=e393]
+                          - img "Star rating icon" [ref=e395]
+                      - generic [ref=e396]:
+                        - generic [ref=e397]: U.P. Rating
+                        - img [ref=e400]:
+                          - img [ref=e401]
+                  - generic [ref=e404]:
+                    - generic [ref=e406]:
+                      - link "Capital One Venture X Rewards Credit Card" [ref=e408] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-x/
+                      - text: The Capital One Venture X card is an excellent option for travelers looking for an all-in-one premium credit card.
+                    - generic [ref=e409]:
+                      - generic [ref=e410]:
+                        - generic [ref=e411]:
+                          - generic [ref=e412]: Welcome Offer
+                          - img [ref=e415]:
+                            - img [ref=e416]
+                        - generic [ref=e419]: 75,000 miles
+                      - generic [ref=e420]:
+                        - generic [ref=e422]: "UP's Offer Valuation*:"
+                        - generic [ref=e423]: $1,350
+                    - generic [ref=e424]:
+                      - generic [ref=e425]:
+                        - generic [ref=e427]: Annual Fee
+                        - generic [ref=e428]: $395
+                      - generic [ref=e429]:
+                        - generic [ref=e431]: APR
+                        - generic [ref=e432]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e433]:
+                        - generic [ref=e434]:
+                          - generic [ref=e435]: Credit Recommended
+                          - img [ref=e438]:
+                            - img [ref=e439]
+                        - generic [ref=e442]: Excellent
+                    - generic [ref=e443]:
+                      - group [ref=e444]:
+                        - generic "Why We Like This Card" [ref=e445] [cursor=pointer]
+                      - group [ref=e446]:
+                        - generic "Pros & Cons" [ref=e447] [cursor=pointer]
+                      - group [ref=e448]:
+                        - generic "Card Highlights" [ref=e449] [cursor=pointer]
+                - generic [ref=e451]:
+                  - generic [ref=e452]:
+                    - img [ref=e453]
+                    - generic [ref=e455]: LIMITED-TIME ONLY
+                  - generic [ref=e456]:
+                    - img "Capital One Venture Rewards Credit Card" [ref=e457]
+                    - generic [ref=e458]:
+                      - generic [ref=e459]:
+                        - img "Star rating icon" [ref=e462]
+                        - img "Star rating icon" [ref=e465]
+                        - img "Star rating icon" [ref=e468]
+                        - img "Star rating icon" [ref=e471]
+                        - generic [ref=e472]:
+                          - img "Star rating icon" [ref=e474]
+                          - img "Star rating icon" [ref=e476]
+                      - generic [ref=e477]:
+                        - generic [ref=e478]: U.P. Rating
+                        - img [ref=e481]:
+                          - img [ref=e482]
+                  - generic [ref=e485]:
+                    - generic [ref=e487]:
+                      - link "Capital One Venture Rewards Credit Card" [ref=e489] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-rewards-credit-card/
+                      - text: Get 2x miles plus some of the most flexible redemptions offered by a travel credit card!
+                    - generic [ref=e490]:
+                      - generic [ref=e491]:
+                        - generic [ref=e492]:
+                          - generic [ref=e493]: Welcome Offer
+                          - img [ref=e496]:
+                            - img [ref=e497]
+                        - generic [ref=e500]: 75,000 miles + $250 Capital One Travel credit
+                      - generic [ref=e501]:
+                        - generic [ref=e503]: "UP's Offer Valuation*:"
+                        - generic [ref=e504]: $1,600
+                    - generic [ref=e505]:
+                      - generic [ref=e506]:
+                        - generic [ref=e508]: Annual Fee
+                        - generic [ref=e509]: $95
+                      - generic [ref=e510]:
+                        - generic [ref=e512]: APR
+                        - generic [ref=e513]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e514]:
+                        - generic [ref=e515]:
+                          - generic [ref=e516]: Credit Recommended
+                          - img [ref=e519]:
+                            - img [ref=e520]
+                        - generic [ref=e523]: Good to Excellent Credit
+                    - generic [ref=e524]:
+                      - group [ref=e525]:
+                        - generic "Why We Like This Card" [ref=e526] [cursor=pointer]
+                      - group [ref=e527]:
+                        - generic "Pros & Cons" [ref=e528] [cursor=pointer]
+                      - group [ref=e529]:
+                        - generic "Card Highlights" [ref=e530] [cursor=pointer]
+                - generic [ref=e532]:
+                  - generic [ref=e533]:
+                    - img "Capital One VentureOne Rewards Credit Card" [ref=e534]
+                    - generic [ref=e535]:
+                      - generic [ref=e536]:
+                        - img "Star rating icon" [ref=e539]
+                        - img "Star rating icon" [ref=e542]
+                        - img "Star rating icon" [ref=e545]
+                        - img "Star rating icon" [ref=e548]
+                        - generic [ref=e549]:
+                          - img "Star rating icon" [ref=e551]
+                          - img "Star rating icon" [ref=e552]
+                      - generic [ref=e553]:
+                        - generic [ref=e554]: U.P. Rating
+                        - img [ref=e557]:
+                          - img [ref=e558]
+                  - generic [ref=e561]:
+                    - generic [ref=e563]:
+                      - link "Capital One VentureOne Rewards Credit Card" [ref=e565] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-ventureone-rewards-credit-card/
+                      - text: The card offers unlimited miles at 1.25x per $1 and no annual fee. When you consider the flexible rewards, frequent travelers come out on top.
+                    - generic [ref=e566]:
+                      - generic [ref=e567]:
+                        - generic [ref=e568]:
+                          - generic [ref=e569]: Welcome Offer
+                          - img [ref=e572]:
+                            - img [ref=e573]
+                        - generic [ref=e576]: 20,000 miles
+                      - generic [ref=e577]:
+                        - generic [ref=e579]: "UP's Offer Valuation*:"
+                        - generic [ref=e580]: $200
+                    - generic [ref=e581]:
+                      - generic [ref=e582]:
+                        - generic [ref=e584]: Annual Fee
+                        - generic [ref=e585]: $0
+                      - generic [ref=e586]:
+                        - generic [ref=e588]: APR
+                        - generic [ref=e589]: "Purchases: 0% intro APR on purchases for 15 months; variable 18.49% - 28.49% thereafter"
+                      - generic [ref=e590]:
+                        - generic [ref=e591]:
+                          - generic [ref=e592]: Credit Recommended
+                          - img [ref=e595]:
+                            - img [ref=e596]
+                        - generic [ref=e599]: Good to Excellent (670-850)
+                    - generic [ref=e600]:
+                      - group [ref=e601]:
+                        - generic "Why We Like This Card" [ref=e602] [cursor=pointer]
+                      - group [ref=e603]:
+                        - generic "Pros & Cons" [ref=e604] [cursor=pointer]
+                      - group [ref=e605]:
+                        - generic "Card Highlights" [ref=e606] [cursor=pointer]
+                - paragraph [ref=e607]:
+                  - strong [ref=e608]: Are you a business owner?
+                  - text: Check out our article on the best
+                  - link "Capital One business cards" [ref=e609] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-capital-one-business-credit-cards/
+                  - text: for earning Capital One miles and rewards.
+                - heading "Recommended Chase Cards" [level=3] [ref=e610]
+                - generic [ref=e612]:
+                  - generic [ref=e613]:
+                    - img [ref=e614]
+                    - generic [ref=e616]: NEW OFFER
+                  - generic [ref=e617]:
+                    - link "Chase Sapphire Preferred® Card" [ref=e618] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Preferred® Card" [ref=e619]
+                    - link "Terms Apply / Rates & Fees" [ref=e620] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e621]: Terms Apply / Rates & Fees
+                    - generic [ref=e622]:
+                      - generic [ref=e623]:
+                        - img "Star rating icon" [ref=e626]
+                        - img "Star rating icon" [ref=e629]
+                        - img "Star rating icon" [ref=e632]
+                        - img "Star rating icon" [ref=e635]
+                        - generic [ref=e636]:
+                          - img "Star rating icon" [ref=e638]
+                          - img "Star rating icon" [ref=e640]
+                      - generic [ref=e641]:
+                        - generic [ref=e642]: U.P. Rating
+                        - img [ref=e645]:
+                          - img [ref=e646]
+                    - link "Apply Now" [ref=e649] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - img [ref=e650]
+                      - text: Apply Now
+                    - generic [ref=e653]: (at Chase's secure site)
+                  - generic [ref=e654]:
+                    - generic [ref=e656]:
+                      - link "Chase Sapphire Preferred® Card" [ref=e658] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                        - text: Chase Sapphire Preferred
+                        - superscript [ref=e659]: ®
+                        - text: Card
+                      - text: A fantastic travel card with a great welcome offer, good benefits, and perks for a moderate annual fee.
+                    - generic [ref=e660]:
+                      - generic [ref=e661]:
+                        - generic [ref=e662]:
+                          - generic [ref=e663]: Welcome Offer
+                          - img [ref=e666]:
+                            - img [ref=e667]
+                        - generic [ref=e670]: 60,000 75,000 points
+                      - generic [ref=e671]:
+                        - generic [ref=e673]: "UP's Offer Valuation*:"
+                        - generic [ref=e674]: $1,500
+                    - generic [ref=e675]:
+                      - generic [ref=e676]:
+                        - generic [ref=e678]: Annual Fee
+                        - generic [ref=e679]: $95
+                      - generic [ref=e680]:
+                        - generic [ref=e682]: APR
+                        - generic [ref=e683]: 19.24% - 27.49% Variable
+                      - generic [ref=e684]:
+                        - generic [ref=e685]:
+                          - generic [ref=e686]: Credit Recommended
+                          - img [ref=e689]:
+                            - img [ref=e690]
+                        - generic [ref=e693]: Good to Excellent
+                    - generic [ref=e694]:
+                      - group [ref=e695]:
+                        - generic "Why We Like This Card" [ref=e696] [cursor=pointer]
+                      - group [ref=e697]:
+                        - generic "Pros & Cons" [ref=e698] [cursor=pointer]
+                      - group [ref=e699]:
+                        - generic "Card Highlights" [ref=e700] [cursor=pointer]
+                - generic [ref=e702]:
+                  - generic [ref=e703]:
+                    - img [ref=e704]
+                    - generic [ref=e706]: NEW OFFER
+                  - generic [ref=e707]:
+                    - link "Chase Sapphire Reserve®" [ref=e708] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Reserve®" [ref=e709]
+                    - link "Terms Apply / Rates & Fees" [ref=e710] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserveTCCRF/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e711]: Terms Apply / Rates & Fees
+                    - generic [ref=e712]:
+                      - generic [ref=e713]:
+                        - img "Star rating icon" [ref=e716]
+                        - img "Star rating icon" [ref=e719]
+                        - img "Star rating icon" [ref=e722]
+                        - img "Star rating icon" [ref=e725]
+                        - generic [ref=e726]:
+                          - img "Star rating icon" [ref=e728]
+                          - img "Star rating icon" [ref=e730]
+                      - generic [ref=e731]:
+                        - generic [ref=e732]: U.P. Rating
+                        - img [ref=e735]:
+                          - img [ref=e736]
+                    - link "Apply Now" [ref=e739] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - img [ref=e740]
+                      - text: Apply Now
+                    - generic [ref=e743]: (at Chase's secure site)
+                  - generic [ref=e744]:
+                    - generic [ref=e746]:
+                      - link "Chase Sapphire Reserve®" [ref=e748] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-reserve/
+                        - text: Chase Sapphire Reserve
+                        - superscript [ref=e749]: ®
+                      - text: A top player in the high-end premium travel credit card space that earns points on travel and dining while offering top luxury perks.
+                    - generic [ref=e750]:
+                      - generic [ref=e751]:
+                        - generic [ref=e752]:
+                          - generic [ref=e753]: Welcome Offer
+                          - img [ref=e756]:
+                            - img [ref=e757]
+                        - generic [ref=e760]: 125,000 points
+                      - generic [ref=e761]:
+                        - generic [ref=e763]: "UP's Offer Valuation*:"
+                        - generic [ref=e764]: $2,500
+                    - generic [ref=e765]:
+                      - generic [ref=e766]:
+                        - generic [ref=e768]: Annual Fee
+                        - generic [ref=e769]: $795
+                      - generic [ref=e770]:
+                        - generic [ref=e772]: APR
+                        - generic [ref=e773]: 19.49% - 27.99% Variable
+                      - generic [ref=e774]:
+                        - generic [ref=e775]:
+                          - generic [ref=e776]: Credit Recommended
+                          - img [ref=e779]:
+                            - img [ref=e780]
+                        - generic [ref=e783]: Excellent
+                    - generic [ref=e784]:
+                      - group [ref=e785]:
+                        - generic "Why We Like This Card" [ref=e786] [cursor=pointer]
+                      - group [ref=e787]:
+                        - generic "Pros & Cons" [ref=e788] [cursor=pointer]
+                      - group [ref=e789]:
+                        - generic "Card Highlights" [ref=e790] [cursor=pointer]
+                - generic [ref=e792]:
+                  - generic [ref=e793]:
+                    - img [ref=e794]
+                    - generic [ref=e796]: LIMITED TIME OFFER
+                  - generic [ref=e797]:
+                    - link "Chase Freedom Unlimited®" [ref=e798] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseFreedomUnlimited/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - img "Chase Freedom Unlimited®" [ref=e799]
+                    - link "Terms Apply / Rates & Fees" [ref=e800] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseFreedomUnlimitedTCCRF/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e801]: Terms Apply / Rates & Fees
+                    - generic [ref=e802]:
+                      - generic [ref=e803]:
+                        - img "Star rating icon" [ref=e806]
+                        - img "Star rating icon" [ref=e809]
+                        - img "Star rating icon" [ref=e812]
+                        - img "Star rating icon" [ref=e815]
+                        - generic [ref=e816]:
+                          - img "Star rating icon" [ref=e818]
+                          - img "Star rating icon" [ref=e820]
+                      - generic [ref=e821]:
+                        - generic [ref=e822]: U.P. Rating
+                        - img [ref=e825]:
+                          - img [ref=e826]
+                    - link "Apply Now" [ref=e829] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseFreedomUnlimited/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - img [ref=e830]
+                      - text: Apply Now
+                    - generic [ref=e833]: (at Chase's secure site)
+                  - generic [ref=e834]:
+                    - generic [ref=e836]:
+                      - link "Chase Freedom Unlimited®" [ref=e838] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-freedom-unlimited-credit-card/
+                        - text: Chase Freedom Unlimited
+                        - superscript [ref=e839]: ®
+                      - text: This all-purpose cash-back card offers great bonus categories, including bonus points for every purchase you make!
+                    - generic [ref=e841]:
+                      - generic [ref=e842]:
+                        - generic [ref=e843]: Welcome Offer
+                        - img [ref=e846]:
+                          - img [ref=e847]
+                      - generic [ref=e850]: $250
+                    - generic [ref=e851]:
+                      - generic [ref=e852]:
+                        - generic [ref=e854]: Annual Fee
+                        - generic [ref=e855]: $0
+                      - generic [ref=e856]:
+                        - generic [ref=e858]: APR
+                        - generic [ref=e859]: 0% Intro APR for 15 months from account opening on purchases and balance transfers, then a variable APR of 18.24% - 27.74%.
+                      - generic [ref=e860]:
+                        - generic [ref=e861]:
+                          - generic [ref=e862]: Credit Recommended
+                          - img [ref=e865]:
+                            - img [ref=e866]
+                        - generic [ref=e869]: Good to Excellent
+                    - generic [ref=e870]:
+                      - group [ref=e871]:
+                        - generic "Why We Like This Card" [ref=e872] [cursor=pointer]
+                      - group [ref=e873]:
+                        - generic "Pros & Cons" [ref=e874] [cursor=pointer]
+                      - group [ref=e875]:
+                        - generic "Card Highlights" [ref=e876] [cursor=pointer]
+                - generic [ref=e878]:
+                  - generic [ref=e879]:
+                    - img "Chase Freedom Flex®" [ref=e880]
+                    - generic [ref=e881]:
+                      - generic [ref=e882]:
+                        - img "Star rating icon" [ref=e885]
+                        - img "Star rating icon" [ref=e888]
+                        - img "Star rating icon" [ref=e891]
+                        - img "Star rating icon" [ref=e894]
+                        - generic [ref=e895]:
+                          - img "Star rating icon" [ref=e897]
+                          - img "Star rating icon" [ref=e899]
+                      - generic [ref=e900]:
+                        - generic [ref=e901]: U.P. Rating
+                        - img [ref=e904]:
+                          - img [ref=e905]
+                  - generic [ref=e908]:
+                    - generic [ref=e910]:
+                      - link "Chase Freedom Flex®" [ref=e912] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-freedom-flex-card/
+                        - text: Chase Freedom Flex
+                        - superscript [ref=e913]: ®
+                      - text: The Freedom Flex card is an excellent no-annual-fee card that still earns big with 5% cash-back on travel and other bonus categories.
+                    - generic [ref=e915]:
+                      - generic [ref=e916]:
+                        - generic [ref=e917]: Welcome Offer
+                        - img [ref=e920]:
+                          - img [ref=e921]
+                      - generic [ref=e924]: $200
+                    - generic [ref=e925]:
+                      - generic [ref=e926]:
+                        - generic [ref=e928]: Annual Fee
+                        - generic [ref=e929]: $0
+                      - generic [ref=e930]:
+                        - generic [ref=e932]: APR
+                        - generic [ref=e933]: 0% Intro APR for 15 months from account opening on purchases and balance transfers, then a variable APR of 18.24% - 27.74%
+                      - generic [ref=e934]:
+                        - generic [ref=e935]:
+                          - generic [ref=e936]: Credit Recommended
+                          - img [ref=e939]:
+                            - img [ref=e940]
+                        - generic [ref=e943]: Good to Excellent
+                    - generic [ref=e944]:
+                      - group [ref=e945]:
+                        - generic "Why We Like This Card" [ref=e946] [cursor=pointer]
+                      - group [ref=e947]:
+                        - generic "Pros & Cons" [ref=e948] [cursor=pointer]
+                      - group [ref=e949]:
+                        - generic "Card Highlights" [ref=e950] [cursor=pointer]
+                - paragraph [ref=e951]:
+                  - strong [ref=e952]: Are you a business owner?
+                  - text: Check out our article on the best
+                  - link "Chase business cards" [ref=e953] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-chase-business-credit-cards/
+                  - text: for earning Ultimate Rewards points.
+                - heading "Recommended Marriott Bonvoy Cards" [level=3] [ref=e954]
+                - generic [ref=e956]:
+                  - generic [ref=e957]:
+                    - link "Marriott Bonvoy Bold® Credit Card" [ref=e958] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBold/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - img "Marriott Bonvoy Bold® Credit Card" [ref=e959]
+                    - link "Terms Apply / Rates & Fees" [ref=e960] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoldTCCRF/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e961]: Terms Apply / Rates & Fees
+                    - generic [ref=e962]:
+                      - generic [ref=e963]:
+                        - img "Star rating icon" [ref=e966]
+                        - img "Star rating icon" [ref=e969]
+                        - img "Star rating icon" [ref=e972]
+                        - generic [ref=e973]:
+                          - img "Star rating icon" [ref=e975]
+                          - img "Star rating icon" [ref=e977]
+                        - generic [ref=e978]:
+                          - img "Star rating icon" [ref=e980]
+                          - img "Star rating icon" [ref=e981]
+                      - generic [ref=e982]:
+                        - generic [ref=e983]: U.P. Rating
+                        - img [ref=e986]:
+                          - img [ref=e987]
+                    - link "Apply Now" [ref=e990] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBold/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - img [ref=e991]
+                      - text: Apply Now
+                    - generic [ref=e994]: (at Chase's secure site)
+                  - generic [ref=e995]:
+                    - generic [ref=e997]:
+                      - link "Marriott Bonvoy Bold® Credit Card" [ref=e999] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-bold-credit-card/
+                        - text: Marriott Bonvoy Bold
+                        - superscript [ref=e1000]: ®
+                        - text: Credit Card
+                      - text: A great option for Marriott hotel fans who want a no annual fee card and automatic Marriott Bonvoy elite status.
+                    - generic [ref=e1001]:
+                      - generic [ref=e1002]:
+                        - generic [ref=e1003]:
+                          - generic [ref=e1004]: Welcome Offer
+                          - img [ref=e1007]:
+                            - img [ref=e1008]
+                        - generic [ref=e1011]: 30,000 points
+                      - generic [ref=e1012]:
+                        - generic [ref=e1014]: "UP's Offer Valuation*:"
+                        - generic [ref=e1015]: $210
+                    - generic [ref=e1016]:
+                      - generic [ref=e1017]:
+                        - generic [ref=e1019]: Annual Fee
+                        - generic [ref=e1020]: $0
+                      - generic [ref=e1021]:
+                        - generic [ref=e1023]: APR
+                        - generic [ref=e1024]: 19.24% - 27.74% Variable
+                      - generic [ref=e1025]:
+                        - generic [ref=e1026]:
+                          - generic [ref=e1027]: Credit Recommended
+                          - img [ref=e1030]:
+                            - img [ref=e1031]
+                        - generic [ref=e1034]: Good to Excellent
+                    - generic [ref=e1035]:
+                      - group [ref=e1036]:
+                        - generic "Why We Like This Card" [ref=e1037] [cursor=pointer]
+                      - group [ref=e1038]:
+                        - generic "Pros & Cons" [ref=e1039] [cursor=pointer]
+                      - group [ref=e1040]:
+                        - generic "Card Highlights" [ref=e1041] [cursor=pointer]
+                - generic [ref=e1043]:
+                  - generic [ref=e1044]:
+                    - link "Marriott Bonvoy Boundless® Credit Card" [ref=e1045] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundless/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - img "Marriott Bonvoy Boundless® Credit Card" [ref=e1046]
+                    - link "Terms Apply / Rates & Fees" [ref=e1047] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundlessTCCRF/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e1048]: Terms Apply / Rates & Fees
+                    - generic [ref=e1049]:
+                      - generic [ref=e1050]:
+                        - img "Star rating icon" [ref=e1053]
+                        - img "Star rating icon" [ref=e1056]
+                        - img "Star rating icon" [ref=e1059]
+                        - img "Star rating icon" [ref=e1062]
+                        - generic [ref=e1063]:
+                          - img "Star rating icon" [ref=e1065]
+                          - img "Star rating icon" [ref=e1067]
+                      - generic [ref=e1068]:
+                        - generic [ref=e1069]: U.P. Rating
+                        - img [ref=e1072]:
+                          - img [ref=e1073]
+                    - link "Apply Now" [ref=e1076] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundless/TRD/16712/dissn.1775548838764.7073346957.1/
+                      - img [ref=e1077]
+                      - text: Apply Now
+                    - generic [ref=e1080]: (at Chase's secure site)
+                  - generic [ref=e1081]:
+                    - generic [ref=e1083]:
+                      - link "Marriott Bonvoy Boundless® Credit Card" [ref=e1085] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-boundless-credit-card/
+                        - text: Marriott Bonvoy Boundless
+                        - superscript [ref=e1086]: ®
+                        - text: Credit Card
+                      - text: Marriott loyalists will love this card's annual Free Night Award, automatic elite status, and up to 17x points per $1 on Marriott hotel stays.
+                    - generic [ref=e1087]:
+                      - generic [ref=e1088]:
+                        - generic [ref=e1089]:
+                          - generic [ref=e1090]: Welcome Offer
+                          - img [ref=e1093]:
+                            - img [ref=e1094]
+                        - generic [ref=e1097]: Earn up to 4 Free Night Awards
+                      - generic [ref=e1098]:
+                        - generic [ref=e1100]: "UP's Offer Valuation*:"
+                        - generic [ref=e1101]: Up to $1,400
+                    - generic [ref=e1102]:
+                      - generic [ref=e1103]:
+                        - generic [ref=e1105]: Annual Fee
+                        - generic [ref=e1106]: $95
+                      - generic [ref=e1107]:
+                        - generic [ref=e1109]: APR
+                        - generic [ref=e1110]: 19.24% - 27.74% Variable
+                      - generic [ref=e1111]:
+                        - generic [ref=e1112]:
+                          - generic [ref=e1113]: Credit Recommended
+                          - img [ref=e1116]:
+                            - img [ref=e1117]
+                        - generic [ref=e1120]: Good to Excellent
+                    - generic [ref=e1121]:
+                      - group [ref=e1122]:
+                        - generic "Why We Like This Card" [ref=e1123] [cursor=pointer]
+                      - group [ref=e1124]:
+                        - generic "Pros & Cons" [ref=e1125] [cursor=pointer]
+                      - group [ref=e1126]:
+                        - generic "Card Highlights" [ref=e1127] [cursor=pointer]
+                - generic [ref=e1129]:
+                  - generic [ref=e1130]:
+                    - img [ref=e1131]
+                    - generic [ref=e1133]: LIMITED TIME OFFER
+                  - generic [ref=e1134]:
+                    - link "Marriott Bonvoy Bevy® American Express® Card" [ref=e1135] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevy_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Marriott Bonvoy Bevy® American Express® Card" [ref=e1136]
+                    - link "Terms Apply / Rates & Fees" [ref=e1137] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e1138]: Terms Apply / Rates & Fees
+                    - generic [ref=e1139]:
+                      - generic [ref=e1140]:
+                        - img "Star rating icon" [ref=e1143]
+                        - img "Star rating icon" [ref=e1146]
+                        - img "Star rating icon" [ref=e1149]
+                        - generic [ref=e1150]:
+                          - img "Star rating icon" [ref=e1152]
+                          - img "Star rating icon" [ref=e1153]
+                        - generic [ref=e1154]:
+                          - img "Star rating icon" [ref=e1156]
+                          - img "Star rating icon" [ref=e1157]
+                      - generic [ref=e1158]:
+                        - generic [ref=e1159]: U.P. Rating
+                        - img [ref=e1162]:
+                          - img [ref=e1163]
+                    - link "Apply Now" [ref=e1166] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevy_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e1167]
+                      - text: Apply Now
+                    - generic [ref=e1170]: (at Amex's secure site)
+                    - generic [ref=e1171]:
+                      - heading "Apply With Confidence" [level=4] [ref=e1172]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e1173]
+                      - paragraph [ref=e1174]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e1175]:
+                    - generic [ref=e1177]:
+                      - link "Marriott Bonvoy Bevy® American Express® Card" [ref=e1179] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-bevy-card/
+                        - text: Marriott Bonvoy Bevy
+                        - superscript [ref=e1180]: ®
+                        - text: American Express
+                        - superscript [ref=e1181]: ®
+                        - text: Card
+                      - text: The Marriott Bonvoy Bevy card gives you automatic Marriott elite status and helps you earn more Marriott Bonvoy points on your everyday purchases.
+                    - generic [ref=e1182]:
+                      - generic [ref=e1183]:
+                        - generic [ref=e1184]:
+                          - generic [ref=e1185]: Welcome Offer
+                          - img [ref=e1188]:
+                            - img [ref=e1189]
+                        - generic [ref=e1192]: 175,000 points
+                      - generic [ref=e1193]:
+                        - generic [ref=e1195]: "UP's Offer Valuation*:"
+                        - generic [ref=e1196]: Up to $1,225
+                    - generic [ref=e1197]:
+                      - generic [ref=e1198]:
+                        - generic [ref=e1200]: Annual Fee
+                        - generic [ref=e1201]: $250
+                      - generic [ref=e1202]:
+                        - generic [ref=e1204]: APR
+                        - generic [ref=e1205]: 19.49%-28.49% Variable
+                      - generic [ref=e1206]:
+                        - generic [ref=e1207]:
+                          - generic [ref=e1208]: Credit Recommended
+                          - img [ref=e1211]:
+                            - img [ref=e1212]
+                        - generic [ref=e1215]: Good to Excellent
+                    - generic [ref=e1216]:
+                      - group [ref=e1217]:
+                        - generic "Why We Like This Card" [ref=e1218] [cursor=pointer]
+                      - group [ref=e1219]:
+                        - generic "Pros & Cons" [ref=e1220] [cursor=pointer]
+                      - group [ref=e1221]:
+                        - generic "Card Highlights" [ref=e1222] [cursor=pointer]
+                - generic [ref=e1224]:
+                  - generic [ref=e1225]:
+                    - img [ref=e1226]
+                    - generic [ref=e1228]: LIMITED TIME OFFER
+                  - generic [ref=e1229]:
+                    - link "Marriott Bonvoy Brilliant® American Express® Card" [ref=e1230] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliant_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Marriott Bonvoy Brilliant® American Express® Card" [ref=e1231]
+                    - link "Terms Apply / Rates & Fees" [ref=e1232] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e1233]: Terms Apply / Rates & Fees
+                    - generic [ref=e1234]:
+                      - generic [ref=e1235]:
+                        - img "Star rating icon" [ref=e1238]
+                        - img "Star rating icon" [ref=e1241]
+                        - img "Star rating icon" [ref=e1244]
+                        - img "Star rating icon" [ref=e1247]
+                        - generic [ref=e1248]:
+                          - img "Star rating icon" [ref=e1250]
+                          - img "Star rating icon" [ref=e1251]
+                      - generic [ref=e1252]:
+                        - generic [ref=e1253]: U.P. Rating
+                        - img [ref=e1256]:
+                          - img [ref=e1257]
+                    - link "Apply Now" [ref=e1260] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliant_addSource/TRD/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e1261]
+                      - text: Apply Now
+                    - generic [ref=e1264]: (at Amex's secure site)
+                    - generic [ref=e1265]:
+                      - heading "Apply With Confidence" [level=4] [ref=e1266]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e1267]
+                      - paragraph [ref=e1268]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e1269]:
+                    - generic [ref=e1271]:
+                      - link "Marriott Bonvoy Brilliant® American Express® Card" [ref=e1273] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-brilliant-american-express-card/
+                        - text: Marriott Bonvoy Brilliant
+                        - superscript [ref=e1274]: ®
+                        - text: American Express
+                        - superscript [ref=e1275]: ®
+                        - text: Card
+                      - text: A premium card for Marriott fans who want perks like an annual statement credit and Free Night Award, plus a fast track to Marriott elite status.
+                    - generic [ref=e1276]:
+                      - generic [ref=e1277]:
+                        - generic [ref=e1278]:
+                          - generic [ref=e1279]: Welcome Offer
+                          - img [ref=e1282]:
+                            - img [ref=e1283]
+                        - generic [ref=e1286]: 200,000 points
+                      - generic [ref=e1287]:
+                        - generic [ref=e1289]: "UP's Offer Valuation*:"
+                        - generic [ref=e1290]: Up to $1,400
+                    - generic [ref=e1291]:
+                      - generic [ref=e1292]:
+                        - generic [ref=e1294]: Annual Fee
+                        - generic [ref=e1295]: $650
+                      - generic [ref=e1296]:
+                        - generic [ref=e1298]: APR
+                        - generic [ref=e1299]: 19.49%-28.49% Variable
+                      - generic [ref=e1300]:
+                        - generic [ref=e1301]:
+                          - generic [ref=e1302]: Credit Recommended
+                          - img [ref=e1305]:
+                            - img [ref=e1306]
+                        - generic [ref=e1309]: Good to Excellent
+                    - generic [ref=e1310]:
+                      - group [ref=e1311]:
+                        - generic "Why We Like This Card" [ref=e1312] [cursor=pointer]
+                      - group [ref=e1313]:
+                        - generic "Pros & Cons" [ref=e1314] [cursor=pointer]
+                      - group [ref=e1315]:
+                        - generic "Card Highlights" [ref=e1316] [cursor=pointer]
+                - heading "Earn Points With Partners" [level=3] [ref=e1317]
+                - paragraph [ref=e1318]:
+                  - text: Aeroplan has plenty of travel partners, including many non-Alliance partners that are often overlooked. You can find the full list in our post covering
+                  - link "the best ways to earn lots of Aeroplan points" [ref=e1319] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-air-canada-aeroplan-miles/#Earn-Aeroplan-Miles-With-Credit-Cards
+                  - text: .
+                - paragraph [ref=e1320]:
+                  - text: You can earn extra miles by linking your Aeroplan account with the
+                  - link "Aeroplan eStore" [ref=e1321] [cursor=pointer]:
+                    - /url: /travel/airlines/air-canada-aeroplan-estore/
+                  - text: ", your Starbucks account, or various hotel and car rental partners that allow you to double-dip your mileage earnings."
+                - paragraph [ref=e1322]:
+                  - text: As an example, you can book a car rental with your
+                  - link "Chase Sapphire Reserve card" [ref=e1323] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/chase-sapphire-reserve/
+                  - text: and
+                  - link "earn both Chase Ultimate Rewards points" [ref=e1324] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-chase-ultimate-rewards-points/
+                  - emphasis [ref=e1325]: plus
+                  - text: Aeroplan points from the account that you linked.
+                - heading "Use the Aeroplan Award Chart To Plan Travel" [level=2] [ref=e1326]
+                - paragraph [ref=e1327]: First, let’s take a look at how Aeroplan prices award tickets. Aeroplan has pricing models that differ based on what airline you’re flying.
+                - paragraph [ref=e1328]:
+                  - text: For its own flights, Aeroplan uses a
+                  - strong [ref=e1329]: variable pricing method
+                  - text: ", meaning that there can be a huge day-to-day difference in the points you need for a redemption."
+                - paragraph [ref=e1330]: For partner-operated flights, Aeroplan publishes a region-based award chart that tells you exactly how many points you need for an award redemption.
+                - paragraph [ref=e1331]:
+                  - text: In addition to the airlines and regions involved, award pricing depends on the total distance you fly. The farther you fly, the more expensive your award redemption is. Tools like
+                  - link "Great Circle Mapper" [ref=e1332] [cursor=pointer]:
+                    - /url: http://www.gcmap.com/
+                  - text: are a great way to calculate the distance between your origin and destination airports.
+                - paragraph [ref=e1333]: "Aeroplan breaks up the world into four regions: North America, the Atlantic, the Pacific, and South America. Here’s a map of the travel zones:"
+                - 'figure "Aeroplan uses a region-based zone map to determine award pricing. Image Credit: Air Canada" [ref=e1335]':
+                  - img "Aeroplan region map for awards" [ref=e1337]
+                  - generic [ref=e1338]: "Aeroplan uses a region-based zone map to determine award pricing. Image Credit: Air Canada"
+                - paragraph [ref=e1339]:
+                  - text: Typically, the best value for redemptions with Aeroplan points comes from partner airlines. This is because of Aeroplan’s fixed award chart for partner-operated flights. However, the distance you fly can also make or break an award redemption. You can find the full Aeroplan award chart
+                  - link "here" [ref=e1340] [cursor=pointer]:
+                    - /url: https://www.aircanada.com/content/dam/aircanada/loyalty-content/documents/flight-rewards-chart-en.pdf
+                  - text: .
+                - paragraph [ref=e1341]: Aeroplan charges 5,000 points for stopovers, including on one-way redemptions. This allows for a lot of different kinds of award redemptions. You still need to factor in the distance flown, but, for just 5,000 more points, you have plenty of options.
+                - generic [ref=e1342]:
+                  - strong [ref=e1343]: "Bottom Line:"
+                  - paragraph [ref=e1345]: For partner awards, Aeroplan uses a zone-based award chart. Pricing is also determined by the distance flown.
+                - generic [ref=e1346]:
+                  - paragraph [ref=e1347]: Advertisement
+                  - iframe [ref=e1940]:
+                    - generic [active] [ref=f72e1]:
+                      - img [ref=f72e5] [cursor=pointer]
+                      - button [ref=f72e8] [cursor=pointer]:
+                        - img [ref=f72e9]
+                      - iframe [ref=f72e16]:
+                        - generic [active] [ref=f105e1]:
+                          - iframe [ref=f105e2]:
+                            - generic [ref=f141e2]:
+                              - iframe [ref=f141e5]:
+                                - insertion [ref=f188e2]:
+                                  - iframe [ref=f188e4]:
+                                    - iframe [ref=f202e4]:
+                                      - generic [ref=f205e2] [cursor=pointer]:
+                                        - generic [ref=f205e8]:
+                                          - text: Born ready
+                                          - generic [ref=f205e9]: to roam
+                                        - generic [ref=f205e20]:
+                                          - generic [ref=f205e21]: Get reliable WiFi + 5G
+                                          - text: with Xfinity Mobile
+                                        - generic [ref=f205e22]: Watch Jurassic Park with Xfinity
+                                        - generic [ref=f205e23]: Xfinity Internet req'd.
+                                        - generic [ref=f205e25]: Shop now
+                              - generic [ref=f141e6]:
+                                - generic:
+                                  - img [ref=f141e10] [cursor=pointer]
+                                  - button [ref=f141e13] [cursor=pointer]:
+                                    - img [ref=f141e14]
+                          - img [ref=f105e4] [cursor=pointer]
+                - heading "The 9 Best Ways To Use Your Aeroplan Points" [level=2] [ref=e1350]
+                - paragraph [ref=e1351]:
+                  - text: The
+                  - link "Star Alliance" [ref=e1352] [cursor=pointer]:
+                    - /url: /travel/airlines/the-star-alliance/
+                  - text: has an extensive network in Europe, as well as strategically placed partners in Asia,
+                  - link "Africa" [ref=e1353] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-africa-with-points-and-miles/
+                  - text: ", and"
+                  - link "South America" [ref=e1354] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-south-america-with-points/
+                  - text: . These allow you to travel all over the world seamlessly.
+                - paragraph [ref=e1355]: Air Canada has several non-Alliance partners, too. These include airlines, such as Etihad and Emirates, that can connect you to almost every corner of the globe.
+                - paragraph [ref=e1356]:
+                  - text: It’s worth mentioning that you may need more points for some of these redemptions than you would with other award programs. However, Aeroplan points are generally easy to earn. There’s still
+                  - strong [ref=e1357]: great value to be found with your Aeroplan points
+                  - text: .
+                - heading "1. Fly Between the East Coast and India for 90,000 Points One-Way in Business Class on a Star Alliance Partner" [level=3] [ref=e1358]
+                - 'figure "Turkish Airlines business class on the 787. Image Credit: Juan Ruiz" [ref=e1360]':
+                  - img "Turkish Airlines business class 787 Juan Ruiz" [ref=e1362]
+                  - generic [ref=e1363]: "Turkish Airlines business class on the 787. Image Credit: Juan Ruiz"
+                - paragraph [ref=e1364]:
+                  - text: A one-way business class flight between the
+                  - link "U.S. East Coast and India" [ref=e1365] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-india-with-points/
+                  - text: using Aeroplan may not be at the top of your list of redemptions, but it really should be.
+                - paragraph [ref=e1366]:
+                  - text: From
+                  - strong [ref=e1367]: 90,000 Aeroplan points
+                  - text: ", you can book a one-way business class flight on any Star Alliance partner from the East Coast to India, which is classified as part of the Atlantic zone on Aeroplan’s award chart."
+                - paragraph [ref=e1368]:
+                  - text: Aeroplan charges just
+                  - strong [ref=e1369]: 55,000 Aeroplan points
+                  - text: "for a one-way economy ticket on Star Alliance partners:"
+                - paragraph [ref=e1370]: "Here’s an example of a flight you can book:"
+                - list [ref=e1371]:
+                  - listitem [ref=e1372]:
+                    - strong [ref=e1373]: New York (JFK) to Mumbai (BOM)
+                    - text: for 90,000 points one-way on Air India or
+                    - link "Turkish Airlines in business class" [ref=e1374] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-turkish-airlines-business-class/
+                - paragraph [ref=e1375]: One of the benefits of the new Aeroplan program is that it doesn’t pass on carrier surcharges, so you don’t have to worry about those pesky fuel surcharges, which can significantly reduce the value of award redemptions.
+                - heading "2. Fly Between the East Coast and South Africa From 85,000 Points One-Way in Business Class on a Star Alliance Partner" [level=3] [ref=e1376]
+                - 'figure "SWISS business class cabin. Image Credit: Ehsan Haque" [ref=e1378]':
+                  - img "SWISS 777 300ER business class cabin from back" [ref=e1380]
+                  - generic [ref=e1381]: "SWISS business class cabin. Image Credit: Ehsan Haque"
+                - paragraph [ref=e1382]: South Africa is on many travelers’ bucket lists, but it can be challenging to get there.
+                - paragraph [ref=e1383]:
+                  - text: Aeroplan places the entire African continent in the Atlantic zone. You can book a round-trip business class flight between the East Coast of the
+                  - link "U.S. to South Africa" [ref=e1384] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-south-africa-with-points-and-miles/
+                  - strong [ref=e1385]: from 170,000 points
+                  - text: .
+                - paragraph [ref=e1386]:
+                  - text: Of course, this depends on the actual distance between the origin and destination airports. Considering how far South Africa is from the U.S., the points needed can vary between
+                  - strong [ref=e1387]: 90,000 and 110,000
+                  - text: points one-way in business class.
+                - paragraph [ref=e1388]: If economy makes more sense, you can book a round-trip flight for as few as 110,000 Aeroplan points on certain routes.
+                - paragraph [ref=e1389]: "Here are some example itineraries you can book:"
+                - list [ref=e1390]:
+                  - listitem [ref=e1391]:
+                    - strong [ref=e1392]: New York (JFK) to Johannesburg (JNB) via Zurich (ZRH)
+                    - text: for 90,000 points one-way in
+                    - link "SWISS business class" [ref=e1393] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-swiss-air-business-class/
+                  - listitem [ref=e1394]:
+                    - strong [ref=e1395]: Newark (EWR) to Cape Town (CPT)
+                    - text: nonstop from 85,000 points one-way in
+                    - link "United Polaris business class" [ref=e1396] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-united-business-class/
+                - heading "3. Fly Between the U.S. and Europe From 120,000 Points Round-Trip in Business Class on a Star Alliance Partner" [level=3] [ref=e1397]
+                - 'figure "United’s Polaris business class is a great way to fly to Europe. Image Credit: Victoria M. Walker" [ref=e1399]':
+                  - img "United Polaris Boeing 767-300" [ref=e1401]
+                  - generic [ref=e1402]: "United’s Polaris business class is a great way to fly to Europe. Image Credit: Victoria M. Walker"
+                - paragraph [ref=e1403]:
+                  - text: Another great redemption using Aeroplan points is for flights to Europe in business class. As with the redemptions above, Aeroplan places the European continent in its Atlantic zone. However,
+                  - strong [ref=e1404]: redemption rates vary by flight distance
+                  - text: ", so pricing depends on the total distance flown."
+                - paragraph [ref=e1405]:
+                  - text: Depending on the distance, you can fly one-way on a
+                  - strong [ref=e1406]: Star Alliance partner in business class for as few as 60,000 points
+                  - text: . However, most of the routes are for nonstop routes between cities in the Eastern U.S. and Western Europe.
+                - paragraph [ref=e1407]: "Here are examples of itineraries you can book with Aeroplan:"
+                - list [ref=e1408]:
+                  - listitem [ref=e1409]:
+                    - strong [ref=e1410]: Newark (EWR) to London (LHR) via Brussels (BRU)
+                    - text: for 60,000 points one-way in Brussels Airlines business class
+                  - listitem [ref=e1411]:
+                    - strong [ref=e1412]: Chicago (ORD) to Athens (ATH) via Istanbul (IST)
+                    - text: for 70,000 points one-way in Turkish Airlines business class
+                  - listitem [ref=e1413]:
+                    - strong [ref=e1414]: Los Angeles (LAX) to Frankfurt (FRA)
+                    - text: nonstop for 70,000 points one-way in
+                    - link "Lufthansa business class" [ref=e1415] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-lufthansa-business-class/
+                  - listitem [ref=e1416]:
+                    - strong [ref=e1417]: Newark (EWR) to Lisbon (LIS)
+                    - text: from 80,000 points one-way in United Polaris business class
+                - heading "4. Fly Between the U.S. and Australia or New Zealand From 150,000 Points Round-Trip in Business Class on a Star Alliance Partner" [level=3] [ref=e1418]
+                - 'figure "Regardless of what plane you fly, Air New Zealand business class is a great product. Image Credit: Daniel Ross" [ref=e1420]':
+                  - img "Air New Zealand Boeing 787 business class seat 1K" [ref=e1422]
+                  - generic [ref=e1423]:
+                    - text: "Regardless of what plane you fly, Air New Zealand business class is a great product. Image Credit:"
+                    - link "Daniel Ross" [ref=e1424] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/daniel/
+                - paragraph [ref=e1425]:
+                  - text: While it’s natural to get pumped about
+                  - link "flying to Australia" [ref=e1426] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-australia-with-points/
+                  - text: or
+                  - link "New Zealand" [ref=e1427] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-new-zealand-with-points/
+                  - text: in business class, the reality is that award space is very limited, no matter which program you hope to book with.
+                - paragraph [ref=e1428]:
+                  - text: However, if you are able to find award availability, you could book a round-trip
+                  - strong [ref=e1429]: business class flight from the West Coast of the U.S. to Australia or New Zealand from 150,000 Aeroplan points
+                  - text: .
+                - paragraph [ref=e1430]: Aeroplan charges just 75,000 points for flights between North America and the Pacific zones for flights that fall in the 5,001-to-7,500-mile band.
+                - paragraph [ref=e1431]:
+                  - text: This only works with
+                  - strong [ref=e1432]: certain city pairs
+                  - text: ", as the distance between certain airports can easily fall into the next distance tier, significantly increasing the points you require for an award redemption. For flights of more than 7,500 miles, Aeroplan charges 87,500 points."
+                - paragraph [ref=e1433]: "Here are examples of itineraries you can book:"
+                - list [ref=e1434]:
+                  - listitem [ref=e1435]:
+                    - strong [ref=e1436]: San Francisco (SFO) to Auckland (AKL)
+                    - text: nonstop for 90,000 points one-way in Air New Zealand business class
+                  - listitem [ref=e1437]:
+                    - strong [ref=e1438]: Los Angeles (LAX) to Sydney (SYD)
+                    - text: nonstop for 100,000 points one-way in United business class
+                - generic [ref=e1439]:
+                  - strong [ref=e1440]: "Hot Tip:"
+                  - paragraph [ref=e1442]: It’s important to factor in the distance between airports when it comes to Aeroplan award bookings.
+                - heading "5. Fly Within North America on United From 12,000 Points Round-Trip in Economy" [level=3] [ref=e1443]
+                - 'figure "Enjoy United economy within North America from 6,000 points one-way. Image Credit: Ryan Smith" [ref=e1445]':
+                  - img "United Airlines B737 MAX9 view up the aisle in economy" [ref=e1447]
+                  - generic [ref=e1448]: "Enjoy United economy within North America from 6,000 points one-way. Image Credit: Ryan Smith"
+                - paragraph [ref=e1449]:
+                  - text: You can book round-trip economy flights on
+                  - link "United Airlines" [ref=e1450] [cursor=pointer]:
+                    - /url: /travel/airlines/united-airlines-review/
+                  - text: within the continental U.S. and Canada
+                  - strong [ref=e1451]: from 12,000 Aeroplan points
+                  - text: . This pricing is for short-haul flights on United for distances less than 500 miles.
+                - paragraph [ref=e1452]: Flights between the West Coast of the U.S. and Hawaii require 25,000 points round-trip in economy and 50,000 points round-trip in business class. In comparison, flights between the East Coast and Hawaii cost 45,000 points round-trip in economy and 70,000 round-trip in business.
+                - paragraph [ref=e1453]: "Here are examples of itineraries you can book:"
+                - list [ref=e1454]:
+                  - listitem [ref=e1455]:
+                    - strong [ref=e1456]: Chicago (ORD) to Toronto (YYZ)
+                    - text: nonstop from 6,000 points one-way in United economy
+                  - listitem [ref=e1457]:
+                    - strong [ref=e1458]: Newark (EWR) to Boston (BOS)
+                    - text: nonstop from 6,000 points one-way in United economy
+                  - listitem [ref=e1459]:
+                    - strong [ref=e1460]: Newark (EWR) to Los Angeles (LAX)
+                    - text: nonstop from 25,000 points one-way in United Polaris business class
+                  - listitem [ref=e1461]:
+                    - strong [ref=e1462]: San Francisco (SFO) to Honolulu (HNL)
+                    - text: nonstop from 12,500 points one-way in United economy
+                - generic [ref=e1463]:
+                  - strong [ref=e1464]: "Hot Tip:"
+                  - paragraph [ref=e1466]:
+                    - text: Check out our guide on the
+                    - link "Best Ways To Fly to Hawaii With Points and Miles" [ref=e1467] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/best-ways-to-fly-to-hawaii-with-points/
+                    - text: .
+                - heading "6. Fly Between the U.S. and South America From 100,000 Points Round-Trip in Business Class on a Star Alliance Partner" [level=3] [ref=e1468]
+                - 'figure "Enjoy access to United’s Polaris Lounge when flying in Polaris class. Image Credit: Chris Hassan" [ref=e1470]':
+                  - img "United Polaris Lounge Houston IAH wine and Champagne" [ref=e1472]
+                  - generic [ref=e1473]:
+                    - text: "Enjoy access to United’s Polaris Lounge when flying in Polaris class. Image Credit:"
+                    - link "Chris Hassan" [ref=e1474] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/chrishassan/
+                - paragraph [ref=e1475]:
+                  - text: Star Alliance has a
+                  - strong [ref=e1476]:
+                    - text: solid presence in
+                    - link "South America" [ref=e1477] [cursor=pointer]:
+                      - /url: /travel/best-ways-to-fly-to-south-america-with-points/
+                  - text: ", with several airlines providing nonstop flights, such as Avianca, Copa Airlines, and United Airlines."
+                - paragraph [ref=e1478]:
+                  - text: From North America, flights between 2,501 miles and 4,500 miles cost
+                  - strong [ref=e1479]: 50,000 points one-way in business class
+                  - text: . For flights above 4,501 miles, Aeroplan charges 60,000 miles. This means you could fly from nearly any U.S. city to South America for
+                  - strong [ref=e1480]: 120,000 points round-trip in business class.
+                - paragraph [ref=e1481]: You can book a round-trip business class flight from the U.S. to cities across southern South America from 120,000 Aeroplan points.
+                - paragraph [ref=e1482]: "Here are examples of itineraries you can book:"
+                - list [ref=e1483]:
+                  - listitem [ref=e1484]:
+                    - strong [ref=e1485]:
+                      - text: Miami (MIA) to
+                      - strong [ref=e1486]: Rio de Janeiro (GIG
+                      - text: )
+                    - text: nonstop for 50,000 points one-way in United business class
+                  - listitem [ref=e1487]:
+                    - strong [ref=e1488]: Houston (IAH) to Buenos Aires (EZE)
+                    - text: nonstop for 80,000 points one-way in United business class
+                - heading "7. Fly Between the U.S. and Asia From 150,000 Points Round-Trip in Business Class on a Star Alliance Partner" [level=3] [ref=e1489]
+                - 'figure "ANA’s new business class seating is excellent. Image Credit: Stella Shon" [ref=e1491]':
+                  - img "ANA The Room First Look" [ref=e1493]
+                  - generic [ref=e1494]:
+                    - text: "ANA’s new business class seating is excellent. Image Credit:"
+                    - link "Stella Shon" [ref=e1495] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/stella/
+                - paragraph [ref=e1496]:
+                  - text: The Star Alliance has several Asian carriers that allow you to access many cities across the region with nonstop flights or easy 1-stop itineraries. Partners based in Asia include
+                  - strong [ref=e1497]: All Nippon Airways (ANA), Asiana Airlines, EVA Air, Shenzhen Airlines, Singapore Airlines, and Thai Airways
+                  - text: .
+                - paragraph [ref=e1498]:
+                  - text: Depending on the distance, you can book a one-way business class flight from the U.S. to destinations in Asia
+                  - strong [ref=e1499]: from just 75,000 Aeroplan points
+                  - text: .
+                - paragraph [ref=e1500]: Keep in mind that most of Asia falls into the Pacific zone in Aeroplan’s award chart, and it’s a vast region, so mileage rates vary depending on your origin and destination cities.
+                - paragraph [ref=e1501]: "Here are examples of itineraries you can book:"
+                - list [ref=e1502]:
+                  - listitem [ref=e1503]:
+                    - strong [ref=e1504]: San Francisco (SFO) to Seoul-Incheon (ICN)
+                    - text: nonstop for 75,000 points one-way in
+                    - link "Asiana business class" [ref=e1505] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-asiana-business-class/
+                  - listitem [ref=e1506]:
+                    - strong [ref=e1507]: Seattle (SEA) to Taipei (TPE)
+                    - text: for 75,000 points one-way in
+                    - link "Eva Air business class" [ref=e1508] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-book-eva-air-business-class/
+                  - listitem [ref=e1509]:
+                    - strong [ref=e1510]: Los Angeles (LAX) to Tokyo (NRT)
+                    - text: for 100,000 points one-way in
+                    - link "United business class" [ref=e1511] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-book-united-business-class/
+                - heading "8. Fly Between the U.S. and the Middle East from 85,000 Points One-Way in Business Class on Etihad Airways" [level=3] [ref=e1512]
+                - 'figure "Etihad Airways Airbus A380 business class. Image Credit: Greg Stone" [ref=e1514]':
+                  - img "Etihad Airways Airbus A380 Business Class Seat Mood Lighting" [ref=e1516]
+                  - generic [ref=e1517]:
+                    - text: "Etihad Airways Airbus A380 business class. Image Credit:"
+                    - link "Greg Stone" [ref=e1518] [cursor=pointer]:
+                      - /url: /author/greg/
+                - paragraph [ref=e1519]: As we mentioned above, Air Canada has partnerships with airlines outside of Star Alliance. One of those partnerships is with Etihad Airways.
+                - paragraph [ref=e1520]:
+                  - text: Thanks to this, you can redeem 85,000 to 113,000 Aeroplan points to fly one-way in
+                  - link "Etihad business class" [ref=e1521] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-etihad-business-class/
+                  - text: from cities on the U.S. East Coast, such as New York (JFK) or Washington, D.C. (IAD), to Abu Dhabi (AUH).
+                - paragraph [ref=e1522]:
+                  - text: Even better, you could fly those same routes in
+                  - link "Etihad’s spectacular first class product" [ref=e1523] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-etihad-first-class/
+                  - text: for 110,000 to 134,500 points each way. Keep in mind that Aeroplan uses dynamic pricing for Etihad awards, so these seats may cost significantly more.
+                - heading "9. Fly ITA Airways between the U.S. and Italy" [level=3] [ref=e1524]
+                - 'figure "You can book ITA Airways awards between the U.S. and Italy using Aeroplan points. Image Credit: Daniel Ross" [ref=e1526]':
+                  - img "ITA Airways Airbus A350 business class cabin" [ref=e1528]
+                  - generic [ref=e1529]: "You can book ITA Airways awards between the U.S. and Italy using Aeroplan points. Image Credit: Daniel Ross"
+                - paragraph [ref=e1530]: Even though ITA Airways is in the process of transitioning into the Star Alliance, you can already redeem Aeroplan points for ITA flights between the U.S. and Italy.
+                - paragraph [ref=e1531]: Currently, award availability is sparse and you’ll mostly see economy class available for 55,000 Aeroplan points each way between Los Angeles (LAX) and Rome (FCO). You can also book one-way flights between New York (JFK) and Athens (ATH) for 40,000 points each way.
+                - paragraph [ref=e1532]: As ITA transitions fully into the Star Alliance, more award space should open up, including business class.
+                - heading "Final Thoughts" [level=2] [ref=e1533]
+                - paragraph [ref=e1534]: The Aeroplan program has gone through changes recently, but there are still many opportunities for maximizing your points. In addition to eliminating carrier-imposed surcharges, the program’s stopover and open-jaw allowance can help boost the value of your points even more.
+                - paragraph [ref=e1535]: Thanks to Aeroplan’s numerous Star Alliance and non-Alliance partners, there are numerous redemption options. For your next bucket-list getaway, check if booking through Aeroplan is the way to go.
+              - generic [ref=e1536]:
+                - generic [ref=e1537]:
+                  - separator [ref=e1538]
+                  - text: "Featured Image Credit:"
+                  - link "Alberto Riva" [ref=e1539] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/alberto/
+                - generic [ref=e1540]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1541]
+                  - group [ref=e1542]:
+                    - generic "What are Aeroplan points?" [ref=e1543] [cursor=pointer]
+                    - paragraph [ref=e1545]: Aeroplan points are the currency of Air Canada’s loyalty program, Aeroplan. You earn them from flying Air Canada, crediting partner flights to Aeroplan, transferring points to Aeroplan, or earning miles from non-airline partners like hotels and car rental companies. You can redeem Aeroplan points for award flights with Air Canada, among other things.
+                  - group [ref=e1546]:
+                    - generic "Can Aeroplan points be transferred to partner airlines?" [ref=e1547] [cursor=pointer]
+                    - paragraph [ref=e1549]: Once you earn or transfer points to Aeroplan, the points cannot be transferred out of the program. You cannot transfer points from Aeroplan to other programs, but you can use your Aeroplan points to book partner-operated flights.
+                  - group [ref=e1550]:
+                    - generic "Can you use Aeroplan points to fly United?" [ref=e1551] [cursor=pointer]
+                    - paragraph [ref=e1553]: Yes, Aeroplan points can be used for award redemptions on flights operated by United Airlines.
+                  - group [ref=e1554]:
+                    - generic "How do you earn Aeroplan points?" [ref=e1555] [cursor=pointer]
+                    - paragraph [ref=e1557]:
+                      - text: Aeroplan points are easy to earn. You can earn them directly by spending on the Aeroplan card issued by Chase, or you can transfer points from a number of programs, including
+                      - link "Amex Membership Rewards" [ref=e1558] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/credit-cards/amex-membership-rewards-transfer-partners/
+                      - text: ", Bilt Rewards, Capital One Miles, Chase Ultimate Rewards, and Marriott Bonvoy."
+                - complementary [ref=e1559]:
+                  - generic [ref=e1560]:
+                    - paragraph [ref=e1561]:
+                      - generic [ref=e1562]: The information regarding the Capital One VentureOne Rewards Credit Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1563]:
+                        - text: The information regarding the Aeroplan
+                        - superscript [ref=e1564]: ®
+                        - text: Credit Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1566]:
+                        - text: The information regarding the Chase Freedom Flex
+                        - superscript [ref=e1567]: ®
+                        - text: was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph [ref=e1568]:
+                      - generic [ref=e1570]:
+                        - text: For rates and fees of the Platinum Card
+                        - superscript [ref=e1571]: ®
+                        - text: from American Express, click
+                        - link "here" [ref=e1572] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1574]:
+                        - text: For rates and fees of the American Express
+                        - superscript [ref=e1575]: ®
+                        - text: Gold Card, click
+                        - link "here" [ref=e1576] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TE/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1578]:
+                        - text: For rates and fees of the Marriott Bonvoy Bevy
+                        - superscript [ref=e1579]: ®
+                        - text: American Express
+                        - superscript [ref=e1580]: ®
+                        - text: Card, click
+                        - link "here" [ref=e1581] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TE/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1583]:
+                        - text: For rates and fees of the Marriott Bonvoy Brilliant
+                        - superscript [ref=e1584]: ®
+                        - text: American Express
+                        - superscript [ref=e1585]: ®
+                        - text: card, click
+                        - link "here" [ref=e1586] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TE/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                - group "Was this page helpful?" [ref=e1588]:
+                  - paragraph [ref=e1589]: Was this page helpful?
+                  - generic [ref=e1590]:
+                    - button "Yes" [ref=e1591] [cursor=pointer]
+                    - button "No" [ref=e1592] [cursor=pointer]
+                - generic [ref=e1593]:
+                  - figure [ref=e1595]:
+                    - img "Michael McHugh's image" [ref=e1596]
+                  - generic [ref=e1597]:
+                    - heading "About Michael McHugh" [level=2] [ref=e1598]:
+                      - text: About
+                      - link "Michael McHugh" [ref=e1599] [cursor=pointer]:
+                        - /url: /author/michael/
+                    - paragraph [ref=e1600]: Born and raised in Mobile, Alabama, Michael took his first international trip in 2013 with friends to the Bahamas. Although he didn’t travel much in his younger years, on that trip, he caught the travel bug and has been hooked ever since.
+                    - paragraph [ref=e1601]: Michael first caught wind of the points and miles game in 2014 while at a bar in Washington, DC where the conversation amongst friends was quickly derailed because of an alert on a friend’s phone about a mistake fare. That’s where the love affair with points and miles began.
+                    - list [ref=e1603]:
+                      - listitem [ref=e1604]:
+                        - link "Instagram icon" [ref=e1605] [cursor=pointer]:
+                          - /url: https://www.instagram.com/pointswithq/
+                          - img "Instagram icon" [ref=e1606]
+                      - listitem [ref=e1607]:
+                        - link "Twitter icon" [ref=e1608] [cursor=pointer]:
+                          - /url: https://twitter.com/pointswithq
+                          - img "Twitter icon" [ref=e1609]
+                      - listitem [ref=e1610]:
+                        - link "email icon" [ref=e1611] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1612]
+                - generic [ref=e1614]:
+                  - generic [ref=e1615]:
+                    - paragraph [ref=e1616]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1617]: ™
+                    - generic [ref=e1618]:
+                      - paragraph [ref=e1619]:
+                        - text: Get the
+                        - strong [ref=e1620]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1621]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1622]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1623]:
+                      - textbox "First Name" [ref=e1624]
+                      - textbox "Email" [ref=e1625]
+                      - button "Join Now" [disabled] [ref=e1626]
+                    - paragraph [ref=e1628]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1629] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1630] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1631] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1633]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1635]
+                - generic [ref=e1637]:
+                  - paragraph [ref=e1638]: We Recommend
+                  - generic [ref=e1639]:
+                    - generic [ref=e1640]:
+                      - link "Platinum Card® from American Express" [ref=e1641] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1642]
+                      - link "Terms Apply / Rates & Fees" [ref=e1643] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1644] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1645]
+                        - text: Apply Now
+                    - generic [ref=e1648]:
+                      - paragraph [ref=e1649]:
+                        - link "Platinum Card® from American Express" [ref=e1650] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1651]:
+                            - text: Platinum Card
+                            - superscript [ref=e1652]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1654]:
+                        - generic [ref=e1655]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1656] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1657]:
+                        - listitem [ref=e1658]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1659]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1660]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1661]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1662]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1663]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1664]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1665] [cursor=pointer]
+            - complementary [ref=e1667]:
+              - generic [ref=e1668]:
+                - generic [ref=e1670]:
+                  - paragraph [ref=e1671]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1672] [cursor=pointer]
+                  - generic [ref=e1673]:
+                    - generic [ref=e1676]:
+                      - generic [ref=e1677]:
+                        - generic [ref=e1678]:
+                          - img [ref=e1679]
+                          - generic [ref=e1681]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1682] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1683]
+                      - generic [ref=e1684]:
+                        - paragraph [ref=e1685]:
+                          - link "Platinum Card® from American Express" [ref=e1686] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1687]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1688] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1689]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1691] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1694]:
+                      - generic [ref=e1695]:
+                        - generic [ref=e1696]:
+                          - img [ref=e1697]
+                          - generic [ref=e1699]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1700] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1701]
+                      - generic [ref=e1702]:
+                        - paragraph [ref=e1703]:
+                          - link "American Express® Gold Card" [ref=e1704] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1705]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1706] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1707]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1709] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1712]:
+                      - generic [ref=e1713]:
+                        - generic [ref=e1714]:
+                          - img [ref=e1715]
+                          - generic [ref=e1717]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1718] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1719]
+                      - generic [ref=e1720]:
+                        - paragraph [ref=e1721]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1722] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1723]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1724] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1725]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1727] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/16712/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1730]:
+                      - generic [ref=e1731]:
+                        - generic [ref=e1732]:
+                          - img [ref=e1733]
+                          - generic [ref=e1735]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1736] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/16712/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1737]
+                      - generic [ref=e1738]:
+                        - paragraph [ref=e1739]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1740] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/16712/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1741]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1742] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/16712/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1743]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1745] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/16712/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1747] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1750]: Advertisement
+      - generic [ref=e1752]:
+        - paragraph [ref=e1753]: Related Posts
+        - generic [ref=e1754]:
+          - generic [ref=e1755]:
+            - link [ref=e1756] [cursor=pointer]:
+              - /url: /travel/airlines/air-canada-aeroplan-estore/
+              - figure [ref=e1757]:
+                - img "How To Use the Air Canada Aeroplan eStore To Earn More Points" [ref=e1759]
+            - link "How To Use the Air Canada Aeroplan eStore To Earn More Points" [ref=e1760] [cursor=pointer]:
+              - /url: /travel/airlines/air-canada-aeroplan-estore/
+          - generic [ref=e1761]:
+            - link [ref=e1762] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-earn-air-canada-aeroplan-miles/
+              - figure [ref=e1763]:
+                - img "20 Best Ways To Earn Lots of Air Canada Aeroplan Points [2026]" [ref=e1765]
+            - link "20 Best Ways To Earn Lots of Air Canada Aeroplan Points [2026]" [ref=e1766] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-earn-air-canada-aeroplan-miles/
+          - generic [ref=e1767]:
+            - link [ref=e1768] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-earn-asiana-miles/
+              - figure [ref=e1769]:
+                - img "7 Best Ways To Earn Lots of Asiana Airlines Asiana Club Miles [2025]" [ref=e1771]
+            - link "7 Best Ways To Earn Lots of Asiana Airlines Asiana Club Miles [2025]" [ref=e1772] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-earn-asiana-miles/
+          - generic [ref=e1773]:
+            - link [ref=e1774] [cursor=pointer]:
+              - /url: /travel/airlines/american-aadvantage-dining/
+              - figure [ref=e1775]:
+                - img "How to Use American Airlines AAdvantage Dining to Earn More Miles" [ref=e1777]
+            - link "How to Use American Airlines AAdvantage Dining to Earn More Miles" [ref=e1778] [cursor=pointer]:
+              - /url: /travel/airlines/american-aadvantage-dining/
+    - contentinfo [ref=e1779]:
+      - img [ref=e1780]
+      - img [ref=e1799]
+      - generic [ref=e1818]:
+        - generic [ref=e1819]:
+          - img [ref=e1821]
+          - generic [ref=e1826]:
+            - generic [ref=e1827]:
+              - paragraph [ref=e1828]: Upgrade your travel experience
+              - list [ref=e1829]:
+                - listitem [ref=e1830]:
+                  - link [ref=e1831] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1832]:
+                      - img "Facebook" [ref=e1833]
+                - listitem [ref=e1834]:
+                  - link [ref=e1835] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1836]:
+                      - img "Twitter" [ref=e1837]
+                - listitem [ref=e1838]:
+                  - link [ref=e1839] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1840]:
+                      - img "Instagram" [ref=e1841]
+                - listitem [ref=e1842]:
+                  - link [ref=e1843] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1844]:
+                      - img "Pinterest" [ref=e1845]
+                - listitem [ref=e1846]:
+                  - link [ref=e1847] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1848]:
+                      - img "Linkedin" [ref=e1849]
+                - listitem [ref=e1850]:
+                  - link [ref=e1851] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1852]:
+                      - img "Youtube" [ref=e1853]
+            - generic [ref=e1855]:
+              - list [ref=e1856]:
+                - listitem [ref=e1857]:
+                  - link "News" [ref=e1858] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1859]:
+                  - link "Credit Cards" [ref=e1860] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1861]:
+                  - link "Business" [ref=e1862] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1863]:
+                - listitem [ref=e1864]:
+                  - link "Finance" [ref=e1865] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1866]:
+                  - link "Travel Guides" [ref=e1867] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1868]:
+                  - link "Air Travel" [ref=e1869] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1870]:
+                - listitem [ref=e1871]:
+                  - link "Hotel Guides" [ref=e1872] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1873]:
+                  - link "Beginners" [ref=e1874] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1875]:
+                  - link "About" [ref=e1876] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1877]:
+                - listitem [ref=e1878]:
+                  - link "Podcast" [ref=e1879] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1880]:
+                  - link "Jobs & Careers" [ref=e1881] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1882]:
+                  - link "Contact Us" [ref=e1883] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1884]:
+          - paragraph [ref=e1885]:
+            - link "Privacy Policy" [ref=e1886] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1887] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1888] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1889] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1890] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1891] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1892] [cursor=pointer]
+          - paragraph [ref=e1893]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1894]:
+          - link "DMCA.com Protection Status" [ref=e1895] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1896]
+          - img "Comodo Secure Seal" [ref=e1898]
+        - generic [ref=e1899]:
+          - generic [ref=e1900]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1901]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1902]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1903]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1904]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1905] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1906]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1907]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1909]:
+    - generic [ref=e1910]:
+      - generic [ref=e1911]:
+        - button "close banner" [ref=e1912] [cursor=pointer]:
+          - img "close banner" [ref=e1913]
+        - img "company logo" [ref=e1915]
+      - generic [ref=e1916]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1918]
+        - generic [ref=e1919]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1920] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1921] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1923]:
+        - button "Manage" [ref=e1924] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1925] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1926] [cursor=pointer]
+    - generic [ref=e1928]:
+      - generic [ref=e1929]: "Powered by:"
+      - link "trustarc" [ref=e1930] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1931]

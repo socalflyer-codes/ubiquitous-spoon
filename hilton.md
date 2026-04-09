@@ -1,0 +1,1780 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Hotels" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/hotels/
+            - heading "21 Best Ways To Redeem Hilton Honors Points for Hotel Stays [Maximum Value]" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Stephen Au's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e1599]: Stephen Au
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: March 12, 2026, 9:56pm CDT
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Keri Stooksbury
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Kellie Jez
+          - figure [ref=e61]:
+            - img "21 Best Ways To Redeem Hilton Honors Points for Hotel Stays [Maximum Value]" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e65]:
+            - generic "Jump to Section" [ref=e66] [cursor=pointer]
+          - paragraph [ref=e70]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e71] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e72]:
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - generic [ref=e76]:
+                  - heading "Key Takeaways" [level=2] [ref=e78]
+                  - list [ref=e80]:
+                    - listitem [ref=e81]: Hilton’s portfolio includes 24 brands, from the luxury Waldorf Astoria and Conrad Hotels and Resorts to mid-scale Tru by Hilton.
+                    - listitem [ref=e82]: Hilton Honors points are best redeemed for free nights at luxury properties, especially during peak seasons or events where cash rates are high.
+                    - listitem [ref=e83]: Some of the best redemptions include Waldorf Astoria Maldives Ithaafushi, Conrad Maldives Rangali Island, and Waldorf Astoria Los Cabos Pedregal.
+                - paragraph [ref=e84]:
+                  - text: The Hilton Honors program is one of the biggest hotel loyalty programs in the world. Responsible for over 70 partnerships, it has
+                  - strong [ref=e85]: more than 173 million members
+                  - text: "!"
+                - paragraph [ref=e86]: The loyalty program was directly responsible for nearly $400 million of the parent company’s revenue, which just illustrates how big of a deal Hilton Honors is for the Hilton hotel chain.
+                - paragraph [ref=e87]: Its base of loyal members continues to grow, in part due to the program’s reputation as one of the world’s most flexible hotel loyalty programs. Whether you’re looking to combine points for family vacations or use a mix of points and cash, there are tons of ways to maximize the Hilton Honors program.
+                - paragraph [ref=e88]:
+                  - text: Let’s take a look at some of the best ways to redeem your Hilton Honors points for maximum value! We’ll be looking at some of the world’s most
+                  - link "luxurious hotels" [ref=e89] [cursor=pointer]:
+                    - /url: /travel/hotels/best-hilton-luxury-hotels-to-book-with-points/
+                  - text: as well as some of the top choices for value-minded travelers.
+                - heading "How To Earn Hilton Honors Points" [level=2] [ref=e90]
+                - paragraph [ref=e91]:
+                  - text: Before we dive into some amazing redemption options, let’s make sure you can earn the Hilton Honors points you need. Many credit cards can help you
+                  - link "earn Hilton Honors points" [ref=e92] [cursor=pointer]:
+                    - /url: /travel/hotels/how-to-earn-hilton-hhonors-points/
+                  - text: ", but make sure you"
+                  - link "choose the one that’s right for you." [ref=e93] [cursor=pointer]:
+                    - /url: /credit-cards/best-credit-cards-for-hilton-loyalists/
+                - heading "American Express Hilton Honors Cards" [level=3] [ref=e94]
+                - paragraph [ref=e95]: American Express offers several co-branded Hilton Honors credit cards that earn Hilton Honors points directly.
+                - paragraph [ref=e96]: These cards each come with several bonus categories as well, including U.S. restaurants, U.S. supermarkets, and U.S. gas stations.
+                - generic [ref=e98]:
+                  - generic [ref=e99]:
+                    - img [ref=e100]
+                    - generic [ref=e102]: LIMITED TIME OFFER
+                  - generic [ref=e103]:
+                    - link "Hilton Honors American Express Card" [ref=e104] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonHHonors_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Hilton Honors American Express Card" [ref=e105]
+                    - link "Terms Apply / Rates & Fees" [ref=e106] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonHHonorsTCCRF_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e107]: Terms Apply / Rates & Fees
+                    - generic [ref=e108]:
+                      - generic [ref=e109]:
+                        - img "Star rating icon" [ref=e112]
+                        - img "Star rating icon" [ref=e115]
+                        - img "Star rating icon" [ref=e118]
+                        - img "Star rating icon" [ref=e121]
+                        - generic [ref=e122]:
+                          - img "Star rating icon" [ref=e124]
+                          - img "Star rating icon" [ref=e125]
+                      - generic [ref=e126]:
+                        - generic [ref=e127]: U.P. Rating
+                        - img [ref=e130]:
+                          - img [ref=e131]
+                    - link "Apply Now" [ref=e134] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonHHonors_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e135]
+                      - text: Apply Now
+                    - generic [ref=e138]: (at Amex's secure site)
+                    - generic [ref=e139]:
+                      - heading "Apply With Confidence" [level=4] [ref=e140]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e141]
+                      - paragraph [ref=e142]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e143]:
+                    - generic [ref=e145]:
+                      - link "Hilton Honors American Express Card" [ref=e147] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/hilton-honors-american-express-card/
+                      - text: Complimentary Hilton Honors Silver status, plus great earnings at Hilton, U.S. gas stations, U.S. supermarkets, and U.S. restaurants!
+                    - generic [ref=e148]:
+                      - generic [ref=e149]:
+                        - generic [ref=e150]:
+                          - generic [ref=e151]: Welcome Offer
+                          - img [ref=e154]:
+                            - img [ref=e155]
+                        - generic [ref=e158]: 70,000 points + 1 Free Night Reward
+                      - generic [ref=e159]:
+                        - generic [ref=e161]: "UP's Offer Valuation*:"
+                        - generic [ref=e162]: Up to $350
+                    - generic [ref=e163]:
+                      - generic [ref=e164]:
+                        - generic [ref=e166]: Annual Fee
+                        - generic [ref=e167]: $0
+                      - generic [ref=e168]:
+                        - generic [ref=e170]: APR
+                        - generic [ref=e171]: 19.49%-28.49% Variable
+                      - generic [ref=e172]:
+                        - generic [ref=e173]:
+                          - generic [ref=e174]: Credit Recommended
+                          - img [ref=e177]:
+                            - img [ref=e178]
+                        - generic [ref=e181]: Good to Excellent
+                    - generic [ref=e182]:
+                      - group [ref=e183]:
+                        - generic "Why We Like This Card" [ref=e184] [cursor=pointer]
+                      - group [ref=e185]:
+                        - generic "Pros & Cons" [ref=e186] [cursor=pointer]
+                      - group [ref=e187]:
+                        - generic "Card Highlights" [ref=e188] [cursor=pointer]
+                - generic [ref=e190]:
+                  - generic [ref=e191]:
+                    - img [ref=e192]
+                    - generic [ref=e194]: LIMITED TIME OFFER
+                  - generic [ref=e195]:
+                    - link "Hilton Honors American Express Surpass® Card" [ref=e196] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonSurpass_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Hilton Honors American Express Surpass® Card" [ref=e197]
+                    - link "Terms Apply / Rates & Fees" [ref=e198] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonSurpassTCCRF_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e199]: Terms Apply / Rates & Fees
+                    - generic [ref=e200]:
+                      - generic [ref=e201]:
+                        - img "Star rating icon" [ref=e204]
+                        - img "Star rating icon" [ref=e207]
+                        - img "Star rating icon" [ref=e210]
+                        - img "Star rating icon" [ref=e213]
+                        - generic [ref=e214]:
+                          - img "Star rating icon" [ref=e216]
+                          - img "Star rating icon" [ref=e218]
+                      - generic [ref=e219]:
+                        - generic [ref=e220]: U.P. Rating
+                        - img [ref=e223]:
+                          - img [ref=e224]
+                    - link "Apply Now" [ref=e227] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonSurpass_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e228]
+                      - text: Apply Now
+                    - generic [ref=e231]: (at Amex's secure site)
+                    - generic [ref=e232]:
+                      - heading "Apply With Confidence" [level=4] [ref=e233]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e234]
+                      - paragraph [ref=e235]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e236]:
+                    - generic [ref=e238]:
+                      - link "Hilton Honors American Express Surpass® Card" [ref=e240] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/hilton-honors-surpass-card-american-express/
+                        - text: Hilton Honors American Express Surpass
+                        - superscript [ref=e241]: ®
+                        - text: Card
+                      - text: An excellent high-earning Hilton credit card that comes with perks like Hilton Honors Gold status and up to $200 in Hilton credits every year.
+                    - generic [ref=e242]:
+                      - generic [ref=e243]:
+                        - generic [ref=e244]:
+                          - generic [ref=e245]: Welcome Offer
+                          - img [ref=e248]:
+                            - img [ref=e249]
+                        - generic [ref=e252]: 130,000 points + 1 Free Night Reward
+                      - generic [ref=e253]:
+                        - generic [ref=e255]: "UP's Offer Valuation*:"
+                        - generic [ref=e256]: Up to $650
+                    - generic [ref=e257]:
+                      - generic [ref=e258]:
+                        - generic [ref=e260]: Annual Fee
+                        - generic [ref=e261]: $150
+                      - generic [ref=e262]:
+                        - generic [ref=e264]: APR
+                        - generic [ref=e265]: 19.49%-28.49% Variable
+                      - generic [ref=e266]:
+                        - generic [ref=e267]:
+                          - generic [ref=e268]: Credit Recommended
+                          - img [ref=e271]:
+                            - img [ref=e272]
+                        - generic [ref=e275]: Good to Excellent
+                    - generic [ref=e276]:
+                      - group [ref=e277]:
+                        - generic "Why We Like This Card" [ref=e278] [cursor=pointer]
+                      - group [ref=e279]:
+                        - generic "Pros & Cons" [ref=e280] [cursor=pointer]
+                      - group [ref=e281]:
+                        - generic "Card Highlights" [ref=e282] [cursor=pointer]
+                - generic [ref=e284]:
+                  - generic [ref=e285]:
+                    - img [ref=e286]
+                    - generic [ref=e288]: LIMITED TIME OFFER
+                  - generic [ref=e289]:
+                    - link "Hilton Honors American Express Aspire Card" [ref=e290] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonAspire_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Hilton Honors American Express Aspire Card" [ref=e291]
+                    - link "Terms Apply / Rates & Fees" [ref=e292] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonAspireTCCRF_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e293]: Terms Apply / Rates & Fees
+                    - generic [ref=e294]:
+                      - generic [ref=e295]:
+                        - img "Star rating icon" [ref=e298]
+                        - img "Star rating icon" [ref=e301]
+                        - img "Star rating icon" [ref=e304]
+                        - img "Star rating icon" [ref=e307]
+                        - generic [ref=e308]:
+                          - img "Star rating icon" [ref=e310]
+                          - img "Star rating icon" [ref=e312]
+                      - generic [ref=e313]:
+                        - generic [ref=e314]: U.P. Rating
+                        - img [ref=e317]:
+                          - img [ref=e318]
+                    - link "Apply Now" [ref=e321] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonAspire_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e322]
+                      - text: Apply Now
+                    - generic [ref=e325]: (at Amex's secure site)
+                    - generic [ref=e326]:
+                      - heading "Apply With Confidence" [level=4] [ref=e327]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e328]
+                      - paragraph [ref=e329]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e330]:
+                    - generic [ref=e332]:
+                      - link "Hilton Honors American Express Aspire Card" [ref=e334] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/hilton-honors-american-express-aspire-card/
+                      - text: Automatic Hilton Diamond status, an annual free night, and a travel and resort credit make this the perfect card for those who stay in Hilton hotels.
+                    - generic [ref=e335]:
+                      - generic [ref=e336]:
+                        - generic [ref=e337]:
+                          - generic [ref=e338]: Welcome Offer
+                          - img [ref=e341]:
+                            - img [ref=e342]
+                        - generic [ref=e345]: 175,000 points
+                      - generic [ref=e346]:
+                        - generic [ref=e348]: "UP's Offer Valuation*:"
+                        - generic [ref=e349]: Up to $875
+                    - generic [ref=e350]:
+                      - generic [ref=e351]:
+                        - generic [ref=e353]: Annual Fee
+                        - generic [ref=e354]: $550
+                      - generic [ref=e355]:
+                        - generic [ref=e357]: APR
+                        - generic [ref=e358]: 19.49%-28.49% Variable
+                      - generic [ref=e359]:
+                        - generic [ref=e360]:
+                          - generic [ref=e361]: Credit Recommended
+                          - img [ref=e364]:
+                            - img [ref=e365]
+                        - generic [ref=e368]: Good to Excellent
+                    - generic [ref=e369]:
+                      - group [ref=e370]:
+                        - generic "Why We Like This Card" [ref=e371] [cursor=pointer]
+                      - group [ref=e372]:
+                        - generic "Pros & Cons" [ref=e373] [cursor=pointer]
+                      - group [ref=e374]:
+                        - generic "Card Highlights" [ref=e375] [cursor=pointer]
+                - generic [ref=e377]:
+                  - generic [ref=e378]:
+                    - img [ref=e379]
+                    - generic [ref=e381]: LIMITED TIME OFFER
+                  - generic [ref=e382]:
+                    - link "The Hilton Honors American Express Business Card" [ref=e383] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonHonorsBusiness_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "The Hilton Honors American Express Business Card" [ref=e384]
+                    - link "Terms Apply / Rates & Fees" [ref=e385] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonHonorsBusinessTCCRF_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e386]: Terms Apply / Rates & Fees
+                    - generic [ref=e387]:
+                      - generic [ref=e388]:
+                        - img "Star rating icon" [ref=e391]
+                        - img "Star rating icon" [ref=e394]
+                        - img "Star rating icon" [ref=e397]
+                        - img "Star rating icon" [ref=e400]
+                        - generic [ref=e401]:
+                          - img "Star rating icon" [ref=e403]
+                          - img "Star rating icon" [ref=e405]
+                      - generic [ref=e406]:
+                        - generic [ref=e407]: U.P. Rating
+                        - img [ref=e410]:
+                          - img [ref=e411]
+                    - link "Apply Now" [ref=e414] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexHiltonHonorsBusiness_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e415]
+                      - text: Apply Now
+                    - generic [ref=e418]: (at Amex's secure site)
+                  - generic [ref=e419]:
+                    - generic [ref=e421]:
+                      - link "The Hilton Honors American Express Business Card" [ref=e423] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/hilton-honors-american-express-business-card/
+                      - text: An excellent option for business owners and business travelers who stay at Hilton properties often and want perks like Hilton Honors elite status.
+                    - generic [ref=e424]:
+                      - generic [ref=e425]:
+                        - generic [ref=e426]:
+                          - generic [ref=e427]: Welcome Offer
+                          - img [ref=e430]:
+                            - img [ref=e431]
+                        - generic [ref=e434]: 175,000 points + 1 Free Night Reward
+                      - generic [ref=e435]:
+                        - generic [ref=e437]: "UP's Offer Valuation*:"
+                        - generic [ref=e438]: Up to $875
+                    - generic [ref=e439]:
+                      - generic [ref=e440]:
+                        - generic [ref=e442]: Annual Fee
+                        - generic [ref=e443]: $195
+                      - generic [ref=e444]:
+                        - generic [ref=e446]: APR
+                        - generic [ref=e447]: 19.49% - 28.49% Variable
+                      - generic [ref=e448]:
+                        - generic [ref=e449]:
+                          - generic [ref=e450]: Credit Recommended
+                          - img [ref=e453]:
+                            - img [ref=e454]
+                        - generic [ref=e457]: Good to Excellent
+                    - generic [ref=e458]:
+                      - group [ref=e459]:
+                        - generic "Why We Like This Card" [ref=e460] [cursor=pointer]
+                      - group [ref=e461]:
+                        - generic "Pros & Cons" [ref=e462] [cursor=pointer]
+                      - group [ref=e463]:
+                        - generic "Card Highlights" [ref=e464] [cursor=pointer]
+                - paragraph [ref=e465]:
+                  - generic [ref=e466]:
+                    - strong [ref=e467]: "Hot Tip:"
+                    - text: Check out our comparison of the
+                    - link "benefits and perks of each Hilton Honors credit card" [ref=e468] [cursor=pointer]:
+                      - /url: /credit-cards/american-express-hilton-honors-credit-cards/
+                    - text: for more details.
+                - heading "American Express Membership Rewards" [level=3] [ref=e469]
+                - paragraph [ref=e470]:
+                  - text: The
+                  - link "Hilton Honors program" [ref=e471] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/hotels/hilton-hhonors-loyalty-program/
+                  - text: is an
+                  - link "Amex transfer partner" [ref=e472] [cursor=pointer]:
+                    - /url: /credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: at a 1:2 ratio. Even with the decent transfer rate, this is still not a great use of points unless you are in a pinch; there are many better ways to
+                  - link "redeem Membership Rewards" [ref=e473] [cursor=pointer]:
+                    - /url: /credit-cards/best-ways-to-redeem-amex-membership-rewards-points/
+                  - text: for flights.
+                - heading "Recommended American Express Cards (Personal)" [level=4] [ref=e474]
+                - generic [ref=e476]:
+                  - generic [ref=e477]:
+                    - img [ref=e478]
+                    - generic [ref=e480]: BEST LOUNGE CARD
+                  - generic [ref=e481]:
+                    - link "Platinum Card® from American Express" [ref=e482] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Platinum Card® from American Express" [ref=e483]
+                    - link "Terms Apply / Rates & Fees" [ref=e484] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e485]: Terms Apply / Rates & Fees
+                    - generic [ref=e486]:
+                      - generic [ref=e487]:
+                        - img "Star rating icon" [ref=e490]
+                        - img "Star rating icon" [ref=e493]
+                        - img "Star rating icon" [ref=e496]
+                        - img "Star rating icon" [ref=e499]
+                        - generic [ref=e500]:
+                          - img "Star rating icon" [ref=e502]
+                          - img "Star rating icon" [ref=e504]
+                      - generic [ref=e505]:
+                        - generic [ref=e506]: U.P. Rating
+                        - img [ref=e509]:
+                          - img [ref=e510]
+                    - link "Apply Now" [ref=e513] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e514]
+                      - text: Apply Now
+                    - generic [ref=e517]: (at Amex's secure site)
+                    - generic [ref=e518]:
+                      - heading "Apply With Confidence" [level=4] [ref=e519]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e520]
+                      - paragraph [ref=e521]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e522]:
+                    - generic [ref=e524]:
+                      - link "Platinum Card® from American Express" [ref=e526] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-platinum-card/
+                        - text: Platinum Card
+                        - superscript [ref=e527]: ®
+                        - text: from American Express
+                      - text: The Amex Platinum reigns supreme for luxury travel, offering the best airport lounge access plus generous statement credits, and complimentary elite status.
+                    - generic [ref=e528]:
+                      - generic [ref=e529]:
+                        - generic [ref=e530]:
+                          - generic [ref=e531]: Welcome Offer
+                          - img [ref=e534]:
+                            - img [ref=e535]
+                        - generic [ref=e538]: As High As 175,000 Points. Find Out Your Offer.
+                      - generic [ref=e539]:
+                        - generic [ref=e541]: "UP's Offer Valuation*:"
+                        - generic [ref=e542]: Up to $3,850
+                    - generic [ref=e543]:
+                      - generic [ref=e544]:
+                        - generic [ref=e546]: Annual Fee
+                        - generic [ref=e547]: $895
+                      - generic [ref=e548]:
+                        - generic [ref=e550]: APR
+                        - generic [ref=e551]: See Pay Over Time APR
+                      - generic [ref=e552]:
+                        - generic [ref=e553]:
+                          - generic [ref=e554]: Credit Recommended
+                          - img [ref=e557]:
+                            - img [ref=e558]
+                        - generic [ref=e561]: Good to Excellent
+                    - generic [ref=e562]:
+                      - group [ref=e563]:
+                        - generic "Why We Like This Card" [ref=e564] [cursor=pointer]
+                      - group [ref=e565]:
+                        - generic "Pros & Cons" [ref=e566] [cursor=pointer]
+                      - group [ref=e567]:
+                        - generic "Card Highlights" [ref=e568] [cursor=pointer]
+                - paragraph [ref=e570]:
+                  - generic [ref=e571]:
+                    - strong [ref=e572]: "Hot Tip:"
+                    - strong [ref=e573]:
+                      - text: Apply and find out if you’re eligible for a
+                      - link "welcome bonus offer of as high as 175,000 points with the Amex Platinum." [ref=e574] [cursor=pointer]:
+                        - /url: /news/amex-platinum-card-175k-sign-up-bonus/
+                    - text: Welcome offers may vary and you may not be eligible for an offer.
+                - generic [ref=e576]:
+                  - generic [ref=e577]:
+                    - img [ref=e578]
+                    - generic [ref=e580]: BEST FOR DINING
+                  - generic [ref=e581]:
+                    - link "American Express® Gold Card" [ref=e582] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "American Express® Gold Card" [ref=e583]
+                    - link "Terms Apply / Rates & Fees" [ref=e584] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e585]: Terms Apply / Rates & Fees
+                    - generic [ref=e586]:
+                      - generic [ref=e587]:
+                        - img "Star rating icon" [ref=e590]
+                        - img "Star rating icon" [ref=e593]
+                        - img "Star rating icon" [ref=e596]
+                        - img "Star rating icon" [ref=e599]
+                        - generic [ref=e600]:
+                          - img "Star rating icon" [ref=e602]
+                          - img "Star rating icon" [ref=e604]
+                      - generic [ref=e605]:
+                        - generic [ref=e606]: U.P. Rating
+                        - img [ref=e609]:
+                          - img [ref=e610]
+                    - link "Apply Now" [ref=e613] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e614]
+                      - text: Apply Now
+                    - generic [ref=e617]: (at Amex's secure site)
+                    - generic [ref=e618]:
+                      - heading "Apply With Confidence" [level=4] [ref=e619]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e620]
+                      - paragraph [ref=e621]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e622]:
+                    - generic [ref=e624]:
+                      - link "American Express® Gold Card" [ref=e626] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-gold-card/
+                        - text: American Express
+                        - superscript [ref=e627]: ®
+                        - text: Gold Card
+                      - text: This is the best card for food lovers who dine out at restaurants (worldwide), order take-out and want big rewards at U.S. supermarkets!
+                    - generic [ref=e628]:
+                      - generic [ref=e629]:
+                        - generic [ref=e630]:
+                          - generic [ref=e631]: Welcome Offer
+                          - img [ref=e634]:
+                            - img [ref=e635]
+                        - generic [ref=e638]: As High As 100,000 Points. Find Out Your Offer.
+                      - generic [ref=e639]:
+                        - generic [ref=e641]: "UP's Offer Valuation*:"
+                        - generic [ref=e642]: Up to $2,200
+                    - generic [ref=e643]:
+                      - generic [ref=e644]:
+                        - generic [ref=e646]: Annual Fee
+                        - generic [ref=e647]: $325
+                      - generic [ref=e648]:
+                        - generic [ref=e650]: APR
+                        - generic [ref=e651]: See Pay Over Time APR
+                      - generic [ref=e652]:
+                        - generic [ref=e653]:
+                          - generic [ref=e654]: Credit Recommended
+                          - img [ref=e657]:
+                            - img [ref=e658]
+                        - generic [ref=e661]: Good to Excellent
+                    - generic [ref=e662]:
+                      - group [ref=e663]:
+                        - generic "Why We Like This Card" [ref=e664] [cursor=pointer]
+                      - group [ref=e665]:
+                        - generic "Pros & Cons" [ref=e666] [cursor=pointer]
+                      - group [ref=e667]:
+                        - generic "Card Highlights" [ref=e668] [cursor=pointer]
+                - paragraph [ref=e670]:
+                  - generic [ref=e671]:
+                    - strong [ref=e672]: "Hot Tip:"
+                    - text: Apply and find out if you’re eligible for a
+                    - link "welcome bonus offer as high as 100,000 points with the Amex Gold card" [ref=e674] [cursor=pointer]:
+                      - /url: /news/amex-gold-card-100k-sign-up-bonus/
+                    - text: . Welcome offers may vary and you may not be eligible for an offer.
+                - paragraph [ref=e675]:
+                  - text: If you’re a business owner, see our list of the
+                  - link "best Amex business cards" [ref=e676] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-amex-business-credit-cards/
+                  - text: .
+                - heading "Bilt Rewards" [level=3] [ref=e677]
+                - paragraph [ref=e678]:
+                  - text: Points earned through the
+                  - link "Bilt Rewards" [ref=e679] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/bilt-rewards-program-review/
+                  - text: program transfer to Hilton at a 1:1 ratio. Point transfers are nearly instant and sometimes Bilt offers bonus points on transfers to certain partners.
+                - heading "Hilton Brands" [level=2] [ref=e680]
+                - paragraph [ref=e681]:
+                  - link "Hilton has 24 brands" [ref=e682] [cursor=pointer]:
+                    - /url: /travel/hotels/hilton-hotel-brands/
+                  - text: and over 8,000 properties (including timeshares) around the world. It’s no wonder why so many people choose Hilton properties — you can almost always find a Hilton when traveling!
+                - paragraph [ref=e683]:
+                  - text: Hotels range from the standard Hampton by Hilton to the mid-tier DoubleTree by Hilton to the
+                  - link "luxury Waldorf Astoria Hotels & Resorts" [ref=e684] [cursor=pointer]:
+                    - /url: /travel/hotels/waldorf-astoria-hotels-resorts/
+                  - text: . Whatever your needs and wants, Hilton has you covered.
+                - table [ref=e687]:
+                  - rowgroup [ref=e688]:
+                    - row "Hilton Brands" [ref=e689]:
+                      - cell "Hilton Brands" [ref=e690]:
+                        - paragraph [ref=e692]:
+                          - strong [ref=e693]: Hilton Brands
+                    - row "Autocamp Hilton Garden Inn NoMad" [ref=e694]:
+                      - cell "Autocamp" [ref=e695]:
+                        - paragraph [ref=e696]:
+                          - link "Autocamp" [ref=e697] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/news/hilton-autocamp-partnership/
+                      - cell "Hilton Garden Inn" [ref=e698]:
+                        - paragraph [ref=e699]:
+                          - link "Hilton Garden Inn" [ref=e700] [cursor=pointer]:
+                            - /url: /travel/hotels/hilton-garden-inn-guide/
+                      - cell "NoMad" [ref=e701]:
+                        - paragraph [ref=e702]: NoMad
+                    - row "Canopy by Hilton Hilton Grand Vacations Signia by Hilton" [ref=e703]:
+                      - cell "Canopy by Hilton" [ref=e704]:
+                        - paragraph [ref=e705]:
+                          - link "Canopy by Hilton" [ref=e706] [cursor=pointer]:
+                            - /url: /travel/hotels/canopy-by-hilton-hotels/
+                      - cell "Hilton Grand Vacations" [ref=e707]:
+                        - paragraph [ref=e708]:
+                          - link "Hilton Grand Vacations" [ref=e709] [cursor=pointer]:
+                            - /url: /travel/hotels/hilton-grand-vacations/
+                      - cell "Signia by Hilton" [ref=e710]:
+                        - paragraph [ref=e711]: Signia by Hilton
+                    - row "Conrad Hotels & Resorts Hilton Hotels & Resorts Small Luxury Hotels of the World" [ref=e712]:
+                      - cell "Conrad Hotels & Resorts" [ref=e713]:
+                        - paragraph [ref=e714]:
+                          - link "Conrad Hotels & Resorts" [ref=e715] [cursor=pointer]:
+                            - /url: /travel/hotels/conrad-hotels-guide/
+                      - cell "Hilton Hotels & Resorts" [ref=e716]:
+                        - paragraph [ref=e717]:
+                          - link "Hilton Hotels & Resorts" [ref=e718] [cursor=pointer]:
+                            - /url: /travel/hotels/hilton-hotels-guide/
+                      - cell "Small Luxury Hotels of the World" [ref=e719]:
+                        - paragraph [ref=e720]: Small Luxury Hotels of the World
+                    - row "Curio – A Collection by Hilton Home2 Suites by Hilton Spark by Hilton" [ref=e721]:
+                      - cell "Curio – A Collection by Hilton" [ref=e722]:
+                        - paragraph [ref=e723]:
+                          - link "Curio – A Collection by Hilton" [ref=e724] [cursor=pointer]:
+                            - /url: /travel/hotels/curio-collection-by-hilton-hotels/
+                      - cell "Home2 Suites by Hilton" [ref=e725]:
+                        - paragraph [ref=e726]:
+                          - link "Home2 Suites by Hilton" [ref=e727] [cursor=pointer]:
+                            - /url: /travel/hotels/home2-suites-by-hilton-guide/
+                      - cell "Spark by Hilton" [ref=e728]:
+                        - paragraph [ref=e729]: Spark by Hilton
+                    - row "DoubleTree by Hilton Homewood Suites by Hilton Tapestry Collection by Hilton" [ref=e730]:
+                      - cell "DoubleTree by Hilton" [ref=e731]:
+                        - paragraph [ref=e732]:
+                          - link "DoubleTree by Hilton" [ref=e733] [cursor=pointer]:
+                            - /url: /travel/hotels/doubletree-guide/
+                      - cell "Homewood Suites by Hilton" [ref=e734]:
+                        - paragraph [ref=e735]:
+                          - link "Homewood Suites by Hilton" [ref=e736] [cursor=pointer]:
+                            - /url: /travel/hotels/best-homewood-suites-by-hilton-hotels-to-book-with-points/
+                      - cell "Tapestry Collection by Hilton" [ref=e737]:
+                        - paragraph [ref=e738]:
+                          - link "Tapestry Collection by Hilton" [ref=e739] [cursor=pointer]:
+                            - /url: https://www.hilton.com/en/brands/tapestry-collection/
+                    - row "Embassy Suites by Hilton LivSmart Studios Tempo by Hilton" [ref=e740]:
+                      - cell "Embassy Suites by Hilton" [ref=e741]:
+                        - paragraph [ref=e742]:
+                          - link "Embassy Suites by Hilton" [ref=e743] [cursor=pointer]:
+                            - /url: https://www.hilton.com/en/brands/embassy/
+                      - cell "LivSmart Studios" [ref=e744]:
+                        - paragraph [ref=e745]: LivSmart Studios
+                      - cell "Tempo by Hilton" [ref=e746]:
+                        - paragraph [ref=e747]: Tempo by Hilton
+                    - row "Graduate by Hilton LXR Hotels & Resorts Tru by Hilton" [ref=e748]:
+                      - cell "Graduate by Hilton" [ref=e749]:
+                        - paragraph [ref=e750]:
+                          - link "Graduate by Hilton" [ref=e751] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/news/hilton-graduate-hotels/
+                      - cell "LXR Hotels & Resorts" [ref=e752]:
+                        - paragraph [ref=e753]: LXR Hotels & Resorts
+                      - cell "Tru by Hilton" [ref=e754]:
+                        - paragraph [ref=e755]:
+                          - link "Tru by Hilton" [ref=e756] [cursor=pointer]:
+                            - /url: https://www.hilton.com/en/brands/tru/
+                    - row "Hampton by Hilton Motto by Hilton Waldorf Astoria Hotels & Resorts" [ref=e757]:
+                      - cell "Hampton by Hilton" [ref=e758]:
+                        - paragraph [ref=e759]:
+                          - link "Hampton by Hilton" [ref=e760] [cursor=pointer]:
+                            - /url: /travel/hotels/hampton-by-hilton-guide/
+                      - cell "Motto by Hilton" [ref=e761]:
+                        - paragraph [ref=e762]: Motto by Hilton
+                      - cell "Waldorf Astoria Hotels & Resorts" [ref=e763]:
+                        - paragraph [ref=e764]:
+                          - link "Waldorf Astoria Hotels & Resorts" [ref=e765] [cursor=pointer]:
+                            - /url: /travel/hotels/waldorf-astoria-hotels-resorts/
+                - paragraph [ref=e767]: Advertisement
+                - heading "Hilton Honors Award Pricing" [level=2] [ref=e770]
+                - paragraph [ref=e771]:
+                  - text: Hilton Honors doesn’t use an award chart like
+                  - link "World of Hyatt" [ref=e772] [cursor=pointer]:
+                    - /url: /travel/hotels/the-world-of-hyatt-loyalty-program/
+                  - text: does. Instead, Hilton uses
+                  - strong [ref=e773]: variable award pricing
+                  - text: ", which can result in cheaper or more expensive award rates depending on many factors."
+                - paragraph [ref=e774]: For example, if you’re looking to book hotels during the low season, you might find less expensive rates. The inverse is also true. This means a reward stay at a Hilton property might cost 30,000 points one night and 70,000 points another night. Hilton provides an award calendar that clearly highlights which dates offer the lowest award rates at a particular hotel.
+                - 'figure "Image Credit: Hilton" [ref=e776]':
+                  - img "Waldorf Monarch Beach points availability" [ref=e778]
+                  - generic [ref=e779]: "Image Credit: Hilton"
+                - paragraph [ref=e780]: You might also notice that if you see higher points costs than expected, you might be looking at a premium room reward, such as a suite. In many cases, this just means that standard room rewards aren’t available (for example, someone already booked the standard room or the hotel doesn’t offer award availability during that time).
+                - paragraph [ref=e781]:
+                  - text: Remember, also, that Hilton offers the
+                  - strong [ref=e782]: fifth night free on award reservations
+                  - text: . So if you book a full 5 nights at a particular hotel, you’re essentially only paying for 4 of them, giving you better value for your points.
+                - heading "21 Amazing Hilton Reward Redemptions" [level=2] [ref=e783]
+                - paragraph [ref=e784]:
+                  - link "Hilton" [ref=e785] [cursor=pointer]:
+                    - /url: https://www.hilton.com/
+                  - text: has amazing properties around the world. While we’re going to focus on some of the best redemptions based on the experience, keep in mind that there are some nice midtier redemption options out there as well.
+                - paragraph [ref=e786]: Let’s take a look at some of the best!
+                - heading "1. Waldorf Astoria Maldives Ithaafushi" [level=3] [ref=e787]:
+                  - text: "1."
+                  - link "Waldorf Astoria Maldives Ithaafushi" [ref=e788] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/mv/waldorf-astoria-maldives-ithaafushi.html
+                - 'figure "Waldorf Astoria Maldives Ithaafushi. Image Credit: Hilton" [ref=e790]':
+                  - img "Waldorf Astoria Maldives Ithaafushi" [ref=e792]
+                  - generic [ref=e793]: "Waldorf Astoria Maldives Ithaafushi. Image Credit: Hilton"
+                - paragraph [ref=e794]:
+                  - text: The
+                  - link "Maldives is a dream destination" [ref=e795] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-and-stay-in-the-maldives/
+                  - text: for travelers around the world. However, it’s not the easiest to reach or the cheapest place to stay, so booking a hotel with points can really help.
+                - paragraph [ref=e796]:
+                  - text: The Waldorf Astoria Maldives Ithaafushi debuted in 2019 and is probably the most aspirational Hilton redemption to this point. If you do some digging, you may be able to book this resort for 200,000 points a night. While this is expensive, the
+                  - strong [ref=e797]: cash prices typically begin at over $2,000 per night!
+                - paragraph [ref=e798]: And it’s easy to see why this property is so expensive. There are 11 award-winning eateries on the resort, a world-famous lifestyle spa, tons of different activities, like jet-skiing, and of course, the quintessential Waldorf Astoria service designed to promote personalized relaxation.
+                - paragraph [ref=e799]:
+                  - text: There are 119 villas on the premises, and
+                  - strong [ref=e800]: you can book higher-tier, gargantuan villas at the standard points rate
+                  - text: . This is a huge benefit because you can effectively double the value you get!
+                - paragraph [ref=e801]:
+                  - text: The entry-level room is the
+                  - strong [ref=e802]: King Beach Villa with Pool
+                  - text: ", which comes in at over 2,500 square feet and boasts spacious villa accommodations, a pool, and direct beach access. However, you can book upgraded villas (subject to availability) like the"
+                  - strong [ref=e803]: King Reef Villa with Pool
+                  - text: ", which provides you with over 3,000 square feet of space, a private infinity pool, and an overwater terrace for the ultimate in comfort and luxury."
+                - paragraph [ref=e804]: With the fifth-night free award, you can bring down your effective cost to 200,000 Hilton Honors points per night for a 5-night stay totaling 800,000 points — if you’re lucky enough to find a streak of consecutive dates with the lowest-priced availability.
+                - heading "2. Conrad Maldives Rangali Island" [level=3] [ref=e805]:
+                  - text: "2."
+                  - link "Conrad Maldives Rangali Island" [ref=e806] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/mv/conrad-maldives-rangali-island.html
+                - 'figure "Conrad Maldives Rangali Island. Image Credit: Stephen Au" [ref=e808]':
+                  - img "Conrad Maldives Underwater Restaurant 2" [ref=e810]
+                  - generic [ref=e811]:
+                    - text: "Conrad Maldives Rangali Island. Image Credit:"
+                    - link "Stephen Au" [ref=e812] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/stephen/
+                - paragraph [ref=e813]:
+                  - text: A night in the base room at the Conrad Maldives requires
+                  - strong [ref=e814]: 140,000 Hilton Honors points
+                  - text: . Not only is this a solid redemption for a hotel that generally charges over $1,000 per night, but it is also a stellar hotel in the base case. This is an
+                  - strong [ref=e815]: extremely popular property
+                  - text: ", so you’re unlikely to find nights for below 140,000 points."
+                - paragraph [ref=e816]:
+                  - text: Depending on when you search, Conrad Maldives may offer you a choice of a 1,600-square-foot
+                  - strong [ref=e817]: Beach Villa
+                  - text: that has direct beach access, as well as an outdoor bathing pavilion, or a smaller, 925-square-foot
+                  - strong [ref=e818]: Overwater Villa
+                  - text: that has direct ocean access, a private plunge pool, and a bathroom with an ocean-facing tub.
+                - paragraph [ref=e819]:
+                  - text: Once you’re on the island, there are 11 eateries, including the famous
+                  - link "Ithaa Undersea Restaurant" [ref=e820] [cursor=pointer]:
+                    - /url: https://www.tripadvisor.com/Restaurant_Review-g298325-d1057523-Reviews-Ithaa_Undersea_Restaurant-Rangali_Island.html
+                  - text: . This property tends to be more family-friendly than the Waldorf Astoria, but you can revel in luxury at the world-famous spa or explore the local area by going on fishing or snorkeling expeditions.
+                - paragraph [ref=e821]: By staying 5 nights with points and taking advantage of the fifth-night-free benefit, you pay only 560,000 points, which reduces your cost to 112,000 points per night.
+                - heading "3. Waldorf Astoria Los Cabos Pedregal (Cabos San Lucas, Mexico)" [level=3] [ref=e822]:
+                  - text: "3."
+                  - link "Waldorf Astoria Los Cabos Pedregal" [ref=e823] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/mx/capella-pedregal.html
+                  - text: (Cabos San Lucas, Mexico)
+                - 'figure "Waldorf Astoria Los Cabos Pedregal. Image Credit: Alex Miller" [ref=e825]':
+                  - img "Enjoying the room's private pool at the Waldorf Astoria Los Cabos Pedregal" [ref=e827]
+                  - generic [ref=e828]:
+                    - text: "Waldorf Astoria Los Cabos Pedregal. Image Credit:"
+                    - link "Alex Miller" [ref=e829] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/alexmiller/
+                - paragraph [ref=e830]:
+                  - text: Waldorf Astoria Los Cabos Pedregal is a swanky resort in
+                  - link "Cabo San Lucas" [ref=e831] [cursor=pointer]:
+                    - /url: /travel/hotels/best-los-cabos-hotels-to-book-with-points/
+                  - text: . It’s along the tip of the Baja California peninsula, which makes for a stunning setting. You drive through the Dos Mares Tunnel to begin your stay, which is epic! You also receive a
+                  - strong [ref=e832]: complimentary bottle of Clase Azul Reposado tequila on arrival
+                  - text: .
+                - paragraph [ref=e833]:
+                  - text: Each of the oversized rooms has custom-made furnishings, Mexican motifs, separate sitting areas with fireplaces,
+                  - strong [ref=e834]: ocean views, and terraces with private plunge pools
+                  - text: . They each also have oversized flat-screen TVs, free Wi-Fi, and minibars.
+                - paragraph [ref=e835]: Although you’ll probably be spending the bulk of your time admiring the natural landscape, there are also 2 upscale restaurants, 2 casual eateries, and a bar. Plus, check out any of the 4 pools (if your private plunge pool gets boring), the signature Waldorf Astoria spa, the gym, and the tennis court!
+                - paragraph [ref=e836]:
+                  - text: This property
+                  - strong [ref=e837]: costs at least 190,000 Hilton Honors points per night
+                  - text: for a standard room. This says a lot about the luxe qualities of the resort, though rooms aren’t nearly as expensive in cash when compared to its Maldivian counterpart.
+                - paragraph [ref=e838]:
+                  - text: The room type you’re looking for with standard rewards is the
+                  - strong [ref=e839]: Pacific View 1 King Bed Room-Plunge Pool
+                  - text: .
+                - heading "4. Waldorf Astoria Beverly Hills (California)" [level=3] [ref=e840]:
+                  - text: "4."
+                  - link "Waldorf Astoria Beverly Hills" [ref=e841] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/waldorf-astoria-beverly-hills.html
+                  - text: (California)
+                - 'figure "Waldorf Astoria Beverly Hills. Image Credit: Stephen Au" [ref=e843]':
+                  - link "Waldorf Astoria Beverly Hills" [ref=e844] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/WaldorfAstoriaBeverlyHills/TE/7198/dissn.1775548838764.7073346957.1/
+                    - img "Waldorf Astoria Beverly Hills" [ref=e846]
+                  - generic [ref=e847]: "Waldorf Astoria Beverly Hills. Image Credit: Stephen Au"
+                - paragraph [ref=e848]:
+                  - text: Revered by some as the best hotel in Los Angeles, Waldorf Astoria Beverly Hills is an immaculate property with a killer location. At the intersection of Sunset Boulevard and Santa Monica Boulevard, this property is a
+                  - strong [ref=e849]: 12-minute walk from Rodeo Drive and a 6-mile scenic drive from the Hollywood Walk of Fame.
+                - paragraph [ref=e850]: The hotel opened in 2017 and is frequented by celebrities and tycoons alike — and it’s easy to see why. The top-notch rooms have floor-to-ceiling windows plus an amazingly comfortable bed. But the best part of this property is how technologically advanced it is. You can text your Waldorf Astoria concierge for pretty much anything, including room service, tours, and extra toiletries.
+                - paragraph [ref=e851]:
+                  - text: The property has posh French cuisine highlighting the work of Jean-Georges Vongerichten. Plus, the rooftop bar and restaurant have phenomenal panoramic views. On top of this, there are 2 other cocktail lounges, a chic spa, a rooftop pool, and a 3-story lobby. Don’t forget the
+                  - strong [ref=e852]: complimentary drop-off-and-pick-up house car service
+                  - text: for destinations within a radius of 3 miles.
+                - paragraph [ref=e853]:
+                  - text: Hotel rooms average around $800 per night (assuming they’re not already sold out), but you can redeem
+                  - strong [ref=e854]: 120,000 Hilton Honors points per night
+                  - text: ", which is an excellent choice for your stay in"
+                  - link "Los Angeles" [ref=e855] [cursor=pointer]:
+                    - /url: /travel/best-things-to-do-in-los-angeles/
+                  - text: . You’ll want to search for the
+                  - strong [ref=e856]: Superior 2 Queen Room with Terrace
+                  - text: or the
+                  - strong [ref=e857]: Superior King Room with Terrace,
+                  - text: although the Superior 2 Queen Room with Terrace is
+                  - strong [ref=e858]: much easier
+                  - text: to find availability for.
+                - heading "5. Conrad Hong Kong" [level=3] [ref=e859]:
+                  - text: "5."
+                  - link "Conrad Hong Kong" [ref=e860] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/hk/conrad-hong-kong.html
+                - 'figure "Conrad Hong Kong. Image Credit: Hilton" [ref=e862]':
+                  - link "Conrad Hong Kong" [ref=e863] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/ConradHongKong/TE/7198/dissn.1775548838764.7073346957.1/
+                    - img "Conrad Hong Kong" [ref=e865]
+                  - generic [ref=e866]: "Conrad Hong Kong. Image Credit: Hilton"
+                - paragraph [ref=e867]:
+                  - text: Conrad Hong Kong is on Hong Kong Island (the southern part of the territory) and has a great view of the harbor. Like the city, this Conrad is not cheap — but it can be booked for
+                  - strong [ref=e868]: 75,000 Hilton Honors points
+                  - text: per night. You’re paying not only for the luxe vibe but also for the unbeatable city location in Admiralty (next to Central).
+                - paragraph [ref=e869]: Located in the iconic Pacific Place shopping center, this posh city hotel offers 4 excellent restaurants (and a solid breakfast), open-air dining, and 2 bars. As far as amenities go, Conrad Hong Kong has a spa, gym, outdoor pool, business center, and event facilities.
+                - paragraph [ref=e870]:
+                  - text: For a great hotel stay that often costs over $400 per night, this is a great use of Hilton Honors points. The standard reward room types you’ll want to look for are the
+                  - strong [ref=e871]: King Bed Deluxe Room
+                  - text: and the
+                  - strong [ref=e872]: Twin Bed Deluxe Room
+                  - text: .
+                - paragraph [ref=e873]:
+                  - generic [ref=e874]:
+                    - strong [ref=e875]: "Hot Tip:"
+                    - text: Looking to book your flight with points? We’ve got you covered in our guide on
+                    - link "how to fly to Hong Kong on points" [ref=e876] [cursor=pointer]:
+                      - /url: /travel/best-ways-to-fly-to-hong-kong-with-points/
+                    - text: .
+                - heading "6. Conrad London St. James" [level=3] [ref=e877]:
+                  - text: "6."
+                  - link "Conrad London St. James" [ref=e878] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/gb/conrad-london-st-james.html
+                - 'figure "Conrad London St. James. Image Credit: Hilton" [ref=e880]':
+                  - img "Conrad London St. James" [ref=e882]
+                  - generic [ref=e883]: "Conrad London St. James. Image Credit: Hilton"
+                - paragraph [ref=e884]:
+                  - link "London" [ref=e885] [cursor=pointer]:
+                    - /url: /travel/ultimate-travel-guide-to-london/
+                  - text: is without a doubt one of the most expensive cities in the world to book a hotel — you can expect to see rates over $350 per night at the Conrad London St. James.
+                - paragraph [ref=e886]: This shouldn’t be a surprise considering its location so close to Parliament, Buckingham Palace, and more. Don’t forget about its proximity to public transportation, as Conrad London St. James is across the street from St. James’s Park Tube station.
+                - paragraph [ref=e887]: Within this hotel, you’ll find an elegant full-service restaurant and a posh bar. There’s also an executive lounge where you can savor afternoon tea, as well as an exercise room, business center, and meeting space.
+                - paragraph [ref=e888]:
+                  - text: Standard reward stays here can cost as little as
+                  - strong [ref=e889]: 90,000 Hilton Honors points per night
+                  - text: . The standard room reward types are the
+                  - strong [ref=e890]: King Superior Room
+                  - text: and the
+                  - strong [ref=e891]: Twin Superior Room
+                  - text: .
+                - paragraph [ref=e892]:
+                  - generic [ref=e893]:
+                    - strong [ref=e894]: "Hot Tip:"
+                    - text: Interested in seeing more hotels in London? Explore our guide to the
+                    - link "best hotels in London" [ref=e895] [cursor=pointer]:
+                      - /url: /travel/hotels/best-hotels-in-london/
+                    - text: .
+                - heading "7. Waldorf Astoria Park City (Utah)" [level=3] [ref=e896]:
+                  - text: "7."
+                  - link "Waldorf Astoria Park City" [ref=e897] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/waldorf-astoria-park-city.html
+                  - text: (Utah)
+                - 'figure "Image Credit: Waldorf Astoria Park City" [ref=e899]':
+                  - link "Waldorf Astoria Park City" [ref=e900] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/WaldorfAstoriaParkCity/TE/7198/dissn.1775548838764.7073346957.1/
+                    - img "Waldorf Astoria Park City" [ref=e902]
+                  - generic [ref=e903]: "Image Credit: Waldorf Astoria Park City"
+                - paragraph [ref=e904]:
+                  - text: If you’re up for a snow-covered adventure, check out the
+                  - strong [ref=e905]: Waldorf Astoria Park City in Utah.
+                  - text: Whether you’re there for a relaxing winter retreat or to take in some amazing skiing, you will love the luxury offered at this Hilton property. Park City is beautiful even outside of the winter high season.
+                - paragraph [ref=e906]: The Waldorf Astoria Park City is at the base of the Canyons ski area and 4 miles from downtown Park City. But the high-end lodge-style rooms have all the usual Waldorf Astoria necessities, including luxury Tuscan Soul Salvatore Ferragamo toiletries.
+                - generic [ref=e907]:
+                  - strong [ref=e908]: »
+                  - strong [ref=e909]: "Related:"
+                  - link "The Ultimate Ski and Snowboard Trip Packing List and Best Tips [Printable]" [ref=e910] [cursor=pointer]:
+                    - /url: /travel/printable-ski-and-snowboard-trip-packing-list/
+                - paragraph [ref=e911]: In the resort, there’s a spa, a salon, a private ski gondola, a golf course, a fine-dining restaurant, a fitness center, an outdoor pool, as well as a poolside bar (seasonal).
+                - paragraph [ref=e912]:
+                  - text: You’ll usually see redemptions at the Waldorf Astoria Park City from
+                  - strong [ref=e913]: 110,000 Hilton Honors points per night
+                  - text: ", but you may be able to find rooms for less. Standard room rewards get booked into the"
+                  - strong [ref=e914]: 1 King Bed with Gas Fireplace
+                  - text: room type.
+                - heading "8. Grand Wailea, A Waldorf Astoria Resort (Hawaii)" [level=3] [ref=e915]:
+                  - text: "8."
+                  - link "Grand Wailea, A Waldorf Astoria Resort" [ref=e916] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/grand-wailea-resort-spa.html
+                  - text: (Hawaii)
+                - 'figure "Grand Wailea Maui Waldorf Astoria Resort. Image Credit: Chris Hassan" [ref=e918]':
+                  - img "Grand Wailea Maui Waldorf Astoria Resort Lazy River" [ref=e920]
+                  - generic [ref=e921]:
+                    - text: "Grand Wailea Maui Waldorf Astoria Resort. Image Credit:"
+                    - link "Chris Hassan" [ref=e922] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/chrishassan/
+                - paragraph [ref=e923]:
+                  - text: Many people
+                  - link "dream of visiting Hawaii," [ref=e924] [cursor=pointer]:
+                    - /url: /travel/ultimate-travel-guide-to-hawaii/
+                  - text: but finding affordable hotels there is difficult.
+                  - link "The Grand Wailea" [ref=e925] [cursor=pointer]:
+                    - /url: /travel/hotels/grand-wailea-waldorf-astoria-resort-review/
+                  - text: on Maui is the perfect place to relax on your beach vacation, and as it’s a beachfront property, you’ll never be far from the water!
+                - paragraph [ref=e926]: This sprawling resort is set on 40 acres next to Wailea Blue Golf Course. The rooms are airy, fresh, and spacious. The property has a gigantic spa, a fitness center, a kids club, 9 pools, a 2,000-foot lazy river, and 8 restaurants, including an exclusive lounge. A stay at this fantastic luxury property could cost you over $1,000 per night and is $600 per night at a minimum
+                - paragraph [ref=e927]:
+                  - text: You can book standard rooms here for as few as
+                  - strong [ref=e928]: 110,000 Hilton Honors points per night
+                  - text: . Be sure to use the fifth-night free perk to get 5 nights for the cost of 88,000 points per night! This is a great way to use some Hilton Honors points. The standard room rates book into the
+                  - strong [ref=e929]: Terrace View – 1 King Bed
+                  - text: or
+                  - strong [ref=e930]: Terrace View – 2 Queen Beds
+                  - text: .
+                - heading "9. Zemi Beach House, LXR Hotels & Resorts (Anguilla)" [level=3] [ref=e931]:
+                  - text: "9."
+                  - link "Zemi Beach House, LXR Hotels & Resorts" [ref=e932] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/ai/zemi-beach-house-resort-amp-spa.html
+                  - text: (Anguilla)
+                - 'figure "Zemi Beach House, LXR Hotels & Resorts. Image Credit: Stella Shon" [ref=e934]':
+                  - img "Zemi Beach House Adults Only Pool 2" [ref=e936]
+                  - generic [ref=e937]:
+                    - text: "Zemi Beach House, LXR Hotels & Resorts. Image Credit:"
+                    - link "Stella Shon" [ref=e938] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/stella/
+                - paragraph [ref=e939]:
+                  - text: Zemi Beach House is a member of LXR Hotels & Resorts, one of Hilton’s luxury brands, the others being
+                  - link "Conrad" [ref=e940] [cursor=pointer]:
+                    - /url: /travel/hotels/conrad-hotels-guide/
+                  - text: and
+                  - link "Waldorf Astoria" [ref=e941] [cursor=pointer]:
+                    - /url: /travel/hotels/waldorf-astoria-hotels-resorts/
+                  - text: .
+                - paragraph [ref=e942]: Located in the British Overseas Territory of Anguilla, Zemi Beach House could be a Caribbean getaway with Hilton Honors points.
+                - paragraph [ref=e943]:
+                  - strong [ref=e944]: Breakfast is complimentary
+                  - text: ", and you can choose between al fresco dining or air-conditioned comfort inside. Either way, the dining room has beautiful views overlooking Shoal Bay, possibly the best beach in Anguilla."
+                - paragraph [ref=e945]: There are a total of 2 restaurants and 3 bars, one of which is beachfront. Additionally, there’s a luxe spa, a hammam, a gym, and a tennis court. Lastly, there are 3 outdoor pools, including an infinity pool with bay views.
+                - paragraph [ref=e946]:
+                  - text: Standard rooms are available for
+                  - strong [ref=e947]: 110,000 Hilton Honors points per night
+                  - text: for the
+                  - strong [ref=e948]: 1 King Garden View Room – Private Balcony
+                  - text: . Room rates start at $540 per night and go upward from there, depending on seasonality.
+                - paragraph [ref=e949]:
+                  - generic [ref=e950]:
+                    - strong [ref=e951]: "Hot Tip:"
+                    - text: You guessed it. You can
+                    - link "fly to the Caribbean on points" [ref=e952] [cursor=pointer]:
+                      - /url: /travel/best-ways-to-fly-to-the-caribbean-with-points/
+                    - text: ", too, to make this an all-points vacation."
+                - heading "10. Conrad Bora Bora Nui (French Polynesia)" [level=3] [ref=e953]:
+                  - text: "10."
+                  - link "Conrad Bora Bora Nui" [ref=e954] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/pf/hilton-bora-bora-nui-resort.html
+                  - text: (French Polynesia)
+                - 'figure "Conrad Bora Bora Nui. Image Credit: Hilton" [ref=e956]':
+                  - img "Conrad Bora Bora Nui aerial" [ref=e958]
+                  - generic [ref=e959]: "Conrad Bora Bora Nui. Image Credit: Hilton"
+                - paragraph [ref=e960]: If you want an amazing getaway to paradise, look no further than the Conrad Bora Bora Nui. With its awesome views and fantastic staff, it’s no wonder that this is a popular hotel for couples on their honeymoon.
+                - paragraph [ref=e961]:
+                  - link "Conrad Bora Bora" [ref=e962] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/best-ways-to-fly-to-bora-bora-with-points/
+                  - text: has tons of rave reviews. The property has views of Mount Otemanu (the main landmark of Bora Bora), and the rooms come with beautiful terraces and Polynesian décor.
+                - paragraph [ref=e963]: On the resort grounds, you’ll find 6 restaurants or bars serving different cuisines, a scenic spa, a gym, a kids club, boat rides to a private island, tennis courts, and regular live entertainment, plus tons of other activities like miniature golf and snorkeling.
+                - paragraph [ref=e964]:
+                  - text: You can book a stay at this Conrad property for
+                  - strong [ref=e965]: 120,000 Hilton Honors points per night
+                  - text: . You will typically find availability in the
+                  - strong [ref=e966]: King Garden View Suite
+                  - text: ", which is actually a higher tier than the base-level room, the King Garden Villa."
+                - paragraph [ref=e967]:
+                  - text: Combine booking this hotel using points with
+                  - link "booking a flight to Bora Bora on points" [ref=e968] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-bora-bora-with-points/
+                  - text: for a win-win vacation!
+                - paragraph [ref=e969]:
+                  - generic [ref=e970]:
+                    - strong [ref=e971]: "Hot Tip:"
+                    - text: Looking for an exotic vacation? See how
+                    - link "Conrad Bora Bora Nui compares to Conrad Maldives" [ref=e972] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/best-ways-to-fly-and-stay-in-the-maldives/
+                    - text: .
+                - heading "11. Conrad Koh Samui (Thailand)" [level=3] [ref=e973]:
+                  - text: "11."
+                  - link "Conrad Koh Samui" [ref=e974] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/th/conrad-koh-samui.html
+                  - text: (Thailand)
+                - 'figure "Conrad Koh Samui’s rooms are on a picturesque hillside on a less-trafficked part of the popular island. Image Credit: Hilton" [ref=e976]':
+                  - 'img "Conrad Koh Samui Resort Image Credit: Hilton" [ref=e978]'
+                  - generic [ref=e979]: "Conrad Koh Samui’s rooms are on a picturesque hillside on a less-trafficked part of the popular island. Image Credit: Hilton"
+                - paragraph [ref=e980]: If you’ve wanted to try a luxury resort with a villa all to yourself, Conrad Koh Samui could be the place for you. Its remote location on one of the most popular islands in Thailand provides amazing views and is a wonderful place to relax.
+                - paragraph [ref=e981]: Conrad Koh Samui is on 25 forested acres on a secluded hillside facing the Gulf of Thailand. Each of the 81 villas comes with its own private pool and terrace. Additionally, every villa has at least a partial ocean view.
+                - paragraph [ref=e982]: There are 4 restaurants on the property, as well as a luxe spa, a fitness center, and a beachside deck for yoga. You can also book luxurious activities like Thai cooking classes and boat excursions.
+                - paragraph [ref=e983]:
+                  - text: Stays can be booked for a maximum of
+                  - strong [ref=e984]: 100,000 Hilton Honors points per night
+                  - text: . Typically, award stays are booked into the
+                  - strong [ref=e985]: 1-Bedroom Tropical Island Pool Villa
+                  - text: ", which is the base-level room at the property. This room is 1,400 square feet and has ocean views, an infinity pool, a terrace, and a separate tub and rain shower."
+                - heading "12. Conrad Algarve (Portugal)" [level=3] [ref=e986]:
+                  - text: "12."
+                  - link "Conrad Algarve" [ref=e987] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/pt/conrad-algarve.html
+                  - text: (Portugal)
+                - 'figure "Conrad Algarve. Image Credit: Hilton" [ref=e989]':
+                  - link "Conrad Algarve" [ref=e990] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/ConradAlgarve/TE/7198/dissn.1775548838764.7073346957.1/
+                    - img "Conrad Algarve" [ref=e992]
+                  - generic [ref=e993]: "Conrad Algarve. Image Credit: Hilton"
+                - paragraph [ref=e994]: Conrad Algarve is Hilton’s best property in Portugal. In Quinta do Lago, which is in the southernmost region of Portugal, this property is arguably in the part of Europe with the best weather year-round.
+                - paragraph [ref=e995]: This property contains 154 rooms in total, each with Nespresso machines, minibars, marble bathrooms, balconies, and bathrooms with rainfall showers. Within the hotel, you can choose from 3 restaurants and 2 bars.
+                - paragraph [ref=e996]: Check out the spa with a sauna, the ice fountain, the tennis court, the gym, or the 3 pools (1 of which is an infinity pool). There’s also a golf simulator as well as easy access to world-class golf courses.
+                - paragraph [ref=e997]:
+                  - text: Stays here usually cost around
+                  - strong [ref=e998]: 84,000 Hilton Honors points per night
+                  - text: . You’ll likely see availability for the
+                  - strong [ref=e999]: King Deluxe Room
+                  - text: ", the"
+                  - strong [ref=e1000]: Twin Deluxe Room
+                  - text: ", or the"
+                  - strong [ref=e1001]: King Accessible Guest Room
+                  - text: at the lowest rates. If you book far in advance or are lucky enough, you may even find rooms at a rate of 65,000 points per night!
+                - paragraph [ref=e1002]: Considering the paid rates can hover at $775 per night, you can see how much value you’d get here.
+                - heading "13. Waldorf Astoria Amsterdam (Netherlands)" [level=3] [ref=e1003]:
+                  - text: "13."
+                  - link "Waldorf Astoria Amsterdam" [ref=e1004] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/nl/waldorf-astoria-amsterdam.html
+                  - text: (Netherlands)
+                - 'figure "Waldorf Astoria Amsterdam. Image Credit: Hilton" [ref=e1006]':
+                  - link "Waldorf Astoria Amsterdam" [ref=e1007] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/WaldorfAstoriaAmsterdam/TE/7198/dissn.1775548838764.7073346957.1/
+                    - img "Waldorf Astoria Amsterdam" [ref=e1009]
+                  - generic [ref=e1010]: "Waldorf Astoria Amsterdam. Image Credit: Hilton"
+                - paragraph [ref=e1011]: Waldorf Astoria Amsterdam is possibly the ritziest property in the Dutch capital. This property has an awesome location just behind a canal.
+                - paragraph [ref=e1012]: The property itself features regal furnishings and other luxurious touches throughout. It contains a large gym, a spa by Guerlin, an indoor pool, 3 well-regarded restaurants, and lavishly appointed rooms. Each of the rooms comes with plush furnishings, desks, designer Tuscan Soul by Salvatore Ferragamo toiletries, coffeemakers, and much more.
+                - paragraph [ref=e1013]: This grand hotel has the potential to make your Amsterdam stay an unforgettable one, thanks to a personal concierge, a 24-hour reception, and legendary Waldorf service.
+                - paragraph [ref=e1014]: Rooms don’t come cheap. If you were to pay cash, you can expect a room to cost you at least $860 per night, but even base rooms can run as high as $1,520 per night in some months. This is why using points is an ideal way to mitigate the cost.
+                - paragraph [ref=e1015]:
+                  - text: If you’re able to find base-level availability, expect to pay
+                  - strong [ref=e1016]: 120,000 Hilton Honors points per night
+                  - text: to stay in either the
+                  - strong [ref=e1017]: King Superior Room
+                  - text: or the slightly elevated
+                  - strong [ref=e1018]: King Superior Plus Room
+                  - text: .
+                - heading "14. Hilton Lake Como (Italy)" [level=3] [ref=e1019]:
+                  - text: "14."
+                  - link "Hilton Lake Como" [ref=e1020] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/it/hilton-lake-como.html
+                  - text: (Italy)
+                - 'figure "Hilton Lake Como. Image Credit: Hilton" [ref=e1022]':
+                  - link "Hilton Lake Como" [ref=e1023] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/HiltonLakeComo/TE/7198/dissn.1775548838764.7073346957.1/
+                    - img "Hilton Lake Como" [ref=e1025]
+                  - generic [ref=e1026]: "Hilton Lake Como. Image Credit: Hilton"
+                - paragraph [ref=e1027]: The Hilton Lake Como is an exclusive hotel in Italy offering beautiful views of its namesake. Half a mile away from Como San Giovanni train station and Villa Olmo, it’s a top pick for Hilton loyalists.
+                - paragraph [ref=e1028]: This premier hotel shows off floor-to-ceiling windows and thoughtfully designed rooms, some of which have incredible views of the lake.
+                - paragraph [ref=e1029]: Once you’re at Hilton Lake Como, you have access to 2 eateries and a rooftop patio with an infinity pool, a hot tub, a bar, lake views, an indoor pool, a spa, and a gym.
+                - paragraph [ref=e1030]:
+                  - text: There’s also a solarium and a luxurious lounge offering delicious light bites, afternoon tea, an
+                  - emphasis [ref=e1031]: aperitivo
+                  - text: ", and innovative HighWine!"
+                - paragraph [ref=e1032]:
+                  - text: This property can cost anywhere from $185 to $980 per night depending on seasonality. However, with Hilton Honors, you should expect to
+                  - strong [ref=e1033]: redeem 90,000 points per night
+                  - text: for a standard room — and if you look closely, you can redeem
+                  - strong [ref=e1034]: as few as 42,000 points per night
+                  - text: "! The standard room rewards you’ll most likely be looking for are the"
+                  - strong [ref=e1035]: King Guest Room
+                  - text: and the
+                  - strong [ref=e1036]: Twin Guest Room
+                  - text: .
+                - heading "15. Hilton Queenstown Resort & Spa (New Zealand)" [level=3] [ref=e1037]:
+                  - text: "15."
+                  - link "Hilton Queenstown Resort & Spa" [ref=e1038] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/nz/hilton-queenstown.html
+                  - text: (New Zealand)
+                - 'figure "Welcome to the South Island in Queenstown! Image Credit: Hilton" [ref=e1040]':
+                  - 'img "Hilton Queenstown Resort Spa. Image Credit: Hilton" [ref=e1042]'
+                  - generic [ref=e1043]: "Welcome to the South Island in Queenstown! Image Credit: Hilton"
+                - paragraph [ref=e1044]: Queenstown, New Zealand, is moving up the list of must-see destinations, and the Hilton Queenstown Resort & Spa is a wonderful place to stay during a visit. Though the hotel is closer to the airport than the city center, it’s an easy ride into the city.
+                - generic [ref=e1045]:
+                  - strong [ref=e1046]: »
+                  - strong [ref=e1047]: "Related:"
+                  - link "The Best Ways To Fly to New Zealand With Points and Miles [Step by Step]" [ref=e1048] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-new-zealand-with-points/
+                - paragraph [ref=e1049]: You can expect great views overlooking Lake Wakatipu, a nice breakfast, and a fun water taxi ride to the city.
+                - paragraph [ref=e1050]: Each one of the sleek rooms has a balcony, a minibar, a sitting area, and a fireplaces. The property has 4 restaurants, a spa, a heated indoor pool, and a gym.
+                - paragraph [ref=e1051]:
+                  - text: Standard reward nights start at
+                  - strong [ref=e1052]: 50,000 Hilton Honors points per night
+                  - text: . However, it’s possible to find rooms available during the low season for even lower. Plus, you can book upgraded rooms and suites for a slightly higher point cost. The base-level rooms are the
+                  - strong [ref=e1053]: King Hilton Guestroom
+                  - text: or the
+                  - strong [ref=e1054]: Twin Hilton Guestroom
+                  - text: .
+                - heading "16. Hilton Seychelles Labriz Resort & Spa" [level=3] [ref=e1055]:
+                  - text: "16."
+                  - link "Hilton Seychelles Labriz Resort & Spa" [ref=e1056] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/sc/hilton-seychelles-labriz-resort-spa.html
+                - 'figure "Pool at Hilton Northolme Seychelles. Image Credit: Christine Krzyszton" [ref=e1058]':
+                  - img "Pool at Hilton Northolme Seychelles" [ref=e1060]
+                  - generic [ref=e1061]:
+                    - text: "Pool at Hilton Northolme Seychelles. Image Credit:"
+                    - link "Christine Krzyszton" [ref=e1062] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/christine/
+                - paragraph [ref=e1063]:
+                  - text: Right off the bat, you’re going to have some fun getting from the airport to the Hilton Seychelles Labriz Resort & Spa. Rather than the usual taxi ride, you take either a
+                  - strong [ref=e1064]: 20-minute helicopter or a 45-minute boat ride
+                  - text: (plus a 30-minute drive to the boat dock) to the hotel!
+                - paragraph [ref=e1065]:
+                  - text: Hilton Seychelles Labriz is the only resort on Silhouette Island, the third-largest island in the Seychelles. On the grounds, there are
+                  - strong [ref=e1066]: 8 restaurants and bars
+                  - text: ", a wide range of activities, and 111 luxe villas. There’s also a spa that focuses on sensory treatments."
+                - paragraph [ref=e1067]: You can choose among diving, tennis, fishing trips, lounging in the outdoor pool, breaking a sweat at the fitness center, hiking around the island, and even arts and crafts!
+                - paragraph [ref=e1068]:
+                  - text: This hotel is between a beach and a national park and has cozy rooms and friendly service. You can book a stay for
+                  - strong [ref=e1069]: 90,000 Hilton Honors points per night
+                  - text: . Typically, you’ll be booked into a
+                  - strong [ref=e1070]: King Garden Villa
+                  - text: at this rate.
+                - paragraph [ref=e1071]:
+                  - generic [ref=e1072]:
+                    - strong [ref=e1073]: "Hot Tip:"
+                    - text: There are several airline loyalty programs you can use to
+                    - link "fly to the Seychelles on points." [ref=e1074] [cursor=pointer]:
+                      - /url: /travel/best-ways-to-fly-to-seychelles-with-points/
+                    - text: Lucky you — you’ll be relaxing on the beach in no time!
+                - heading "17. Conrad Bali (Indonesia)" [level=3] [ref=e1075]:
+                  - text: "17."
+                  - link "Conrad Bali" [ref=e1076] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/id/conrad-bali.html
+                  - text: (Indonesia)
+                - 'figure "Enjoy a luxury stay at the Conrad Bali where you can relax in style. Image Credit: Hilton" [ref=e1078]':
+                  - img "Conrad Bali" [ref=e1080]
+                  - generic [ref=e1081]: "Enjoy a luxury stay at the Conrad Bali where you can relax in style. Image Credit: Hilton"
+                - paragraph [ref=e1082]: Bali only seems to get more popular, and for good reason. A fun place to relax surrounded by natural beauty makes this an ideal vacation location.
+                - paragraph [ref=e1083]: Conrad Bali is a lavish, seaside resort with Balinese-inspired rooms offering marble bathrooms, luxury furnishings, and private balconies or terraces.
+                - paragraph [ref=e1084]: This property has 3 restaurants offering different cuisines, in addition to a poolside bar and a lobby lounge that Diamond elites and those staying in upgraded rooms have access to. Lastly, the resort has tons of lagoon-style swimming pools, a spa, a gym, and even beachside cabanas.
+                - paragraph [ref=e1085]: This resort tends to be more family-friendly, and the staff there are incredibly knowledgeable on activities, excursions, and tours, so there will always be something to do.
+                - paragraph [ref=e1086]:
+                  - text: Reward stays will typically cost
+                  - strong [ref=e1087]: 50,000 Hilton Honors points per night
+                  - text: . However, you can often find rooms available for as
+                  - strong [ref=e1088]: little as 43,000 Hilton Honors points per night
+                  - text: . In any case, you’ll usually be booked into the
+                  - strong [ref=e1089]: Deluxe Lagoon View King or Twin
+                  - text: or the
+                  - strong [ref=e1090]: Deluxe Garden King or Twin
+                  - text: when redeeming points for a standard award night.
+                - heading "18. Reykjavik Konsulat Hotel, Curio Collection by Hilton (Iceland)" [level=3] [ref=e1091]:
+                  - text: "18."
+                  - link "Reykjavik Konsulat Hotel, Curio Collection by Hilton" [ref=e1092] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/is/consulate-reykjavik-curio-collection-by-hilton.html
+                  - text: (Iceland)
+                - 'figure "Reykjavik Konsulat Hotel, Curio Collection by Hilton. Image Credit: Christine Krzyszton" [ref=e1094]':
+                  - img "Reykjavik Konsulat Hotel Facade" [ref=e1096]
+                  - generic [ref=e1097]: "Reykjavik Konsulat Hotel, Curio Collection by Hilton. Image Credit: Christine Krzyszton"
+                - paragraph [ref=e1098]:
+                  - link "Reykjavik Konsulat Hotel, Curio Collection by Hilton," [ref=e1099] [cursor=pointer]:
+                    - /url: /travel/hotels/reykjavik-konsulat-hotel-curio-collection-by-hilton/
+                  - text: is a boutique hotel belonging to
+                  - link "Hilton’s Curio Collection brand" [ref=e1100] [cursor=pointer]:
+                    - /url: /travel/hotels/curio-collection-by-hilton-hotels/
+                  - text: . In Iceland’s capital, Reykjavik, this upscale hotel gets top-notch reviews.
+                - paragraph [ref=e1101]: This hotel is in a former department store and is a 3-minute walk from the Reykjavik Art Museum and a 6-minute walk from the Harpa conference hall.
+                - paragraph [ref=e1102]: Each of the guest rooms is decorated in a cozy manner, and elsewhere on the property are a restaurant, a bar, a gym, a spa, and a whirlpool.
+                - paragraph [ref=e1103]:
+                  - text: Lodging in
+                  - strong [ref=e1104]: Iceland is notoriously expensive during high season
+                  - text: . Also, hotels are generally no-frills, so getting to stay at a full-service hotel in Iceland is a treat.
+                - paragraph [ref=e1105]:
+                  - text: It’s common to find redemption rates for a standard room at
+                  - strong [ref=e1106]: 80,000 Hilton Honors points per night
+                  - text: ", though you shouldn’t be surprised if you find the same rooms available for as"
+                  - strong [ref=e1107]: little as 62,000 points per night
+                  - text: in certain cases. The 2 rooms you’ll most likely reserve at the standard level are the
+                  - strong [ref=e1108]: King Classic Room
+                  - text: and
+                  - strong [ref=e1109]: Twin Classic Room
+                  - text: .
+                - heading "19. DoubleTree by Hilton Hotel Kuala Lumpur (Malaysia)" [level=3] [ref=e1110]:
+                  - text: "19."
+                  - link "DoubleTree by Hilton Hotel Kuala Lumpur" [ref=e1111] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/my/doubletree-by-hilton-kuala-lumpur.html
+                  - text: (Malaysia)
+                - 'figure "DoubleTree by Hilton Hotel Kuala Lumpur. Image Credit: Hilton" [ref=e1113]':
+                  - link "DoubleTree by Hilton Kuala Lumpur" [ref=e1114] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/DoubleTreeHiltonKualaLumpur/TE/7198/dissn.1775548838764.7073346957.1/
+                    - img "DoubleTree by Hilton Kuala Lumpur" [ref=e1116]
+                  - generic [ref=e1117]: "DoubleTree by Hilton Hotel Kuala Lumpur. Image Credit: Hilton"
+                - paragraph [ref=e1118]: The DoubleTree by Hilton Hotel Kuala Lumpur is certainly one of Hilton’s best values. This famous hotel is a 5-star property set in The Intermark shopping complex in the KL Golden Triangle District.
+                - paragraph [ref=e1119]: DoubleTree by Hilton Hotel Kuala Lumpur puts other DoubleTree properties to shame because these polished rooms make you feel like you’re in a Conrad hotel. Parking and an area shuttle are complimentary. Plus, you don’t want to miss out on the amazing DoubleTree cookies, which are plentiful at this property.
+                - paragraph [ref=e1120]: There are 4 restaurants, but you also have convenient access to tons of shops and offsite eateries thanks to its location within the Intermark. Alternatively, you can check out the outdoor saltwater pool or the 24-hour fitness center.
+                - paragraph [ref=e1121]:
+                  - text: To stay at the DoubleTree by Hilton Hotel Kuala Lumpur, you usually need
+                  - strong [ref=e1122]: 20,000 Hilton Honors points per night
+                  - text: for the lowest-level awards. Typically, you will be booked into the
+                  - strong [ref=e1123]: 1 King Bed Guest Room
+                  - text: or
+                  - strong [ref=e1124]: 2 Twin Beds Guest Room
+                  - text: under standard awards.
+                - heading "20. Canopy by Hilton Reykjavik City Centre (Iceland)" [level=3] [ref=e1125]:
+                  - text: "20."
+                  - link "Canopy by Hilton Reykjavik City Centre" [ref=e1126] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/is/canopy-by-hilton-reykjavik-city-centre.html
+                  - text: (Iceland)
+                - 'figure "Canopy by Hilton Reykjavik City Centre. Image Credit: Christine Krzyszton" [ref=e1128]':
+                  - img "Canopy by Hilton Reykjavik Restaurant" [ref=e1130]
+                  - generic [ref=e1131]: "Canopy by Hilton Reykjavik City Centre. Image Credit: Christine Krzyszton"
+                - paragraph [ref=e1132]:
+                  - text: Canopy by Hilton is one of Hilton’s newer
+                  - link "hotel brands" [ref=e1133] [cursor=pointer]:
+                    - /url: /travel/hotels/hilton-hotel-brands/
+                  - text: ", designed to offer a minimalist, boutique experience without compromising on the upscale touches. And"
+                  - link "Canopy by Hilton Reykjavik City Centre" [ref=e1134] [cursor=pointer]:
+                    - /url: /travel/hotels/canopy-by-hilton-reykjavik-city-centre-review/
+                  - text: offers exactly that.
+                - paragraph [ref=e1135]: This chic property is just a 1-minute walk away from the closest bus stop. Also, the nature-themed rooms have a bunch of thoughtful amenities, including Nespresso machines.
+                - paragraph [ref=e1136]: The property boasts a sophisticated restaurant offering local fare, an industrial-themed cafe, a bistro, a 24-hour gym, free rental bikes, and a concierge.
+                - paragraph [ref=e1137]:
+                  - text: This millennial-oriented hotel can be booked for as
+                  - strong [ref=e1138]: little as 56,000 Hilton Honors points per night
+                  - text: . However, you’ll notice that the cheapest room rates are either the
+                  - strong [ref=e1139]: Queen Room
+                  - text: or the
+                  - strong [ref=e1140]: Twin Room
+                  - text: . You may want to consider paying slightly more (57,000 instead of 56,000 points per night if that’s the base rate for that date) to stay in the
+                  - strong [ref=e1141]: King Room
+                  - text: for maximum comfort.
+                - paragraph [ref=e1142]:
+                  - text: The most a room will generally cost for a standard room is
+                  - strong [ref=e1143]: 80,000 Hilton Honors points per night,
+                  - text: though you’ll rarely see this.
+                - heading "21. Hoodoo Moab, Curio Collection by Hilton (Utah)" [level=3] [ref=e1144]:
+                  - text: "21."
+                  - link "Hoodoo Moab, Curio Collection by Hilton" [ref=e1145] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/hoodoo-moab-curio-collection-by-hilton.en-us.html
+                  - text: (Utah)
+                - 'figure "Hoodoo Moab, Curio Collection by Hilton. Image Credit: Hilton" [ref=e1147]':
+                  - link "Hoodoo Moab Curio Collection by Hilton" [ref=e1148] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/HoodooMoabCurioHilton/TE/7198/dissn.1775548838764.7073346957.1/
+                    - img "Hoodoo Moab Curio Collection by Hilton" [ref=e1150]
+                  - generic [ref=e1151]: "Hoodoo Moab, Curio Collection by Hilton. Image Credit: Hilton"
+                - paragraph [ref=e1152]:
+                  - text: Moab is home to Utah’s red rock wonders, featuring 2 of the most beautiful national parks in the USA. If you’re
+                  - link "looking for a road trip" [ref=e1153] [cursor=pointer]:
+                    - /url: /travel/best-road-trips-united-states/
+                  - text: or nature getaway in the U.S., look no further.
+                - paragraph [ref=e1154]:
+                  - text: Hoodoo Moab, Curio Collection by Hilton, is the only full-service points hotel in the area, which means that you
+                  - emphasis [ref=e1155]: definitely
+                  - text: want to stay here if you’re looking for a more pampered experience in Moab.
+                - paragraph [ref=e1156]:
+                  - text: It’s still possible to get excellent value from award stays here, despite the lack of full-service properties competing for market share. Hoodoo Moab is 10 minutes from
+                  - link "Arches National Park" [ref=e1157] [cursor=pointer]:
+                    - /url: /travel/arches-national-park-travel-guide/
+                  - text: ", a block from Main Street, and only 30 miles from"
+                  - link "Canyonlands National Park" [ref=e1158] [cursor=pointer]:
+                    - /url: /travel/canyonlands-national-park-travel-guide/
+                  - text: .
+                - paragraph [ref=e1159]:
+                  - text: Each room is refined and offers a range of thoughtful amenities.
+                  - strong [ref=e1160]: Parking is complimentary
+                  - text: ", and you can enjoy the onsite steakhouse and bar, outdoor pool, fitness center, business center, and kids play area. If you’re looking for relaxation after a long day of sightseeing, check out the spa."
+                - paragraph [ref=e1161]:
+                  - text: Award nights typically cost
+                  - strong [ref=e1162]: 80,000 points per night
+                  - text: ", but those looking for more impromptu vacations will be rewarded with"
+                  - strong [ref=e1163]: cheaper rates of around 38,000 points per night
+                  - text: . The rooms you’ll be booked into for standard rates are most likely the
+                  - strong [ref=e1164]: 1 King Bed
+                  - text: or
+                  - strong [ref=e1165]: 2 Queen Beds
+                  - text: rooms. Cash rates can range from $250 to $400 per night!
+                - heading "Additional Hilton Honors Point Redemption Options" [level=2] [ref=e1166]
+                - heading "Points & Money Rewards" [level=3] [ref=e1167]
+                - paragraph [ref=e1168]:
+                  - text: Hilton Honors allows you to book stays with both points and cash, which it calls
+                  - link "Points & Money" [ref=e1169] [cursor=pointer]:
+                    - /url: https://www.hilton.com/en/hilton-honors/points-and-money-pricing/
+                    - strong [ref=e1170]: Points & Money
+                  - text: rewards. When booking a reward stay, you can use a slider to adjust how much cash you want to spend and how many points you want to spend.
+                - heading "Premium Room Rewards" [level=3] [ref=e1171]
+                - paragraph [ref=e1172]: While more expensive than award stays in standard rooms, you can book Premium Room Rewards with your Hilton Honors points if you desire.
+                - heading "Room Upgrade Rewards" [level=3] [ref=e1173]
+                - paragraph [ref=e1174]: If you have booked a paid stay at a Hilton property, you can use your Hilton Honors points to upgrade your room.
+                - heading "Points Pooling With Friends and Family" [level=3] [ref=e1175]
+                - paragraph [ref=e1176]:
+                  - text: One great aspect of the Hilton Honors program is the ability to
+                  - link "pool your points with up to 10 friends and family members" [ref=e1177] [cursor=pointer]:
+                    - /url: https://www.hilton.com/en/p/hilton-honors/buy-give-receive-points/
+                  - text: . By combining Hilton Honors points, you can take smaller point balances and turn them into enough for a reward stay.
+                - heading "Transfer to Partners" [level=3] [ref=e1178]
+                - paragraph [ref=e1180]: Advertisement
+                - paragraph [ref=e1183]:
+                  - text: You can
+                  - link "transfer your Hilton points to numerous airline partners and Amtrak" [ref=e1184] [cursor=pointer]:
+                    - /url: /travel/hotels/hilton-honors-transfer-partners/
+                  - text: ", but the redemption value is generally poor."
+                - heading "Final Thoughts" [level=2] [ref=e1185]
+                - paragraph [ref=e1186]: There’s tons of value to be had when redeeming Hilton Honors points for hotel stays. Although Hilton has received a fair amount of criticism in the past for switching to variable award pricing, you can get exceptional value almost anywhere you go.
+                - paragraph [ref=e1187]: Although the value you receive increases when you book stays at more luxurious properties, there are still many examples of upscale hotels that are value-packed and don’t cost 100,000 or more points per night.
+                - paragraph [ref=e1188]:
+                  - text: We didn’t focus on the low- or mid-tier hotels like
+                  - link "Hampton by Hilton" [ref=e1189] [cursor=pointer]:
+                    - /url: /travel/hotels/hampton-by-hilton-guide/
+                  - text: or Home2 Suites here, but you can often find great value in those hotel properties, too.
+                - paragraph [ref=e1190]:
+                  - text: If you
+                  - emphasis [ref=e1191]: really
+                  - text: want to achieve high-end and luxury Hilton property redemptions, brands like
+                  - link "Conrad Hotels & Resorts" [ref=e1192] [cursor=pointer]:
+                    - /url: /travel/hotels/conrad-hotels-guide/
+                  - text: ","
+                  - link "Waldorf Astoria Hotels & Resorts" [ref=e1193] [cursor=pointer]:
+                    - /url: /travel/hotels/waldorf-astoria-hotels-resorts/
+                  - text: ", LXR Hotels & Resorts, and"
+                  - link "Hilton Hotels & Resorts" [ref=e1194] [cursor=pointer]:
+                    - /url: /travel/hotels/hilton-hotels-guide/
+                  - text: provide opportunities for amazing redemptions!
+              - generic [ref=e1195]:
+                - generic [ref=e1196]:
+                  - separator [ref=e1197]
+                  - text: "Featured Image Credit: Hilton"
+                - generic [ref=e1198]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1199]
+                  - group [ref=e1200]:
+                    - generic "When do Hilton Honors points expire?" [ref=e1201] [cursor=pointer]
+                    - paragraph [ref=e1203]: Hilton Honors points expire if you don’t have any account activity for 24 months, which includes earning or redeeming points.
+                  - group [ref=e1204]:
+                    - generic "What hotels does Hilton own?" [ref=e1205] [cursor=pointer]
+                    - paragraph [ref=e1207]:
+                      - link "Hilton has 19 brands" [ref=e1208] [cursor=pointer]:
+                        - /url: /travel/hotels/hilton-hotel-brands/
+                      - text: ", including Hilton Hotels & Resorts, Waldorf Astoria Hotels & Resorts, Conrad Hotels & Resorts, Hampton by Hilton, Embassy Suites by Hilton, DoubleTree by Hilton, and more."
+                  - group [ref=e1209]:
+                    - generic "Can you book premium rooms or suites with Hilton Honors points?" [ref=e1210] [cursor=pointer]
+                    - paragraph [ref=e1212]: Yes. You can book premium rooms and suites with Hilton Honors points.
+                  - group [ref=e1213]:
+                    - generic "How many Hilton Honors points do you need for a reward stay?" [ref=e1214] [cursor=pointer]
+                    - paragraph [ref=e1216]: The number of Hilton Honors points required for a reward stay varies by property and is based on the cost of a room at the time of booking.
+                  - group [ref=e1217]:
+                    - generic "Can Hilton Honors points be transferred?" [ref=e1218] [cursor=pointer]
+                    - paragraph [ref=e1220]: Hilton Honors points can be transferred to airlines — but at a poor rate. You get the most value out of your points by booking award stays at Hilton properties.
+                  - group [ref=e1221]:
+                    - generic "What credit cards earn Hilton Honors points?" [ref=e1222] [cursor=pointer]
+                    - generic [ref=e1223]:
+                      - paragraph [ref=e1224]:
+                        - text: American Express provides 4
+                        - link "co-branded Hilton Honors cards" [ref=e1225] [cursor=pointer]:
+                          - /url: /credit-cards/american-express-hilton-honors-credit-cards/
+                        - text: .
+                      - paragraph [ref=e1226]:
+                        - text: You can also earn
+                        - link "American Express Membership Rewards" [ref=e1227] [cursor=pointer]:
+                          - /url: /credit-cards/how-to-earn-american-express-membership-rewards-points/
+                        - text: and
+                        - link "Bilt Rewards" [ref=e1228] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/credit-cards/bilt-rewards-program-review/
+                        - text: that can be transferred to Hilton.
+                - complementary [ref=e1229]:
+                  - paragraph [ref=e1231]:
+                    - generic [ref=e1233]:
+                      - text: For rates and fees of the Hilton Honors American Express Card, click
+                      - link "here" [ref=e1234] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexHiltonHHonorsTCCRF_addSource/TE/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e1236]:
+                      - text: For rates and fees for The Hilton Honors American Express Surpass
+                      - superscript [ref=e1237]: ®
+                      - text: Card, click
+                      - link "here" [ref=e1238] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexHiltonSurpassTCCRF_addSource/TE/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e1240]:
+                      - text: For rates and fees of the Hilton Honors American Express Aspire Card, click
+                      - link "here" [ref=e1241] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexHiltonAspireTCCRF_addSource/TE/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e1243]:
+                      - text: For rates and fees of The Hilton Honors American Express Business Card, click
+                      - link "here" [ref=e1244] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexHiltonHonorsBusinessTCCRF_addSource/TE/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e1246]:
+                      - text: For rates and fees of the Platinum Card
+                      - superscript [ref=e1247]: ®
+                      - text: from American Express, click
+                      - link "here" [ref=e1248] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e1250]:
+                      - text: For rates and fees of the American Express
+                      - superscript [ref=e1251]: ®
+                      - text: Gold Card, click
+                      - link "here" [ref=e1252] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TE/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                - group "Was this page helpful?" [ref=e1254]:
+                  - paragraph [ref=e1255]: Was this page helpful?
+                  - generic [ref=e1256]:
+                    - button "Yes" [ref=e1257] [cursor=pointer]
+                    - button "No" [ref=e1258] [cursor=pointer]
+                - generic [ref=e1259]:
+                  - figure [ref=e1261]:
+                    - img "Stephen Au's image" [ref=e1262]
+                  - generic [ref=e1263]:
+                    - heading "About Stephen Au" [level=2] [ref=e1264]:
+                      - text: About
+                      - link "Stephen Au" [ref=e1265] [cursor=pointer]:
+                        - /url: /author/stephen/
+                    - paragraph [ref=e1266]: Stephen is an established voice in the credit card space, with over 70 to his name. His work has been in publications like The Washington Post, and his Au Points and Awards Consulting Services is used by hundreds of clients.
+                    - list [ref=e1268]:
+                      - listitem [ref=e1269]:
+                        - link "Instagram icon" [ref=e1270] [cursor=pointer]:
+                          - /url: https://www.instagram.com/aupacs/
+                          - img "Instagram icon" [ref=e1271]
+                      - listitem [ref=e1272]:
+                        - link "LinkedIn icon" [ref=e1273] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/austephen/
+                          - img "LinkedIn icon" [ref=e1274]
+                      - listitem [ref=e1275]:
+                        - link "email icon" [ref=e1276] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1277]
+                - generic [ref=e1279]:
+                  - generic [ref=e1280]:
+                    - paragraph [ref=e1281]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1282]: ™
+                    - generic [ref=e1283]:
+                      - paragraph [ref=e1284]:
+                        - text: Get the
+                        - strong [ref=e1285]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1286]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1287]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1288]:
+                      - textbox "First Name" [ref=e1289]
+                      - textbox "Email" [ref=e1290]
+                      - button "Join Now" [disabled] [ref=e1291]
+                    - paragraph [ref=e1293]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1294] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1295] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1296] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1298]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1300]
+                - generic [ref=e1302]:
+                  - paragraph [ref=e1303]: We Recommend
+                  - generic [ref=e1304]:
+                    - generic [ref=e1305]:
+                      - link "Platinum Card® from American Express" [ref=e1306] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1307]
+                      - link "Terms Apply / Rates & Fees" [ref=e1308] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1309] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1310]
+                        - text: Apply Now
+                    - generic [ref=e1313]:
+                      - paragraph [ref=e1314]:
+                        - link "Platinum Card® from American Express" [ref=e1315] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1316]:
+                            - text: Platinum Card
+                            - superscript [ref=e1317]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1319]:
+                        - generic [ref=e1320]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1321] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1322]:
+                        - listitem [ref=e1323]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1324]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1325]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1326]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1327]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1328]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1329]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1330] [cursor=pointer]
+            - complementary [ref=e1332]:
+              - generic [ref=e1333]:
+                - generic [ref=e1335]:
+                  - paragraph [ref=e1336]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1337] [cursor=pointer]
+                  - generic [ref=e1338]:
+                    - generic [ref=e1341]:
+                      - generic [ref=e1342]:
+                        - generic [ref=e1343]:
+                          - img [ref=e1344]
+                          - generic [ref=e1346]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1347] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1348]
+                      - generic [ref=e1349]:
+                        - paragraph [ref=e1350]:
+                          - link "Platinum Card® from American Express" [ref=e1351] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1352]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1353] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1354]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1356] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1359]:
+                      - generic [ref=e1360]:
+                        - generic [ref=e1361]:
+                          - img [ref=e1362]
+                          - generic [ref=e1364]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1365] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1366]
+                      - generic [ref=e1367]:
+                        - paragraph [ref=e1368]:
+                          - link "American Express® Gold Card" [ref=e1369] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1370]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1371] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1372]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1374] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1377]:
+                      - generic [ref=e1378]:
+                        - generic [ref=e1379]:
+                          - img [ref=e1380]
+                          - generic [ref=e1382]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1383] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1384]
+                      - generic [ref=e1385]:
+                        - paragraph [ref=e1386]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1387] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1388]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1389] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1390]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1392] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/7198/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1395]:
+                      - generic [ref=e1396]:
+                        - generic [ref=e1397]:
+                          - img [ref=e1398]
+                          - generic [ref=e1400]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1401] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/7198/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1402]
+                      - generic [ref=e1403]:
+                        - paragraph [ref=e1404]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1405] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/7198/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1406]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1407] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/7198/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1408]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1410] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/7198/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1412] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1415]: Advertisement
+      - generic [ref=e1419]:
+        - paragraph [ref=e1420]: Related Posts
+        - generic [ref=e1421]:
+          - generic [ref=e1422]:
+            - link [ref=e1423] [cursor=pointer]:
+              - /url: /travel/hotels/hilton-hhonors-loyalty-program/
+              - figure [ref=e1424]:
+                - img "Hilton Honors Loyalty Program Review" [ref=e1426]
+            - link "Hilton Honors Loyalty Program Review" [ref=e1427] [cursor=pointer]:
+              - /url: /travel/hotels/hilton-hhonors-loyalty-program/
+          - generic [ref=e1428]:
+            - link [ref=e1429] [cursor=pointer]:
+              - /url: /travel/hotels/hilton-hotel-brands/
+              - figure [ref=e1430]:
+                - 'img "24 Hilton Hotel Brands: Lifestyle, Midscale, Upscale, Luxury & More" [ref=e1432]'
+            - 'link "24 Hilton Hotel Brands: Lifestyle, Midscale, Upscale, Luxury & More" [ref=e1433] [cursor=pointer]':
+              - /url: /travel/hotels/hilton-hotel-brands/
+          - generic [ref=e1434]:
+            - link [ref=e1435] [cursor=pointer]:
+              - /url: /travel/hotels/hilton-hotels-guide/
+              - figure [ref=e1436]:
+                - 'img "Hilton Hotels & Resorts: 10 Most Popular Locations and Best Redemptions [2025 Guide]" [ref=e1438]'
+            - 'link "Hilton Hotels & Resorts: 10 Most Popular Locations and Best Redemptions [2025 Guide]" [ref=e1439] [cursor=pointer]':
+              - /url: /travel/hotels/hilton-hotels-guide/
+          - generic [ref=e1440]:
+            - link [ref=e1441] [cursor=pointer]:
+              - /url: /travel/hotels/hampton-by-hilton-guide/
+              - figure [ref=e1442]:
+                - 'img "Hampton by Hilton: 15 Most Popular Hotel Locations [2025 Guide]" [ref=e1444]'
+            - 'link "Hampton by Hilton: 15 Most Popular Hotel Locations [2025 Guide]" [ref=e1445] [cursor=pointer]':
+              - /url: /travel/hotels/hampton-by-hilton-guide/
+    - contentinfo [ref=e1446]:
+      - img [ref=e1447]
+      - img [ref=e1466]
+      - generic [ref=e1485]:
+        - generic [ref=e1486]:
+          - img [ref=e1488]
+          - generic [ref=e1493]:
+            - generic [ref=e1494]:
+              - paragraph [ref=e1495]: Upgrade your travel experience
+              - list [ref=e1496]:
+                - listitem [ref=e1497]:
+                  - link [ref=e1498] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1499]:
+                      - img "Facebook" [ref=e1500]
+                - listitem [ref=e1501]:
+                  - link [ref=e1502] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1503]:
+                      - img "Twitter" [ref=e1504]
+                - listitem [ref=e1505]:
+                  - link [ref=e1506] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1507]:
+                      - img "Instagram" [ref=e1508]
+                - listitem [ref=e1509]:
+                  - link [ref=e1510] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1511]:
+                      - img "Pinterest" [ref=e1512]
+                - listitem [ref=e1513]:
+                  - link [ref=e1514] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1515]:
+                      - img "Linkedin" [ref=e1516]
+                - listitem [ref=e1517]:
+                  - link [ref=e1518] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1519]:
+                      - img "Youtube" [ref=e1520]
+            - generic [ref=e1522]:
+              - list [ref=e1523]:
+                - listitem [ref=e1524]:
+                  - link "News" [ref=e1525] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1526]:
+                  - link "Credit Cards" [ref=e1527] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1528]:
+                  - link "Business" [ref=e1529] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1530]:
+                - listitem [ref=e1531]:
+                  - link "Finance" [ref=e1532] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1533]:
+                  - link "Travel Guides" [ref=e1534] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1535]:
+                  - link "Air Travel" [ref=e1536] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1537]:
+                - listitem [ref=e1538]:
+                  - link "Hotel Guides" [ref=e1539] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1540]:
+                  - link "Beginners" [ref=e1541] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1542]:
+                  - link "About" [ref=e1543] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1544]:
+                - listitem [ref=e1545]:
+                  - link "Podcast" [ref=e1546] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1547]:
+                  - link "Jobs & Careers" [ref=e1548] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1549]:
+                  - link "Contact Us" [ref=e1550] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1551]:
+          - paragraph [ref=e1552]:
+            - link "Privacy Policy" [ref=e1553] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1554] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1555] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1556] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1557] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1558] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1559] [cursor=pointer]
+          - paragraph [ref=e1560]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1561]:
+          - link "DMCA.com Protection Status" [ref=e1562] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1563]
+          - img "Comodo Secure Seal" [ref=e1565]
+        - generic [ref=e1566]:
+          - generic [ref=e1567]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1568]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1569]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1570]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1571]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1572] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1573]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1574]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1576]:
+    - generic [ref=e1577]:
+      - generic [ref=e1578]:
+        - button "close banner" [ref=e1579] [cursor=pointer]:
+          - img "close banner" [ref=e1580]
+        - img "company logo" [ref=e1582]
+      - generic [ref=e1583]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1585]
+        - generic [ref=e1586]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1587] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1588] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1590]:
+        - button "Manage" [ref=e1591] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1592] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1593] [cursor=pointer]
+    - generic [ref=e1595]:
+      - generic [ref=e1596]: "Powered by:"
+      - link "trustarc" [ref=e1597] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1598]

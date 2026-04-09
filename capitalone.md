@@ -1,0 +1,1884 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Credit Cards" [ref=e42] [cursor=pointer]:
+                  - /url: /credit-cards/
+            - heading "The 41 Best Ways To Redeem Capital One Miles [for Max Value]" [level=1] [ref=e43]
+            - generic [ref=e44]:
+              - figure [ref=e45]:
+                - img "Stephen Au's image" [ref=e46]
+              - generic [ref=e47]:
+                - generic "Open Tooltip" [ref=e51]: Stephen Au
+                - generic [ref=e52]:
+                  - text: "Updated:"
+                  - time [ref=e53]: March 16, 2026, 9:53am CDT
+                - generic [ref=e54]:
+                  - generic [ref=e55]:
+                    - text: "Edited by:"
+                    - generic [ref=e56]: Jessica Merritt
+                  - generic [ref=e57]:
+                    - text: "&"
+                    - generic [ref=e58]: Kellie Jez
+          - figure [ref=e59]:
+            - img "The 41 Best Ways To Redeem Capital One Miles [for Max Value]" [ref=e61]
+        - generic [ref=e62]:
+          - group [ref=e1690]:
+            - generic "Jump to Section" [ref=e1691] [cursor=pointer]
+          - paragraph [ref=e66]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e67] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e68]:
+            - generic [ref=e70]:
+              - generic [ref=e71]:
+                - generic [ref=e72]:
+                  - heading "Key Takeaways" [level=2] [ref=e74]
+                  - list [ref=e76]:
+                    - listitem [ref=e77]: Capital One miles can be transferred to airline and hotel partners such as British Airways Avios, Choice Privileges, Singapore Airlines KrisFlyer, and Wyndham Rewards.
+                    - listitem [ref=e78]: Transferring miles to partners like Air Canada Aeroplan, Avianca Lifemiles, and Etihad Guest can unlock premium flight redemptions, often yielding higher value per mile.
+                    - listitem [ref=e79]: Some redemption options include Lufthansa First Class, Etihad Business Class, and SWISS Business Class.
+                - paragraph [ref=e80]: With more banks than ever offering transferable points and miles, it’s vital to understand the best ways to redeem these different currencies.
+                - paragraph [ref=e81]:
+                  - text: This guide is a
+                  - strong [ref=e82]: must-read before you do anything with your Capital One miles.
+                  - text: We’ll focus on demonstrating the value you can get from transferring
+                  - link "Capital One miles" [ref=e83] [cursor=pointer]:
+                    - /url: /credit-cards/capital-one-miles-program-review/
+                  - text: to airline and hotel partners.
+                - paragraph [ref=e84]:
+                  - text: You can also redeem your miles as a statement credit (toward a recent travel purchase) at 1 cent per mile — in other words, if you redeem 50,000 miles, you’d receive a $500 travel statement credit. As we’ll illustrate below, however, there are now
+                  - strong [ref=e85]: tons of ways to get significantly better value than that.
+                - paragraph [ref=e86]: Let’s get to it!
+                - heading "Earning Capital One Miles" [level=2] [ref=e87]
+                - paragraph [ref=e88]:
+                  - text: Currently, you can
+                  - link "earn Capital One miles" [ref=e89] [cursor=pointer]:
+                    - /url: /credit-cards/best-ways-to-earn-capital-one-miles-and-rewards/
+                  - text: "from a handful of different credit cards:"
+                - heading "Recommended Capital One Cards" [level=4] [ref=e90]
+                - generic [ref=e92]:
+                  - generic [ref=e93]:
+                    - link "Capital One Venture X Rewards Credit Card" [ref=e94] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/CapOneVentureX/TRD/24489/dissn.1775548838764.7073346957.1/
+                      - img "Capital One Venture X Rewards Credit Card" [ref=e95]
+                    - link "Terms Apply / Rates & Fees" [ref=e96] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/CapOneVentureXTCCRF/TRD/24489/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e97]: Terms Apply / Rates & Fees
+                    - generic [ref=e98]:
+                      - generic [ref=e99]:
+                        - img "Star rating icon" [ref=e102]
+                        - img "Star rating icon" [ref=e105]
+                        - img "Star rating icon" [ref=e108]
+                        - img "Star rating icon" [ref=e111]
+                        - generic [ref=e112]:
+                          - img "Star rating icon" [ref=e114]
+                          - img "Star rating icon" [ref=e116]
+                      - generic [ref=e117]:
+                        - generic [ref=e118]: U.P. Rating
+                        - img [ref=e121]:
+                          - img [ref=e122]
+                    - link "Apply Now" [ref=e125] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/CapOneVentureX/TRD/24489/dissn.1775548838764.7073346957.1/
+                      - img [ref=e126]
+                      - text: Apply Now
+                    - generic [ref=e129]: (at Capital One's secure site)
+                  - generic [ref=e130]:
+                    - generic [ref=e132]:
+                      - link "Capital One Venture X Rewards Credit Card" [ref=e134] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-x/
+                      - text: The Capital One Venture X card is an excellent option for travelers looking for an all-in-one premium credit card.
+                    - generic [ref=e135]:
+                      - generic [ref=e136]:
+                        - generic [ref=e137]:
+                          - generic [ref=e138]: Welcome Offer
+                          - img [ref=e141]:
+                            - img [ref=e142]
+                        - generic [ref=e145]: 75,000 miles
+                      - generic [ref=e146]:
+                        - generic [ref=e148]: "UP's Offer Valuation*:"
+                        - generic [ref=e149]: $1,350
+                    - generic [ref=e150]:
+                      - generic [ref=e151]:
+                        - generic [ref=e153]: Annual Fee
+                        - generic [ref=e154]: $395
+                      - generic [ref=e155]:
+                        - generic [ref=e157]: APR
+                        - generic [ref=e158]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e159]:
+                        - generic [ref=e160]:
+                          - generic [ref=e161]: Credit Recommended
+                          - img [ref=e164]:
+                            - img [ref=e165]
+                        - generic [ref=e168]: Excellent
+                    - generic [ref=e169]:
+                      - group [ref=e170]:
+                        - generic "Why We Like This Card" [ref=e171] [cursor=pointer]
+                      - group [ref=e172]:
+                        - generic "Pros & Cons" [ref=e173] [cursor=pointer]
+                      - group [ref=e174]:
+                        - generic "Card Highlights" [ref=e175] [cursor=pointer]
+                - generic [ref=e177]:
+                  - generic [ref=e178]:
+                    - img [ref=e179]
+                    - generic [ref=e181]: LIMITED-TIME ONLY
+                  - generic [ref=e182]:
+                    - link "Capital One Venture Rewards Credit Card" [ref=e183] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/CapOneVenture/TRD/24489/dissn.1775548838764.7073346957.1/
+                      - img "Capital One Venture Rewards Credit Card" [ref=e184]
+                    - link "Terms Apply / Rates & Fees" [ref=e185] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/CapOneVentureTCCRF/TRD/24489/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e186]: Terms Apply / Rates & Fees
+                    - generic [ref=e187]:
+                      - generic [ref=e188]:
+                        - img "Star rating icon" [ref=e191]
+                        - img "Star rating icon" [ref=e194]
+                        - img "Star rating icon" [ref=e197]
+                        - img "Star rating icon" [ref=e200]
+                        - generic [ref=e201]:
+                          - img "Star rating icon" [ref=e203]
+                          - img "Star rating icon" [ref=e205]
+                      - generic [ref=e206]:
+                        - generic [ref=e207]: U.P. Rating
+                        - img [ref=e210]:
+                          - img [ref=e211]
+                    - link "Apply Now" [ref=e214] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/CapOneVenture/TRD/24489/dissn.1775548838764.7073346957.1/
+                      - img [ref=e215]
+                      - text: Apply Now
+                    - generic [ref=e218]: (at Capital One's secure site)
+                  - generic [ref=e219]:
+                    - generic [ref=e221]:
+                      - link "Capital One Venture Rewards Credit Card" [ref=e223] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-rewards-credit-card/
+                      - text: Get 2x miles plus some of the most flexible redemptions offered by a travel credit card!
+                    - generic [ref=e224]:
+                      - generic [ref=e225]:
+                        - generic [ref=e226]:
+                          - generic [ref=e227]: Welcome Offer
+                          - img [ref=e230]:
+                            - img [ref=e231]
+                        - generic [ref=e234]: 75,000 miles + $250 Capital One Travel credit
+                      - generic [ref=e235]:
+                        - generic [ref=e237]: "UP's Offer Valuation*:"
+                        - generic [ref=e238]: $1,600
+                    - generic [ref=e239]:
+                      - generic [ref=e240]:
+                        - generic [ref=e242]: Annual Fee
+                        - generic [ref=e243]: $95
+                      - generic [ref=e244]:
+                        - generic [ref=e246]: APR
+                        - generic [ref=e247]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e248]:
+                        - generic [ref=e249]:
+                          - generic [ref=e250]: Credit Recommended
+                          - img [ref=e253]:
+                            - img [ref=e254]
+                        - generic [ref=e257]: Good to Excellent Credit
+                    - generic [ref=e258]:
+                      - group [ref=e259]:
+                        - generic "Why We Like This Card" [ref=e260] [cursor=pointer]
+                      - group [ref=e261]:
+                        - generic "Pros & Cons" [ref=e262] [cursor=pointer]
+                      - group [ref=e263]:
+                        - generic "Card Highlights" [ref=e264] [cursor=pointer]
+                - generic [ref=e266]:
+                  - generic [ref=e267]:
+                    - img "Capital One VentureOne Rewards Credit Card" [ref=e268]
+                    - generic [ref=e269]:
+                      - generic [ref=e270]:
+                        - img "Star rating icon" [ref=e273]
+                        - img "Star rating icon" [ref=e276]
+                        - img "Star rating icon" [ref=e279]
+                        - img "Star rating icon" [ref=e282]
+                        - generic [ref=e283]:
+                          - img "Star rating icon" [ref=e285]
+                          - img "Star rating icon" [ref=e286]
+                      - generic [ref=e287]:
+                        - generic [ref=e288]: U.P. Rating
+                        - img [ref=e291]:
+                          - img [ref=e292]
+                  - generic [ref=e295]:
+                    - generic [ref=e297]:
+                      - link "Capital One VentureOne Rewards Credit Card" [ref=e299] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-ventureone-rewards-credit-card/
+                      - text: The card offers unlimited miles at 1.25x per $1 and no annual fee. When you consider the flexible rewards, frequent travelers come out on top.
+                    - generic [ref=e300]:
+                      - generic [ref=e301]:
+                        - generic [ref=e302]:
+                          - generic [ref=e303]: Welcome Offer
+                          - img [ref=e306]:
+                            - img [ref=e307]
+                        - generic [ref=e310]: 20,000 miles
+                      - generic [ref=e311]:
+                        - generic [ref=e313]: "UP's Offer Valuation*:"
+                        - generic [ref=e314]: $200
+                    - generic [ref=e315]:
+                      - generic [ref=e316]:
+                        - generic [ref=e318]: Annual Fee
+                        - generic [ref=e319]: $0
+                      - generic [ref=e320]:
+                        - generic [ref=e322]: APR
+                        - generic [ref=e323]: "Purchases: 0% intro APR on purchases for 15 months; variable 18.49% - 28.49% thereafter"
+                      - generic [ref=e324]:
+                        - generic [ref=e325]:
+                          - generic [ref=e326]: Credit Recommended
+                          - img [ref=e329]:
+                            - img [ref=e330]
+                        - generic [ref=e333]: Good to Excellent (670-850)
+                    - generic [ref=e334]:
+                      - group [ref=e335]:
+                        - generic "Why We Like This Card" [ref=e336] [cursor=pointer]
+                      - group [ref=e337]:
+                        - generic "Pros & Cons" [ref=e338] [cursor=pointer]
+                      - group [ref=e339]:
+                        - generic "Card Highlights" [ref=e340] [cursor=pointer]
+                - paragraph [ref=e341]:
+                  - strong [ref=e342]: If you’re a business owner
+                  - text: ", check out our article on the best"
+                  - link "Capital One business cards" [ref=e343] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-capital-one-business-credit-cards/
+                  - text: that earn Capital One miles.
+                - heading "Transfer Capital One Miles to Airline and Hotel Partners" [level=2] [ref=e344]
+                - paragraph [ref=e345]:
+                  - text: Capital One currently has
+                  - strong [ref=e346]: several airline and hotel transfer partners
+                  - text: . Your Capital One miles will transfer at varying ratios, depending on the specific partner. Most of its best transfer partners maintain a 1:1 ratio, so don’t worry about some of the subpar transfer ratios!
+                - paragraph [ref=e347]:
+                  - text: Remember that
+                  - strong [ref=e348]: transfers cannot be undone
+                  - text: ", so be certain of your travel plans and award availability before committing."
+                - paragraph [ref=e349]:
+                  - text: "With Capital One’s transfer partners, you can access all 3 major airline alliances:"
+                  - link "Star Alliance" [ref=e350] [cursor=pointer]:
+                    - /url: /travel/airlines/the-star-alliance/
+                  - text: ","
+                  - link "Oneworld" [ref=e351] [cursor=pointer]:
+                    - /url: /travel/airlines/oneworld-alliance/
+                  - text: ", and"
+                  - link "SkyTeam" [ref=e352] [cursor=pointer]:
+                    - /url: /travel/airlines/the-skyteam-alliance/
+                  - text: . Also, don’t bet on these transfer partners being the only ones —
+                  - strong [ref=e353]: Capital One has slowly added more partners
+                  - text: over time. In addition, Capitol One gives you access to interesting airlines that don’t partner with any other currency besides
+                  - link "Marriott Bonvoy" [ref=e354] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-rewards-loyalty-program/
+                  - text: "!"
+                - paragraph [ref=e355]:
+                  - text: Without further ado, here are the
+                  - link "Capital One miles transfer partners" [ref=e356] [cursor=pointer]:
+                    - /url: /credit-cards/capital-one-transfer-partners/
+                - table [ref=e360]:
+                  - rowgroup [ref=e361]:
+                    - row "Capital One Transfer Partner Minimum Transfer Transfer Ratio (Capital One > Partner) Transfer Time" [ref=e362]:
+                      - cell "Capital One Transfer Partner" [ref=e363]:
+                        - paragraph [ref=e364]:
+                          - strong [ref=e365]: Capital One Transfer Partner
+                      - cell "Minimum Transfer" [ref=e366]:
+                        - paragraph [ref=e367]:
+                          - strong [ref=e368]: Minimum Transfer
+                      - cell "Transfer Ratio (Capital One > Partner)" [ref=e369]:
+                        - paragraph [ref=e370]:
+                          - strong [ref=e371]: Transfer Ratio (Capital One > Partner)
+                      - cell "Transfer Time" [ref=e372]:
+                        - paragraph [ref=e373]:
+                          - strong [ref=e374]: Transfer Time
+                    - row "ALL – Accor Live Limitless 1,000 2:1 Up to 36 hours" [ref=e375]:
+                      - cell "ALL – Accor Live Limitless" [ref=e376]:
+                        - paragraph [ref=e377]:
+                          - link "ALL – Accor Live Limitless" [ref=e378] [cursor=pointer]:
+                            - /url: /travel/hotels/all-accor-live-limitless-loyalty-program/
+                      - cell "1,000" [ref=e379]:
+                        - paragraph [ref=e380]: 1,000
+                      - cell "2:1" [ref=e381]:
+                        - paragraph [ref=e382]: 2:1
+                      - cell "Up to 36 hours" [ref=e383]:
+                        - paragraph [ref=e384]: Up to 36 hours
+                    - row "Aeromexico Rewards 1,000 1:1 Almost Instant" [ref=e385]:
+                      - cell "Aeromexico Rewards" [ref=e386]:
+                        - paragraph [ref=e387]:
+                          - link "Aeromexico Rewards" [ref=e388] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-aeromexico-rewards-points/
+                          - link:
+                            - /url: /travel/airlines/best-ways-to-redeem-aeromexico-club-premier-points/
+                      - cell "1,000" [ref=e389]:
+                        - paragraph [ref=e390]: 1,000
+                      - cell "1:1" [ref=e391]:
+                        - paragraph [ref=e392]: 1:1
+                      - cell "Almost Instant" [ref=e393]:
+                        - paragraph [ref=e394]: Almost Instant
+                    - row "Air Canada Aeroplan 1,000 1:1 Almost Instant" [ref=e395]:
+                      - cell "Air Canada Aeroplan" [ref=e396]:
+                        - paragraph [ref=e397]:
+                          - link "Air Canada Aeroplan" [ref=e398] [cursor=pointer]:
+                            - /url: /travel/airlines/best-ways-to-use-aeroplan-miles/
+                      - cell "1,000" [ref=e399]:
+                        - paragraph [ref=e400]: 1,000
+                      - cell "1:1" [ref=e401]:
+                        - paragraph [ref=e402]: 1:1
+                      - cell "Almost Instant" [ref=e403]:
+                        - paragraph [ref=e404]: Almost Instant
+                    - row "Air France-KLM Flying Blue 1,000 1:1 Almost Instant" [ref=e405]:
+                      - cell "Air France-KLM Flying Blue" [ref=e406]:
+                        - paragraph [ref=e407]:
+                          - link "Air France-KLM Flying Blue" [ref=e408] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-air-france-klm-flying-blue-miles/
+                      - cell "1,000" [ref=e409]:
+                        - paragraph [ref=e410]: 1,000
+                      - cell "1:1" [ref=e411]:
+                        - paragraph [ref=e412]: 1:1
+                      - cell "Almost Instant" [ref=e413]:
+                        - paragraph [ref=e414]: Almost Instant
+                    - row "Avianca LifeMiles 1,000 1:1 Almost Instant" [ref=e415]:
+                      - cell "Avianca LifeMiles" [ref=e416]:
+                        - paragraph [ref=e417]:
+                          - link "Avianca LifeMiles" [ref=e418] [cursor=pointer]:
+                            - /url: /travel/airlines/best-ways-to-redeem-avianca-vuela-lifemiles/
+                      - cell "1,000" [ref=e419]:
+                        - paragraph [ref=e420]: 1,000
+                      - cell "1:1" [ref=e421]:
+                        - paragraph [ref=e422]: 1:1
+                      - cell "Almost Instant" [ref=e423]:
+                        - paragraph [ref=e424]: Almost Instant
+                    - row "The British Airways Club 1,000 1:1 Almost Instant" [ref=e425]:
+                      - cell "The British Airways Club" [ref=e426]:
+                        - paragraph [ref=e427]:
+                          - link "The British Airways Club" [ref=e428] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/how-to-redeem-british-airways-avios/
+                      - cell "1,000" [ref=e429]:
+                        - paragraph [ref=e430]: 1,000
+                      - cell "1:1" [ref=e431]:
+                        - paragraph [ref=e432]: 1:1
+                      - cell "Almost Instant" [ref=e433]:
+                        - paragraph [ref=e434]: Almost Instant
+                    - row "Cathay Pacific Cathay 1,000 1:1 Up to 36 hours" [ref=e435]:
+                      - cell "Cathay Pacific Cathay" [ref=e436]:
+                        - paragraph [ref=e437]:
+                          - link "Cathay Pacific Cathay" [ref=e438] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-cathay-pacific-asia-miles/
+                      - cell "1,000" [ref=e439]:
+                        - paragraph [ref=e440]: 1,000
+                      - cell "1:1" [ref=e441]:
+                        - paragraph [ref=e442]: 1:1
+                      - cell "Up to 36 hours" [ref=e443]:
+                        - paragraph [ref=e444]: Up to 36 hours
+                    - row "Choice Privileges 1,000 1:1 Up to 24 hours" [ref=e445]:
+                      - cell "Choice Privileges" [ref=e446]:
+                        - paragraph [ref=e447]:
+                          - link "Choice Privileges" [ref=e448] [cursor=pointer]:
+                            - /url: /travel/hotels/choice-privileges-loyalty-program/
+                      - cell "1,000" [ref=e449]:
+                        - paragraph [ref=e450]: 1,000
+                      - cell "1:1" [ref=e451]:
+                        - paragraph [ref=e452]: 1:1
+                      - cell "Up to 24 hours" [ref=e453]:
+                        - paragraph [ref=e454]: Up to 24 hours
+                    - row "Emirates Skywards 1,000 4:3 Almost Instant" [ref=e455]:
+                      - cell "Emirates Skywards" [ref=e456]:
+                        - paragraph [ref=e457]:
+                          - link "Emirates Skywards" [ref=e458] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+                      - cell "1,000" [ref=e459]:
+                        - paragraph [ref=e460]: 1,000
+                      - cell "4:3" [ref=e461]:
+                        - paragraph [ref=e462]: 4:3
+                      - cell "Almost Instant" [ref=e463]:
+                        - paragraph [ref=e464]: Almost Instant
+                    - row "Etihad Guest 1,000 1:1 Up to 36 hours" [ref=e465]:
+                      - cell "Etihad Guest" [ref=e466]:
+                        - paragraph [ref=e467]:
+                          - link "Etihad Guest" [ref=e468] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-etihad-guest-miles/
+                      - cell "1,000" [ref=e469]:
+                        - paragraph [ref=e470]: 1,000
+                      - cell "1:1" [ref=e471]:
+                        - paragraph [ref=e472]: 1:1
+                      - cell "Up to 36 hours" [ref=e473]:
+                        - paragraph [ref=e474]: Up to 36 hours
+                    - row "EVA Infinity MileageLands 1,000 2:1.5 Up to 36 hours" [ref=e475]:
+                      - cell "EVA Infinity MileageLands" [ref=e476]:
+                        - paragraph [ref=e477]:
+                          - link "EVA Infinity MileageLands" [ref=e478] [cursor=pointer]:
+                            - /url: /travel/airlines/best-ways-to-redeem-eva-air-miles/
+                      - cell "1,000" [ref=e479]:
+                        - paragraph [ref=e480]: 1,000
+                      - cell "2:1.5" [ref=e481]:
+                        - paragraph [ref=e482]: 2:1.5
+                      - cell "Up to 36 hours" [ref=e483]:
+                        - paragraph [ref=e484]: Up to 36 hours
+                    - row "Finnair Plus 1,000 1:1 Almost Instant" [ref=e485]:
+                      - cell "Finnair Plus" [ref=e486]:
+                        - paragraph [ref=e487]:
+                          - link "Finnair Plus" [ref=e488] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-finnair-plus-avios/
+                      - cell "1,000" [ref=e489]:
+                        - paragraph [ref=e490]: 1,000
+                      - cell "1:1" [ref=e491]:
+                        - paragraph [ref=e492]: 1:1
+                      - cell "Almost Instant" [ref=e493]:
+                        - paragraph [ref=e494]: Almost Instant
+                    - row "Japan Airlines Mileage Bank 1,000 2:1.5 TBD" [ref=e495]:
+                      - cell "Japan Airlines Mileage Bank" [ref=e496]:
+                        - paragraph [ref=e497]:
+                          - link "Japan Airlines Mileage Bank" [ref=e498] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/japan-airlines-mileage-bank-loyalty-program/
+                      - cell "1,000" [ref=e499]:
+                        - paragraph [ref=e500]: 1,000
+                      - cell "2:1.5" [ref=e501]:
+                        - paragraph [ref=e502]: 2:1.5
+                      - cell "TBD" [ref=e503]:
+                        - paragraph [ref=e504]: TBD
+                    - row "JetBlue TrueBlue 1,000 5:3 2 to 5 days" [ref=e505]:
+                      - cell "JetBlue TrueBlue" [ref=e506]:
+                        - paragraph [ref=e507]:
+                          - link "JetBlue TrueBlue" [ref=e508] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/how-to-redeem-jetblue-trueblue-points/
+                      - cell "1,000" [ref=e509]:
+                        - paragraph [ref=e510]: 1,000
+                      - cell "5:3" [ref=e511]:
+                        - paragraph [ref=e512]: 5:3
+                      - cell "2 to 5 days" [ref=e513]:
+                        - paragraph [ref=e514]: 2 to 5 days
+                    - row "Preferred Hotels & Resorts I Prefer 1,000 1:2 TBD" [ref=e515]:
+                      - cell "Preferred Hotels & Resorts I Prefer" [ref=e516]:
+                        - paragraph [ref=e517]:
+                          - link "Preferred Hotels & Resorts I Prefer" [ref=e518] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/hotels/preferred-hotels-resorts-i-prefer-hotel-rewards-loyalty-program/
+                      - cell "1,000" [ref=e519]:
+                        - paragraph [ref=e520]: 1,000
+                      - cell "1:2" [ref=e521]:
+                        - paragraph [ref=e522]: 1:2
+                      - cell "TBD" [ref=e523]:
+                        - paragraph [ref=e524]: TBD
+                    - row "Qantas Frequent Flyer 1,000 1:1 Up to 36 hours" [ref=e525]:
+                      - cell "Qantas Frequent Flyer" [ref=e526]:
+                        - paragraph [ref=e527]:
+                          - link "Qantas Frequent Flyer" [ref=e528] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-qantas-points/
+                      - cell "1,000" [ref=e529]:
+                        - paragraph [ref=e530]: 1,000
+                      - cell "1:1" [ref=e531]:
+                        - paragraph [ref=e532]: 1:1
+                      - cell "Up to 36 hours" [ref=e533]:
+                        - paragraph [ref=e534]: Up to 36 hours
+                    - row "Qatar Airways Privilege Club 1,000 1:1 TBD" [ref=e535]:
+                      - cell "Qatar Airways Privilege Club" [ref=e536]:
+                        - paragraph [ref=e537]:
+                          - link "Qatar Airways Privilege Club" [ref=e538] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/qatar-airways-privilege-club-loyalty-program/
+                      - cell "1,000" [ref=e539]:
+                        - paragraph [ref=e540]: 1,000
+                      - cell "1:1" [ref=e541]:
+                        - paragraph [ref=e542]: 1:1
+                      - cell "TBD" [ref=e543]:
+                        - paragraph [ref=e544]: TBD
+                    - row "Singapore Airlines KrisFlyer 1,000 1:1 Up to 36 hours" [ref=e545]:
+                      - cell "Singapore Airlines KrisFlyer" [ref=e546]:
+                        - paragraph [ref=e547]:
+                          - link "Singapore Airlines KrisFlyer" [ref=e548] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/
+                      - cell "1,000" [ref=e549]:
+                        - paragraph [ref=e550]: 1,000
+                      - cell "1:1" [ref=e551]:
+                        - paragraph [ref=e552]: 1:1
+                      - cell "Up to 36 hours" [ref=e553]:
+                        - paragraph [ref=e554]: Up to 36 hours
+                    - row "TAP Air Portugal Miles&Go 1,000 1:1 Almost Instant" [ref=e555]:
+                      - cell "TAP Air Portugal Miles&Go" [ref=e556]:
+                        - paragraph [ref=e557]:
+                          - link "TAP Air Portugal Miles&Go" [ref=e558] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-tap-air-portugal-miles/
+                      - cell "1,000" [ref=e559]:
+                        - paragraph [ref=e560]: 1,000
+                      - cell "1:1" [ref=e561]:
+                        - paragraph [ref=e562]: 1:1
+                      - cell "Almost Instant" [ref=e563]:
+                        - paragraph [ref=e564]: Almost Instant
+                    - row "Turkish Airlines Miles&Smiles 1,000 1:1 Up to 24 hours" [ref=e565]:
+                      - cell "Turkish Airlines Miles&Smiles" [ref=e566]:
+                        - paragraph [ref=e567]:
+                          - link "Turkish Airlines Miles&Smiles" [ref=e568] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-turkish-airlines-miles-smiles/
+                      - cell "1,000" [ref=e569]:
+                        - paragraph [ref=e570]: 1,000
+                      - cell "1:1" [ref=e571]:
+                        - paragraph [ref=e572]: 1:1
+                      - cell "Up to 24 hours" [ref=e573]:
+                        - paragraph [ref=e574]: Up to 24 hours
+                    - row "Virgin Red 1,000 1:1 Unknown" [ref=e575]:
+                      - cell "Virgin Red" [ref=e576]:
+                        - paragraph [ref=e577]:
+                          - link "Virgin Red" [ref=e578] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/how-to-redeem-virgin-atlantic-miles/
+                      - cell "1,000" [ref=e579]:
+                        - paragraph [ref=e580]: 1,000
+                      - cell "1:1" [ref=e581]:
+                        - paragraph [ref=e582]: 1:1
+                      - cell "Unknown" [ref=e583]:
+                        - paragraph [ref=e584]: Unknown
+                    - row "Wyndham Rewards 1,000 1:1 Almost Instant" [ref=e585]:
+                      - cell "Wyndham Rewards" [ref=e586]:
+                        - paragraph [ref=e587]:
+                          - link "Wyndham Rewards" [ref=e588] [cursor=pointer]:
+                            - /url: /travel/hotels/best-ways-to-use-wyndham-points/
+                      - cell "1,000" [ref=e589]:
+                        - paragraph [ref=e590]: 1,000
+                      - cell "1:1" [ref=e591]:
+                        - paragraph [ref=e592]: 1:1
+                      - cell "Almost Instant" [ref=e593]:
+                        - paragraph [ref=e594]: Almost Instant
+                - paragraph [ref=e596]: Advertisement
+                - heading "The Best Ways To Use Capital One Miles" [level=2] [ref=e597]
+                - paragraph [ref=e598]: "As we talked about above, there are 2 main ways to use Capital One miles:"
+                - list [ref=e599]:
+                  - listitem [ref=e600]: Statement credit for travel purchases at 1 cent per mile
+                  - listitem [ref=e601]:
+                    - text: Transfer to airline partners for
+                    - strong [ref=e602]: up to 10 cents per mile!
+                - paragraph [ref=e603]:
+                  - text: There’s
+                  - strong [ref=e604]: greater flexibility if you use the statement credit
+                  - text: since you don’t need to search for award availability and deal with calling airlines.
+                - paragraph [ref=e605]: You can technically transfer your Capital One miles to hotel partners, but we don’t recommend this approach because of the low value you get from hotel partners.
+                - paragraph [ref=e606]:
+                  - text: We will focus on the second method, which will
+                  - strong [ref=e607]: multiply the value you get out of your miles
+                  - text: . Your miles are precious, and you should treat them as such!
+                - heading "1. Fly Lufthansa First Class Without Surcharges to Europe (87,000 Miles Transferred to Avianca)" [level=3] [ref=e608]
+                - 'figure "Lufthansa’s first class is an awe-inspiring product. Image Credit: Greg Stone" [ref=e610]':
+                  - img "Lufthansa Airbus A380 First Class Seat" [ref=e612]
+                  - generic [ref=e613]:
+                    - text: "Lufthansa’s first class is an awe-inspiring product. Image Credit:"
+                    - link "Greg Stone" [ref=e614] [cursor=pointer]:
+                      - /url: /author/greg/
+                - paragraph [ref=e615]:
+                  - text: Rightfully, Lufthansa’s first class is on the top of many travelers’ bucket lists. But if you’ve done any research or have experience in
+                  - link "award travel to Europe," [ref=e616] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-europe-with-points/
+                  - text: you’ll know that European flights have tons of fuel surcharges.
+                - paragraph [ref=e617]:
+                  - text: These fuel surcharges are often deal-breakers for award travelers because what’s the point of using your miles if you have to pay around $1,500 on top of that? The way around this is to
+                  - strong [ref=e618]: use a frequent flyer program that
+                  - link "doesn’t pass fuel surcharges onto you" [ref=e619] [cursor=pointer]:
+                    - /url: /travel/airlines/airline-fuel-surcharges/
+                    - strong [ref=e620]: doesn’t pass fuel surcharges onto you
+                  - text: .
+                - paragraph [ref=e621]: Since Lufthansa is quite an aspirational first-class product, the biggest challenge is finding award availability.
+                - paragraph [ref=e622]:
+                  - text: Remember that Lufthansa’s first class rarely releases award availability to its partners more than
+                  - strong [ref=e623]: 15 days in advance.
+                  - text: This means planning ahead can be difficult.
+                - paragraph [ref=e624]:
+                  - text: Here are some example routes you can fly that generally have good availability. All prices are 87,000 Capital One miles one-way transferred to
+                  - link "Avianca Lifemiles" [ref=e625] [cursor=pointer]:
+                    - /url: /travel/airlines/avianca-lifemiles-loyalty-program/
+                  - text: ", plus $61 in taxes and fees:"
+                - list [ref=e626]:
+                  - listitem [ref=e627]:
+                    - strong [ref=e628]: Chicago (ORD) to Frankfurt (FRA)
+                  - listitem [ref=e629]:
+                    - strong [ref=e630]: New York (JFK) to Frankfurt (FRA)
+                  - listitem [ref=e631]:
+                    - strong [ref=e632]: Newark (EWR) to Frankfurt (FRA)
+                - heading "2. Fly Etihad Business Class Without Surcharges to Abu Dhabi (30,000 Miles Transferred to Air Canada)" [level=3] [ref=e633]
+                - 'figure "Etihad Airways Airbus A380 Business Studio seat. Image Credit: Greg Stone" [ref=e635]':
+                  - img "Etihad Airways Airbus A380 Business Studio Seat" [ref=e637]
+                  - generic [ref=e638]: "Etihad Airways Airbus A380 Business Studio seat. Image Credit: Greg Stone"
+                - paragraph [ref=e639]:
+                  - text: Moving your Capital One miles to
+                  - link "Air Canada Aeroplan" [ref=e640] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-use-aeroplan-miles/
+                  - text: is an excellent way to fly
+                  - link "Etihad’s business class" [ref=e641] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-etihad-business-class/
+                  - text: between New York and Abu Dhabi. Capital One is a 1:1 transfer partner of Etihad Guest.
+                - paragraph [ref=e642]: For as few as 30,000 Capital One miles, you can have enough miles for a business class award to Abu Dhabi.
+                - paragraph [ref=e643]: "Here are 2 example routes you can take:"
+                - list [ref=e644]:
+                  - listitem [ref=e645]:
+                    - strong [ref=e646]: Paris (CDG) to Abu Dhabi (AUH)
+                    - text: for 112,600 Capital One miles plus about $190 in taxes and fees
+                  - listitem [ref=e647]:
+                    - strong [ref=e648]: Mumbai (BOM) to Abu Dhabi (AUH)
+                    - text: for 30,000 Capital One miles plus about $40 in taxes and fees
+                - heading "3. Fly SWISS Business Class to Europe (63,000 Miles Transferred to Avianca)" [level=3] [ref=e649]
+                - 'figure "Image Credit: Daniel Ross" [ref=e651]':
+                  - img "SWISS A330 at JFK" [ref=e653]
+                  - generic [ref=e654]: "Image Credit: Daniel Ross"
+                - paragraph [ref=e655]:
+                  - text: Using Avianca Lifemiles is fantastic, especially for Star Alliance redemptions to Europe. It’s one of the only ways to
+                  - strong [ref=e656]: avoid fuel surcharges and still pay reasonable mileage prices
+                  - text: to fly to Europe.
+                - paragraph [ref=e657]:
+                  - text: Flying one-way in
+                  - link "SWISS business class" [ref=e658] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-swiss-air-business-class/
+                  - text: is another solid way to use your Capital One miles. By transferring 63,000 Capital One miles to Avianca Lifemiles, you can fly from the U.S. to Europe!
+                - paragraph [ref=e659]: Your total taxes and fees will be around $61, an excellent way to save big for business class flights to Europe.
+                - paragraph [ref=e660]: "Here are some example routes you can take. All prices are 63,000 Capital One miles one-way transferred to Avianca Lifemiles, plus $61 in taxes and fees:"
+                - list [ref=e661]:
+                  - listitem [ref=e662]:
+                    - strong [ref=e663]: Los Angeles (LAX) to Zurich (ZRH)
+                  - listitem [ref=e664]:
+                    - strong [ref=e665]: Miami (MIA) to Zurich (ZRH)
+                  - listitem [ref=e666]:
+                    - strong [ref=e667]: New York
+                    - strong [ref=e668]: (JFK) to Geneva (GVA)
+                - heading "4. Fly Transcontinental Business Class in the U.S. on United Airlines (25,000 Miles Transferred to Avianca)" [level=3] [ref=e669]
+                - 'figure "United Polaris 787-10. Image Credit: Stephen Au" [ref=e671]':
+                  - img "United Polaris 787-10" [ref=e673]
+                  - generic [ref=e674]: "United Polaris 787-10. Image Credit: Stephen Au"
+                - paragraph [ref=e675]: Another fantastic way to use Capital One miles is for transcontinental business-class flights within the U.S. on United Airlines.
+                - paragraph [ref=e676]:
+                  - text: Since United has moved away from first class on flagship products in favor of its
+                  - link "Polaris business class," [ref=e677] [cursor=pointer]:
+                    - /url: /travel/airlines/united-polaris/
+                  - text: award travelers now benefit from business class pricing for award flights.
+                - paragraph [ref=e678]:
+                  - text: Transferring 25,000 Capital One miles to Lifemiles gives you enough for a one-way
+                  - link "business class flight on United Airlines" [ref=e679] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-united-business-class/
+                  - text: .
+                - paragraph [ref=e680]: "Here are the route options we’re talking about:"
+                - list [ref=e681]:
+                  - listitem [ref=e682]:
+                    - strong [ref=e683]: Newark (EWR) to Los Angeles (LAX)
+                    - text: for 25,000 Capital One miles plus around $61 in taxes and fees
+                  - listitem [ref=e684]:
+                    - strong [ref=e685]: Newark (EWR) to San Francisco (SFO)
+                    - text: for 25,000 Capital One miles plus around $61 in taxes and fees
+                - paragraph [ref=e686]:
+                  - generic [ref=e687]:
+                    - strong [ref=e688]: "Hot Tip:"
+                    - text: This is a fantastic way to try United Airlines’ brand-new flagship
+                    - link "Polaris product on the Boeing 787-10" [ref=e689] [cursor=pointer]:
+                      - /url: /travel/airlines/united-787-10-polaris-business-class-review-los-angeles-to-houston/
+                    - text: .
+                - heading "5. Fly to Africa in Business Class on United (78,000 Miles Transferred to Avianca)" [level=3] [ref=e690]
+                - 'figure "United Polaris class. Image Credit: Chris Hassan" [ref=e692]':
+                  - img "United Polaris 767-300" [ref=e694]
+                  - generic [ref=e695]:
+                    - text: "United Polaris class. Image Credit:"
+                    - link "Chris Hassan" [ref=e696] [cursor=pointer]:
+                      - /url: /author/chrishassan/
+                - paragraph [ref=e697]:
+                  - text: Interested in
+                  - link "travel to Africa?" [ref=e698] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-africa-with-points-and-miles/
+                  - text: Rejoice in knowing that United flies its Polaris product there with direct aisle access, fully lie-flat seats, excellent service, and loads of privacy from Washington, D.C., and Newark!
+                - paragraph [ref=e699]: "Here are the routes we’re talking about:"
+                - list [ref=e700]:
+                  - listitem [ref=e701]:
+                    - strong [ref=e702]: Newark (EWR) to Cape Town (CPT)
+                    - text: one-way in business class on United Airlines for 78,000 Capital One miles transferred to Avianca Lifemiles, plus $61 in taxes and fees
+                  - listitem [ref=e703]:
+                    - strong [ref=e704]: Newark (EWR) to Johannesburg (JNB)
+                    - text: one-way in business class on United Airlines for 78,000 Capital One miles transferred to Avianca Lifemiles, plus $61 in taxes and fees
+                  - listitem [ref=e705]:
+                    - strong [ref=e706]: Washington, D.C. (IAD) to Accra (ACC)
+                    - text: one-way in business class on United Airlines for 78,000 Capital One miles transferred to Avianca Lifemiles, plus $61 in taxes and fees
+                  - listitem [ref=e707]:
+                    - strong [ref=e708]: Washington, D.C. (IAD) to Lagos (LOS)
+                    - text: one-way in business class on United Airlines for 78,000 Capital One miles transferred to Avianca Lifemiles, plus $61 in taxes and fees
+                - heading "6. Fly From Tokyo to New Zealand in Business Class on Air New Zealand (40,000 Miles Transferred to Avianca)" [level=3] [ref=e709]
+                - 'figure "Air New Zealand business class. Image Credit: Daniel Ross" [ref=e711]':
+                  - img "Air New Zealand Boeing 787 business class cabin rear" [ref=e713]
+                  - generic [ref=e714]:
+                    - text: "Air New Zealand business class. Image Credit:"
+                    - link "Daniel Ross" [ref=e715] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/daniel/
+                - paragraph [ref=e716]: Yet another great use of Capital One miles is for flights between northern Asia and Australia or New Zealand.
+                - paragraph [ref=e717]: Air New Zealand’s business class seats aren’t the most up-to-date, but you can expect locally inspired cuisine, direct aisle access, totally lie-flat seats, and friendly service throughout the flight.
+                - paragraph [ref=e718]: How much is this flight of 10 to 11 hours? Expect to pay 40,000 Capital One miles transferred to Lifemiles.
+                - paragraph [ref=e719]:
+                  - generic [ref=e720]:
+                    - strong [ref=e721]: "Hot Tip:"
+                    - text: The challenge here will be finding award availability, but it tends to be much better for Air New Zealand flights outside the U.S.
+                - heading "7. Fly Round-Trip From North America to Tokyo in Business Class on ANA (75,000 Miles Transferred to Avianca)" [level=3] [ref=e722]
+                - 'figure "ANA’s “old” business class product. Image Credit: Stephen Au" [ref=e724]':
+                  - link "ANA Business Class Seat" [ref=e725] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/03/ANA-Business-Class-Seat.jpg?auto=webp&disable=upscale
+                    - img "ANA Business Class Seat" [ref=e727]
+                  - generic [ref=e728]: "ANA’s “old” business class product. Image Credit: Stephen Au"
+                - paragraph [ref=e729]:
+                  - text: To give you a sense of how great of a deal this is, most frequent flyer programs offer award flights to Japan starting at 70,000 miles round-trip in economy. These awards, however, can be booked between North America and Tokyo for 75,000 points round-trip
+                  - emphasis [ref=e730]: in business class
+                  - text: .
+                - paragraph [ref=e731]: Please note that award space can be booked only from the North American cities that ANA serves, which include Chicago (ORD), Houston (IAH), Los Angeles (LAX), New York City (JFK), San Francisco (SFO), Seattle (SEA), and Washington, D.C. (IAD).
+                - paragraph [ref=e732]:
+                  - text: Use our
+                  - link "definitive guide to ANA’s direct routes from the U.S." [ref=e733] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/ana-us-routes-plane-types/
+                  - text: to help guide your travel planning.
+                - heading "8. Fly Within Northern Asia in Business Class With Star Alliance Airlines (22,500 Miles Transferred to Avianca)" [level=3] [ref=e734]
+                - 'figure "This lie-flat ANA business class seat can be yours with some planning! Image Credit: Stephen Au" [ref=e736]':
+                  - img "ANA Business Class" [ref=e738]
+                  - generic [ref=e739]: "This lie-flat ANA business class seat can be yours with some planning! Image Credit: Stephen Au"
+                - paragraph [ref=e740]:
+                  - text: "Let’s pivot to another little-known sweet spot: business class flights"
+                  - strong [ref=e741]: within the Star Alliance North Asia zone
+                  - text: .
+                - paragraph [ref=e742]: When using Lifemiles, you can fly an astonishing 5 to 6 hours on Star Alliance flights within this region for only 22,500 Capital One miles!
+                - paragraph [ref=e743]:
+                  - generic [ref=e744]:
+                    - strong [ref=e745]: "Bottom Line:"
+                    - text: This is a phenomenal redemption — you could spend over 5 hours in a completely lie-flat seat in business class for only 22,500 Capital One miles!
+                - heading "9. Fly From Bangkok to New Zealand in Business Class on Thai Airways (90,000 Miles Transferred to Avianca)" [level=3] [ref=e746]
+                - paragraph [ref=e747]: We love Thai Airways here because it has a phenomenal hospitality record, particularly in business and first class. However, we wouldn’t usually suggest Thai for business class, considering the seating arrangement is typically bizarre and lackluster.
+                - paragraph [ref=e748]:
+                  - text: But it’s a
+                  - strong [ref=e749]: different story on its Boeing 787-9 to Auckland
+                  - text: . Great Lifemiles prices, coupled with the fact that it’s flying some new business class seats on routes between Bangkok and the South Pacific, and we’d be doing a disservice if we didn’t discuss this.
+                - paragraph [ref=e750]: Thai Airways flies its new 787-9s on some flights between Bangkok (BKK) and Auckland (AKL). This 11-to-12-hour flight in excellent reverse-herringbone seats in business class with superb service will run you only 40,000 Capital One miles!
+                - list [ref=e751]:
+                  - listitem [ref=e752]:
+                    - strong [ref=e753]: Bangkok (BKK) to Auckland (AKL)
+                    - text: one-way in
+                    - link "business class on Thai" [ref=e754] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-thai-airways-business-class-with-points/
+                    - text: for 40,000 Capital One miles transferred to Avianca Lifemiles, plus $61 in taxes and fees
+                - heading "10. Fly to Europe in American Airlines Flagship Business Class (120,000 Miles Transferred to Etihad)" [level=3] [ref=e755]
+                - 'figure "Etihad provides better redemption rates for business and first class on American Airlines. Image Credit: Chris Hassan" [ref=e757]':
+                  - img "American Airlines 777 Flagship Business Class middle seats" [ref=e759]
+                  - generic [ref=e760]: "Etihad provides better redemption rates for business and first class on American Airlines. Image Credit: Chris Hassan"
+                - paragraph [ref=e761]: Want to fly on AA’s Flagship 777 somewhere else besides Hong Kong? You’re in luck! AA also flies the 777 from Los Angeles (LAX) to London (LHR).
+                - paragraph [ref=e762]: As usual, we suggest business class on AA over first class, simply because the hard product is excellent, and you don’t have to shell out much to try it.
+                - paragraph [ref=e763]: "Award availability is sparse on this flight, as is the case for many of AA’s Flagship products. Here’s what you’re looking at for this redemption:"
+                - list [ref=e764]:
+                  - listitem [ref=e765]:
+                    - strong [ref=e766]: Los Angeles (LAX) to London (LHR)
+                    - text: one-way in Flagship Business class on American Airlines for 120,000 Capital One miles transferred to Etihad Guest, plus about $25 in taxes and fees
+                - heading "11. Fly to Europe in American Airlines Flagship First Class (160,000 Miles Transferred to Etihad)" [level=3] [ref=e767]
+                - 'figure "American Airlines Flagship First class. Image Credit: Daniel Ross" [ref=e769]':
+                  - img "American Airlines Boeing 777 300 Flagship First seat 1A half reclined" [ref=e771]
+                  - generic [ref=e772]: "American Airlines Flagship First class. Image Credit: Daniel Ross"
+                - paragraph [ref=e773]:
+                  - text: If you’re intrigued by flying on the same route as above in first class, then we have some good news. The Etihad Guest award chart for flights on A.A. continues to amaze us. Why? Because you can
+                  - strong [ref=e774]: fly to London from Los Angeles in first class for not much more than business class
+                  - text: "!"
+                - paragraph [ref=e775]: The cabin is only 8 seats spread across 2 rows in a 1-2-1 configuration, so it’s ridiculously private.
+                - paragraph [ref=e776]:
+                  - text: On the flip side, award availability for 2 passengers is
+                  - strong [ref=e777]: nearly impossible to find
+                  - text: . Availability for 1 passenger is significantly more doable. Nevertheless, if you can find it, you might want to book now and figure everything out later.
+                - paragraph [ref=e778]: "Here’s that same LAX-to-LHR route in A.A. first class:"
+                - list [ref=e779]:
+                  - listitem [ref=e780]:
+                    - strong [ref=e781]: Los Angeles (LAX) to London (LHR)
+                    - text: one-way in Flagship First class on American Airlines for 160,000 Capital One miles transferred to Etihad Guest, plus about $25 in taxes and fees
+                - heading "12. Fly to Brazil in American Airlines Flagship Business Class (100,000 Miles Transferred to Etihad)" [level=3] [ref=e782]
+                - 'figure "American also flies Flagship on the 777 from Miami to Brazil. Image Credit: Chris Hassan" [ref=e784]':
+                  - img "American Airlines 777 Flagship Business Class rear facing seat" [ref=e786]
+                  - generic [ref=e787]: "American also flies Flagship on the 777 from Miami to Brazil. Image Credit: Chris Hassan"
+                - paragraph [ref=e788]:
+                  - text: Thinking of more exotic destinations? How about a place like
+                  - link "South America" [ref=e789] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-south-america-with-points/
+                  - text: "?"
+                - paragraph [ref=e790]:
+                  - text: Booking with Etihad Guest miles on AA flights is still a great use of your Capital One miles. Currently, American Airlines operates a Flagship 777 from
+                  - strong [ref=e791]: New York to São Paulo.
+                - paragraph [ref=e792]: "This 10-hour flight is quite a journey. Here are the route details:"
+                - list [ref=e793]:
+                  - listitem [ref=e794]:
+                    - strong [ref=e795]: New York (JFK) to São Paulo (GRU)
+                    - text: one-way in Flagship Business class on American Airlines for 100,000 Capital One miles transferred to Etihad Guest, plus around $25 in taxes and fees
+                - paragraph [ref=e796]:
+                  - generic [ref=e797]:
+                    - strong [ref=e798]: "Hot Tip:"
+                    - text: Despite having the same Flagship products, award availability is much better on flights to and from South America than, say, London or Hong Kong.
+                - heading "13. Fly to Argentina in American Airlines Flagship First Class (134,000 Miles Transferred to Etihad)" [level=3] [ref=e799]
+                - 'figure "Enjoy access to Admirals Clubs and Flagship Lounges when you fly Flagship First class. Image Credit: Chris Hassan" [ref=e801]':
+                  - img "American Airlines Admirals Club at Orlando MCO bar stools" [ref=e803]
+                  - generic [ref=e804]: "Enjoy access to Admirals Clubs and Flagship Lounges when you fly Flagship First class. Image Credit: Chris Hassan"
+                - paragraph [ref=e805]: "If you want to fly to Argentina, you can also fly A.A.’s Flagship First class. Here’s a great example:"
+                - list [ref=e806]:
+                  - listitem [ref=e807]:
+                    - strong [ref=e808]: Miami (MIA) to Buenos Aires (EZE)
+                    - text: one-way in Flagship First class on American Airlines for 134,000 Capital One miles transferred to Etihad Guest, plus about $25 in taxes and fees
+                - paragraph [ref=e809]:
+                  - generic [ref=e810]:
+                    - strong [ref=e811]: "Hot Tip:"
+                    - text: Be sure to check out our step-by-step guides for
+                    - link "booking American Airlines business" [ref=e812] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-american-airlines-business-class/
+                    - text: or
+                    - link "first class" [ref=e813] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-american-airlines-first-class/
+                    - text: "!"
+                - heading "14. Fly to New Zealand in Business Class on American Airlines (140,000 Miles Transferred to Etihad)" [level=3] [ref=e814]
+                - 'figure "Fly American Airlines’ 787-9 in business class to New Zealand! Image Credit: Stephen Au" [ref=e816]':
+                  - img "American Airlines 787-9 Business Class" [ref=e818]
+                  - generic [ref=e819]: "Fly American Airlines’ 787-9 in business class to New Zealand! Image Credit: Stephen Au"
+                - paragraph [ref=e820]: American Airlines is one of the world’s biggest airlines by many metrics, including the number of planes flown. Its fantastic long-haul network is not limited to Hong Kong, London, Brazil, and Argentina — it has also restarted a 787 Dreamliner service from Dallas Fort Worth (DFW) to Auckland (AKL)!
+                - paragraph [ref=e821]:
+                  - text: Although not quite as remarkable as the Flagship Business class, the
+                  - link "787’s business class" [ref=e822] [cursor=pointer]:
+                    - /url: /travel/airlines/american-airlines-787-business-class-review/
+                  - text: "is solid, especially if it means you can fly straight to New Zealand without transiting. Here’s our route suggestion and associated costs:"
+                - list [ref=e823]:
+                  - listitem [ref=e824]:
+                    - strong [ref=e825]: Dallas Fort Worth (DFW) to Auckland (AKL)
+                    - text: one-way in business class on American Airlines for 140,000 Capital One miles transferred to Etihad Guest, plus a little over $50 in taxes and fees
+                - paragraph [ref=e826]: This pricing is phenomenal for travel between the U.S. and Oceania, a traditionally expensive route. Just keep in mind that finding award availability on this route is challenging.
+                - heading "15. Fly From the East Coast to Europe in Business Class on Brussels Airlines (80,000 Miles Transferred to Etihad)" [level=3] [ref=e827]
+                - paragraph [ref=e828]:
+                  - text: Let’s talk about some other partners you can
+                  - link "use Etihad Guest miles" [ref=e829] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-etihad-guest-miles/
+                  - text: with. Etihad Airways partners with tons of airlines. It used to employ a different award chart for each airline but rolled out a simpler, unified chart for partner awards in March 2023 (along with notable devaluations).
+                - paragraph [ref=e830]:
+                  - text: "In this example, we’ll discuss Brussels Airlines, which offers a fabulous business class. Unfortunately, you must fly from the eastern half of North America and can only choose from 3 airports:"
+                  - strong [ref=e831]: New York (JFK), Washington, D.C. (IAD), or Toronto (YYZ).
+                - paragraph [ref=e832]: For 80,000 Etihad Guest miles, which can be transferred from Capital One, you can fly one way to Brussels (BRU) in business class. This is a fantastic use of miles because of the solid business class product and great redemption price. The only issue is that there’s little route flexibility.
+                - paragraph [ref=e833]: "Here are the route offerings:"
+                - list [ref=e834]:
+                  - listitem [ref=e835]:
+                    - strong [ref=e836]: New York (JFK), Washington, D.C. (IAD), or Toronto (YYZ) to Brussels (BRU)
+                    - text: one-way in business class on Brussels Airlines for 80,000 Capital One miles transferred to Etihad Guest, plus around $100 in taxes and fees
+                - heading "16. Fly From the West Coast to Japan in Business Class on ANA (120,000 Miles Transferred to Etihad)" [level=3] [ref=e837]
+                - 'figure "Enjoy the comfort of ANA business class. Image Credit: Stephen Au" [ref=e839]':
+                  - img "ANA Business Class Seat" [ref=e841]
+                  - generic [ref=e842]: "Enjoy the comfort of ANA business class. Image Credit: Stephen Au"
+                - paragraph [ref=e843]:
+                  - text: ANA is a fabulous airline. Its
+                  - link "Mileage Club is one of the industry’s best frequent flyer programs for round-trip/open-jaw flights" [ref=e844] [cursor=pointer]:
+                    - /url: /travel/airlines/ana-mileage-club-loyalty-program/
+                  - text: ", amazing premium cabin products, and tons of destinations."
+                - paragraph [ref=e845]:
+                  - text: Unfortunately, one of the challenges with ANA is booking one-way awards.
+                  - strong [ref=e846]: This is where Etihad Guest comes in.
+                - paragraph [ref=e847]:
+                  - link "Using the distance-based award chart, you can book a one-way business class ticket on ANA from the U.S. West Coast U.S. to Tokyo" [ref=e848] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-ana-business-class/
+                  - text: .
+                - paragraph [ref=e849]:
+                  - text: It’s not a good idea to fly from other areas of the U.S. because the distance-based award chart is such that flying from Houston or New York is significantly more expensive. For this reason,
+                  - strong [ref=e850]: we suggest flying from either Los Angeles (LAX) or San Francisco (SFO) to Tokyo (NRT, HND)
+                  - text: .
+                - paragraph [ref=e851]: This route costs 120,000 Capital One miles transferred to Etihad Guest. Taxes and fees will hover at around $365 per person for one-way flights and about $760 for round-trip flights.
+                - heading "17. Fly From New York to Belgrade in Business Class on Air Serbia (100,000 Miles Transferred to Etihad)" [level=3] [ref=e852]
+                - paragraph [ref=e853]: Want to fly to Serbia? This next redemption is pretty cool because it’s very niche and a solid business class product!
+                - paragraph [ref=e854]: We’re talking about Air Serbia’s business class from New York (JFK) to Belgrade (BEG), Serbia’s capital. For 100,000 Capital One miles transferred to Etihad Guest plus about $420 in taxes and fees, you could fly nonstop from the U.S. to Serbia in business class.
+                - paragraph [ref=e855]:
+                  - text: The taxes and fees are high here, so be mindful of that. This flight is blocked at 8 hours and 40 minutes, which is a bit of a journey, though
+                  - link "not as long as some other flights" [ref=e856] [cursor=pointer]:
+                    - /url: /travel/airlines/longest-nonstop-flights-in-the-world/
+                  - text: . To book a reward flight with Air Serbia, you must call the airline at least 24 hours before the flight you’d like to be on.
+                - heading "18. Fly From the U.S. to Casablanca in Business Class on Royal Air Maroc (80,000 Miles Transferred to Etihad)" [level=3] [ref=e857]
+                - 'figure "The business class cabin on Royal Air Maroc’s Boeing 787 aircraft. Royal Air Maroc’s business class product is a unique way to use your Capital One miles. Image Credit: Ryan Smith" [ref=e859]':
+                  - img "Royal Air Maroc B787 business class cabin" [ref=e861]
+                  - generic [ref=e862]:
+                    - text: "The business class cabin on Royal Air Maroc’s Boeing 787 aircraft. Royal Air Maroc’s business class product is a unique way to use your Capital One miles. Image Credit:"
+                    - link "Ryan Smith" [ref=e863] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/ryansmith/
+                - paragraph [ref=e864]: Though Royal Air Maroc’s 2-2-2 business class configuration is perfectly satisfactory, the airline has reverse-herringbone 1-2-1 seating available on its new Boeing 787-9 Dreamliners! These aren’t reliably deployed on any routes, so check before booking!
+                - paragraph [ref=e865]: In this case, you can use Etihad Guest miles transferred from Capital One miles to book a one-way flight between the U.S. and Casablanca for an excellent price! How awesome, you might ask.
+                - paragraph [ref=e866]: "These routes are what we’re referring to:"
+                - list [ref=e867]:
+                  - listitem [ref=e868]:
+                    - strong [ref=e869]: New York (JFK) to Casablanca (CMN)
+                    - text: one-way in business class on Royal Air Maroc for 80,000 Capital One miles transferred to Etihad Guest, plus about $215 in taxes and fees!
+                  - listitem [ref=e870]:
+                    - strong [ref=e871]: Washington, D.C. (IAD) to Casablanca (CMN)
+                    - text: one-way in business class on Royal Air Maroc for 80,000 Capital One miles transferred to Etihad Guest, plus around $215 in taxes and fees!
+                - heading "19. Fly From Sri Lanka to Tokyo in Business Class on SriLankan Airlines (100,000 Miles Transferred to Etihad)" [level=3] [ref=e872]
+                - paragraph [ref=e873]:
+                  - text: Want another sweet redemption?
+                  - strong [ref=e874]: Fly 7 hours between Colombo (CMB) and Tokyo (NRT) in Sri Lankan Airlines’ business class for 100,000 Capital One miles transferred to Etihad Guest!
+                - paragraph [ref=e875]: The business class on this flight features an Airbus A330 with a 1-2-1 reverse-herringbone configuration. As we stated above, this seating arrangement is incredibly private, and the food is said to be decent!
+                - heading "20. Fly to India in Business Class on Air India (90,000 Miles Transferred to Air Canada)" [level=3] [ref=e876]
+                - paragraph [ref=e877]: Air Canada’s Aeroplan program is super useful, particularly for stopovers and mini versions of round-the-world awards that we’ll get to later.
+                - paragraph [ref=e878]: First, let’s talk about Air India!
+                - paragraph [ref=e879]:
+                  - text: "This airline doesn’t get a lot of love, but here’s what it offers: no frills"
+                  - strong [ref=e880]: and nonstop business class to India
+                  - text: .
+                - paragraph [ref=e881]: India is pretty far from the U.S., so for someone who values their time highly, it might be worth it to stick it out in Air India’s inferior business class if it means you avoid the headache of transiting through multiple airports.
+                - paragraph [ref=e882]:
+                  - text: Air Canada Aeroplan can help you here. For
+                  - link "flights between the U.S. and India," [ref=e883] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-india-with-points/
+                  - text: you can transfer 90,000 Capital One miles to Aeroplan to book a one-way business class flight on Air India.
+                - paragraph [ref=e884]: "Here are several example routes you can take:"
+                - list [ref=e885]:
+                  - listitem [ref=e886]:
+                    - strong [ref=e887]: Chicago (ORD) to Delhi (DEL)
+                    - text: one-way in business class on Air India for 90,000 Capital One miles transferred to Air Canada Aeroplan, plus $62 in taxes and fees
+                  - listitem [ref=e888]:
+                    - strong [ref=e889]: New York (JFK) to Mumbai (BOM)
+                    - text: one-way in business class on Air India for 90,000 Capital One miles transferred to Air Canada Aeroplan, plus $60 in taxes and fees
+                  - listitem [ref=e890]:
+                    - strong [ref=e891]: San Francisco (SFO) to Delhi (DEL)
+                    - text: one-way in business class on Air India for 90,000 Capital One miles transferred to Air Canada Aeroplan, plus $62 in taxes and fees
+                - heading "21. Fly Lufthansa First Class With a Stopover in Germany on Lufthansa (From 95,000 Miles Transferred to Air Canada)" [level=3] [ref=e892]
+                - 'figure "Lufthansa A380 first class. Image Credit: Greg Stone" [ref=e894]':
+                  - link "Lufthansa Airbus A380 First Class" [ref=e895] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/37-Lufthansa-Airbus-A380-First-Class.jpg?auto=webp&disable=upscale
+                    - img "Lufthansa Airbus A380 First Class" [ref=e897]
+                  - generic [ref=e898]: "Lufthansa A380 first class. Image Credit: Greg Stone"
+                - paragraph [ref=e899]: The first redemption we discussed was using Avianca Lifemiles to fly Lufthansa first class without surcharges for 87,000 Capital One miles.
+                - paragraph [ref=e900]: With Aeroplan, you will pay as little as 90,000 miles for one-way first class on Lufthansa, and you can add a stopover on one-way tickets for 5,000 miles!
+                - paragraph [ref=e901]: This is one of the only ways to get a stopover in Germany on Lufthansa for a great price using Capital One miles.
+                - paragraph [ref=e902]: "Here are a few Lufthansa itineraries in first class:"
+                - list [ref=e903]:
+                  - listitem [ref=e904]:
+                    - strong [ref=e905]: Boston (BOS) to Frankfurt (FRA) to Milan (MXP)
+                    - text: one-way in Lufthansa first class with a stopover in Frankfurt for 95,000 Capital One miles transferred to Air Canada, plus $46 in taxes and fees
+                  - listitem [ref=e906]:
+                    - strong [ref=e907]: Boston (BOS) to Frankfurt (FRA) to Prague (PRG)
+                    - text: one-way in Lufthansa first class with a stopover in Frankfurt for 95,000 Capital One miles transferred to Air Canada, plus $46 in taxes and fees
+                  - listitem [ref=e908]:
+                    - strong [ref=e909]: Chicago (ORD) to Frankfurt (FRA) to Johannesburg (JNB)
+                    - text: one-way in Lufthansa first class with a stopover in Frankfurt for 135,000 Capital One miles transferred to Air Canada, plus $46 in taxes and fees
+                - heading "22. Fly to Europe in Business Class with a Stopover in Switzerland on SWISS (65,000 Miles Transferred to Air Canada)" [level=3] [ref=e910]
+                - paragraph [ref=e911]: Here’s another great way to use Aeroplan to your advantage.
+                - paragraph [ref=e912]:
+                  - text: With Avianca Lifemiles, you can book SWISS business class for 84,000 Capital One miles.
+                  - strong [ref=e913]: But with Aeroplan, you can book the same flight for 60,000 Capital One miles and add another 5,000 for a stopover!
+                - paragraph [ref=e914]: Also, you won’t pay for fuel surcharges! Taxes and fees will be around $60.
+                - paragraph [ref=e915]: "Here are several example routes:"
+                - list [ref=e916]:
+                  - listitem [ref=e917]:
+                    - strong [ref=e918]: Boston (BOS) to Zurich (ZRH) to Venice (VCE)
+                    - text: one-way in business class on SWISS with a stopover in Zurich for 65,000 Capital One miles, plus ~$72 in taxes and fees
+                  - listitem [ref=e919]:
+                    - strong [ref=e920]: Chicago (ORD) to Zurich (ZRH) to Athens (ATH)
+                    - text: one-way in business class on SWISS with a stopover in Zurich for 75,000 Capital One miles, plus ~$57 in taxes and fees
+                  - listitem [ref=e921]:
+                    - strong [ref=e922]: Los Angeles (LAX) to Zurich (ZRH)
+                    - text: one-way in business class on SWISS for 70,000 Capital One miles, plus $72 in taxes and fees
+                - heading "23. Fly to New Zealand in Business Class on Air New Zealand (From 75,000 Miles Transferred to Air Canada)" [level=3] [ref=e923]
+                - 'figure "If you have a chance, you can also try the Air New Zealand 787 Dreamliner business-class product! Regardless of what plane you fly, Air New Zealand business class is a fun way to fly nonstop! Image Credit: Daniel Ross" [ref=e925]':
+                  - img "Air New Zealand Boeing 787 business class cabin reverse herringbone" [ref=e927]
+                  - generic [ref=e928]: "If you have a chance, you can also try the Air New Zealand 787 Dreamliner business-class product! Regardless of what plane you fly, Air New Zealand business class is a fun way to fly nonstop! Image Credit: Daniel Ross"
+                - paragraph [ref=e929]: Let’s fly to New Zealand on Air New Zealand!
+                - paragraph [ref=e930]: You can book Air New Zealand’s business class one-way for as few as 75,000 Capital One miles transferred to Aeroplan, plus a little over $90 in taxes and fees.
+                - paragraph [ref=e931]: "Here are a few great example routes:"
+                - list [ref=e932]:
+                  - listitem [ref=e933]:
+                    - strong [ref=e934]: Houston (IAH) to Auckland (AKL)
+                    - text: one-way on Air New Zealand’s 777 business class for 75,000 Capital One miles transferred to Aeroplan
+                  - listitem [ref=e935]:
+                    - strong [ref=e936]: San Francisco (SFO) to Auckland (AKL)
+                    - text: one-way on Air New Zealand’s 777 business class for 75,000 Capital One miles transferred to Aeroplan
+                - heading "24. Fly From Houston to Southern South America in Business Class on United Airlines (100,000 Miles Transferred to Air Canada)" [level=3] [ref=e937]
+                - 'figure "Booking the coveted United Polaris is one of the best ways to use your hard-earned miles! Image Credit: Ryan Smith" [ref=e939]':
+                  - img "United Polaris business class 787 10 window seats HND LAX" [ref=e941]
+                  - generic [ref=e942]: "Booking the coveted United Polaris is one of the best ways to use your hard-earned miles! Image Credit: Ryan Smith"
+                - paragraph [ref=e943]: Flying from Hawaii to southern South America is significantly cheaper than flying from the continental U.S. We can take advantage of these generous award prices by piecing together United Airlines flights in business class.
+                - paragraph [ref=e944]: Though it’s not the “real” Polaris business class with the full amenity offering you’d find on other routes, you can still fly comfortably from Houston to southern South America for 100,000 Capital One miles.
+                - paragraph [ref=e945]: "Here’s the sole route you can take:"
+                - list [ref=e946]:
+                  - listitem [ref=e947]:
+                    - strong [ref=e948]: Houston (IAH) to Buenos Aires (EZE)
+                    - text: one-way in Polaris business class on United Airlines for 100,000 Capital One miles transferred to Aeroplan plus around $57 in taxes and fees
+                - heading "25. Fly to Taiwan in Business Class (75,000 Miles Transferred to Air Canada)" [level=3] [ref=e949]
+                - 'figure "Enjoy direct aisle access and a lie-flat seat in business class on EVA Air. Image Credit: Stephen Au" [ref=e951]':
+                  - img "EVA Air 777-300ER Business Class" [ref=e953]
+                  - generic [ref=e954]: "Enjoy direct aisle access and a lie-flat seat in business class on EVA Air. Image Credit: Stephen Au"
+                - paragraph [ref=e955]:
+                  - text: For 75,000 to 85,000 Capital One miles, you can fly one-way from the U.S. to Asia, including Taiwan. We love
+                  - link "EVA Air business class" [ref=e956] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-eva-air-business-class/
+                  - text: ", so this should be on your list."
+                - paragraph [ref=e957]: "Here’s a great example route:"
+                - list [ref=e958]:
+                  - listitem [ref=e959]:
+                    - strong [ref=e960]: Houston (IAH) to Taipei (TPE)
+                    - text: one-way in Royal Laurel business class on EVA Air for 80,000 Capital One miles, plus $55 in taxes and fees
+                  - listitem [ref=e961]:
+                    - strong [ref=e962]: Los Angeles (LAX) to Taipei (TPE)
+                    - text: one-way in Royal Laurel business class on EVA Air for 75,000 Capital One miles, plus $55 in taxes and fees
+                  - listitem [ref=e963]:
+                    - strong [ref=e964]: New York (JFK) to Taipei (TPE)
+                    - text: one-way in Royal Laurel business class on EVA Air for 80,000 Capital One miles, plus $55 in taxes and fees
+                - heading "26. Fly to Asia in First Class (110,000 Miles Transferred to Air Canada)" [level=3] [ref=e965]
+                - 'figure "ANA First class “the suite” on the 777. Image Credit: Ehsan Haque" [ref=e967]':
+                  - img "ANA first class suites 777" [ref=e969]
+                  - generic [ref=e970]: "ANA First class “the suite” on the 777. Image Credit: Ehsan Haque"
+                - paragraph [ref=e971]:
+                  - text: Flying to Asia in first class is also a great use of your miles! Traveling in
+                  - link "ANA first class" [ref=e972] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-ana-first-class/
+                  - text: would be our go-to option here.
+                - paragraph [ref=e973]: "These are some example routes you can take:"
+                - list [ref=e974]:
+                  - listitem [ref=e975]:
+                    - strong [ref=e976]: Chicago (ORD) to Tokyo (HND)
+                    - text: one-way in first class on ANA for 110,000 Capital One miles transferred to Aeroplan, plus $55 in taxes and fees
+                  - listitem [ref=e977]:
+                    - strong [ref=e978]: New York (JFK) to Tokyo (HND)
+                    - text: one-way in first class on ANA for 110,000 Capital One miles transferred to Aeroplan, plus $55 in taxes and fees
+                  - listitem [ref=e979]:
+                    - strong [ref=e980]: Washington, D.C. (IAD) to Tokyo (NRT)
+                    - text: one-way in first class on ANA for 110,000 Capital One miles transferred to Aeroplan, plus $55 in taxes and fees
+                - heading "27. Fly to South Korea in Business Class (75,000 Miles Transferred to Air Canada)" [level=3] [ref=e981]
+                - 'figure "Enjoy Asiana Airlines business class! Image Credit: Stephen Au" [ref=e983]':
+                  - img "Asiana Airlines business class" [ref=e985]
+                  - generic [ref=e986]: "Enjoy Asiana Airlines business class! Image Credit: Stephen Au"
+                - paragraph [ref=e987]:
+                  - text: Aeroplan lumps the South Pacific and Asia into 1 main region it calls “
+                  - strong [ref=e988]: the Pacific
+                  - text: .” These countries include Korea and China. After that, a distance-based award chart applies.
+                - paragraph [ref=e989]: "Here are some example routes you can take:"
+                - list [ref=e990]:
+                  - listitem [ref=e991]:
+                    - strong [ref=e992]: Los Angeles (LAX) to Seoul (ICN)
+                    - text: one-way in business class on Asiana Airlines for 75,000 Capital One miles transferred to Aeroplan, plus $55 in taxes and fees
+                  - listitem [ref=e993]:
+                    - strong [ref=e994]: New York (JFK) to Seoul (ICN)
+                    - text: one-way in business class on Asiana Airlines for 75,000 Capital One miles transferred to Aeroplan, plus $55 in taxes and fees
+                  - listitem [ref=e995]:
+                    - strong [ref=e996]: San Francisco (SFO) to Seoul (ICN)
+                    - text: one-way in business class on Asiana Airlines for 75,000 Capital One miles transferred to Aeroplan, plus $55 in taxes and fees
+                - heading "28. Fly to China Nonstop in First Class (110,000 Miles Transferred to Air Canada)" [level=3] [ref=e997]
+                - paragraph [ref=e998]:
+                  - text: You can also fly first class to
+                  - link "China" [ref=e999] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-china-with-points-and-miles/
+                  - text: nonstop using Aeroplan points.
+                - paragraph [ref=e1000]: "Here are example routes you can take:"
+                - list [ref=e1001]:
+                  - listitem [ref=e1002]:
+                    - strong [ref=e1003]: Los Angeles (LAX) to Beijing (PEK)
+                    - text: one-way in first class on Air China for 110,000 Capital One miles transferred to Aeroplan, plus $45 in taxes and fees
+                  - listitem [ref=e1004]:
+                    - strong [ref=e1005]: New York (JFK) to Beijing (PEK)
+                    - text: one-way in first class on Air China for 110,000 Capital One miles transferred to Aeroplan, plus $45 in taxes and fees
+                  - listitem [ref=e1006]:
+                    - strong [ref=e1007]: San Francisco (SFO) to Beijing (PEK)
+                    - text: one-way in first class on Air China for 110,000 Capital One miles transferred to Aeroplan, plus $45 in taxes and fees
+                - generic [ref=e1008]:
+                  - strong [ref=e1009]: »
+                  - strong [ref=e1010]: "Related:"
+                  - 'link "Air Canada Aeroplan: What Region Is Your Destination?" [ref=e1011] [cursor=pointer]':
+                    - /url: /travel/airlines/air-canada-aeroplan-region-definitions/
+                - paragraph [ref=e1012]:
+                  - generic [ref=e1013]:
+                    - strong [ref=e1014]: "Hot Tip:"
+                    - text: As China begins reopening, we’ll keep our eyes peeled for when Air China reinstates its first class-equipped aircraft.
+                - heading "29. Fly to Africa in Business Class (From 90,000 Miles Transferred to Air Canada)" [level=3] [ref=e1015]
+                - 'figure "Turkish Airlines Boeing 787-9 business class. Image Credit: Greg Stone" [ref=e1017]':
+                  - img "Turkish Airlines Boeing 787 9 Business Class Flatbed" [ref=e1019]
+                  - generic [ref=e1020]: "Turkish Airlines Boeing 787-9 business class. Image Credit: Greg Stone"
+                - paragraph [ref=e1021]: Aeroplan lumps Africa into its Atlantic zone, along with Europe, the Middle East, and South Asia. There is a ton of variety in which flights you can take.
+                - paragraph [ref=e1022]: Itineraries that are 6,001 to 8,000 miles in distance will cost 90,000 Aeroplan points in business class, while itineraries greater than 8,000 miles will cost 110,000 Aeroplan points in business class.
+                - paragraph [ref=e1023]:
+                  - text: Most will be operated by either Lufthansa or South African Airways. If you can, you should book
+                  - link "Turkish Airlines" [ref=e1024] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/turkish-airlines-review/
+                  - text: or SWISS instead of Lufthansa, which has mediocre business class seats.
+                - paragraph [ref=e1025]: "For as few as 90,000 Capital One miles, you can fly from the U.S. to this region. Here are a few great example routes you can take:"
+                - list [ref=e1026]:
+                  - listitem [ref=e1027]:
+                    - strong [ref=e1028]: New York (JFK) to Istanbul (IST) to Nairobi (NBO)
+                    - text: one-way in business class on Turkish Airlines for 90,000 Capital One miles transferred to Aeroplan, plus $105 in taxes and fees
+                  - listitem [ref=e1029]:
+                    - strong [ref=e1030]: San Francisco (SFO) to Frankfurt (FRA) to Johannesburg (JNB)
+                    - text: one-way in business class on Lufthansa for 90,000 Capital One miles transferred to Aeroplan, plus $105 in taxes and fees
+                - paragraph [ref=e1031]: Don’t forget you can add a stopover for an additional 5,000 Aeroplan points.
+                - heading "30. Book Emirates Business Class From the Central and West Coast U.S. to Dubai and Beyond (From 100,000 Miles Transferred to Air Canada)" [level=3] [ref=e1032]
+                - 'figure "Emirates A380 Business Class. Image Credit: Cherag Dubash" [ref=e1034]':
+                  - img "Emirates A380 Business Class Middle Row Companion Seats" [ref=e1036]
+                  - generic [ref=e1037]:
+                    - text: "Emirates A380 Business Class. Image Credit:"
+                    - link "Cherag Dubash" [ref=e1038] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/cherag/
+                - paragraph [ref=e1039]:
+                  - text: Although Capital One has a transfer partnership with Emirates, you’ll notice
+                  - strong [ref=e1040]: enormous fuel surcharges
+                  - text: tacked onto almost all flights if you book award travel through
+                  - link "Emirates Skywards" [ref=e1041] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/emirates-skywards-loyalty-program/
+                  - text: .
+                - paragraph [ref=e1042]:
+                  - text: Luckily,
+                  - link "Air Canada Aeroplan" [ref=e1043] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/air-canada-aeroplan-loyalty-program/
+                  - text: is one of the few frequent flyer programs with access to Emirates award availability. Although first class redemptions are available (and don’t include carrier-imposed surcharges), the redemption prices are high, so business class seems to be the sweet spot.
+                - paragraph [ref=e1044]: Business class redemptions from the U.S. to Dubai start at 100,000 Aeroplan points plus around $85 in taxes and fees. That’s compared to the $825 or so in taxes and fees you’d have to pay per person if you booked through Emirates Skywards.
+                - paragraph [ref=e1045]: "There is a catch, though: Air Canada Aeroplan doesn’t have access to the same level of award availability as Emirates. So be sure to search directly on Aeroplan’s website before transferring any miles."
+                - paragraph [ref=e1046]: "Here’s an example route:"
+                - list [ref=e1047]:
+                  - listitem [ref=e1048]:
+                    - strong [ref=e1049]: Houston (IAH) to Dubai (DXB) to Johannesburg (JNB)
+                    - text: one-way in Emirates business class for 100,000 to 134,500 Capital One miles transferred to Air Canada Aeroplan, plus around $85 in taxes and fees
+                - paragraph [ref=e1050]:
+                  - generic [ref=e1051]:
+                    - strong [ref=e1052]: "Hot Tip:"
+                    - text: Need help booking? Read our guide on
+                    - link "how to book Emirates business class using points or miles" [ref=e1053] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-emirates-business-class/
+                    - text: .
+                - heading "31. Book Oman Air Business Class to or From Muscat (From 45,000 Miles Transferred to Air Canada)" [level=3] [ref=e1054]
+                - 'figure "Oman Air B787-9 Forward Business Class Cabin. Image Credit: Cherag Dubash" [ref=e1056]':
+                  - img "Oman Air B787-9 Business Class Cabin - Cherag Dubash" [ref=e1058]
+                  - generic [ref=e1059]: "Oman Air B787-9 Forward Business Class Cabin. Image Credit: Cherag Dubash"
+                - paragraph [ref=e1060]:
+                  - text: Oman Air’s lovely business class Apex Suites are bookable using Capital One miles transferred to Air Canada Aeroplan. This happens to be one of the few ways you can
+                  - link "book Oman Air business class" [ref=e1061] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-oman-air-business-class-with-points/
+                  - text: .
+                - paragraph [ref=e1062]: "Oman Air’s hub is in Muscat (MCT), and you can book some of these great example routes:"
+                - list [ref=e1063]:
+                  - listitem [ref=e1064]:
+                    - strong [ref=e1065]: Milan (MXP) to Muscat (MCT) to Jakarta (CGK)
+                    - text: one-way in Oman Air business class for 80,000 Capital One miles transferred to Air Canada Aeroplan plus about $70 in taxes and fees
+                  - listitem [ref=e1066]:
+                    - strong [ref=e1067]: Muscat (MCT) to Bangkok (BKK)
+                    - text: one-way in Oman Air business class for 60,000 Capital One miles transferred to Air Canada Aeroplan plus about $65 in taxes and fees
+                  - listitem [ref=e1068]:
+                    - strong [ref=e1069]: Muscat (MCT) to Kuala Lumpur (KUL)
+                    - text: one-way in Oman Air business class for 60,000 Capital One miles transferred to Air Canada Aeroplan plus about $65 in taxes and fees
+                  - listitem [ref=e1070]:
+                    - strong [ref=e1071]: Muscat (MCT) to London (LHR)
+                    - text: one-way in Oman Air business class for 45,000 Capital One miles transferred to Air Canada Aeroplan plus about $65 in taxes and fees
+                - heading "32. Fly From Europe to Mauritius in Business Class (60,000 Miles Transferred to Air Canada)" [level=3] [ref=e1072]
+                - paragraph [ref=e1073]: Mauritius is one of the most beautiful tropical destinations in the whole world — this island nation off the coast of East Africa can be accessed via nonstop flights from Europe.
+                - paragraph [ref=e1074]: "Air Canada Aeroplan has a terrific partnership with Air Mauritius that allows you to book the carrier’s lie-flat business class seats with points and miles. Here are some great example routes you can book:"
+                - list [ref=e1075]:
+                  - listitem [ref=e1076]:
+                    - strong [ref=e1077]: London (LHR) to Mauritius (MRU)
+                    - text: one-way in Air Mauritius business class for 80,000 Capital One miles transferred to Air Canada Aeroplan plus around $345 in taxes and fees
+                  - listitem [ref=e1078]:
+                    - strong [ref=e1079]: Paris (CDG) to Mauritius (MRU)
+                    - text: one-way in Air Mauritius business class for 60,000 Capital One miles transferred to Air Canada Aeroplan plus around $150 in taxes and fees
+                - paragraph [ref=e1080]:
+                  - generic [ref=e1081]:
+                    - strong [ref=e1082]: "Hot Tip:"
+                    - text: Air Mauritius also flies nonstop to India, and business class tickets are bookable for 45,000 Aeroplan points plus around $45 in taxes and fees to cities including Delhi (DEL) and Mumbai (BOM).
+                - heading "33. Access Singapore Airlines Business Class (From 60,000 Miles Transferred to Air Canada)" [level=3] [ref=e1083]
+                - 'figure "Singapore Airlines Airbus A350 Business Class Seat. Image Credit: Greg Stone" [ref=e1085]':
+                  - img "Singapore Airlines Airbus A350 Business Class Seat" [ref=e1087]
+                  - generic [ref=e1088]: "Singapore Airlines Airbus A350 Business Class Seat. Image Credit: Greg Stone"
+                - paragraph [ref=e1089]:
+                  - text: Practically speaking, Singapore Airlines award availability for business class is accessible if you have miles in Singapore Airlines’ own
+                  - link "KrisFlyer frequent flyer program" [ref=e1090] [cursor=pointer]:
+                    - /url: /travel/airlines/singapore-airlines-krisflyer-loyalty-program/
+                  - text: . However, one of the newest improvements to Air Canada’s Aeroplan is excellent award availability for business class. The prices on Air Canada Aeroplan are often much better than KrisFlyer’s.
+                - paragraph [ref=e1091]: "Here are some great example U.S. routes you can book using Capital One miles transferred to Air Canada Aeroplan:"
+                - list [ref=e1092]:
+                  - listitem [ref=e1093]:
+                    - strong [ref=e1094]: Houston (IAH) to Manchester (MAN)
+                    - text: one-way in Singapore Airlines business class for 70,000 Capital One miles transferred to Air Canada Aeroplan plus around $35 in taxes and fees
+                  - listitem [ref=e1095]:
+                    - strong [ref=e1096]: Los Angeles (LAX) to Singapore (SIN)
+                    - text: one-way in Singapore Airlines business class for 87,500 Capital One miles transferred to Air Canada Aeroplan plus around $35 in taxes and fees
+                  - listitem [ref=e1097]:
+                    - strong [ref=e1098]: New York (JFK) to Singapore (SIN)
+                    - text: one-way in Singapore Airlines business class for 87,500 Capital One miles transferred to Air Canada Aeroplan plus around $35 in taxes and fees
+                  - listitem [ref=e1099]:
+                    - strong [ref=e1100]: San Francisco (SFO) to Singapore (SIN)
+                    - text: one-way in Singapore Airlines business class for 87,500 Capital One miles transferred to Air Canada Aeroplan plus around $35 in taxes and fees
+                  - listitem [ref=e1101]:
+                    - strong [ref=e1102]: Seattle (SEA) to Singapore (SIN)
+                    - text: one-way in Singapore Airlines business class for 87,500 Capital One miles transferred to Air Canada Aeroplan plus around $35 in taxes and fees
+                - heading "34. Flying Blue Promo Rewards (Air France-KLM)" [level=3] [ref=e1103]
+                - 'figure "The economy cabin featured a standard 3-4-3 configuration. Image Credit: Nick Ellis" [ref=e1105]':
+                  - img "Air France 777 Economy Cabin" [ref=e1107]
+                  - generic [ref=e1108]: "The economy cabin featured a standard 3-4-3 configuration. Image Credit: Nick Ellis"
+                - paragraph [ref=e1109]:
+                  - link "Flying Blue’s Promo Rewards" [ref=e1110] [cursor=pointer]:
+                    - /url: /news/flying-blue-promo-rewards/
+                  - text: get a lot of attention. Every month,
+                  - link "Air France" [ref=e1111] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/air-france-review/
+                  - text: /KLM releases a small list of routes available for booking with Flying Blue miles for 25% to 50% off!
+                - paragraph [ref=e1112]:
+                  - text: Most routes are economy, but some are
+                  - strong [ref=e1113]: in business class
+                  - text: . Of course, availability is first come, first served, so be on the lookout for these.
+                - heading "35. Fly to Hawaii in Economy on Delta Air Lines (18,000 Miles Transferred to Air France)" [level=3] [ref=e1114]
+                - 'figure "Delta Airbus A220 economy class. Image Credit: Greg Stone" [ref=e1116]':
+                  - img "Delta Airbus A220 Economy Class Seat with Tray Table Down" [ref=e1118]
+                  - generic [ref=e1119]: "Delta Airbus A220 economy class. Image Credit: Greg Stone"
+                - paragraph [ref=e1120]:
+                  - text: If you want to
+                  - link "fly to Hawaii" [ref=e1121] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-hawaii-with-points/
+                  - text: for some of the cheapest mileage costs, look at Air France-KLM Flying Blue. You can fly on Delta for as few as 18,000 Capital One miles transferred to Flying Blue.
+                - paragraph [ref=e1122]: "Here’s a great example route:"
+                - list [ref=e1123]:
+                  - listitem [ref=e1124]:
+                    - strong [ref=e1125]: Los Angeles (LAX) to Honolulu (HNL)
+                    - text: one-way in economy for 18,000 Capital One miles transferred to Air France, plus $14.92 in taxes and fees
+                - heading "36. Fly to Europe in Business Class on SkyTeam (From 60,000 Miles Transferred to Air France-KLM)" [level=3] [ref=e1126]
+                - 'figure "Air France Boeing 777-300ER business class. Image Credit: Nick Ellis" [ref=e1128]':
+                  - img "Air France 777 Business Class Business Class Cabin From Front" [ref=e1130]
+                  - generic [ref=e1131]:
+                    - text: "Air France Boeing 777-300ER business class. Image Credit:"
+                    - link "Nick Ellis" [ref=e1132] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/nick/
+                - paragraph [ref=e1133]:
+                  - text: We’re big fans of the
+                  - link "Flying Blue loyalty program" [ref=e1134] [cursor=pointer]:
+                    - /url: /travel/airlines/flying-blue-air-france-klm-loyalty-program/
+                  - text: that Air France-KLM offers. For many connecting flights between the U.S. and Europe, you could need as few as 60,000 Flying Blue miles one-way.
+                - paragraph [ref=e1135]: For example, if you tried to fly from Los Angeles to Rome via Paris in Air France business class, it would cost you as few as 68,000 miles.
+                - paragraph [ref=e1136]: "Here are a couple of great example redemptions:"
+                - list [ref=e1137]:
+                  - listitem [ref=e1138]:
+                    - strong [ref=e1139]: Los Angeles (LAX) to Paris (CDG) to Rome (FCO)
+                    - text: one-way in
+                    - link "business class on Air France" [ref=e1140] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-air-france-business-class/
+                    - text: for 60,000 Capital One miles transferred to Air France-KLM Flying Blue, plus $270 or so in taxes and fees
+                  - listitem [ref=e1141]:
+                    - strong [ref=e1142]: San Francisco (SFO) to Paris (CDG) to Athens (ATH)
+                    - text: one-way in business class on Air France for 60,000 Capital One miles transferred to Air France-KLM Flying Blue, plus around $270 in taxes and fees
+                - 'heading "37. East Coast to Dubai on Emirates: Economy for 45,000 Miles or Business for 104,500 Miles (Qantas)" [level=3] [ref=e1143]':
+                  - strong [ref=e1144]: "37. East Coast to Dubai on Emirates:"
+                  - text: Economy for 45,000 Miles or Business for 104,500 Miles (Qantas)
+                - 'figure "Emirates A380 business class. Image Credit: Cherag Dubash" [ref=e1146]':
+                  - link "Emirates A380 Business Class Aisle Seat" [ref=e1147] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/07/Emirates_Inaugural_Worlds_Shortest_A380_Business_Class_Aisle_Seat_Cherag_Dubash.jpg?auto=webp&disable=upscale
+                    - img "Emirates A380 Business Class Aisle Seat" [ref=e1149]
+                  - generic [ref=e1150]: "Emirates A380 business class. Image Credit: Cherag Dubash"
+                - paragraph [ref=e1151]: Emirates has one of the best economy products and a fantastic business class. It is currently not in an alliance and only partners with a handful of airlines, which makes these award redemptions a little more challenging to snag.
+                - paragraph [ref=e1152]:
+                  - text: There are several East Coast cities in this mileage range that
+                  - link "fly directly to Dubai (DXB)" [ref=e1153] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-dubai-with-points/
+                  - text: ", including Boston (BOS), New York (JFK), and Toronto (YYZ)."
+                - paragraph [ref=e1154]:
+                  - text: If you’re based out of the East Coast of the U.S. or Toronto, you might get better award redemption pricing by using
+                  - link "Qantas Frequent Flyer" [ref=e1155] [cursor=pointer]:
+                    - /url: /travel/airlines/qantas-airways-frequent-flyer-loyalty-program/
+                  - text: ", as opposed to Emirates Skywards or Air Canada Aeroplan."
+                - heading "38. Book ANA First Class (From 72,500 Miles Transferred to Virgin Red)" [level=3] [ref=e1156]
+                - 'figure "ANA first class. Image Credit: Stella Shon" [ref=e1158]':
+                  - img "ANA First Class Empty Window Seat" [ref=e1160]
+                  - generic [ref=e1161]:
+                    - text: "ANA first class. Image Credit:"
+                    - link "Stella Shon" [ref=e1162] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/stella/
+                - paragraph [ref=e1163]:
+                  - text: One of the best secrets about Capital One Miles is its ability to transfer to
+                  - link "Virgin Red" [ref=e1164] [cursor=pointer]:
+                    - /url: /news/capital-one-adds-virgin-red-as-transfer-partner/
+                  - text: . Virgin Red is Virgin’s rewards program, and if you link your Virgin Red account with your
+                  - link "Virgin Atlantic Flying Club" [ref=e1165] [cursor=pointer]:
+                    - /url: /travel/airlines/virgin-atlantic-flying-club-loyalty-program/
+                  - text: account, 1,000 Virgin Red points will be identical to 1,000 Virgin Atlantic Flying Club points.
+                - paragraph [ref=e1166]: So, by transferring miles to Virgin Red and linking your Virgin accounts together, you can access Flying Club redemptions!
+                - paragraph [ref=e1167]:
+                  - text: And
+                  - strong [ref=e1168]: one of the absolute best ways to use miles worldwide is to book ANA first class
+                  - text: ". Here are some fantastic ways you can book first-class tickets worth $10,000 or more:"
+                - list [ref=e1169]:
+                  - listitem [ref=e1170]:
+                    - strong [ref=e1171]: Chicago (ORD) to Tokyo-Haneda/Narita (HND/NRT)
+                    - text: one-way in ANA first class for 85,000 Capital One miles transferred to Virgin Red, plus about $365 in taxes and fees
+                  - listitem [ref=e1172]:
+                    - strong [ref=e1173]: Los Angeles (LAX) to Tokyo-Haneda/Narita (HND/NRT)
+                    - text: one-way in ANA first class for 72,500 Capital One miles transferred to Virgin Red, plus about $365 in taxes and fees
+                  - listitem [ref=e1174]:
+                    - strong [ref=e1175]: New York (JFK) to Tokyo-Haneda/Narita (HND/NRT)
+                    - text: one-way in ANA first class for 85,000 Capital One miles transferred to Virgin Red, plus about $365 in taxes and fees
+                - heading "39. Book ANA Business Class to Tokyo From North America From 45,000 Miles (Transferred to Virgin Red)" [level=3] [ref=e1176]
+                - 'figure "ANA Boeing 787-8 business class. Image Credit: Ryan Smith" [ref=e1178]':
+                  - img "ANA B787 8 business class seats in front cabin" [ref=e1180]
+                  - generic [ref=e1181]: "ANA Boeing 787-8 business class. Image Credit: Ryan Smith"
+                - paragraph [ref=e1182]: Finding award availability in ANA first class is very, very challenging. So, redeeming miles for ANA business class through Virgin Atlantic Flying Club can be useful.
+                - paragraph [ref=e1183]: You can transfer Capital One miles to Virgin Red, link your Virgin Red and Virgin Atlantic Flying Club accounts together, and book one-way business class between Tokyo and the West Coast of North America on ANA for 45,000 Virgin points per person.
+                - paragraph [ref=e1184]: "Here are some great example routes to consider booking:"
+                - list [ref=e1185]:
+                  - listitem [ref=e1186]:
+                    - strong [ref=e1187]: Houston (IAH) – Tokyo (NRT)
+                    - text: one-way in ANA business class for 47,500 Capital One miles transferred to Virgin Red plus about $365 in taxes and fees
+                  - listitem [ref=e1188]:
+                    - strong [ref=e1189]: San Francisco (SFO) – Tokyo (NRT)
+                    - text: one-way in ANA business class for 45,000 Capital One miles transferred to Virgin Red plus about $365 in taxes and fees
+                  - listitem [ref=e1190]:
+                    - strong [ref=e1191]: Washington, D.C. (IAD) – Tokyo (NRT)
+                    - text: one-way in ANA business class for 47,500 Capital One miles transferred to Virgin Red plus about $365 in taxes and fees
+                - heading "40. Book Turkish Airlines Business Class to Türkiye and Beyond More Easily (From 140,000 Miles Transferred to Turkish Airlines)" [level=3] [ref=e1192]
+                - 'figure "Turkish Airlines 787-9 business class. Image Credit: Greg Stone" [ref=e1194]':
+                  - img "Turkish Airlines Business Class Seat 7A Boeing 787 9" [ref=e1196]
+                  - generic [ref=e1197]: "Turkish Airlines 787-9 business class. Image Credit: Greg Stone"
+                - paragraph [ref=e1198]:
+                  - text: If you’ve procrastinated booking business class to Europe, the Middle East, or Africa, you’ll be pleased to find more abundant, albeit also more expensive, award availability by booking
+                  - link "Turkish Airlines business class" [ref=e1199] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-turkish-airlines-business-class/
+                  - text: through Turkish Airlines’ own Miles&Smiles loyalty program.
+                - paragraph [ref=e1200]:
+                  - text: Capital One Miles is a 1:1 transfer partner with
+                  - link "Turkish Airlines Miles&Smiles" [ref=e1201] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-redeem-turkish-airlines-miles-smiles/
+                  - text: ", and the prices you’ll pay will depend on the award availability. But the point is that this redemption option is made available to you if you have a bunch of miles and are willing to redeem more miles for guaranteed business class."
+                - paragraph [ref=e1202]: "Here are a couple of example redemptions. Keep in mind that these prices aren’t the lowest possible prices. Instead, they’re the prices we’ve found to be the most common:"
+                - list [ref=e1203]:
+                  - listitem [ref=e1204]:
+                    - strong [ref=e1205]: Miami (MIA) to Istanbul (IST) to Johannesburg (JNB)
+                    - text: one-way in Turkish Airlines business class from 140,000 Capital One miles transferred to Turkish Airlines Miles&Smiles plus around $449 in taxes and fees per person
+                  - listitem [ref=e1206]:
+                    - strong [ref=e1207]: Seattle (SEA) to Istanbul (IST) to Tel Aviv (TLV)
+                    - text: one-way in Turkish Airlines business class for 93,000 Capital One miles transferred to Turkish Airlines Miles&Smiles plus around $449 in taxes and fees per person
+                - heading "41. Book Qatar Airways Qsuites to Doha (From 70,000 Miles Transferred to British Airways)" [level=3] [ref=e1208]
+                - 'figure "Qatar Airways Qsuites are a sight to see. Image Credit: Greg Stone" [ref=e1210]':
+                  - img "Qatar Airways Boeing 777 Qsuite Business Class Cabin" [ref=e1212]
+                  - generic [ref=e1213]: "Qatar Airways Qsuites are a sight to see. Image Credit: Greg Stone"
+                - paragraph [ref=e1214]:
+                  - link "Qatar Airways Qsuites" [ref=e1215] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-qatar-qsuites-with-points-and-miles/
+                  - text: is one of the snazziest business class experiences there is, and you can book these flights from the U.S. to Doha at an exceptional value using Capital One miles.
+                - paragraph [ref=e1216]:
+                  - text: To be specific, you can redeem 70,000 Capital One miles for a one-way flight between the U.S. and Doha in Qatar Airways Qsuites when transferred to
+                  - link "Qatar Airways Privileges Club" [ref=e1217] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/qatar-airways-privilege-club-loyalty-program/
+                  - text: or
+                  - link "The British Airways Club" [ref=e1218] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-british-airways-avios/
+                  - text: . Taxes and fees will be in the ballpark of $105, which is terrific!
+                - paragraph [ref=e1219]: "Here are some great example routes to consider:"
+                - list [ref=e1220]:
+                  - listitem [ref=e1221]:
+                    - strong [ref=e1222]: Atlanta (ATL) to Doha (DOH)
+                    - text: one-way in Qatar Airways Qsuites for 70,000 Avios, plus about $105 in taxes and fees per person
+                  - listitem [ref=e1223]:
+                    - strong [ref=e1224]: Chicago (ORD) to Doha (DOH)
+                    - text: one-way in Qatar Airways Qsuites for 70,000 Avios, plus about $105 in taxes and fees per person
+                  - listitem [ref=e1225]:
+                    - strong [ref=e1226]: Los Angeles (LAX) to Doha (DOH)
+                    - text: one-way in Qatar Airways Qsuites for 70,000 Avios, plus about $105 in taxes and fees per person
+                - heading "Other Transfer Partners" [level=2] [ref=e1227]
+                - paragraph [ref=e1228]: Other transfer partners are technically options here, including Qantas, Finnair, etc. But, there’s not as much use for these transfer partners because their redemption costs are high or it’s incredibly difficult to use their frequent flyer programs.
+                - heading "How To Transfer Your Capital One Miles to Transfer Partners" [level=2] [ref=e1229]
+                - paragraph [ref=e1230]:
+                  - strong [ref=e1231]: "Step 1:"
+                  - text: Navigate to the
+                  - link "Capital One website" [ref=e1232] [cursor=pointer]:
+                    - /url: https://verified.capitalone.com/sic-ui/#/esignin
+                  - text: and log in.
+                - 'figure "Capital One login screen. Image Credit: Capital One" [ref=e1234]':
+                  - link "Capital One Log-In Screen" [ref=e1235] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/12/Capital-One-Log-In-Screen.png?auto=webp&disable=upscale
+                    - img "Capital One Log-In Screen" [ref=e1237]
+                  - generic [ref=e1238]: "Capital One login screen. Image Credit: Capital One"
+                - paragraph [ref=e1239]:
+                  - strong [ref=e1240]: "Step 2:"
+                  - text: Click
+                  - strong [ref=e1241]: Transfer Miles
+                  - text: on the right side of your screen. Type in your
+                  - strong [ref=e1242]: frequent flyer number
+                  - text: .
+                - 'figure "Image Credit: Capital One" [ref=e1244]':
+                  - link "Capital One Transfer Miles" [ref=e1245] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/12/Capital-One-Transfer-Miles.png?auto=webp&disable=upscale
+                    - img "Capital One Transfer Miles" [ref=e1247]
+                  - generic [ref=e1248]: "Image Credit: Capital One"
+                - paragraph [ref=e1249]:
+                  - strong [ref=e1250]: "Step 3:"
+                  - text: Type in the
+                  - strong [ref=e1251]: number of miles
+                  - text: to transfer. Click
+                  - strong [ref=e1252]: Complete Transfer
+                  - text: .
+                - 'figure "Image Credit: Capital One" [ref=e1254]':
+                  - link "Capital One Transfer Miles" [ref=e1255] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/12/Capital-One-Transfer-Miles-2.png?auto=webp&disable=upscale
+                    - img "Capital One Transfer Miles" [ref=e1257]
+                  - generic [ref=e1258]: "Image Credit: Capital One"
+                - paragraph [ref=e1259]:
+                  - strong [ref=e1260]: "Step 4:"
+                  - text: Receive confirmation. You can download the confirmation code for your records.
+                - paragraph [ref=e1262]: Advertisement
+                - 'figure "Image Credit: Capital One" [ref=e1264]':
+                  - link "Capital One Transfer Miles Success" [ref=e1265] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/12/Capital-One-Transfer-Miles-Success.png?auto=webp&disable=upscale
+                    - img "Capital One Transfer Miles Success" [ref=e1267]
+                  - generic [ref=e1268]: "Image Credit: Capital One"
+                - heading "Final Thoughts" [level=2] [ref=e1269]
+                - paragraph [ref=e1270]:
+                  - text: There are tons of ways to redeem Capital One miles for maximum value. Please keep the transfer ratio in mind when you transfer your miles since it’s not always a 1:1 ratio, like with
+                  - link "Chase Ultimate Rewards" [ref=e1271] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/chase-ultimate-rewards-review/
+                  - text: .
+                - paragraph [ref=e1272]: We mainly focused on Avianca Lifemiles, Etihad Guest, Air France-KLM Flying Blue, and Air Canada Aeroplan because these airlines provide consistent value with their miles and points.
+                - paragraph [ref=e1273]: Good luck redeeming your Capital One miles, and be sure to let us know your best redemptions in the comments below!
+              - generic [ref=e1274]:
+                - generic [ref=e1275]:
+                  - separator [ref=e1276]
+                  - text: "Featured Image Credit:"
+                  - link "Cherag Dubash" [ref=e1277] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/cherag/
+                - generic [ref=e1278]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1279]
+                  - group [ref=e1280]:
+                    - generic "What are Capital One miles?" [ref=e1281] [cursor=pointer]
+                    - paragraph [ref=e1286]: Capital One has a miles program called Capital One Miles, and the miles you earn, redeem, and transfer are Capital One miles.
+                  - group [ref=e1287]:
+                    - generic "What are Capital One miles worth?" [ref=e1288] [cursor=pointer]
+                    - generic [ref=e1289]:
+                      - paragraph [ref=e1290]:
+                        - text: The
+                        - link "value of a Capital One mile" [ref=e1291] [cursor=pointer]:
+                          - /url: /credit-cards/capital-one-miles-faqs/
+                        - text: depends on where you are redeeming your miles. You can get a fixed value of 1 cent per point.
+                      - paragraph [ref=e1292]: Airline partners of Capital One return a value up to 5 to 10 cents per miles. That’s like getting a $100 worth of airfare for the equivalent of about 1,000 to 2,000 Capital One miles.
+                      - paragraph [ref=e1293]: If you transfer your miles to ALL Accor Live Limitless, you will get a flat value of €40 (around $50) per 2,000 miles, which is a value of 1.2 cents per mile with the 2:1 transfer ratio.
+                      - paragraph [ref=e1294]: If you transfer your miles to Wyndham Rewards, your value will likely hover around 0.7 to 0.9 cents per mile.
+                  - group [ref=e1295]:
+                    - generic "How many Capital One miles do I need to go to Hawaii?" [ref=e1296] [cursor=pointer]
+                    - paragraph [ref=e1298]: Under the right conditions, you could one-way to Hawaii from the U.S. for as few as 18,000 Capital One miles transferred to Air France/KLM Flying Blue.
+                  - group [ref=e1299]:
+                    - generic "How many Capital One miles do I need to go to Europe?" [ref=e1300] [cursor=pointer]
+                    - generic [ref=e1302]: Fly one-way to Europe from the U.S. for as few as 12,500 Capital One miles transferred to Air France/KLM Flying Blue if you book economy Promo Rewards. Without Promo Rewards, it will more likely cost around 25,000 Capital One miles transferred to Air France/KLM Flying Blue.
+                  - group [ref=e1303]:
+                    - generic "Are Capital One miles taxable?" [ref=e1304] [cursor=pointer]
+                    - paragraph [ref=e1309]: The short answer is no. The IRS and tax courts decided, alongside Capital One, to treat frequent flyer miles or mileage awards as nontaxable.
+                  - group [ref=e1310]:
+                    - generic "How do I transfer Capital One miles to airlines?" [ref=e1311] [cursor=pointer]
+                    - generic [ref=e1312]:
+                      - paragraph [ref=e1313]: "To transfer your Capital One miles to partners:"
+                      - list [ref=e1314]:
+                        - listitem [ref=e1315]: Log in to Capital One.
+                        - listitem [ref=e1316]:
+                          - text: Click on
+                          - strong [ref=e1317]: Rewards Miles
+                          - text: just underneath your miles balance.
+                        - listitem [ref=e1318]:
+                          - text: Click the blue
+                          - strong [ref=e1319]: Transfer Miles
+                          - text: button on the right.
+                        - listitem [ref=e1320]: Type in your frequent flyer number for the program you want to transfer to.
+                        - listitem [ref=e1321]:
+                          - text: Type the number of miles you want to transfer (the default is
+                          - emphasis [ref=e1322]: all
+                          - text: your miles — don’t make that mistake!).
+                        - listitem [ref=e1323]:
+                          - text: Click
+                          - strong [ref=e1324]: Complete Transfer.
+                      - paragraph [ref=e1328]:
+                        - emphasis [ref=e1329]: "Note: Miles transfers are irreversible! Once you do it, you can’t go back!"
+                  - group [ref=e1330]:
+                    - generic "How can you earn more Capital One miles?" [ref=e1331] [cursor=pointer]
+                    - paragraph [ref=e1333]:
+                      - text: There are tons of ways to
+                      - link "earn Capital One miles" [ref=e1334] [cursor=pointer]:
+                        - /url: /credit-cards/best-ways-to-earn-capital-one-miles-and-rewards/
+                      - text: ", but the big one is through spending on your Capital One miles-earning credit card."
+                  - group [ref=e1335]:
+                    - generic "When do Capital One miles post in your account?" [ref=e1336] [cursor=pointer]
+                    - generic [ref=e1337]:
+                      - paragraph [ref=e1338]: You will generally see them pending when your statement closes, but allow up to 1 to 2 billing cycles to post.
+                      - paragraph [ref=e1339]: If you’re in a hurry, call Capital One and speak to a customer representative to convert pending miles into posted miles. This is generally a “your mileage may vary” situation, but you might get lucky.
+                      - paragraph [ref=e1340]: If you’re desperate, you can also try to escalate to a supervisor.
+                - complementary [ref=e1341]:
+                  - paragraph [ref=e1343]:
+                    - generic [ref=e1344]: The information regarding the Capital One VentureOne Rewards Credit Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                - group "Was this page helpful?" [ref=e1346]:
+                  - paragraph [ref=e1347]: Was this page helpful?
+                  - generic [ref=e1348]:
+                    - button "Yes" [ref=e1349] [cursor=pointer]
+                    - button "No" [ref=e1350] [cursor=pointer]
+                - generic [ref=e1351]:
+                  - figure [ref=e1353]:
+                    - img "Stephen Au's image" [ref=e1354]
+                  - generic [ref=e1355]:
+                    - heading "About Stephen Au" [level=2] [ref=e1356]:
+                      - text: About
+                      - link "Stephen Au" [ref=e1357] [cursor=pointer]:
+                        - /url: /author/stephen/
+                    - paragraph [ref=e1358]: Stephen is an established voice in the credit card space, with over 70 to his name. His work has been in publications like The Washington Post, and his Au Points and Awards Consulting Services is used by hundreds of clients.
+                    - list [ref=e1360]:
+                      - listitem [ref=e1361]:
+                        - link "Instagram icon" [ref=e1362] [cursor=pointer]:
+                          - /url: https://www.instagram.com/aupacs/
+                          - img "Instagram icon" [ref=e1363]
+                      - listitem [ref=e1364]:
+                        - link "LinkedIn icon" [ref=e1365] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/austephen/
+                          - img "LinkedIn icon" [ref=e1366]
+                      - listitem [ref=e1367]:
+                        - link "email icon" [ref=e1368] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1369]
+                - generic [ref=e1371]:
+                  - generic [ref=e1372]:
+                    - paragraph [ref=e1373]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1374]: ™
+                    - generic [ref=e1375]:
+                      - paragraph [ref=e1376]:
+                        - text: Get the
+                        - strong [ref=e1377]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1378]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1379]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1380]:
+                      - textbox "First Name" [ref=e1381]
+                      - textbox "Email" [ref=e1382]
+                      - button "Join Now" [disabled] [ref=e1383]
+                    - paragraph [ref=e1385]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1386] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1387] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1388] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1390]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1392]
+                - generic [ref=e1394]:
+                  - paragraph [ref=e1395]: We Recommend
+                  - generic [ref=e1396]:
+                    - generic [ref=e1397]:
+                      - link "Platinum Card® from American Express" [ref=e1398] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1399]
+                      - link "Terms Apply / Rates & Fees" [ref=e1400] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1401] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1402]
+                        - text: Apply Now
+                    - generic [ref=e1405]:
+                      - paragraph [ref=e1406]:
+                        - link "Platinum Card® from American Express" [ref=e1407] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1408]:
+                            - text: Platinum Card
+                            - superscript [ref=e1409]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1411]:
+                        - generic [ref=e1412]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1413] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1414]:
+                        - listitem [ref=e1415]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1416]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1417]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1418]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1419]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1420]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1421]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1422] [cursor=pointer]
+            - complementary [ref=e1424]:
+              - generic [ref=e1425]:
+                - generic [ref=e1427]:
+                  - paragraph [ref=e1428]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1429] [cursor=pointer]
+                  - generic [ref=e1430]:
+                    - generic [ref=e1433]:
+                      - generic [ref=e1434]:
+                        - generic [ref=e1435]:
+                          - img [ref=e1436]
+                          - generic [ref=e1438]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1439] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1440]
+                      - generic [ref=e1441]:
+                        - paragraph [ref=e1442]:
+                          - link "Platinum Card® from American Express" [ref=e1443] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1444]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1445] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1446]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1448] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1451]:
+                      - generic [ref=e1452]:
+                        - generic [ref=e1453]:
+                          - img [ref=e1454]
+                          - generic [ref=e1456]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1457] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1458]
+                      - generic [ref=e1459]:
+                        - paragraph [ref=e1460]:
+                          - link "American Express® Gold Card" [ref=e1461] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1462]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1463] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1464]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1466] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1469]:
+                      - generic [ref=e1470]:
+                        - generic [ref=e1471]:
+                          - img [ref=e1472]
+                          - generic [ref=e1474]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1475] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1476]
+                      - generic [ref=e1477]:
+                        - paragraph [ref=e1478]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1479] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1480]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1481] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1482]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1484] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/24489/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1487]:
+                      - generic [ref=e1488]:
+                        - generic [ref=e1489]:
+                          - img [ref=e1490]
+                          - generic [ref=e1492]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1493] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/24489/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1494]
+                      - generic [ref=e1495]:
+                        - paragraph [ref=e1496]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1497] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/24489/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1498]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1499] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/24489/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1500]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1502] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/24489/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1504] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1507]: Advertisement
+      - generic [ref=e1509]:
+        - paragraph [ref=e1510]: Related Posts
+        - generic [ref=e1511]:
+          - generic [ref=e1512]:
+            - link [ref=e1513] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-emirates-business-class/
+              - figure [ref=e1514]:
+                - img "Best Ways To Book Emirates Business Class Using Points [Step by Step]" [ref=e1516]
+            - link "Best Ways To Book Emirates Business Class Using Points [Step by Step]" [ref=e1517] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-emirates-business-class/
+          - generic [ref=e1518]:
+            - link [ref=e1519] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-etihad-business-class/
+              - figure [ref=e1520]:
+                - img "Best Ways To Book Etihad Business Class With Points and Miles [Step-by-Step]" [ref=e1522]
+            - link "Best Ways To Book Etihad Business Class With Points and Miles [Step-by-Step]" [ref=e1523] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-etihad-business-class/
+          - generic [ref=e1524]:
+            - link [ref=e1525] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-qantas-business-class/
+              - figure [ref=e1526]:
+                - img "Best Ways To Book Qantas Business Class With Points [Step by Step]" [ref=e1528]
+            - link "Best Ways To Book Qantas Business Class With Points [Step by Step]" [ref=e1529] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-qantas-business-class/
+          - generic [ref=e1530]:
+            - link [ref=e1531] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-ana-business-class/
+              - figure [ref=e1532]:
+                - img "Best Ways To Book ANA Business Class Using Points [Step by Step]" [ref=e1534]
+            - link "Best Ways To Book ANA Business Class Using Points [Step by Step]" [ref=e1535] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-ana-business-class/
+    - contentinfo [ref=e1536]:
+      - img [ref=e1537]
+      - img [ref=e1556]
+      - generic [ref=e1575]:
+        - generic [ref=e1576]:
+          - img [ref=e1578]
+          - generic [ref=e1583]:
+            - generic [ref=e1584]:
+              - paragraph [ref=e1585]: Upgrade your travel experience
+              - list [ref=e1586]:
+                - listitem [ref=e1587]:
+                  - link [ref=e1588] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1589]:
+                      - img "Facebook" [ref=e1590]
+                - listitem [ref=e1591]:
+                  - link [ref=e1592] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1593]:
+                      - img "Twitter" [ref=e1594]
+                - listitem [ref=e1595]:
+                  - link [ref=e1596] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1597]:
+                      - img "Instagram" [ref=e1598]
+                - listitem [ref=e1599]:
+                  - link [ref=e1600] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1601]:
+                      - img "Pinterest" [ref=e1602]
+                - listitem [ref=e1603]:
+                  - link [ref=e1604] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1605]:
+                      - img "Linkedin" [ref=e1606]
+                - listitem [ref=e1607]:
+                  - link [ref=e1608] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1609]:
+                      - img "Youtube" [ref=e1610]
+            - generic [ref=e1612]:
+              - list [ref=e1613]:
+                - listitem [ref=e1614]:
+                  - link "News" [ref=e1615] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1616]:
+                  - link "Credit Cards" [ref=e1617] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1618]:
+                  - link "Business" [ref=e1619] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1620]:
+                - listitem [ref=e1621]:
+                  - link "Finance" [ref=e1622] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1623]:
+                  - link "Travel Guides" [ref=e1624] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1625]:
+                  - link "Air Travel" [ref=e1626] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1627]:
+                - listitem [ref=e1628]:
+                  - link "Hotel Guides" [ref=e1629] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1630]:
+                  - link "Beginners" [ref=e1631] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1632]:
+                  - link "About" [ref=e1633] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1634]:
+                - listitem [ref=e1635]:
+                  - link "Podcast" [ref=e1636] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1637]:
+                  - link "Jobs & Careers" [ref=e1638] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1639]:
+                  - link "Contact Us" [ref=e1640] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1641]:
+          - paragraph [ref=e1642]:
+            - link "Privacy Policy" [ref=e1643] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1644] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1645] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1646] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1647] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1648] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1689] [cursor=pointer]
+          - paragraph [ref=e1649]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1650]:
+          - link "DMCA.com Protection Status" [ref=e1651] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1652]
+          - img "Comodo Secure Seal" [ref=e1654]
+        - generic [ref=e1655]:
+          - generic [ref=e1656]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1657]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1658]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1659]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1660]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1661] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1662]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1663]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1665]:
+    - generic [ref=e1666]:
+      - generic [ref=e1667]:
+        - button "close banner" [ref=e1668] [cursor=pointer]:
+          - img "close banner" [ref=e1669]
+        - img "company logo" [ref=e1671]
+      - generic [ref=e1672]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1674]
+        - generic [ref=e1675]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1676] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1677] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1679]:
+        - button "Manage" [ref=e1680] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1681] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1682] [cursor=pointer]
+    - generic [ref=e1684]:
+      - generic [ref=e1685]: "Powered by:"
+      - link "trustarc" [ref=e1686] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1687]

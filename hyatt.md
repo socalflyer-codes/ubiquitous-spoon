@@ -1,0 +1,1615 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Hotels" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/hotels/
+            - heading "24 Best Ways To Redeem World of Hyatt Points for Maximum Value" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Spencer Howard's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e1547]: Spencer Howard
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: February 4, 2026, 12:16pm CST
+                - generic [ref=e57]:
+                  - text: "Edited by:"
+                  - generic [ref=e58]: Keri Stooksbury
+          - figure [ref=e59]:
+            - img "24 Best Ways To Redeem World of Hyatt Points for Maximum Value" [ref=e61]
+        - generic [ref=e62]:
+          - group [ref=e1548]:
+            - generic "Jump to Section" [ref=e1549] [cursor=pointer]
+          - paragraph [ref=e66]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e67] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e68]:
+            - generic [ref=e70]:
+              - generic [ref=e71]:
+                - generic [ref=e72]:
+                  - heading "Key Takeaways" [level=2] [ref=e74]
+                  - list [ref=e76]:
+                    - listitem [ref=e77]: Hyatt points can be redeemed for free nights at hotels, including luxury properties like Park Hyatt, or to upgrade a paid stay.
+                    - listitem [ref=e78]: The World of Hyatt program has an award chart with the points cost for award stays vary depending on the category of the hotel and when you’d like to book.
+                    - listitem [ref=e79]: Some great redemption opportunities include Park Hyatt Chennai, Hyatt Regency Kathmandu, Park Hyatt Mendoza, and Hyatt Regency Casablanca.
+                - paragraph [ref=e80]:
+                  - text: While Hyatt doesn’t have as many properties as Marriott or IHG, it
+                  - strong [ref=e81]: does
+                  - text: have some amazing hotels and a competitive award chart. It is also expanding aggressively, and its portfolio is growing quicker than ever before. Like other hotel brands, Hyatt’s chart is split into categories that determine the number of points required for an award stay.
+                - paragraph [ref=e82]: Let’s take a look at some of the best Hyatt award stay options around the world and other great ways to use your World of Hyatt points.
+                - heading "How To Earn World of Hyatt Points" [level=2] [ref=e83]
+                - paragraph [ref=e84]:
+                  - text: There are several ways to
+                  - link "earn tons of World of Hyatt points" [ref=e85] [cursor=pointer]:
+                    - /url: /travel/hotels/how-to-earn-hyatt-gold-points/
+                  - text: ", but the quickest and easiest is through the use of credit cards. Fortunately, you have a number of credit card options from which to choose."
+                - heading "World of Hyatt Credit Cards" [level=3] [ref=e86]
+                - paragraph [ref=e87]:
+                  - text: You can earn World of Hyatt points directly with
+                  - link "The World of Hyatt Credit Card" [ref=e88] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/chase-hyatt-credit-card/
+                  - text: and
+                  - link "World of Hyatt Business Credit Card" [ref=e89] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/world-of-hyatt-business-card/
+                  - text: to give your World of Hyatt account a boost.
+                - generic [ref=e91]:
+                  - generic [ref=e92]:
+                    - link "The World of Hyatt Credit Card" [ref=e93] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseHyattRewards/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - img "The World of Hyatt Credit Card" [ref=e94]
+                    - link "Terms Apply / Rates & Fees" [ref=e95] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseHyattRewardsTCCRF/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e96]: Terms Apply / Rates & Fees
+                    - generic [ref=e97]:
+                      - generic [ref=e98]:
+                        - img "Star rating icon" [ref=e101]
+                        - img "Star rating icon" [ref=e104]
+                        - img "Star rating icon" [ref=e107]
+                        - img "Star rating icon" [ref=e110]
+                        - generic [ref=e111]:
+                          - img "Star rating icon" [ref=e113]
+                          - img "Star rating icon" [ref=e115]
+                      - generic [ref=e116]:
+                        - generic [ref=e117]: U.P. Rating
+                        - img [ref=e120]:
+                          - img [ref=e121]
+                    - link "Apply Now" [ref=e124] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseHyattRewards/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - img [ref=e125]
+                      - text: Apply Now
+                    - generic [ref=e128]: (at Chase's secure site)
+                  - generic [ref=e129]:
+                    - generic [ref=e131]:
+                      - link "The World of Hyatt Credit Card" [ref=e133] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-hyatt-credit-card/
+                      - text: The World of Hyatt card offers a fast track to Hyatt elite status, an annual free night, and up to 9x points per $1 on Hyatt stays.
+                    - generic [ref=e134]:
+                      - generic [ref=e135]:
+                        - generic [ref=e136]:
+                          - generic [ref=e137]: Welcome Offer
+                          - img [ref=e140]:
+                            - img [ref=e141]
+                        - generic [ref=e144]: Up to 60,000 points
+                      - generic [ref=e145]:
+                        - generic [ref=e147]: "UP's Offer Valuation*:"
+                        - generic [ref=e148]: $900
+                    - generic [ref=e149]:
+                      - generic [ref=e150]:
+                        - generic [ref=e152]: Annual Fee
+                        - generic [ref=e153]: $95
+                      - generic [ref=e154]:
+                        - generic [ref=e156]: APR
+                        - generic [ref=e157]: 19.24% - 27.74% Variable
+                      - generic [ref=e158]:
+                        - generic [ref=e159]:
+                          - generic [ref=e160]: Credit Recommended
+                          - img [ref=e163]:
+                            - img [ref=e164]
+                        - generic [ref=e167]: Good to Excellent (670-850)
+                    - generic [ref=e168]:
+                      - group [ref=e169]:
+                        - generic "Why We Like This Card" [ref=e170] [cursor=pointer]
+                      - group [ref=e171]:
+                        - generic "Pros & Cons" [ref=e172] [cursor=pointer]
+                      - group [ref=e173]:
+                        - generic "Card Highlights" [ref=e174] [cursor=pointer]
+                - generic [ref=e176]:
+                  - generic [ref=e177]:
+                    - img [ref=e178]
+                    - generic [ref=e180]: LIMITED TIME OFFER
+                  - generic [ref=e181]:
+                    - link "World of Hyatt Business Credit Card" [ref=e182] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/WorldofHyattBusiness/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - img "World of Hyatt Business Credit Card" [ref=e183]
+                    - link "Terms Apply / Rates & Fees" [ref=e184] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/WorldofHyattBusinessTCCRF/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e185]: Terms Apply / Rates & Fees
+                    - generic [ref=e186]:
+                      - generic [ref=e187]:
+                        - img "Star rating icon" [ref=e190]
+                        - img "Star rating icon" [ref=e193]
+                        - img "Star rating icon" [ref=e196]
+                        - img "Star rating icon" [ref=e199]
+                        - generic [ref=e200]:
+                          - img "Star rating icon" [ref=e202]
+                          - img "Star rating icon" [ref=e203]
+                      - generic [ref=e204]:
+                        - generic [ref=e205]: U.P. Rating
+                        - img [ref=e208]:
+                          - img [ref=e209]
+                    - link "Apply Now" [ref=e212] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/WorldofHyattBusiness/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - img [ref=e213]
+                      - text: Apply Now
+                    - generic [ref=e216]: (at Chase's secure site)
+                  - generic [ref=e217]:
+                    - generic [ref=e219]:
+                      - link "World of Hyatt Business Credit Card" [ref=e221] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/world-of-hyatt-business-card/
+                      - text: The World of Hyatt Business card provides a solid option for business travelers that are looking to put their expenses on a small business card.
+                    - generic [ref=e222]:
+                      - generic [ref=e223]:
+                        - generic [ref=e224]:
+                          - generic [ref=e225]: Welcome Offer
+                          - img [ref=e228]:
+                            - img [ref=e229]
+                        - generic [ref=e232]: 80,000 points
+                      - generic [ref=e233]:
+                        - generic [ref=e235]: "UP's Offer Valuation*:"
+                        - generic [ref=e236]: Up to $1,200
+                    - generic [ref=e237]:
+                      - generic [ref=e238]:
+                        - generic [ref=e240]: Annual Fee
+                        - generic [ref=e241]: $199
+                      - generic [ref=e242]:
+                        - generic [ref=e244]: APR
+                        - generic [ref=e245]: 19.24% - 27.74% Variable
+                      - generic [ref=e246]:
+                        - generic [ref=e247]:
+                          - generic [ref=e248]: Credit Recommended
+                          - img [ref=e251]:
+                            - img [ref=e252]
+                        - generic [ref=e255]: Good to Excellent
+                    - generic [ref=e256]:
+                      - group [ref=e257]:
+                        - generic "Why We Like This Card" [ref=e258] [cursor=pointer]
+                      - group [ref=e259]:
+                        - generic "Pros & Cons" [ref=e260] [cursor=pointer]
+                      - group [ref=e261]:
+                        - generic "Card Highlights" [ref=e262] [cursor=pointer]
+                - heading "Annual Free Night Certificate" [level=4] [ref=e263]
+                - paragraph [ref=e264]:
+                  - text: One of the
+                  - link "best perks" [ref=e265] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/chase-hyatt-credit-card/benefits/
+                  - text: of the World of Hyatt card is the
+                  - link "annual free night certificate" [ref=e266] [cursor=pointer]:
+                    - /url: /travel/hotels/best-ways-to-use-hyatt-category-free-night-certificate/
+                  - text: that can be used at Category 1 through 4 hotel properties. If you’re smart about how you use this certificate, the value you’ll get will make this card a keeper.
+                - heading "Bilt Rewards" [level=3] [ref=e267]
+                - paragraph [ref=e268]:
+                  - text: Bilt Rewards is a great program if you want to rack up World of Hyatt points. That’s because Bilt Points (
+                  - link "offer terms" [ref=e269] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/BiltOfferTerms/TE/6772/dissn.1775548838764.7073346957.1/
+                  - text: ) transfer 1:1 to World of Hyatt, almost instantly. Bilt Points can be earned in many ways, including with any three of the
+                  - link "Bilt Cards" [ref=e270] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/news/bilt-new-credit-card-details/
+                  - text: .
+                - heading "Chase Ultimate Rewards" [level=3] [ref=e271]
+                - paragraph [ref=e272]:
+                  - text: Our regular readers know by now that we’re huge fans of collecting flexible points, like
+                  - link "Chase Ultimate Rewards" [ref=e273] [cursor=pointer]:
+                    - /url: /credit-cards/chase-ultimate-rewards-review/
+                  - text: . And so, for continued earning of World of Hyatt points, your
+                  - strong [ref=e274]: best bet
+                  - text: is to
+                  - link "earn Ultimate Rewards points" [ref=e275] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-chase-ultimate-rewards-points/
+                  - text: that can be transferred to Hyatt.
+                - paragraph [ref=e276]: With several cards that each have great bonus categories, you’ll be able to earn points quickly!
+                - heading "Recommended Chase Cards (Personal)" [level=4] [ref=e277]
+                - generic [ref=e279]:
+                  - generic [ref=e280]:
+                    - img [ref=e281]
+                    - generic [ref=e283]: NEW OFFER
+                  - generic [ref=e284]:
+                    - link "Chase Sapphire Preferred® Card" [ref=e285] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Preferred® Card" [ref=e286]
+                    - link "Terms Apply / Rates & Fees" [ref=e287] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e288]: Terms Apply / Rates & Fees
+                    - generic [ref=e289]:
+                      - generic [ref=e290]:
+                        - img "Star rating icon" [ref=e293]
+                        - img "Star rating icon" [ref=e296]
+                        - img "Star rating icon" [ref=e299]
+                        - img "Star rating icon" [ref=e302]
+                        - generic [ref=e303]:
+                          - img "Star rating icon" [ref=e305]
+                          - img "Star rating icon" [ref=e307]
+                      - generic [ref=e308]:
+                        - generic [ref=e309]: U.P. Rating
+                        - img [ref=e312]:
+                          - img [ref=e313]
+                    - link "Apply Now" [ref=e316] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - img [ref=e317]
+                      - text: Apply Now
+                    - generic [ref=e320]: (at Chase's secure site)
+                  - generic [ref=e321]:
+                    - generic [ref=e323]:
+                      - link "Chase Sapphire Preferred® Card" [ref=e325] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                        - text: Chase Sapphire Preferred
+                        - superscript [ref=e326]: ®
+                        - text: Card
+                      - text: A fantastic travel card with a great welcome offer, good benefits, and perks for a moderate annual fee.
+                    - generic [ref=e327]:
+                      - generic [ref=e328]:
+                        - generic [ref=e329]:
+                          - generic [ref=e330]: Welcome Offer
+                          - img [ref=e333]:
+                            - img [ref=e334]
+                        - generic [ref=e337]: 60,000 75,000 points
+                      - generic [ref=e338]:
+                        - generic [ref=e340]: "UP's Offer Valuation*:"
+                        - generic [ref=e341]: $1,500
+                    - generic [ref=e342]:
+                      - generic [ref=e343]:
+                        - generic [ref=e345]: Annual Fee
+                        - generic [ref=e346]: $95
+                      - generic [ref=e347]:
+                        - generic [ref=e349]: APR
+                        - generic [ref=e350]: 19.24% - 27.49% Variable
+                      - generic [ref=e351]:
+                        - generic [ref=e352]:
+                          - generic [ref=e353]: Credit Recommended
+                          - img [ref=e356]:
+                            - img [ref=e357]
+                        - generic [ref=e360]: Good to Excellent
+                    - generic [ref=e361]:
+                      - group [ref=e362]:
+                        - generic "Why We Like This Card" [ref=e363] [cursor=pointer]
+                      - group [ref=e364]:
+                        - generic "Pros & Cons" [ref=e365] [cursor=pointer]
+                      - group [ref=e366]:
+                        - generic "Card Highlights" [ref=e367] [cursor=pointer]
+                - generic [ref=e369]:
+                  - generic [ref=e370]:
+                    - img [ref=e371]
+                    - generic [ref=e373]: NEW OFFER
+                  - generic [ref=e374]:
+                    - link "Chase Sapphire Reserve®" [ref=e375] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Reserve®" [ref=e376]
+                    - link "Terms Apply / Rates & Fees" [ref=e377] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserveTCCRF/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e378]: Terms Apply / Rates & Fees
+                    - generic [ref=e379]:
+                      - generic [ref=e380]:
+                        - img "Star rating icon" [ref=e383]
+                        - img "Star rating icon" [ref=e386]
+                        - img "Star rating icon" [ref=e389]
+                        - img "Star rating icon" [ref=e392]
+                        - generic [ref=e393]:
+                          - img "Star rating icon" [ref=e395]
+                          - img "Star rating icon" [ref=e397]
+                      - generic [ref=e398]:
+                        - generic [ref=e399]: U.P. Rating
+                        - img [ref=e402]:
+                          - img [ref=e403]
+                    - link "Apply Now" [ref=e406] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - img [ref=e407]
+                      - text: Apply Now
+                    - generic [ref=e410]: (at Chase's secure site)
+                  - generic [ref=e411]:
+                    - generic [ref=e413]:
+                      - link "Chase Sapphire Reserve®" [ref=e415] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-reserve/
+                        - text: Chase Sapphire Reserve
+                        - superscript [ref=e416]: ®
+                      - text: A top player in the high-end premium travel credit card space that earns points on travel and dining while offering top luxury perks.
+                    - generic [ref=e417]:
+                      - generic [ref=e418]:
+                        - generic [ref=e419]:
+                          - generic [ref=e420]: Welcome Offer
+                          - img [ref=e423]:
+                            - img [ref=e424]
+                        - generic [ref=e427]: 125,000 points
+                      - generic [ref=e428]:
+                        - generic [ref=e430]: "UP's Offer Valuation*:"
+                        - generic [ref=e431]: $2,500
+                    - generic [ref=e432]:
+                      - generic [ref=e433]:
+                        - generic [ref=e435]: Annual Fee
+                        - generic [ref=e436]: $795
+                      - generic [ref=e437]:
+                        - generic [ref=e439]: APR
+                        - generic [ref=e440]: 19.49% - 27.99% Variable
+                      - generic [ref=e441]:
+                        - generic [ref=e442]:
+                          - generic [ref=e443]: Credit Recommended
+                          - img [ref=e446]:
+                            - img [ref=e447]
+                        - generic [ref=e450]: Excellent
+                    - generic [ref=e451]:
+                      - group [ref=e452]:
+                        - generic "Why We Like This Card" [ref=e453] [cursor=pointer]
+                      - group [ref=e454]:
+                        - generic "Pros & Cons" [ref=e455] [cursor=pointer]
+                      - group [ref=e456]:
+                        - generic "Card Highlights" [ref=e457] [cursor=pointer]
+                - generic [ref=e459]:
+                  - generic [ref=e460]:
+                    - img [ref=e461]
+                    - generic [ref=e463]: LIMITED TIME OFFER
+                  - generic [ref=e464]:
+                    - link "Chase Freedom Unlimited®" [ref=e465] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseFreedomUnlimited/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - img "Chase Freedom Unlimited®" [ref=e466]
+                    - link "Terms Apply / Rates & Fees" [ref=e467] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseFreedomUnlimitedTCCRF/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e468]: Terms Apply / Rates & Fees
+                    - generic [ref=e469]:
+                      - generic [ref=e470]:
+                        - img "Star rating icon" [ref=e473]
+                        - img "Star rating icon" [ref=e476]
+                        - img "Star rating icon" [ref=e479]
+                        - img "Star rating icon" [ref=e482]
+                        - generic [ref=e483]:
+                          - img "Star rating icon" [ref=e485]
+                          - img "Star rating icon" [ref=e487]
+                      - generic [ref=e488]:
+                        - generic [ref=e489]: U.P. Rating
+                        - img [ref=e492]:
+                          - img [ref=e493]
+                    - link "Apply Now" [ref=e496] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseFreedomUnlimited/TRD/6772/dissn.1775548838764.7073346957.1/
+                      - img [ref=e497]
+                      - text: Apply Now
+                    - generic [ref=e500]: (at Chase's secure site)
+                  - generic [ref=e501]:
+                    - generic [ref=e503]:
+                      - link "Chase Freedom Unlimited®" [ref=e505] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-freedom-unlimited-credit-card/
+                        - text: Chase Freedom Unlimited
+                        - superscript [ref=e506]: ®
+                      - text: This all-purpose cash-back card offers great bonus categories, including bonus points for every purchase you make!
+                    - generic [ref=e508]:
+                      - generic [ref=e509]:
+                        - generic [ref=e510]: Welcome Offer
+                        - img [ref=e513]:
+                          - img [ref=e514]
+                      - generic [ref=e517]: $250
+                    - generic [ref=e518]:
+                      - generic [ref=e519]:
+                        - generic [ref=e521]: Annual Fee
+                        - generic [ref=e522]: $0
+                      - generic [ref=e523]:
+                        - generic [ref=e525]: APR
+                        - generic [ref=e526]: 0% Intro APR for 15 months from account opening on purchases and balance transfers, then a variable APR of 18.24% - 27.74%.
+                      - generic [ref=e527]:
+                        - generic [ref=e528]:
+                          - generic [ref=e529]: Credit Recommended
+                          - img [ref=e532]:
+                            - img [ref=e533]
+                        - generic [ref=e536]: Good to Excellent
+                    - generic [ref=e537]:
+                      - group [ref=e538]:
+                        - generic "Why We Like This Card" [ref=e539] [cursor=pointer]
+                      - group [ref=e540]:
+                        - generic "Pros & Cons" [ref=e541] [cursor=pointer]
+                      - group [ref=e542]:
+                        - generic "Card Highlights" [ref=e543] [cursor=pointer]
+                - generic [ref=e545]:
+                  - generic [ref=e546]:
+                    - img "Chase Freedom Flex®" [ref=e547]
+                    - generic [ref=e548]:
+                      - generic [ref=e549]:
+                        - img "Star rating icon" [ref=e552]
+                        - img "Star rating icon" [ref=e555]
+                        - img "Star rating icon" [ref=e558]
+                        - img "Star rating icon" [ref=e561]
+                        - generic [ref=e562]:
+                          - img "Star rating icon" [ref=e564]
+                          - img "Star rating icon" [ref=e566]
+                      - generic [ref=e567]:
+                        - generic [ref=e568]: U.P. Rating
+                        - img [ref=e571]:
+                          - img [ref=e572]
+                  - generic [ref=e575]:
+                    - generic [ref=e577]:
+                      - link "Chase Freedom Flex®" [ref=e579] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-freedom-flex-card/
+                        - text: Chase Freedom Flex
+                        - superscript [ref=e580]: ®
+                      - text: The Freedom Flex card is an excellent no-annual-fee card that still earns big with 5% cash-back on travel and other bonus categories.
+                    - generic [ref=e582]:
+                      - generic [ref=e583]:
+                        - generic [ref=e584]: Welcome Offer
+                        - img [ref=e587]:
+                          - img [ref=e588]
+                      - generic [ref=e591]: $200
+                    - generic [ref=e592]:
+                      - generic [ref=e593]:
+                        - generic [ref=e595]: Annual Fee
+                        - generic [ref=e596]: $0
+                      - generic [ref=e597]:
+                        - generic [ref=e599]: APR
+                        - generic [ref=e600]: 0% Intro APR for 15 months from account opening on purchases and balance transfers, then a variable APR of 18.24% - 27.74%
+                      - generic [ref=e601]:
+                        - generic [ref=e602]:
+                          - generic [ref=e603]: Credit Recommended
+                          - img [ref=e606]:
+                            - img [ref=e607]
+                        - generic [ref=e610]: Good to Excellent
+                    - generic [ref=e611]:
+                      - group [ref=e612]:
+                        - generic "Why We Like This Card" [ref=e613] [cursor=pointer]
+                      - group [ref=e614]:
+                        - generic "Pros & Cons" [ref=e615] [cursor=pointer]
+                      - group [ref=e616]:
+                        - generic "Card Highlights" [ref=e617] [cursor=pointer]
+                - paragraph [ref=e618]:
+                  - strong [ref=e619]: Business Owner?
+                  - text: Check out our article on the best
+                  - link "Chase business cards" [ref=e620] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-chase-business-credit-cards/
+                  - text: that earn Ultimate Rewards points.
+                - heading "Hyatt Brands and Categories" [level=2] [ref=e621]
+                - 'figure "Hyatt has numerous brands, ranging from the most budget properties like Hyatt Place and Hyatt House to ultra-luxurious choices like Park Hyatt, Thompson, Alila, and Andaz. Image Credit: Hyatt" [ref=e623]':
+                  - img "Hyatt brands" [ref=e625]
+                  - generic [ref=e626]: "Hyatt has numerous brands, ranging from the most budget properties like Hyatt Place and Hyatt House to ultra-luxurious choices like Park Hyatt, Thompson, Alila, and Andaz. Image Credit: Hyatt"
+                - paragraph [ref=e627]:
+                  - text: Whatever your travel style, Hyatt has you covered. If you’re into
+                  - link "luxury," [ref=e628] [cursor=pointer]:
+                    - /url: /travel/hotels/best-hyatt-luxury-hotels-to-book-with-points/
+                  - text: you can try one of the amazing
+                  - link "Park Hyatt properties" [ref=e629] [cursor=pointer]:
+                    - /url: /travel/hotels/best-park-hyatt-hotels/
+                  - text: or one of the great higher-end brands like Grand Hyatt.
+                - paragraph [ref=e630]:
+                  - text: For those who like the feel of a boutique hotel, Hyatt’s
+                  - link "Andaz properties" [ref=e631] [cursor=pointer]:
+                    - /url: /travel/hotels/best-andaz-hotels/
+                  - text: and
+                  - link "The Unbound Collection by Hyatt" [ref=e632] [cursor=pointer]:
+                    - /url: /travel/hotels/best-the-unbound-collection-by-hyatt-hotels/
+                  - text: will be ideal for you.
+                - paragraph [ref=e633]:
+                  - text: The number of World of Hyatt points required for an award stay is determined by the category of the specific hotel property. There are standard rates for booking rooms. You can also book club rooms at
+                  - link "Grand Hyatt" [ref=e634] [cursor=pointer]:
+                    - /url: /travel/hotels/best-grand-hyatt-hotels/
+                  - text: and Hyatt Regency properties, which allow access to their club lounges.
+                - table [ref=e637]:
+                  - rowgroup [ref=e638]:
+                    - row "World of Hyatt Award Chart" [ref=e639]:
+                      - cell "World of Hyatt Award Chart" [ref=e640]:
+                        - paragraph [ref=e642]:
+                          - strong [ref=e643]: World of Hyatt Award Chart
+                    - row "Hotel Category Off-Peak Points Per Night Standard Points Per Night Peak Points Per Night" [ref=e644]:
+                      - cell "Hotel Category" [ref=e645]:
+                        - paragraph [ref=e646]: Hotel Category
+                      - cell "Off-Peak Points Per Night" [ref=e647]:
+                        - paragraph [ref=e648]: Off-Peak Points Per Night
+                      - cell "Standard Points Per Night" [ref=e649]:
+                        - paragraph [ref=e650]: Standard Points Per Night
+                      - cell "Peak Points Per Night" [ref=e651]:
+                        - paragraph [ref=e652]: Peak
+                        - paragraph [ref=e653]: Points Per Night
+                    - row "1 3,500 5,000 6,500" [ref=e654]:
+                      - cell "1" [ref=e655]:
+                        - paragraph [ref=e656]: "1"
+                      - cell "3,500" [ref=e657]:
+                        - paragraph [ref=e658]: 3,500
+                      - cell "5,000" [ref=e659]:
+                        - paragraph [ref=e660]: 5,000
+                      - cell "6,500" [ref=e661]:
+                        - paragraph [ref=e662]: 6,500
+                    - row "2 6,500 8,000 9,500" [ref=e663]:
+                      - cell "2" [ref=e664]:
+                        - paragraph [ref=e665]: "2"
+                      - cell "6,500" [ref=e666]:
+                        - paragraph [ref=e667]: 6,500
+                      - cell "8,000" [ref=e668]:
+                        - paragraph [ref=e669]: 8,000
+                      - cell "9,500" [ref=e670]:
+                        - paragraph [ref=e671]: 9,500
+                    - row "3 9,000 12,000 15,000" [ref=e672]:
+                      - cell "3" [ref=e673]:
+                        - paragraph [ref=e674]: "3"
+                      - cell "9,000" [ref=e675]:
+                        - paragraph [ref=e676]: 9,000
+                      - cell "12,000" [ref=e677]:
+                        - paragraph [ref=e678]: 12,000
+                      - cell "15,000" [ref=e679]:
+                        - paragraph [ref=e680]: 15,000
+                    - row "4 12,000 15,000 18,000" [ref=e681]:
+                      - cell "4" [ref=e682]:
+                        - paragraph [ref=e683]: "4"
+                      - cell "12,000" [ref=e684]:
+                        - paragraph [ref=e685]: 12,000
+                      - cell "15,000" [ref=e686]:
+                        - paragraph [ref=e687]: 15,000
+                      - cell "18,000" [ref=e688]:
+                        - paragraph [ref=e689]: 18,000
+                    - row "5 17,000 20,000 23,000" [ref=e690]:
+                      - cell "5" [ref=e691]:
+                        - paragraph [ref=e692]: "5"
+                      - cell "17,000" [ref=e693]:
+                        - paragraph [ref=e694]: 17,000
+                      - cell "20,000" [ref=e695]:
+                        - paragraph [ref=e696]: 20,000
+                      - cell "23,000" [ref=e697]:
+                        - paragraph [ref=e698]: 23,000
+                    - row "6 21,000 25,000 29,000" [ref=e699]:
+                      - cell "6" [ref=e700]:
+                        - paragraph [ref=e701]: "6"
+                      - cell "21,000" [ref=e702]:
+                        - paragraph [ref=e703]: 21,000
+                      - cell "25,000" [ref=e704]:
+                        - paragraph [ref=e705]: 25,000
+                      - cell "29,000" [ref=e706]:
+                        - paragraph [ref=e707]: 29,000
+                    - row "7 25,000 30,000 35,000" [ref=e708]:
+                      - cell "7" [ref=e709]:
+                        - paragraph [ref=e710]: "7"
+                      - cell "25,000" [ref=e711]:
+                        - paragraph [ref=e712]: 25,000
+                      - cell "30,000" [ref=e713]:
+                        - paragraph [ref=e714]: 30,000
+                      - cell "35,000" [ref=e715]:
+                        - paragraph [ref=e716]: 35,000
+                    - row "8 35,000 40,000 45,000" [ref=e717]:
+                      - cell "8" [ref=e718]:
+                        - paragraph [ref=e719]: "8"
+                      - cell "35,000" [ref=e720]:
+                        - paragraph [ref=e721]: 35,000
+                      - cell "40,000" [ref=e722]:
+                        - paragraph [ref=e723]: 40,000
+                      - cell "45,000" [ref=e724]:
+                        - paragraph [ref=e725]: 45,000
+                - paragraph [ref=e726]:
+                  - text: New to the award chart are Premium Suites, defined in the World of Hyatt
+                  - link "terms and conditions" [ref=e727] [cursor=pointer]:
+                    - /url: https://help.hyatt.com/en/hyatt-terms/world-of-hyatt-terms.html?icamp=woh_termsallinclusive
+                  - text: as “each participating hotel’s or resort’s suite category immediately above Standard Suites, but excludes any Specialty, Premier, Presidential or Diplomatic Suite or similar suite categories (each as designated by the applicable hotel or resort).”
+                - paragraph [ref=e729]: Advertisement
+                - heading "24 Amazing World of Hyatt Award Redemptions" [level=2] [ref=e730]
+                - paragraph [ref=e731]: Now that you have a bit of an understanding of the best ways to earn World of Hyatt points and how to use them, let’s dive into some amazing redemption opportunities.
+                - heading "1. Park Hyatt Chennai (India)" [level=3] [ref=e732]:
+                  - text: "1."
+                  - link "Park Hyatt Chennai" [ref=e733] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/india/park-hyatt-chennai/cheph
+                  - text: (India)
+                - 'figure "The rare Category 1 Park Hyatt in Chennai, India. Image Credit: Hyatt" [ref=e735]':
+                  - link "Park Hyatt Chennai" [ref=e736] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/07/Park-Hyatt-Chennai.png?auto=webp&disable=upscale
+                    - img "Park Hyatt Chennai" [ref=e738]
+                  - generic [ref=e739]: "The rare Category 1 Park Hyatt in Chennai, India. Image Credit: Hyatt"
+                - paragraph [ref=e740]: "Though Park Hyatt is a luxury brand, you can stay at the Park Hyatt Chennai from only 6,500 World of Hyatt points per night. Don’t let this Category 2 property fool you: It has a reputation for great service and ranks highly on Tripadvisor."
+                - paragraph [ref=e741]:
+                  - text: While Chennai (and all cities in India for that matter) are very spread out, the Park Hyatt Chennai is an ideal location for exploring nearby attractions. It’s the
+                  - strong [ref=e742]: cheapest Park Hyatt in the Hyatt system
+                  - text: ", so you certainly won’t find a better value when it comes to spending points and receiving luxury."
+                - generic [ref=e743]:
+                  - strong [ref=e744]: »
+                  - strong [ref=e745]: "Related:"
+                  - link "The Best Ways To Fly to India With Points and Miles [Step by Step]" [ref=e746] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-india-with-points/
+                - heading "2. Hyatt Regency Kathmandu (Nepal)" [level=3] [ref=e747]:
+                  - text: "2."
+                  - link "Hyatt Regency Kathmandu" [ref=e748] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/nepal/hyatt-regency-kathmandu/kathm
+                  - text: (Nepal)
+                - 'figure "If you fancy a trip up Mount Everest, you’ll first want to stop at the Hyatt Regency Kathmandu for some rest and relaxation. Image Credit: Hyatt" [ref=e750]':
+                  - img "Hyatt Regency Kathmandu" [ref=e752]
+                  - generic [ref=e753]: "If you fancy a trip up Mount Everest, you’ll first want to stop at the Hyatt Regency Kathmandu for some rest and relaxation. Image Credit: Hyatt"
+                - paragraph [ref=e754]:
+                  - text: One of the best hotels in Nepal, the Hyatt Regency Kathmandu is another great Category 1 property, with rooms starting at 3,500 points. You can even book a club room for only 7,000 points per night, which will give you club lounge access and
+                  - strong [ref=e755]: free continental breakfast
+                  - text: .
+                - paragraph [ref=e756]: The hotel is located in the northeast corner of the main city, so is a bit far removed from the hustle and bustle, but the bright side is it’s located within a short drive of Tribhuvan International Airport (KTM).
+                - heading "3. Hyatt Regency Manila, City of Dreams (Philippines)" [level=3] [ref=e757]:
+                  - text: "3."
+                  - link "Hyatt Regency Manila, City of Dreams" [ref=e758] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/philippines/hyatt-regency-manila-city-of-dreams/mnlhy
+                  - text: (Philippines)
+                - 'figure "Set in the midst of a bustling city, the Hyatt Regency Manila, City of Dreams is the perfect place to spend the night. Image Credit: Hyatt" [ref=e760]':
+                  - img "Hyatt City of Dreams Manila" [ref=e762]
+                  - generic [ref=e763]: "Set in the midst of a bustling city, the Hyatt Regency Manila, City of Dreams is the perfect place to spend the night. Image Credit: Hyatt"
+                - paragraph [ref=e764]:
+                  - text: If you’re traveling through Manila, the Hyatt Regency Manila, City of Dreams is a Category 3 property that has a great club lounge, a couple of pools, plenty of shopping, and even a
+                  - strong [ref=e765]: casino.
+                  - text: It’s also close to Ninoy Aquino International Airport (MNL) if you have an early flight the following day.
+                - paragraph [ref=e766]: Located along Manila Bay, the hotel is located alongside most other major chain hotels in the city, though these hotels sit just outside the city center. Redemptions start at 9,000 points per night.
+                - heading "4. Park Hyatt Mendoza (Argentina)" [level=3] [ref=e767]:
+                  - text: "4."
+                  - link "Park Hyatt Mendoza" [ref=e768] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/argentina/park-hyatt-mendoza-hotel-casino-and-spa/menph
+                  - text: (Argentina)
+                - 'figure "Enjoy an amazing Park Hyatt and some delectable Argentinian wine. Image Credit: Nick Ellis" [ref=e770]':
+                  - img "Park Hyatt Mendoza Front Exterior" [ref=e772]
+                  - generic [ref=e773]:
+                    - text: "Enjoy an amazing Park Hyatt and some delectable Argentinian wine. Image Credit:"
+                    - link "Nick Ellis" [ref=e774] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/nick/
+                - paragraph [ref=e775]: Another low-category luxury property is the Category 3 Park Hyatt Mendoza, which starts at 9,000 World of Hyatt points per night. Located in the Mendoza wine region, this is a great place to stay if you are a budding wine connoisseur.
+                - paragraph [ref=e776]: This high-end hotel is set within a lush park in the center of the busy city. The Plaza Independencia is home to the city’s art museum and creates a somewhat tranquil space for this beautiful hotel.
+                - generic [ref=e777]:
+                  - strong [ref=e778]: »
+                  - strong [ref=e779]: "Related:"
+                  - link "Park Hyatt Mendoza Hotel, Casino & Spa in Argentina [In-depth Review]" [ref=e780] [cursor=pointer]:
+                    - /url: /travel/hotels/park-hyatt-mendoza-argentina-review/
+                - heading "5. Hyatt Regency Casablanca (Morocco)" [level=3] [ref=e781]:
+                  - text: "5."
+                  - link "Hyatt Regency Casablanca" [ref=e782] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/morocco/hyatt-regency-casablanca/casab
+                  - text: (Morocco)
+                - 'figure "The Hyatt Regency Casablanca is a great use of a complimentary Category 1-4 certificate. Image Credit: Ryan Smith" [ref=e784]':
+                  - img "Hyatt Regency Casablanca pool lounge chairs" [ref=e786]
+                  - generic [ref=e787]:
+                    - text: "The Hyatt Regency Casablanca is a great use of a complimentary Category 1-4 certificate. Image Credit:"
+                    - link "Ryan Smith" [ref=e788] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/ryansmith/
+                - paragraph [ref=e789]:
+                  - text: Located in the heart of the city, the Category 3
+                  - link "Hyatt Regency Casablanca" [ref=e790] [cursor=pointer]:
+                    - /url: /travel/hotels/hyatt-regency-casablanca-review/
+                  - text: is a great use of 9,000 World of Hyatt points per night. From here, you can easily access one of the oldest open-air markets in the city or head to the sea.
+                - paragraph [ref=e791]:
+                  - text: Depending on which room you have at the hotel, you’ll have a view of either the United Nations Square, the Atlantic Ocean, or the famous
+                  - link "Hassan II Mosque" [ref=e792] [cursor=pointer]:
+                    - /url: https://www.fmh2.ma/en/node
+                  - text: .
+                - paragraph [ref=e793]:
+                  - generic [ref=e794]:
+                    - strong [ref=e795]: "Hot Tip:"
+                    - text: Learn about the best ways to
+                    - link "fly to the Middle East and North Africa with points and miles" [ref=e796] [cursor=pointer]:
+                      - /url: /travel/best-ways-to-fly-to-middle-east-and-north-africa-with-points/
+                    - text: ", including tips for Mohammed V International Airport (CMN) in Casablanca."
+                - heading "6. Park Hyatt Siem Reap (Cambodia)" [level=3] [ref=e797]:
+                  - text: "6."
+                  - link "Park Hyatt Siem Reap" [ref=e798] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/cambodia/park-hyatt-siem-reap/repph
+                  - text: (Cambodia)
+                - 'figure "Relax at the Park Hyatt Siem Reap. Image Credit: Hyatt" [ref=e800]':
+                  - img "Park Hyatt Siem Reap pool" [ref=e802]
+                  - generic [ref=e803]: "Relax at the Park Hyatt Siem Reap. Image Credit: Hyatt"
+                - paragraph [ref=e804]: The Park Hyatt Siem Reap receives rave reviews for good reason. From the lobby (known as the “Living Room”) to the beautiful pool to a great happy hour, this property really shines. Beyond that, the service is top-notch.
+                - paragraph [ref=e805]:
+                  - text: This is one of the best hotels in the city and is located only about 6 kilometers away from
+                  - link "Angkor Wat" [ref=e806] [cursor=pointer]:
+                    - /url: https://www.angkorenterprise.gov.kh/
+                  - text: ", the famous temple that tourists from around the world visit."
+                - paragraph [ref=e807]:
+                  - text: This Category 3 is available for redemptions from 9,000 points a night. If you’re willing to splurge,
+                  - strong [ref=e808]: some rooms even have a private pool
+                  - text: ", a perfect way to end a warm day of seeing the sites in the city."
+                - heading "7. Hyatt Regency Danang Resort and Spa (Vietnam)" [level=3] [ref=e809]:
+                  - text: "7."
+                  - link "Hyatt Regency Danang Resort and Spa" [ref=e810] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/vietnam/hyatt-regency-danang-resort-and-spa/danhr
+                  - text: (Vietnam)
+                - 'figure "Enjoy amazing views from the Hyatt Regency Danang Resort & Spa. Image Credit: Hyatt" [ref=e812]':
+                  - link "Hyatt Regency Danang" [ref=e813] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/07/Hyatt-Regency-Danang.png?auto=webp&disable=upscale
+                    - img "Hyatt Regency Danang" [ref=e815]
+                  - generic [ref=e816]: "Enjoy amazing views from the Hyatt Regency Danang Resort & Spa. Image Credit: Hyatt"
+                - paragraph [ref=e817]:
+                  - text: "Talk about an amazing Category 3 property! The Hyatt Regency Danang Resort and Spa is just that: a resort. Set on the coast of"
+                  - link "Vietnam" [ref=e818] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-vietnam-with-points-and-miles/
+                  - text: ", you’ll have a great view of the South China Sea. Even standard rooms receive high marks for their quality."
+                - paragraph [ref=e819]:
+                  - text: Rooms at this hotel start at 9,000 points per night and have either an ocean or garden view, so you’ll definitely want to
+                  - strong [ref=e820]: book early if you want to be guaranteed an oceanfront room
+                  - text: . For a great evening meal, visit Beach House, located right on the water. You’ll enjoy alfresco dining without having to leave the hotel.
+                - heading "8. Grand Hyatt Melbourne (Australia)" [level=3] [ref=e821]:
+                  - text: "8."
+                  - link "Grand Hyatt Melbourne" [ref=e822] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/australia/grand-hyatt-melbourne/melbo
+                  - text: (Australia)
+                - 'figure "The Grand Hyatt Melbourne is located within walking distance of the famous Australian Open but can get very pricey during the summer months. Image Credit: Hyatt" [ref=e824]':
+                  - img "Grand Hyatt Melbourne" [ref=e826]
+                  - generic [ref=e827]: "The Grand Hyatt Melbourne is located within walking distance of the famous Australian Open but can get very pricey during the summer months. Image Credit: Hyatt"
+                - paragraph [ref=e828]:
+                  - text: If you’re making the long
+                  - link "trip to Australia" [ref=e829] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-australia-with-points/
+                  - text: ", relax in the very comfortable Grand Hyatt Melbourne. This hotel is centrally located to"
+                  - link "make your visit very easy" [ref=e830] [cursor=pointer]:
+                    - /url: /travel/melbourne-australia-travel-guide/
+                  - text: . If you like to stay fit when traveling, you’ll love that the Grand Hyatt doesn’t just have a fitness center, but a full gym that even
+                  - strong [ref=e831]: offers personal training
+                  - text: .
+                - paragraph [ref=e832]: As a Category 4 hotel, redemptions start at 12,000 points per night. The Grand Club at this hotel tends to get rave reviews — it’s well-stocked and bookable with points. The hotel is walkable to most major museums and transportation within the inner loop of the city, but be warned that it does sell out fast as it’s popular among tourists who visit.
+                - heading "9. Thompson Chicago (Illinois)" [level=3] [ref=e833]:
+                  - text: "9."
+                  - link "Thompson Chicago" [ref=e834] [cursor=pointer]:
+                    - /url: https://www.thompsonhotels.com/hotels/illinois/chicago/thompson-chicago
+                  - text: (Illinois)
+                - 'figure "If you’re up for a bit of shopping, nearly every high-end store you can think of is located right around the corner from the hotel. Image Credit: Hyatt" [ref=e836]':
+                  - img "Thompson Chicago" [ref=e838]
+                  - generic [ref=e839]: "If you’re up for a bit of shopping, nearly every high-end store you can think of is located right around the corner from the hotel. Image Credit: Hyatt"
+                - paragraph [ref=e840]:
+                  - text: This Chicago property is the only Category 1-4 Thompson Hotel. Set directly across the street from the famed
+                  - link "Gibson’s Bar and Steakhouse" [ref=e841] [cursor=pointer]:
+                    - /url: https://www.gibsonssteakhouse.com/
+                  - text: ", as well as in the heart of the Gold Coast neighborhood, the Thompson is highly accessible for most of the"
+                  - link "things you want to do in Chicago" [ref=e842] [cursor=pointer]:
+                    - /url: /travel/best-things-to-do-in-chicago/
+                  - text: .
+                - paragraph [ref=e843]:
+                  - text: This Category 4 hotel, available from just 12,000 points per night, is fantastic about upgrades for
+                  - link "Hyatt elite members" [ref=e844] [cursor=pointer]:
+                    - /url: /travel/hotels/earn-hyatt-elite-status/
+                  - text: ", so be sure to take advantage if you’re eligible. The famed Michigan Avenue is a short 5-minute walk away, but the hotel is just off from the hustle and bustle, creating a perfect Chicago escape."
+                - paragraph [ref=e845]:
+                  - generic [ref=e846]:
+                    - strong [ref=e847]: "Hot Tip:"
+                    - text: Category 4 World of Hyatt properties are great ways to get the most out of your annual free night certificate that comes with your World of Hyatt card.
+                - heading "10. Andaz Peninsula Papagayo Resort (Costa Rica)" [level=3] [ref=e848]:
+                  - text: "10."
+                  - link "Andaz Peninsula Papagayo Resort" [ref=e849] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/costarica/andaz-costa-rica-resort-at-peninsula-papagayo/liraz
+                  - text: (Costa Rica)
+                - 'figure "The Andaz Peninsula Papagayo Resort is located along the lush Costa Rican coast. Image Credit: Hyatt" [ref=e851]':
+                  - img "Andaz Peninsula Papagayo Resort" [ref=e853]
+                  - generic [ref=e854]: "The Andaz Peninsula Papagayo Resort is located along the lush Costa Rican coast. Image Credit: Hyatt"
+                - paragraph [ref=e855]: About 30 minutes from Liberia Airport (LIR) you will find the gorgeous Andaz Peninsula Papagayo Resort. If you are looking to disconnect from the grind of day-to-day life, you will love this secluded property. As a Category 8 hotel, rooms are available from 35,000 points a night.
+                - paragraph [ref=e856]:
+                  - text: Be warned that this property is not near the airport, so
+                  - strong [ref=e857]: you’ll need to book private transportation
+                  - text: to get there, which can be costly and take a fair amount of time. That said, once you’re on-site, guests tend to rave about the activities and food on-site.
+                - heading "11. Palacio Duhau – Park Hyatt Buenos Aires (Argentina)" [level=3] [ref=e858]:
+                  - text: "11."
+                  - link "Palacio Duhau – Park Hyatt Buenos Aires" [ref=e859] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/hotels/palacio-duhau-park-hyatt-buenos-aires-review/
+                  - text: (Argentina)
+                - figure "Image Credit Ryan Smith" [ref=e861]:
+                  - img "Palacio Duhau Park Hyatt Buenos Aires courtyard view" [ref=e863]
+                  - generic [ref=e864]: Image Credit Ryan Smith
+                - paragraph [ref=e865]: With this Category 7 property, we’re getting into the high-end Hyatt hotels. The Palacio Duhau – Park Hyatt Buenos Aires is known for its phenomenal service and luxurious space. From 25,000 World of Hyatt points per night, you can book an award stay at this property … and you won’t be disappointed.
+                - paragraph [ref=e866]:
+                  - text: One cool benefit of the suites at this property is that they come with a
+                  - strong [ref=e867]: private butler
+                  - text: ", creating the perfect balance between luxury and convenience."
+                - heading "12. Park Hyatt Abu Dhabi Hotel and Villas (UAE)" [level=3] [ref=e868]:
+                  - text: "12."
+                  - link "Park Hyatt Abu Dhabi Hotel and Villas" [ref=e869] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/united-arab-emirates/park-hyatt-abu-dhabi-hotel-and-villas/abuph
+                  - text: (UAE)
+                - 'figure "Park Hyatt Abu Dhabi Hotel and Villas is one of the nicest hotels in Abu Dhabi, though can get quite hot during the summer. Image Credit: Hyatt" [ref=e871]':
+                  - img "Park Hyatt Abu Dhabi Hotel and Villas" [ref=e873]
+                  - generic [ref=e874]: "Park Hyatt Abu Dhabi Hotel and Villas is one of the nicest hotels in Abu Dhabi, though can get quite hot during the summer. Image Credit: Hyatt"
+                - paragraph [ref=e875]: If you find yourself in the UAE, check out the Park Hyatt Abu Dhabi Hotel and Villas. A beautiful Hyatt Category 6 property with great service, this is an awesome option if you’re looking to get away from the major attractions for a couple of days, and rooms start at just 21,000 points per night.
+                - paragraph [ref=e876]:
+                  - text: For extra space, or if you’re traveling with friends,
+                  - strong [ref=e877]: consider a villa
+                  - text: — these spacious oceanfront rooms feature tons of living space and the ability to connect to additional guestrooms.
+                - heading "13. Park Hyatt Maldives Hadahaa" [level=3] [ref=e878]:
+                  - text: "13."
+                  - link "Park Hyatt Maldives Hadahaa" [ref=e879] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/maldives/park-hyatt-maldives-hadahaa/mldph
+                - 'figure "One of the most famous Park Hyatts in the world is in the Maldives. Image Credit: Hyatt" [ref=e881]':
+                  - link "Park Hyatt Maldives" [ref=e882] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/07/Park-Hyatt-Maldives.png?auto=webp&disable=upscale
+                    - img "Park Hyatt Maldives" [ref=e884]
+                  - generic [ref=e885]: "One of the most famous Park Hyatts in the world is in the Maldives. Image Credit: Hyatt"
+                - paragraph [ref=e886]:
+                  - link "The Maldives" [ref=e887] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-and-stay-in-the-maldives/
+                  - text: has long been high on the bucket lists of many miles and points enthusiasts. At the Park Hyatt Maldives, you will experience great service while relaxing away from everything… and we mean everything.
+                - paragraph [ref=e888]: It’s a bit of an effort to get there, but once in your villa or overwater bungalow, you can just relax. Award stays at this Category 7 property will cost you 25,000 World of Hyatt points per night.
+                - paragraph [ref=e889]:
+                  - text: Be warned that
+                  - strong [ref=e890]: food on-site is very expensive
+                  - text: ", so while you may be saving by redeeming points, you should anticipate spending a fair amount each day at one of the hotel’s several dining options."
+                - heading "14. Andaz Maui at Wailea Resort (Hawaii)" [level=3] [ref=e891]:
+                  - text: "14."
+                  - link "Andaz Maui at Wailea Resort" [ref=e892] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/hawaii/andaz-maui-at-wailea-resort/oggaw
+                  - text: (Hawaii)
+                - 'figure "It’s quite rare to see award availability at the Andaz Maui at Wailea Resort, but be sure to check often to see if your dates become available! Image Credit: James Larounis" [ref=e894]':
+                  - img "Andaz Maui Poolside Tables" [ref=e896]
+                  - generic [ref=e897]:
+                    - text: "It’s quite rare to see award availability at the Andaz Maui at Wailea Resort, but be sure to check often to see if your dates become available! Image Credit:"
+                    - link "James Larounis" [ref=e898] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/jameslarounis/
+                - paragraph [ref=e899]:
+                  - text: The
+                  - link "Andaz Maui at Wailea Resort" [ref=e900] [cursor=pointer]:
+                    - /url: /travel/hotels/andaz-maui-at-wailea-resort-review/
+                  - text: can be tough to book because of
+                  - strong [ref=e901]: minimum-stay requirements
+                  - text: ", but it is a beautiful property. If you plan on taking a relaxing vacation to"
+                  - link "Hawaii" [ref=e902] [cursor=pointer]:
+                    - /url: /travel/ultimate-travel-guide-to-hawaii/
+                  - text: ", this could be just the place for you!"
+                - paragraph [ref=e903]:
+                  - text: If you intend on staying at this Category 8 hotel, book early so you can book your room from 35,000 points per night — last-minute stays are rarely available. Most rooms feature oceanfront views, and you’ll definitely want to check out the
+                  - strong [ref=e904]: weekly luau ceremonies
+                  - text: that take place right on the lawn along the beach.
+                - heading "15. Park Hyatt Sydney (Australia)" [level=3] [ref=e905]:
+                  - text: "15."
+                  - link "Park Hyatt Sydney" [ref=e906] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/australia/park-hyatt-sydney/sydph
+                  - text: (Australia)
+                - 'figure "Enjoy an amazing view of the Sydney Opera House from the Park Hyatt Sydney. Image Credit: James Larounis" [ref=e908]':
+                  - img "Park Hyatt Sydney Pool" [ref=e910]
+                  - generic [ref=e911]: "Enjoy an amazing view of the Sydney Opera House from the Park Hyatt Sydney. Image Credit: James Larounis"
+                - paragraph [ref=e912]:
+                  - text: Without a doubt, the
+                  - link "Park Hyatt Sydney" [ref=e913] [cursor=pointer]:
+                    - /url: /travel/hotels/park-hyatt-sydney-review/
+                  - text: is one of Hyatt’s most famous properties thanks to its
+                  - strong [ref=e914]: view of the Sydney Opera House
+                  - text: . The service is second to none, the views are phenomenal, and the food is stellar. Sydney is an amazing city, and the Park Hyatt takes it to another level.
+                - paragraph [ref=e915]: If you want a view of the Sydney Opera House, book early — these rooms are especially premium, and upgrades are hard to come by. The Opera Deluxe room is where you want to stay for stunning views.
+                - paragraph [ref=e916]: All rooms start at 35,000 points (off-peak) per night at this Category 8 hotel and overlook either the city, Opera House, or Harbour Bridge, so no matter where you stay, you’re in for a treat.
+                - generic [ref=e917]:
+                  - strong [ref=e918]: »
+                  - strong [ref=e919]: "Related:"
+                  - link "Park Hyatt Sydney in Australia [In-depth Hotel Review]" [ref=e920] [cursor=pointer]:
+                    - /url: /travel/hotels/park-hyatt-sydney-review/
+                - heading "16. Park Hyatt Paris-Vendôme (France)" [level=3] [ref=e921]:
+                  - text: "16."
+                  - link "Park Hyatt Paris-Vendôme" [ref=e922] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/france/park-hyatt-paris-vendome/parph
+                  - text: (France)
+                - 'figure "Located along the famous Rue de la Paix, the Park Hyatt Paris is located near tons of shopping, restaurants and major attractions. Image Credit: Katie Seemann" [ref=e924]':
+                  - img "Park Hyatt Paris Vendome exterior" [ref=e926]
+                  - generic [ref=e927]: "Located along the famous Rue de la Paix, the Park Hyatt Paris is located near tons of shopping, restaurants and major attractions. Image Credit: Katie Seemann"
+                - paragraph [ref=e928]: From the moment you set foot in the Park Hyatt Paris-Vendôme, you’ll see why this is a luxury hotel. The hotel receives great reviews for its breakfast (though pricey), and it even has a Michelin-starred restaurant. Top it off with a great location in Paris, and it’s no surprise that people love staying here.
+                - paragraph [ref=e929]:
+                  - text: Rooms start at 35,000 points per night at this Category 8 hotel, but not all rooms feature balconies — if you’re lucky enough to have one, it’s a fantastic location to people-watch onto the street below or take your breakfast in the morning. The hotel is within walking distance of the
+                  - link "Louvre" [ref=e930] [cursor=pointer]:
+                    - /url: https://www.louvre.fr/en
+                  - text: and the famed Avenue des Champs-Élysées.
+                - paragraph [ref=e931]:
+                  - generic [ref=e932]:
+                    - strong [ref=e933]: "Hot Tip:"
+                    - text: Dig into our guide on the
+                    - link "best hotels in Paris" [ref=e934] [cursor=pointer]:
+                      - /url: /travel/hotels/best-hotels-in-paris-france/
+                    - text: for more options.
+                - heading "17. JdV by Hyatt" [level=3] [ref=e935]
+                - 'figure "Sunset from the top of The Tribune is unbeatable! Image Credit: Juan Ruiz" [ref=e937]':
+                  - img "The Tribune King Junior Suite Deluxe Balcony Views" [ref=e939]
+                  - generic [ref=e940]:
+                    - text: "Sunset from the top of The Tribune is unbeatable! Image Credit:"
+                    - link "Juan Ruiz" [ref=e941] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/juan/
+                - paragraph [ref=e942]:
+                  - link "JdV by Hyatt" [ref=e943] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/brands/jdv-by-hyatt
+                  - text: ", formerly Joie de Vivre Hotels, is now part of the World of Hyatt. The 20+ properties in the U.S. have great values starting at 6,500 points per night, and many of its hotels are Category 1-4 eligible for use of the World of Hyatt card free night certificates:"
+                - generic [ref=e944]:
+                  - paragraph
+                  - list [ref=e945]:
+                    - listitem [ref=e946]: Chicago Athletic Association, Chicago (Category 5) — From 17,000 points
+                    - listitem [ref=e947]: Hotel Avante, Mountain View (Category 4) — From 12,000 points
+                    - listitem [ref=e948]: Hotel Lincoln, Chicago (Category 3) — From 9,000 points
+                    - listitem [ref=e949]: Hotel Revival, Baltimore (Category 2) — From 6,500 points
+                    - listitem [ref=e950]: Waterfront Hotel, Oakland (Category 4) — From 12,000 points
+                    - listitem [ref=e951]: Wild Palms Hotel, Sunnyvale (Category 2) — From 6,500 points
+                  - paragraph
+                - heading "18. Hyatt Zilara and Hyatt Ziva All-Inclusive Resorts" [level=3] [ref=e952]
+                - 'figure "Hyatt Ziva Los Cabos. Image Credit: Katie Seemann" [ref=e954]':
+                  - img "Adults only pool at Hyatt Ziva Los Cabos" [ref=e956]
+                  - generic [ref=e957]:
+                    - text: "Hyatt Ziva Los Cabos. Image Credit:"
+                    - link "Katie Seemann" [ref=e958] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/katie/
+                - paragraph [ref=e959]:
+                  - text: "If you’re a fan of all-inclusive resorts, Hyatt offers 7 brands:"
+                  - link "Alua Hotels & Resorts" [ref=e960] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/destinations/alua
+                  - text: ","
+                  - link "Breathless Resorts" [ref=e961] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/destinations/breathless
+                  - text: ","
+                  - link "Dreams Resorts & Spas" [ref=e962] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/destinations/dreams
+                  - text: ","
+                  - link "Hyatt Zilara" [ref=e963] [cursor=pointer]:
+                    - /url: /travel/hotels/hyatt-zilara-guide/
+                  - text: ","
+                  - link "Hyatt Ziva" [ref=e964] [cursor=pointer]:
+                    - /url: /travel/hotels/hyatt-ziva-guide/
+                  - text: ","
+                  - link "Hyatt Vivid" [ref=e965] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/destinations/vivid
+                  - text: ","
+                  - link "Impression by Secrets" [ref=e966] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/destinations/impression-by-secrets
+                  - text: ","
+                  - link "Secrets Resorts & Spas" [ref=e967] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/destinations/secrets
+                  - text: ","
+                  - link "Sunscape Resorts & Spas" [ref=e968] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/destinations/sunscape
+                  - text: ", and"
+                  - link "Zoëtry Wellness & Spa Resorts" [ref=e969] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/destinations/zoetry
+                  - text: .
+                - paragraph [ref=e970]: Hyatt Zilara properties are adults-only, so you can relax during your vacation. If you want to book a family vacation, Hyatt Ziva properties are kid-friendly. Award stays start at 21,000 World of Hyatt points per night, with additional points required per person per night.
+                - paragraph [ref=e971]:
+                  - generic [ref=e972]:
+                    - strong [ref=e973]: "Hot Tip:"
+                    - text: "Check out what some of our writers think about Hyatt Ziva properties:"
+                    - link "Hyatt Ziva Cap Cana review" [ref=e974] [cursor=pointer]:
+                      - /url: /travel/hotels/hyatt-ziva-cap-cana-review/
+                    - text: and
+                    - link "Hyatt Ziva Los Cabos review" [ref=e975] [cursor=pointer]:
+                      - /url: /travel/hotels/hyatt-ziva-los-cabos-review/
+                    - text: .
+                - heading "19. Miraval Resorts" [level=3] [ref=e976]
+                - 'figure "Image Credit: Katie Seemann" [ref=e978]':
+                  - img "Miraval Berkshires in Massachusetts" [ref=e980]
+                  - generic [ref=e981]: "Image Credit: Katie Seemann"
+                - paragraph [ref=e982]:
+                  - text: At
+                  - link "Miraval Austin" [ref=e983] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/texas/miraval-austin-resort-and-spa/ausob
+                  - text: ","
+                  - link "Miraval Arizona" [ref=e984] [cursor=pointer]:
+                    - /url: https://www.hyatt.com/en-US/hotel/arizona/miraval-arizona-resort-and-spa/tusob
+                  - text: ", and"
+                  - link "Miraval Berkshires" [ref=e985] [cursor=pointer]:
+                    - /url: /travel/hotels/miraval-berkshires-review/
+                  - text: ", you can book a standard room from 40,000 World of Hyatt points. The experience is meant to be totally relaxing: meals, snacks, and even non-alcoholic drinks are included with every booking."
+                - table [ref=e988]:
+                  - rowgroup [ref=e989]:
+                    - row "Standard Award Chart for Miraval Resorts" [ref=e990]:
+                      - cell "Standard Award Chart for Miraval Resorts" [ref=e991]:
+                        - paragraph [ref=e993]:
+                          - strong [ref=e994]: Standard Award Chart for Miraval Resorts
+                    - row "Standard Room Standard Suite Premium Suite" [ref=e995]:
+                      - cell [ref=e996]
+                      - cell "Standard Room" [ref=e997]:
+                        - paragraph [ref=e999]: Standard Room
+                      - cell "Standard Suite" [ref=e1000]:
+                        - paragraph [ref=e1002]: Standard Suite
+                      - cell "Premium Suite" [ref=e1003]:
+                        - paragraph [ref=e1005]: Premium Suite
+                    - row "Off-Peak Standard Peak Off-Peak Standard Peak Off-Peak Standard Peak" [ref=e1006]:
+                      - cell [ref=e1007]:
+                        - paragraph [ref=e1008]
+                      - cell "Off-Peak" [ref=e1009]:
+                        - paragraph [ref=e1010]: Off-Peak
+                      - cell "Standard" [ref=e1011]:
+                        - paragraph [ref=e1012]: Standard
+                      - cell "Peak" [ref=e1013]:
+                        - paragraph [ref=e1014]: Peak
+                      - cell "Off-Peak" [ref=e1015]:
+                        - paragraph [ref=e1016]: Off-Peak
+                      - cell "Standard" [ref=e1017]:
+                        - paragraph [ref=e1018]: Standard
+                      - cell "Peak" [ref=e1019]:
+                        - paragraph [ref=e1020]: Peak
+                      - cell "Off-Peak" [ref=e1021]:
+                        - paragraph [ref=e1022]: Off-Peak
+                      - cell "Standard" [ref=e1023]:
+                        - paragraph [ref=e1024]: Standard
+                      - cell "Peak" [ref=e1025]:
+                        - paragraph [ref=e1026]: Peak
+                    - row "Cost for 1 person 40,000 45,000 50,000 65,000 75,000 85,000 95,000 105,000 115,000" [ref=e1027]:
+                      - cell "Cost for 1 person" [ref=e1028]:
+                        - paragraph [ref=e1029]: Cost for 1 person
+                      - cell "40,000" [ref=e1030]:
+                        - paragraph [ref=e1031]: 40,000
+                      - cell "45,000" [ref=e1032]:
+                        - paragraph [ref=e1033]: 45,000
+                      - cell "50,000" [ref=e1034]:
+                        - paragraph [ref=e1035]: 50,000
+                      - cell "65,000" [ref=e1036]:
+                        - paragraph [ref=e1037]: 65,000
+                      - cell "75,000" [ref=e1038]:
+                        - paragraph [ref=e1039]: 75,000
+                      - cell "85,000" [ref=e1040]:
+                        - paragraph [ref=e1041]: 85,000
+                      - cell "95,000" [ref=e1042]:
+                        - paragraph [ref=e1043]: 95,000
+                      - cell "105,000" [ref=e1044]:
+                        - paragraph [ref=e1045]: 105,000
+                      - cell "115,000" [ref=e1046]:
+                        - paragraph [ref=e1047]: 115,000
+                    - row "Cost for 2 people 57,500 65,000 72,000 82,500 95,000 107,000 112,500 125,000 137,000" [ref=e1048]:
+                      - cell "Cost for 2 people" [ref=e1049]:
+                        - paragraph [ref=e1050]: Cost for 2 people
+                      - cell "57,500" [ref=e1051]:
+                        - paragraph [ref=e1052]: 57,500
+                      - cell "65,000" [ref=e1053]:
+                        - paragraph [ref=e1054]: 65,000
+                      - cell "72,000" [ref=e1055]:
+                        - paragraph [ref=e1056]: 72,000
+                      - cell "82,500" [ref=e1057]:
+                        - paragraph [ref=e1058]: 82,500
+                      - cell "95,000" [ref=e1059]:
+                        - paragraph [ref=e1060]: 95,000
+                      - cell "107,000" [ref=e1061]:
+                        - paragraph [ref=e1062]: 107,000
+                      - cell "112,500" [ref=e1063]:
+                        - paragraph [ref=e1064]: 112,500
+                      - cell "125,000" [ref=e1065]:
+                        - paragraph [ref=e1066]: 125,000
+                      - cell "137,000" [ref=e1067]:
+                        - paragraph [ref=e1068]: 137,000
+                - paragraph [ref=e1069]: Additionally, be on the lookout for 50% off on award stays at Miraval Arizona. You need to have all the points to book the reservation, but you will receive half back. This is mostly done during the hot summer months, as demand is relatively low in Arizona due to the scorching hot weather.
+                - paragraph [ref=e1070]: In other words, if you are planning a 3-night stay at Miraval Arizona during a 50% off special, you will need 120,000 World of Hyatt points, and you’ll get back 60,000 points. Think of it as a 50% rebate.
+                - generic [ref=e1071]:
+                  - strong [ref=e1072]: »
+                  - strong [ref=e1073]: "Related:"
+                  - link "Miraval Resorts & Spas [Locations, Amenities, and More]" [ref=e1074] [cursor=pointer]:
+                    - /url: /travel/hotels/miraval-resorts-spas-guide/
+                - heading "20. Mr & Mrs Smith Properties" [level=3] [ref=e1075]
+                - 'figure "Mr & Mrs Smith has partnered with Hyatt to offer more properties and benefits to World of Hyatt members. Image Credit: Katie Seemann" [ref=e1077]':
+                  - img "Malliouhana towel by pool 1" [ref=e1079]
+                  - generic [ref=e1080]: "Mr & Mrs Smith has partnered with Hyatt to offer more properties and benefits to World of Hyatt members. Image Credit: Katie Seemann"
+                - paragraph [ref=e1081]: Hyatt and Mr & Mrs Smith have a partnership that allows you to earn and redeem World of Hyatt points for stays at participating properties.
+                - paragraph [ref=e1082]:
+                  - text: Currently, around 700
+                  - link "Mr & Mrs Smith properties" [ref=e1083] [cursor=pointer]:
+                    - /url: https://world.hyatt.com/content/gp/en/landing/mr-and-mrs-smith.html
+                  - text: are participating, and more will progressively join the partnership with World of Hyatt.
+                - paragraph [ref=e1084]: Mr & Mrs Smith award nights are dynamically priced and are not part of the World of Hyatt award charts.
+                - generic [ref=e1085]:
+                  - strong [ref=e1086]: »
+                  - strong [ref=e1087]: "Related:"
+                  - 'link "Now Live: Earn and Redeem World of Hyatt Points at 700 Mr and Mrs Smith Properties" [ref=e1088] [cursor=pointer]':
+                    - /url: /news/hyatt-to-acquire-mr-mrs-smith/
+                - heading "21. Use Points for Suite Nights" [level=3] [ref=e1089]
+                - 'figure "Ocean Lagoon Suite balcony at the Grand Hyatt Rio de Janeiro. Image Credit: Chris Hassan" [ref=e1091]':
+                  - img "Ocean Lagoon Suite view Grand Hyatt Rio de Janeiro" [ref=e1093]
+                  - generic [ref=e1094]:
+                    - text: "Ocean Lagoon Suite balcony at the Grand Hyatt Rio de Janeiro. Image Credit:"
+                    - link "Chris Hassan" [ref=e1095] [cursor=pointer]:
+                      - /url: /author/chrishassan/
+                - paragraph [ref=e1096]: Hyatt also allows you to guarantee yourself an upgrade at booking by using an increased amount of points to book either a Regency/Grand Club Room, Standard Suite, or even a Premium Suite!
+                - paragraph [ref=e1097]:
+                  - text: Be aware that a
+                  - strong [ref=e1098]: Premium Suite will always cost you double
+                  - text: the standard rate. The extra expense in points might not initially seem worth it, especially if you’re already a
+                  - link "Hyatt Globalist" [ref=e1099] [cursor=pointer]:
+                    - /url: /travel/hotels/hyatt-elite-status-benefits/
+                  - text: member, but if you’re celebrating a special occasion and want to be certain you’ll have a suite, it can definitely be worthwhile.
+                - paragraph [ref=e1100]:
+                  - text: Additionally, it is worth noting that even
+                  - link "Hyatt Globalist upgrades" [ref=e1101] [cursor=pointer]:
+                    - /url: /travel/hotels/hyatt-globalist-suite-upgrade-awards/
+                  - text: only include up to Standard Suites, not Premium Suites. So if you really want to step your vacation up a notch, and you have the points to spare, this is a great way to do so.
+                - heading "22. Points + Cash Bookings" [level=3] [ref=e1102]
+                - paragraph [ref=e1103]:
+                  - text: You can also book standard rooms with points and cash. Unlike award stays,
+                  - strong [ref=e1104]: these bookings will help you earn status credits
+                  - text: . This can be a useful tool if you need a few more nights to reach the next level of status. It can also be helpful if you want to offset some of the cost and save some points for another booking.
+                - heading "23. Pay My Way" [level=3] [ref=e1105]
+                - paragraph [ref=e1106]:
+                  - text: Hyatt now allows you to combine various payments, like cash, points, Points + Cash, and award certificates, all on 1 reservation. Simply log in to your World of Hyatt account and click
+                  - strong [ref=e1107]: Use Pay My Way
+                  - text: when booking to see your available options.
+                - 'figure "Hyatt offers you the ability to combine points with cash to book your room. Image Credit: Hyatt" [ref=e1109]':
+                  - img "Hyatt Pay My Way" [ref=e1111]
+                  - generic [ref=e1112]: "Hyatt offers you the ability to combine points with cash to book your room. Image Credit: Hyatt"
+                - heading "24. Use Points To Upgrade a Paid Stay" [level=3] [ref=e1113]
+                - 'figure "Grand Hyatt Hong Kong Grand Club Lounge. Image Credit: Hyatt" [ref=e1115]':
+                  - img "Grand Hyatt Hong Kong Grand Club Lounge Night" [ref=e1117]
+                  - generic [ref=e1118]: "Grand Hyatt Hong Kong Grand Club Lounge. Image Credit: Hyatt"
+                - paragraph [ref=e1119]:
+                  - text: If you’ve booked a paid stay, you can use 3,000 World of Hyatt points to upgrade to a club room at Grand Hyatt and Hyatt Regency properties. These rooms are nicer, and you’ll receive access to the
+                  - strong [ref=e1120]: club lounge
+                  - text: .
+                - paragraph [ref=e1121]: If you’d like more space, you can upgrade a paid stay to a suite for 6,000 to 9,000 World of Hyatt points. These rooms also allow you to access club lounges.
+                - table [ref=e1124]:
+                  - rowgroup [ref=e1125]:
+                    - row "Room Upgrade Award Points per Night" [ref=e1126]:
+                      - cell "Room Upgrade Award" [ref=e1127]:
+                        - paragraph [ref=e1128]:
+                          - strong [ref=e1129]: Room Upgrade Award
+                      - cell "Points per Night" [ref=e1130]:
+                        - paragraph [ref=e1131]:
+                          - strong [ref=e1132]: Points per Night
+                    - row "Regency Club/Grand Club 3,000" [ref=e1133]:
+                      - cell "Regency Club/Grand Club" [ref=e1134]:
+                        - paragraph [ref=e1135]: Regency Club/Grand Club
+                      - cell "3,000" [ref=e1136]:
+                        - paragraph [ref=e1137]: 3,000
+                    - row "Suite Upgrade 6,000" [ref=e1138]:
+                      - cell "Suite Upgrade" [ref=e1139]:
+                        - paragraph [ref=e1140]: Suite Upgrade
+                      - cell "6,000" [ref=e1141]:
+                        - paragraph [ref=e1142]: 6,000
+                    - row "Premium Suite Upgrade 9,000" [ref=e1143]:
+                      - cell "Premium Suite Upgrade" [ref=e1144]:
+                        - paragraph [ref=e1145]: Premium Suite Upgrade
+                      - cell "9,000" [ref=e1146]:
+                        - paragraph [ref=e1147]: 9,000
+                - paragraph [ref=e1148]:
+                  - generic [ref=e1149]:
+                    - strong [ref=e1150]: "Hot Tip:"
+                    - text: Check out our complete guide on
+                    - link "how to book Hyatt suite upgrades online Using World of Hyatt points" [ref=e1151] [cursor=pointer]:
+                      - /url: /travel/hotels/how-to-book-hyatt-suite-upgrades-online/
+                    - text: .
+                - heading "Final Thoughts" [level=2] [ref=e1152]
+                - paragraph [ref=e1153]:
+                  - text: The World of Hyatt program provides some amazing award-stay opportunities. In fact, it’s the only hotel
+                  - link "Chase transfer partner" [ref=e1154] [cursor=pointer]:
+                    - /url: /credit-cards/chase-ultimate-rewards-transfer-partners/
+                  - text: where we recommend transferring Chase points under normal circumstances.
+                - paragraph [ref=e1155]: With Hyatt, you can feel confident that you’ll find a great hotel to enjoy on your vacations.
+                - paragraph
+              - generic [ref=e1156]:
+                - generic [ref=e1157]:
+                  - separator [ref=e1158]
+                  - text: "Featured Image Credit: Hyatt"
+                - generic [ref=e1159]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1160]
+                  - group [ref=e1161]:
+                    - generic "When do World of Hyatt points expire?" [ref=e1162] [cursor=pointer]
+                    - paragraph [ref=e1164]: World of Hyatt points won’t expire so long as you have account activity within 24 months, which includes earning or redeeming points.
+                  - group [ref=e1165]:
+                    - generic "What hotels does Hyatt own?" [ref=e1166] [cursor=pointer]
+                    - paragraph [ref=e1168]: The brands that fall under Hyatt’s portfolio are Alila, Alua Hotels & Resorts, Andaz, Atona, Breathless Resorts, Bunkhouse Resorts, Caption by Hyatt, Destination by Hyatt, Dream Hotels, Dreams Resorts & Spas, Grand Hyatt, Hyatt, Hyatt Centric, Hyatt House, Hyatt Place, Hyatt Regency, Hyatt Select, Hyatt Studios, Hyatt Vacation Club, Hyatt Vivid Hotels & Resorts, Hyatt Zilara, Hyatt Ziva, Impression by Secrets, JdV by Hyatt, Me and All Hotels, Miraval, Mr and Mrs Smith, Park Hyatt, Secrets Resorts & Spas, The Standard, StandardX, Sunscape Resorts & Spas, Thompson Hotels, The Unbound Collection, Unscripted by Hyatt, UrCove by Hyatt, and Zoëtry Wellness & Spa Resorts.
+                  - group [ref=e1169]:
+                    - generic "Can you book club rooms or suites with World of Hyatt points?" [ref=e1170] [cursor=pointer]
+                    - paragraph [ref=e1172]: Yes. You can book club rooms at Grand Hyatt and Hyatt Regency properties. Additionally, you may book suites across the many Hyatt brands.
+                  - group [ref=e1173]:
+                    - generic "How many World of Hyatt points do you need for an award stay?" [ref=e1174] [cursor=pointer]
+                    - generic [ref=e1175]:
+                      - paragraph [ref=e1176]: Awards stays start at 3,500 World of Hyatt points for Category 1 hotels and increase to 35,000 World of Hyatt points for Category 8 hotels. Hyatt all-inclusive resorts can also be booked with points and start at 20,000 to 25,000 points.
+                      - paragraph [ref=e1177]: Award stays at the Miraval resorts start at 40,000 World of Hyatt points.
+                  - group [ref=e1178]:
+                    - generic "Can World of Hyatt points be transferred?" [ref=e1179] [cursor=pointer]
+                    - paragraph [ref=e1181]: World of Hyatt points can be transferred to airlines, but at a very poor rate. You’ll get the most value out of your points by booking award stays at Hyatt properties.
+                  - group [ref=e1182]:
+                    - generic "What credit cards earn World of Hyatt points?" [ref=e1183] [cursor=pointer]
+                    - generic [ref=e1184]:
+                      - paragraph [ref=e1185]:
+                        - text: Only the World of Hyatt card and World of Hyatt Business card earn World of Hyatt points directly, but you can earn points faster using cards that
+                        - link "earn Chase Ultimate Rewards" [ref=e1186] [cursor=pointer]:
+                          - /url: /credit-cards/how-to-earn-chase-ultimate-rewards-points/
+                        - text: or
+                        - link "Bilt points" [ref=e1187] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/credit-cards/bilt-rewards-program-review/
+                        - text: . You can then transfer those points to Hyatt at a 1:1 ratio.
+                      - paragraph [ref=e1188]: Cards that earn Ultimate Rewards have a number of bonus categories, which allow you to earn points much quicker than if using the World of Hyatt cards. However, this card does come with an annual free night certificate that is very useful.
+                - complementary [ref=e1189]:
+                  - generic [ref=e1190]:
+                    - paragraph [ref=e1191]:
+                      - generic [ref=e1193]:
+                        - text: The information regarding the Chase Freedom Flex
+                        - superscript [ref=e1194]: ®
+                        - text: was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph [ref=e1195]
+                - group "Was this page helpful?" [ref=e1198]:
+                  - paragraph [ref=e1199]: Was this page helpful?
+                  - generic [ref=e1200]:
+                    - button "Yes" [ref=e1201] [cursor=pointer]
+                    - button "No" [ref=e1202] [cursor=pointer]
+                - generic [ref=e1203]:
+                  - figure [ref=e1205]:
+                    - img "Spencer Howard's image" [ref=e1206]
+                  - generic [ref=e1207]:
+                    - heading "About Spencer Howard" [level=2] [ref=e1208]:
+                      - text: About
+                      - link "Spencer Howard" [ref=e1209] [cursor=pointer]:
+                        - /url: /author/spencer/
+                    - paragraph [ref=e1210]: Always a fan of flying, it was only natural that Spencer was drawn to finding a way to improve the travel experience.
+                    - paragraph [ref=e1211]: Like many, he started this journey searching for cheap flights to take him around the world. This was fun for a while, but Spencer was intrigued by the idea of flying in business and first class!
+                    - paragraph [ref=e1212]: Throwing himself into what became an extensive research project, Spencer spent 3-4 hours per night learning everything he could about frequent flyer miles over the course of several months (he thinks this is normal). He runs Straight to the Points, an award-seat alert platform.
+                    - list [ref=e1214]:
+                      - listitem [ref=e1215]:
+                        - link "Instagram icon" [ref=e1216] [cursor=pointer]:
+                          - /url: https://www.instagram.com/straighttothepoints/
+                          - img "Instagram icon" [ref=e1217]
+                      - listitem [ref=e1218]:
+                        - link "LinkedIn icon" [ref=e1219] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/spencer-howard-82072710
+                          - img "LinkedIn icon" [ref=e1220]
+                      - listitem [ref=e1221]:
+                        - link "Twitter icon" [ref=e1222] [cursor=pointer]:
+                          - /url: https://twitter.com/spencerformiles
+                          - img "Twitter icon" [ref=e1223]
+                      - listitem [ref=e1224]:
+                        - link "email icon" [ref=e1225] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1226]
+                - generic [ref=e1228]:
+                  - generic [ref=e1229]:
+                    - paragraph [ref=e1230]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1231]: ™
+                    - generic [ref=e1232]:
+                      - paragraph [ref=e1233]:
+                        - text: Get the
+                        - strong [ref=e1234]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1235]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1236]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1237]:
+                      - textbox "First Name" [ref=e1238]
+                      - textbox "Email" [ref=e1239]
+                      - button "Join Now" [disabled] [ref=e1240]
+                    - paragraph [ref=e1242]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1243] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1244] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1245] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1247]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1249]
+                - generic [ref=e1251]:
+                  - paragraph [ref=e1252]: We Recommend
+                  - generic [ref=e1253]:
+                    - generic [ref=e1254]:
+                      - link "Platinum Card® from American Express" [ref=e1255] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1256]
+                      - link "Terms Apply / Rates & Fees" [ref=e1257] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1258] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1259]
+                        - text: Apply Now
+                    - generic [ref=e1262]:
+                      - paragraph [ref=e1263]:
+                        - link "Platinum Card® from American Express" [ref=e1264] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1265]:
+                            - text: Platinum Card
+                            - superscript [ref=e1266]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1268]:
+                        - generic [ref=e1269]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1270] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1271]:
+                        - listitem [ref=e1272]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1273]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1274]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1275]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1276]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1277]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1278]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1279] [cursor=pointer]
+            - complementary [ref=e1281]:
+              - generic [ref=e1282]:
+                - generic [ref=e1284]:
+                  - paragraph [ref=e1285]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1286] [cursor=pointer]
+                  - generic [ref=e1287]:
+                    - generic [ref=e1290]:
+                      - generic [ref=e1291]:
+                        - generic [ref=e1292]:
+                          - img [ref=e1293]
+                          - generic [ref=e1295]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1296] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1297]
+                      - generic [ref=e1298]:
+                        - paragraph [ref=e1299]:
+                          - link "Platinum Card® from American Express" [ref=e1300] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1301]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1302] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1303]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1305] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1308]:
+                      - generic [ref=e1309]:
+                        - generic [ref=e1310]:
+                          - img [ref=e1311]
+                          - generic [ref=e1313]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1314] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1315]
+                      - generic [ref=e1316]:
+                        - paragraph [ref=e1317]:
+                          - link "American Express® Gold Card" [ref=e1318] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1319]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1320] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1321]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1323] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1326]:
+                      - generic [ref=e1327]:
+                        - generic [ref=e1328]:
+                          - img [ref=e1329]
+                          - generic [ref=e1331]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1332] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1333]
+                      - generic [ref=e1334]:
+                        - paragraph [ref=e1335]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1336] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1337]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1338] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1339]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1341] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/6772/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1344]:
+                      - generic [ref=e1345]:
+                        - generic [ref=e1346]:
+                          - img [ref=e1347]
+                          - generic [ref=e1349]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1350] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/6772/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1351]
+                      - generic [ref=e1352]:
+                        - paragraph [ref=e1353]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1354] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/6772/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1355]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1356] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/6772/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1357]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1359] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/6772/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1361] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1364]: Advertisement
+      - generic [ref=e1366]:
+        - paragraph [ref=e1367]: Related Posts
+        - generic [ref=e1368]:
+          - generic [ref=e1369]:
+            - link [ref=e1370] [cursor=pointer]:
+              - /url: /credit-cards/reviews/chase-hyatt-credit-card/
+              - figure [ref=e1371]:
+                - img "The World of Hyatt Credit Card – Full Review [2026]" [ref=e1373]
+            - link "The World of Hyatt Credit Card – Full Review [2026]" [ref=e1374] [cursor=pointer]:
+              - /url: /credit-cards/reviews/chase-hyatt-credit-card/
+          - generic [ref=e1375]:
+            - link [ref=e1376] [cursor=pointer]:
+              - /url: /travel/hotels/the-world-of-hyatt-loyalty-program/
+              - figure [ref=e1377]:
+                - img "The World of Hyatt Loyalty Program Review" [ref=e1379]
+            - link "The World of Hyatt Loyalty Program Review" [ref=e1380] [cursor=pointer]:
+              - /url: /travel/hotels/the-world-of-hyatt-loyalty-program/
+          - generic [ref=e1381]:
+            - link [ref=e1382] [cursor=pointer]:
+              - /url: /travel/hotels/how-to-earn-hyatt-globalist-status/
+              - figure [ref=e1383]:
+                - img "How To Earn Globalist Status With World of Hyatt Credit Card Spend" [ref=e1385]
+            - link "How To Earn Globalist Status With World of Hyatt Credit Card Spend" [ref=e1386] [cursor=pointer]:
+              - /url: /travel/hotels/how-to-earn-hyatt-globalist-status/
+          - generic [ref=e1387]:
+            - link [ref=e1388] [cursor=pointer]:
+              - /url: /credit-cards/reviews/chase-hyatt-credit-card/benefits/
+              - figure [ref=e1389]:
+                - img "10 Valuable Benefits of the World of Hyatt Credit Card [2025]" [ref=e1391]
+            - link "10 Valuable Benefits of the World of Hyatt Credit Card [2025]" [ref=e1392] [cursor=pointer]:
+              - /url: /credit-cards/reviews/chase-hyatt-credit-card/benefits/
+    - contentinfo [ref=e1393]:
+      - img [ref=e1394]
+      - img [ref=e1413]
+      - generic [ref=e1432]:
+        - generic [ref=e1433]:
+          - img [ref=e1435]
+          - generic [ref=e1440]:
+            - generic [ref=e1441]:
+              - paragraph [ref=e1442]: Upgrade your travel experience
+              - list [ref=e1443]:
+                - listitem [ref=e1444]:
+                  - link [ref=e1445] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1446]:
+                      - img "Facebook" [ref=e1447]
+                - listitem [ref=e1448]:
+                  - link [ref=e1449] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1450]:
+                      - img "Twitter" [ref=e1451]
+                - listitem [ref=e1452]:
+                  - link [ref=e1453] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1454]:
+                      - img "Instagram" [ref=e1455]
+                - listitem [ref=e1456]:
+                  - link [ref=e1457] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1458]:
+                      - img "Pinterest" [ref=e1459]
+                - listitem [ref=e1460]:
+                  - link [ref=e1461] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1462]:
+                      - img "Linkedin" [ref=e1463]
+                - listitem [ref=e1464]:
+                  - link [ref=e1465] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1466]:
+                      - img "Youtube" [ref=e1467]
+            - generic [ref=e1469]:
+              - list [ref=e1470]:
+                - listitem [ref=e1471]:
+                  - link "News" [ref=e1472] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1473]:
+                  - link "Credit Cards" [ref=e1474] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1475]:
+                  - link "Business" [ref=e1476] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1477]:
+                - listitem [ref=e1478]:
+                  - link "Finance" [ref=e1479] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1480]:
+                  - link "Travel Guides" [ref=e1481] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1482]:
+                  - link "Air Travel" [ref=e1483] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1484]:
+                - listitem [ref=e1485]:
+                  - link "Hotel Guides" [ref=e1486] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1487]:
+                  - link "Beginners" [ref=e1488] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1489]:
+                  - link "About" [ref=e1490] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1491]:
+                - listitem [ref=e1492]:
+                  - link "Podcast" [ref=e1493] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1494]:
+                  - link "Jobs & Careers" [ref=e1495] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1496]:
+                  - link "Contact Us" [ref=e1497] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1498]:
+          - paragraph [ref=e1499]:
+            - link "Privacy Policy" [ref=e1500] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1501] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1502] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1503] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1504] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1505] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1546] [cursor=pointer]
+          - paragraph [ref=e1506]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1507]:
+          - link "DMCA.com Protection Status" [ref=e1508] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1509]
+          - img "Comodo Secure Seal" [ref=e1511]
+        - generic [ref=e1512]:
+          - generic [ref=e1513]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1514]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1515]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1516]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1517]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1518] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1519]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1520]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1522]:
+    - generic [ref=e1523]:
+      - generic [ref=e1524]:
+        - button "close banner" [ref=e1525] [cursor=pointer]:
+          - img "close banner" [ref=e1526]
+        - img "company logo" [ref=e1528]
+      - generic [ref=e1529]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1531]
+        - generic [ref=e1532]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1533] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1534] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1536]:
+        - button "Manage" [ref=e1537] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1538] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1539] [cursor=pointer]
+    - generic [ref=e1541]:
+      - generic [ref=e1542]: "Powered by:"
+      - link "trustarc" [ref=e1543] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1544]

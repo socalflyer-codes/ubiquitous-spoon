@@ -1,0 +1,1829 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Hotels" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/hotels/
+            - heading "31 Best Ways To Redeem IHG One Rewards Points for Maximum Value" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Stephen Au's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Stephen Au
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: February 17, 2026, 3:19pm CST
+                - generic [ref=e57]:
+                  - text: "Edited by:"
+                  - generic [ref=e58]: Michael Y. Park
+          - figure [ref=e59]:
+            - img "31 Best Ways To Redeem IHG One Rewards Points for Maximum Value" [ref=e61]
+        - generic [ref=e62]:
+          - group [ref=e63]:
+            - generic "Jump to Section" [ref=e64] [cursor=pointer]
+          - paragraph [ref=e68]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e69] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e70]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - heading "Key Takeaways" [level=2] [ref=e76]
+                  - list [ref=e78]:
+                    - listitem [ref=e79]: IHG One Rewards points can be redeemed at 21 brands ranging from basic to luxury.
+                    - listitem [ref=e80]: IHG now uses variable award pricing, so the points needed for a stay depend on factors like cash rates, when you book, and seasonality.
+                    - listitem [ref=e81]: Some redemption options include Crowne Plaza Vientiane, Holiday Inn Express Cape Town City Centre, and Holiday Inn Bangkok.
+                - paragraph [ref=e82]: As one of the largest hotel chains in the world, IHG Hotels & Resorts gives you plenty of ways to earn valuable IHG One Rewards points. Once you earn those points, you’ll want to find amazing redemption opportunities.
+                - paragraph [ref=e83]: Let’s dive into some of the best award stay options your IHG One Rewards points provide.
+                - heading "How To Earn IHG One Rewards Points" [level=2] [ref=e84]
+                - paragraph [ref=e85]:
+                  - text: The easiest way to
+                  - link "earn tons of IHG One Rewards points" [ref=e86] [cursor=pointer]:
+                    - /url: /travel/hotels/how-to-earn-ihg-rewards-club-points/
+                  - text: is through your credit card spending, whether on a
+                  - link "co-branded IHG card" [ref=e87] [cursor=pointer]:
+                    - /url: /credit-cards/best-ihg-credit-cards/
+                  - text: or a card that
+                  - link "earns Chase Ultimate Rewards" [ref=e88] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-chase-ultimate-rewards-points/
+                  - text: points that can be transferred to IHG.
+                - heading "IHG-Branded Credit Cards" [level=3] [ref=e89]
+                - heading "IHG One Rewards Premier Credit Card" [level=4] [ref=e90]
+                - generic [ref=e92]:
+                  - generic [ref=e93]:
+                    - link "IHG One Rewards Premier Credit Card" [ref=e94] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseIHGClubPremier/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - img "IHG One Rewards Premier Credit Card" [ref=e95]
+                    - link "Terms Apply / Rates & Fees" [ref=e96] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseIHGClubPremierTCCRF/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e97]: Terms Apply / Rates & Fees
+                    - generic [ref=e98]:
+                      - generic [ref=e99]:
+                        - img "Star rating icon" [ref=e102]
+                        - img "Star rating icon" [ref=e105]
+                        - img "Star rating icon" [ref=e108]
+                        - img "Star rating icon" [ref=e111]
+                        - generic [ref=e112]:
+                          - img "Star rating icon" [ref=e114]
+                          - img "Star rating icon" [ref=e116]
+                      - generic [ref=e117]:
+                        - generic [ref=e118]: U.P. Rating
+                        - img [ref=e121]:
+                          - img [ref=e122]
+                    - link "Apply Now" [ref=e125] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseIHGClubPremier/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - img [ref=e126]
+                      - text: Apply Now
+                    - generic [ref=e129]: (at Chase's secure site)
+                  - generic [ref=e130]:
+                    - generic [ref=e132]:
+                      - link "IHG One Rewards Premier Credit Card" [ref=e134] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/ihg-rewards-club-premier-credit-card/
+                      - text: The perfect card for IHG fans, offering a free night every year, automatic Platinum Elite status, and your fourth night free on award stays.
+                    - generic [ref=e135]:
+                      - generic [ref=e136]:
+                        - generic [ref=e137]:
+                          - generic [ref=e138]: Welcome Offer
+                          - img [ref=e141]:
+                            - img [ref=e142]
+                        - generic [ref=e145]: 140,000 points
+                      - generic [ref=e146]:
+                        - generic [ref=e148]: "UP's Offer Valuation*:"
+                        - generic [ref=e149]: $700
+                    - generic [ref=e150]:
+                      - generic [ref=e151]:
+                        - generic [ref=e153]: Annual Fee
+                        - generic [ref=e154]: $99
+                      - generic [ref=e155]:
+                        - generic [ref=e157]: APR
+                        - generic [ref=e158]: 19.24% - 27.74% Variable
+                      - generic [ref=e159]:
+                        - generic [ref=e160]:
+                          - generic [ref=e161]: Credit Recommended
+                          - img [ref=e164]:
+                            - img [ref=e165]
+                        - generic [ref=e168]: Good to Excellent
+                    - generic [ref=e169]:
+                      - group [ref=e170]:
+                        - generic "Why We Like This Card" [ref=e171] [cursor=pointer]
+                      - group [ref=e172]:
+                        - generic "Pros & Cons" [ref=e173] [cursor=pointer]
+                      - group [ref=e174]:
+                        - generic "Card Highlights" [ref=e175] [cursor=pointer]
+                - paragraph [ref=e176]:
+                  - text: You can earn IHG One Rewards points directly with the
+                  - link "IHG Premier card" [ref=e177] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/ihg-rewards-club-premier-credit-card/
+                  - text: ", which"
+                  - strong [ref=e178]: earns up to 26 points per $1
+                  - text: at IHG properties, 5 points per $1 spent on purchases on travel, gas stations, and restaurants, and 3 points per $1 spent on all other purchases
+                - paragraph [ref=e179]:
+                  - text: Cardmembers receive complimentary
+                  - link "IHG One Rewards Platinum status" [ref=e180] [cursor=pointer]:
+                    - /url: /travel/hotels/ihg-rewards-elite-status-benefits/
+                  - text: and an annual reward night certificate that can be used at many IHG properties. We’ll discuss this benefit more in depth later.
+                - heading "IHG One Rewards Traveler Credit Card" [level=4] [ref=e181]
+                - generic [ref=e183]:
+                  - generic [ref=e184]:
+                    - link "IHG One Rewards Traveler Credit Card" [ref=e185] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/IHGClubTraveler/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - img "IHG One Rewards Traveler Credit Card" [ref=e186]
+                    - link "Terms Apply / Rates & Fees" [ref=e187] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/IHGClubTravelerTCCRF/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e188]: Terms Apply / Rates & Fees
+                    - generic [ref=e189]:
+                      - generic [ref=e190]:
+                        - img "Star rating icon" [ref=e193]
+                        - img "Star rating icon" [ref=e196]
+                        - img "Star rating icon" [ref=e199]
+                        - img "Star rating icon" [ref=e202]
+                        - generic [ref=e203]:
+                          - img "Star rating icon" [ref=e205]
+                          - img "Star rating icon" [ref=e206]
+                      - generic [ref=e207]:
+                        - generic [ref=e208]: U.P. Rating
+                        - img [ref=e211]:
+                          - img [ref=e212]
+                    - link "Apply Now" [ref=e215] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/IHGClubTraveler/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - img [ref=e216]
+                      - text: Apply Now
+                    - generic [ref=e219]: (at Chase's secure site)
+                  - generic [ref=e220]:
+                    - generic [ref=e222]:
+                      - link "IHG One Rewards Traveler Credit Card" [ref=e224] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/ihg-rewards-club-traveler-credit-card/
+                      - text: Earn up to 17x when you stay at IHG hotels, 3x on monthly bills, at gas stations, and restaurants, and 2x on all other purchases.
+                    - generic [ref=e225]:
+                      - generic [ref=e226]:
+                        - generic [ref=e227]:
+                          - generic [ref=e228]: Welcome Offer
+                          - img [ref=e231]:
+                            - img [ref=e232]
+                        - generic [ref=e235]: 80,000 points
+                      - generic [ref=e236]:
+                        - generic [ref=e238]: "UP's Offer Valuation*:"
+                        - generic [ref=e239]: $400
+                    - generic [ref=e240]:
+                      - generic [ref=e241]:
+                        - generic [ref=e243]: Annual Fee
+                        - generic [ref=e244]: $0
+                      - generic [ref=e245]:
+                        - generic [ref=e247]: APR
+                        - generic [ref=e248]: 19.24% - 27.74% Variable
+                      - generic [ref=e249]:
+                        - generic [ref=e250]:
+                          - generic [ref=e251]: Credit Recommended
+                          - img [ref=e254]:
+                            - img [ref=e255]
+                        - generic [ref=e258]: Good to Excellent
+                    - generic [ref=e259]:
+                      - group [ref=e260]:
+                        - generic "Why We Like This Card" [ref=e261] [cursor=pointer]
+                      - group [ref=e262]:
+                        - generic "Pros & Cons" [ref=e263] [cursor=pointer]
+                      - group [ref=e264]:
+                        - generic "Card Highlights" [ref=e265] [cursor=pointer]
+                - paragraph [ref=e266]:
+                  - text: If you’re looking for a $0-annual-fee credit card, you can also check out the
+                  - link "IHG Traveler card" [ref=e267] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/ihg-rewards-club-traveler-credit-card/
+                  - text: ", which"
+                  - strong [ref=e268]: earns up to 17 points per $1 at IHG properties
+                  - text: and 3x points on monthly bills, gas stations, and restaurants. Additionally, you get complimentary IHG Silver Elite status for holding the IHG Traveler card.
+                - paragraph [ref=e269]:
+                  - text: And if you have either the IHG Premier card or the IHG Traveler card, you get the
+                  - strong [ref=e270]: fourth-reward-night-free benefit
+                  - text: ", which allows you to get your fourth consecutive hotel night in a single reservation free when booking reward stays."
+                - generic [ref=e271]:
+                  - strong [ref=e272]: »
+                  - strong [ref=e273]: "Related:"
+                  - link "The 7 Best Credit Cards for IHG One Rewards Loyalists [2026]" [ref=e274] [cursor=pointer]:
+                    - /url: /credit-cards/best-credit-cards-for-ihg-loyalists/
+                - heading "IHG One Rewards Premier Business Credit Card" [level=4] [ref=e275]
+                - generic [ref=e277]:
+                  - generic [ref=e278]:
+                    - img [ref=e279]
+                    - generic [ref=e281]: LIMITED-TIME OFFER
+                  - generic [ref=e282]:
+                    - link "IHG One Rewards Premier Business Credit Card" [ref=e283] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/IHGPremierBusiness/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - img "IHG One Rewards Premier Business Credit Card" [ref=e284]
+                    - link "Terms Apply / Rates & Fees" [ref=e285] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/IHGPremierBusinessTCCRF/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e286]: Terms Apply / Rates & Fees
+                    - generic [ref=e287]:
+                      - generic [ref=e288]:
+                        - img "Star rating icon" [ref=e291]
+                        - img "Star rating icon" [ref=e294]
+                        - img "Star rating icon" [ref=e297]
+                        - img "Star rating icon" [ref=e300]
+                        - generic [ref=e301]:
+                          - img "Star rating icon" [ref=e303]
+                          - img "Star rating icon" [ref=e305]
+                      - generic [ref=e306]:
+                        - generic [ref=e307]: U.P. Rating
+                        - img [ref=e310]:
+                          - img [ref=e311]
+                    - link "Apply Now" [ref=e314] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/IHGPremierBusiness/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - img [ref=e315]
+                      - text: Apply Now
+                    - generic [ref=e318]: (at Chase's secure site)
+                  - generic [ref=e319]:
+                    - generic [ref=e321]:
+                      - link "IHG One Rewards Premier Business Credit Card" [ref=e323] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/ihg-rewards-premier-business-card/
+                      - text: The IHG Premier Business card is the perfect option for business travelers who regularly stay at IHG hotels.
+                    - generic [ref=e324]:
+                      - generic [ref=e325]:
+                        - generic [ref=e326]:
+                          - generic [ref=e327]: Welcome Offer
+                          - img [ref=e330]:
+                            - img [ref=e331]
+                        - generic [ref=e334]: Up to 200,000 points
+                      - generic [ref=e335]:
+                        - generic [ref=e337]: "UP's Offer Valuation*:"
+                        - generic [ref=e338]: $1,000
+                    - generic [ref=e339]:
+                      - generic [ref=e340]:
+                        - generic [ref=e342]: Annual Fee
+                        - generic [ref=e343]: $99
+                      - generic [ref=e344]:
+                        - generic [ref=e346]: APR
+                        - generic [ref=e347]: 19.24% - 27.74% Variable
+                      - generic [ref=e348]:
+                        - generic [ref=e349]:
+                          - generic [ref=e350]: Credit Recommended
+                          - img [ref=e353]:
+                            - img [ref=e354]
+                        - generic [ref=e357]: Good to Excellent
+                    - generic [ref=e358]:
+                      - group [ref=e359]:
+                        - generic "Why We Like This Card" [ref=e360] [cursor=pointer]
+                      - group [ref=e361]:
+                        - generic "Pros & Cons" [ref=e362] [cursor=pointer]
+                      - group [ref=e363]:
+                        - generic "Card Highlights" [ref=e364] [cursor=pointer]
+                - paragraph [ref=e365]:
+                  - generic [ref=e366]:
+                    - text: The new
+                    - link "IHG Premier Business card" [ref=e367] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/ihg-rewards-premier-business-card/
+                    - text: "is great for business owners who want IHG status, since it comes with Platinum Elite status automatically. Some of the card’s other benefits include:"
+                - list [ref=e368]:
+                  - listitem [ref=e369]: Up to 26 points total per $1 spent when you stay at an IHG hotel
+                  - listitem [ref=e370]: 5 points per $1 spent on travel, hotels, dining, gas, office supply stores, and social media and search engine advertising
+                  - listitem [ref=e371]: 3 points per $1 spent on all other purchases
+                  - listitem [ref=e372]: Fourth-night-free benefit
+                  - listitem [ref=e373]: Yearly anniversary night worth 40,000 points (that can be topped off with additional points)
+                  - listitem [ref=e374]: Global Entry, TSA PreCheck, or Nexus application fee credit (up to $120)
+                - heading "Chase Ultimate Rewards" [level=3] [ref=e375]
+                - paragraph [ref=e376]:
+                  - text: To earn the most points when you’re
+                  - emphasis [ref=e377]: not
+                  - text: making purchases directly at IHG, collect Chase Ultimate Rewards and then transfer them to your IHG account, since the program is a
+                  - link "Chase transfer partner" [ref=e378] [cursor=pointer]:
+                    - /url: /credit-cards/chase-ultimate-rewards-transfer-partners/
+                  - text: . Points transfer almost instantaneously at a 1:1 ratio.
+                - paragraph [ref=e379]: With a lineup of Chase cards that have numerous bonus categories, you can get more IHG One Rewards points than you know what to do with!
+                - heading "Recommended Chase Cards (Personal)" [level=4] [ref=e380]
+                - generic [ref=e382]:
+                  - generic [ref=e383]:
+                    - img [ref=e384]
+                    - generic [ref=e386]: NEW OFFER
+                  - generic [ref=e387]:
+                    - link "Chase Sapphire Preferred® Card" [ref=e388] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Preferred® Card" [ref=e389]
+                    - link "Terms Apply / Rates & Fees" [ref=e390] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e391]: Terms Apply / Rates & Fees
+                    - generic [ref=e392]:
+                      - generic [ref=e393]:
+                        - img "Star rating icon" [ref=e396]
+                        - img "Star rating icon" [ref=e399]
+                        - img "Star rating icon" [ref=e402]
+                        - img "Star rating icon" [ref=e405]
+                        - generic [ref=e406]:
+                          - img "Star rating icon" [ref=e408]
+                          - img "Star rating icon" [ref=e410]
+                      - generic [ref=e411]:
+                        - generic [ref=e412]: U.P. Rating
+                        - img [ref=e415]:
+                          - img [ref=e416]
+                    - link "Apply Now" [ref=e419] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - img [ref=e420]
+                      - text: Apply Now
+                    - generic [ref=e423]: (at Chase's secure site)
+                  - generic [ref=e424]:
+                    - generic [ref=e426]:
+                      - link "Chase Sapphire Preferred® Card" [ref=e428] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                        - text: Chase Sapphire Preferred
+                        - superscript [ref=e429]: ®
+                        - text: Card
+                      - text: A fantastic travel card with a great welcome offer, good benefits, and perks for a moderate annual fee.
+                    - generic [ref=e430]:
+                      - generic [ref=e431]:
+                        - generic [ref=e432]:
+                          - generic [ref=e433]: Welcome Offer
+                          - img [ref=e436]:
+                            - img [ref=e437]
+                        - generic [ref=e440]: 60,000 75,000 points
+                      - generic [ref=e441]:
+                        - generic [ref=e443]: "UP's Offer Valuation*:"
+                        - generic [ref=e444]: $1,500
+                    - generic [ref=e445]:
+                      - generic [ref=e446]:
+                        - generic [ref=e448]: Annual Fee
+                        - generic [ref=e449]: $95
+                      - generic [ref=e450]:
+                        - generic [ref=e452]: APR
+                        - generic [ref=e453]: 19.24% - 27.49% Variable
+                      - generic [ref=e454]:
+                        - generic [ref=e455]:
+                          - generic [ref=e456]: Credit Recommended
+                          - img [ref=e459]:
+                            - img [ref=e460]
+                        - generic [ref=e463]: Good to Excellent
+                    - generic [ref=e464]:
+                      - group [ref=e465]:
+                        - generic "Why We Like This Card" [ref=e466] [cursor=pointer]
+                      - group [ref=e467]:
+                        - generic "Pros & Cons" [ref=e468] [cursor=pointer]
+                      - group [ref=e469]:
+                        - generic "Card Highlights" [ref=e470] [cursor=pointer]
+                - generic [ref=e472]:
+                  - generic [ref=e473]:
+                    - img [ref=e474]
+                    - generic [ref=e476]: NEW OFFER
+                  - generic [ref=e477]:
+                    - link "Chase Sapphire Reserve®" [ref=e478] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Reserve®" [ref=e479]
+                    - link "Terms Apply / Rates & Fees" [ref=e480] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserveTCCRF/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e481]: Terms Apply / Rates & Fees
+                    - generic [ref=e482]:
+                      - generic [ref=e483]:
+                        - img "Star rating icon" [ref=e486]
+                        - img "Star rating icon" [ref=e489]
+                        - img "Star rating icon" [ref=e492]
+                        - img "Star rating icon" [ref=e495]
+                        - generic [ref=e496]:
+                          - img "Star rating icon" [ref=e498]
+                          - img "Star rating icon" [ref=e500]
+                      - generic [ref=e501]:
+                        - generic [ref=e502]: U.P. Rating
+                        - img [ref=e505]:
+                          - img [ref=e506]
+                    - link "Apply Now" [ref=e509] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/7010/dissn.1775548838764.7073346957.1/
+                      - img [ref=e510]
+                      - text: Apply Now
+                    - generic [ref=e513]: (at Chase's secure site)
+                  - generic [ref=e514]:
+                    - generic [ref=e516]:
+                      - link "Chase Sapphire Reserve®" [ref=e518] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-reserve/
+                        - text: Chase Sapphire Reserve
+                        - superscript [ref=e519]: ®
+                      - text: A top player in the high-end premium travel credit card space that earns points on travel and dining while offering top luxury perks.
+                    - generic [ref=e520]:
+                      - generic [ref=e521]:
+                        - generic [ref=e522]:
+                          - generic [ref=e523]: Welcome Offer
+                          - img [ref=e526]:
+                            - img [ref=e527]
+                        - generic [ref=e530]: 125,000 points
+                      - generic [ref=e531]:
+                        - generic [ref=e533]: "UP's Offer Valuation*:"
+                        - generic [ref=e534]: $2,500
+                    - generic [ref=e535]:
+                      - generic [ref=e536]:
+                        - generic [ref=e538]: Annual Fee
+                        - generic [ref=e539]: $795
+                      - generic [ref=e540]:
+                        - generic [ref=e542]: APR
+                        - generic [ref=e543]: 19.49% - 27.99% Variable
+                      - generic [ref=e544]:
+                        - generic [ref=e545]:
+                          - generic [ref=e546]: Credit Recommended
+                          - img [ref=e549]:
+                            - img [ref=e550]
+                        - generic [ref=e553]: Excellent
+                    - generic [ref=e554]:
+                      - group [ref=e555]:
+                        - generic "Why We Like This Card" [ref=e556] [cursor=pointer]
+                      - group [ref=e557]:
+                        - generic "Pros & Cons" [ref=e558] [cursor=pointer]
+                      - group [ref=e559]:
+                        - generic "Card Highlights" [ref=e560] [cursor=pointer]
+                - paragraph [ref=e561]:
+                  - text: If you’re a business owner, see our list of the best
+                  - link "Chase business credit cards" [ref=e562] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/business/best-chase-business-credit-cards/
+                  - text: .
+                - heading "Bilt Rewards" [level=3] [ref=e563]
+                - paragraph [ref=e564]:
+                  - link "Bilt Rewards" [ref=e565] [cursor=pointer]:
+                    - /url: /credit-cards/bilt-rewards-program-review/
+                  - text: credit cards allow renters to
+                  - link "earn Bilt Points" [ref=e566] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-bilt-rewards-points/
+                  - text: on rent. These points
+                  - link "transfer" [ref=e567] [cursor=pointer]:
+                    - /url: /credit-cards/bilt-rewards-transfer-partners/
+                  - text: to IHG One Rewards at a 1:1 ratio.
+                - heading "IHG Brands and Categories" [level=2] [ref=e568]
+                - paragraph [ref=e569]:
+                  - text: With IHG’s
+                  - link "21 brands" [ref=e570] [cursor=pointer]:
+                    - /url: /travel/hotels/ihg-hotel-brands/
+                  - text: ", you will almost always be able to find the type of hotel you prefer. From luxury brands like Iberostar or"
+                  - link "Six Senses" [ref=e571] [cursor=pointer]:
+                    - /url: /travel/hotels/best-six-senses-hotels-resorts/
+                  - text: to more basic brands like Staybridge Suites or Candlewood Suites, you’re likely to find an IHG brand that fits what you’re looking for.
+                - paragraph [ref=e572]:
+                  - generic [ref=e573]:
+                    - strong [ref=e574]: "Hot Tip:"
+                    - text: If you need a standard hotel with basic amenities (perhaps a free breakfast buffet), you can book a
+                    - link "Holiday Inn Express" [ref=e575] [cursor=pointer]:
+                      - /url: /travel/hotels/holiday-inn-express-hotels/
+                    - text: . But if you want to enjoy a few nights in luxury, try an
+                    - link "InterContinental" [ref=e576] [cursor=pointer]:
+                      - /url: /travel/hotels/best-intercontinental-hotels-and-resorts-to-book-with-points/
+                    - text: or
+                    - link "Kimpton" [ref=e577] [cursor=pointer]:
+                      - /url: /travel/hotels/kimpton-hotels-and-restaurants/
+                    - text: property.
+                - paragraph [ref=e578]:
+                  - strong [ref=e579]: IHG no longer has an award chart
+                  - text: . Instead, IHG has adopted variable award pricing, which means that award nights prices depend on several factors, including what the cash rate is, when you’re booking, the seasonality of your stay, and so on.
+                - paragraph [ref=e580]: To know how many IHG One Rewards points you need per night, you need to search for the hotel you’re interested in booking and enter the specific dates you want to stay.
+                - paragraph [ref=e582]: Advertisement
+                - heading "31 Amazing IHG Award Redemptions" [level=2] [ref=e585]
+                - paragraph [ref=e586]: With so many hotel properties across the globe, it can be difficult to know where to begin. We’ll get you started with amazing IHG award stay ideas.
+                - 'heading "1. Crowne Plaza Vientiane (Laos): From 15,000 Points" [level=3] [ref=e587]':
+                  - text: "1."
+                  - link "Crowne Plaza Vientiane" [ref=e588] [cursor=pointer]:
+                    - /url: https://www.ihg.com/crowneplaza/hotels/us/en/vientiane/vtecp/hoteldetail
+                  - text: "(Laos): From 15,000 Points"
+                - 'figure "Crowne Plaza Vientiane. Image Credit: IHG" [ref=e590]':
+                  - link "Crowne Plaza Vientiane" [ref=e591] [cursor=pointer]:
+                    - /url: https://www.ihg.com/crowneplaza/hotels/us/en/vientiane/vtecp/hoteldetail
+                    - img "Crowne Plaza Vientiane" [ref=e593]
+                  - generic [ref=e594]: "Crowne Plaza Vientiane. Image Credit: IHG"
+                - paragraph [ref=e595]:
+                  - text: Laos is a relatively inaccessible destination but definitely one of the top tourist destinations (particularly for backpackers). This property in the capital of Laos is
+                  - strong [ref=e596]: only 5 minutes by foot away from the Mekong River
+                  - text: .
+                - paragraph [ref=e597]:
+                  - text: Although it caters mostly to business travelers, the
+                  - link "Crowne Plaza Vientiane" [ref=e598] [cursor=pointer]:
+                    - /url: https://www.ihg.com/crowneplaza/hotels/us/en/vientiane/vtecp/hoteldetail
+                  - text: offers rooms with free Wi-Fi, flat-screen TVs, and tea and coffee makers.
+                - paragraph [ref=e599]:
+                  - text: The property boasts a top-tier location, big rooms, an infinity pool, various places to eat, an executive lounge, a sauna, and a spa, all for
+                  - strong [ref=e600]: 15,000 to 21,000 IHG One Rewards points per night
+                  - text: . You’ll most likely be booked into the
+                  - strong [ref=e601]: 1 King Deluxe Nonsmoking
+                  - text: or
+                  - strong [ref=e602]: 2 Single Beds Deluxe Nonsmoking
+                  - text: room.
+                - paragraph [ref=e603]:
+                  - generic [ref=e604]:
+                    - strong [ref=e605]: "Hot Tip:"
+                    - text: It won’t get you maximum value, but you can also
+                    - link "transfer your IHG points to select airline partners" [ref=e606] [cursor=pointer]:
+                      - /url: /travel/hotels/ihg-rewards-transfer-partners/
+                    - text: .
+                - 'heading "2. Holiday Inn Express Cape Town City Centre (South Africa): From 15,000 Points" [level=3] [ref=e607]':
+                  - text: "2."
+                  - link "Holiday Inn Express Cape Town City Centre" [ref=e608] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinnexpress/hotels/us/en/cape-town/cptst/hoteldetail
+                  - text: "(South Africa): From 15,000 Points"
+                - 'figure "Holiday Inn Express Cape Town City Centre. Image Credit: IHG" [ref=e610]':
+                  - link "Holiday Inn Express Cape Town City Centre" [ref=e611] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinnexpress/hotels/us/en/cape-town/cptst/hoteldetail
+                    - img "Holiday Inn Express Cape Town City Centre" [ref=e613]
+                  - generic [ref=e614]: "Holiday Inn Express Cape Town City Centre. Image Credit: IHG"
+                - paragraph [ref=e615]: Cape Town, South Africa, is a favorite destination for travelers from around the world. At the Holiday Inn Express Cape Town City Centre, you receive friendly service and a solid breakfast.
+                - paragraph [ref=e616]:
+                  - link "The Holiday Inn Express Cape Town City Centre" [ref=e617] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinnexpress/hotels/us/en/cape-town/cptst/hoteldetail
+                  - text: is
+                  - strong [ref=e618]: on scenic St. George’s Mall
+                  - text: ", lined with beautiful trees and a 15-minute walk from the Cape Town International Convention Centre. The property is also less than 8 miles from Kirstenbosch National Botanical Garden."
+                - paragraph [ref=e619]: The open rooms have free Wi-Fi, flat-screen TVs, a desk, tea and coffee maker, as well as closet space. There’s also a bar with a terrace, and you can take a quick drive or a 20-to-30-minute walk to the waterfront.
+                - paragraph [ref=e620]:
+                  - text: You need to redeem about
+                  - strong [ref=e621]: 15,000 IHG One Rewards points per night
+                  - text: at this property. You’ll usually be booked into the
+                  - strong [ref=e622]: Double Bed
+                  - text: or
+                  - strong [ref=e623]: Twin Bed Nonsmoking
+                  - text: room.
+                - paragraph [ref=e624]:
+                  - generic [ref=e625]:
+                    - strong [ref=e626]: "Hot Tip:"
+                    - text: If you’re looking to
+                    - link "fly to South Africa on miles" [ref=e627] [cursor=pointer]:
+                      - /url: /travel/best-ways-to-fly-to-south-africa-with-points-and-miles/
+                    - text: ", check out our guide to enjoy an entire vacation book on points."
+                - 'heading "3. Holiday Inn Lodz (Poland): From 15,000 Points" [level=3] [ref=e628]':
+                  - text: "3."
+                  - link "Holiday Inn Lodz" [ref=e629] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/lodz/lcjui/hoteldetail
+                  - text: "(Poland): From 15,000 Points"
+                - 'figure "Holiday Inn Lodz. Image Credit: IHG" [ref=e631]':
+                  - link "Holiday Inn Lodz" [ref=e632] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/lodz/lcjui/hoteldetail
+                    - img "Holiday Inn Lodz" [ref=e634]
+                  - generic [ref=e635]: "Holiday Inn Lodz. Image Credit: IHG"
+                - paragraph [ref=e636]:
+                  - text: Whether you’re exploring Piotrkowska Street (a 3-mile commercial strip) or visiting modern art at Muzeum Sztuki, the
+                  - link "Holiday Inn Lodz" [ref=e637] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/lodz/lcjui/hoteldetail
+                  - text: provides a great jumping-off point.
+                - paragraph [ref=e638]: This property offers casual rooms with free Wi-Fi, flat-screen TVs, minibars, and tea and coffee facilities. At the hotel are a restaurant and a bar, fitness center, sauna, and fee-based parking.
+                - paragraph [ref=e639]:
+                  - text: Enjoy a comfortable stay and friendly service for
+                  - strong [ref=e640]: as little as 15,000 IHG One Rewards points
+                  - text: . When booking with points, you’ll likely be reserving the
+                  - strong [ref=e641]: 2 Single Beds
+                  - text: or
+                  - strong [ref=e642]: 1 Double Bed
+                  - text: room.
+                - generic [ref=e643]:
+                  - strong [ref=e644]: »
+                  - strong [ref=e645]: "Related:"
+                  - link "The 11 Best Holiday Inn Hotels To Book With Points [2025]" [ref=e646] [cursor=pointer]:
+                    - /url: /travel/hotels/best-holiday-inn-hotels-to-book-with-points/
+                - 'heading "4. Holiday Inn Shanghai Pudong Kangqiao (China): From 12,000 Points" [level=3] [ref=e647]':
+                  - text: "4."
+                  - link "Holiday Inn Shanghai Pudong Kangqiao" [ref=e648] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/shanghai/shgks/hoteldetail
+                  - text: "(China): From 12,000 Points"
+                - 'figure "Holiday Inn Shanghai Pudong Kangjiao. Image Credit: IHG" [ref=e650]':
+                  - link "Holiday Inn Shanghai Pool" [ref=e651] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/shanghai/shgks/hoteldetail
+                    - img "Holiday Inn Shanghai Pool" [ref=e653]
+                  - generic [ref=e654]: "Holiday Inn Shanghai Pudong Kangjiao. Image Credit: IHG"
+                - paragraph [ref=e655]:
+                  - text: If you enjoy hanging out by the pool, the
+                  - link "Holiday Inn Shanghai Pudong Kangjiao" [ref=e656] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/shanghai/shgks/hoteldetail
+                  - text: should be a fun stay for you. This hotel doesn’t have an ordinary rooftop pool. In fact,
+                  - strong [ref=e657]:
+                    - text: the pool extends
+                    - emphasis [ref=e658]: beyond
+                    - text: the edge of the building and has a glass bottom
+                  - text: so you can see down to the city!
+                - paragraph [ref=e659]:
+                  - text: This elegant hotel offers free Wi-Fi, flat-screen TVs, iPod docks, minifridges, and tea and coffee facilities. Additionally, you get complimentary parking and
+                  - strong [ref=e660]: shuttle service to Shanghai Disneyland
+                  - text: . Other amenities include a playground, a gym, a bar, 2 restaurants, and our personal favorite, the glass-bottom pool we mentioned above.
+                - paragraph [ref=e661]:
+                  - text: For
+                  - strong [ref=e662]: 12,000 IHG One Rewards points
+                  - text: ", you can book an award night in the"
+                  - strong [ref=e663]: 1 King Bed Superior Nonsmoking
+                  - text: or
+                  - strong [ref=e664]: 2 Single Bed Superior Room Nonsmoking
+                  - text: room.
+                - generic [ref=e665]:
+                  - strong [ref=e666]: »
+                  - strong [ref=e667]: "Related:"
+                  - link "The Best Ways To Fly to Mainland China With Points and Miles [Step-by-Step]" [ref=e668] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-china-with-points-and-miles/
+                - 'heading "5. Holiday Inn Bangkok (Thailand): From 10,000 Points" [level=3] [ref=e669]':
+                  - text: "5."
+                  - link "Holiday Inn Bangkok" [ref=e670] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/bangkok/bkkpc/hoteldetail
+                  - text: "(Thailand): From 10,000 Points"
+                - 'figure "Holiday Inn Bangkok. Image Credit: IHG" [ref=e672]':
+                  - link "Holiday Inn Bangkok" [ref=e673] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/bangkok/bkkpc/hoteldetail
+                    - img "Holiday Inn Bangkok" [ref=e675]
+                  - generic [ref=e676]: "Holiday Inn Bangkok. Image Credit: IHG"
+                - paragraph [ref=e677]: If you’re visiting Thailand, spend at least a couple of days exploring Bangkok and trying the amazing street food.
+                - paragraph [ref=e678]:
+                  - text: "There are multiple Holiday Inn properties in Bangkok, but the flagship hotel is the one with the plain name:"
+                  - link "Holiday Inn Bangkok" [ref=e679] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/bangkok/bkkpc/hoteldetail
+                  - text: . This modern hotel is squarely in the Central Business District and is 1 minute from Chit Lom BTS Skytrain station.
+                - paragraph [ref=e680]: Each of the 379 rooms and suites comes equipped with cozy beds, a flat-screen TV, free Wi-Fi, minibar, and tea and coffee maker. There’s also an executive lounge, a restaurant, a 1920s-inspired eatery, a lobby bar, an outdoor pool, a fitness center, a sauna, and a steam room.
+                - paragraph [ref=e681]:
+                  - strong [ref=e682]: Kids under 12 eat free
+                  - text: when sharing their parents’ room, and you have access to the facilities of the neighboring InterContinental property. Award stays can be
+                  - strong [ref=e683]: booked for 10,000 to 15,000 IHG One Rewards points per night
+                  - text: ", likely in the"
+                  - strong [ref=e684]: Queen Standard
+                  - text: room.
+                - 'heading "6. Holiday Inn Lyon – Vaise (France): From 12,500 Points" [level=3] [ref=e685]':
+                  - text: "6."
+                  - link "Holiday Inn Lyon – Vaise" [ref=e686] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/tassin-la-demi-lune/lysvv/hoteldetail
+                  - text: "(France): From 12,500 Points"
+                - 'figure "Holiday Inn Lyon – Vaise. Image Credit: IHG" [ref=e688]':
+                  - link "Holiday Inn Lyon - Vaise" [ref=e689] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/tassin-la-demi-lune/lysvv/hoteldetail
+                    - img "Holiday Inn Lyon - Vaise" [ref=e691]
+                  - generic [ref=e692]: "Holiday Inn Lyon – Vaise. Image Credit: IHG"
+                - paragraph [ref=e693]: Although this property isn’t in the city center, it’s just a couple of miles away from major tourist sites, so you can capitalize on a great value IHG redemption.
+                - paragraph [ref=e694]: This hotel is less than 2 miles from Vieux Lyon (the historic quarter) and less than 3 miles from the Basilica of Notre-Dame de Fourvière. Each of this property’s rooms comes with comfy beds, flat-screen TVs, desks, and coffeemakers.
+                - paragraph [ref=e695]:
+                  - text: With this hotel, you get a
+                  - strong [ref=e696]: convenient location, good service, and a nice breakfast
+                  - text: . Sometimes this is just what you need while exploring Lyon, a city known for its food scene and architecture.
+                  - strong [ref=e697]: Kids 12 and under also eat free
+                  - text: at the restaurant with floor-to-ceiling windows. There’s also a lobby bar, outdoor pool, shaded patio, fitness center, business center, and free parking.
+                - paragraph [ref=e698]:
+                  - link "The Holiday Inn Lyon" [ref=e699] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinn/hotels/us/en/tassin-la-demi-lune/lysvv/hoteldetail
+                  - text: – Vaise can be booked for
+                  - strong [ref=e700]: 12,500 to 15,000 IHG One Rewards points per night
+                  - text: . You’ll most likely be booked into the
+                  - strong [ref=e701]: Double Bed Room
+                  - text: when redeeming points.
+                - 'heading "7. Crowne Plaza Minsk (Belarus): From 15,000 Points" [level=3] [ref=e702]':
+                  - text: "7."
+                  - link "Crowne Plaza Minsk" [ref=e703] [cursor=pointer]:
+                    - /url: https://www.ihg.com/crowneplaza/hotels/us/en/minsk/msqmk/hoteldetail
+                  - text: "(Belarus): From 15,000 Points"
+                - 'figure "Image Credit: IHG" [ref=e705]':
+                  - img "Crowne Plaza Minsk" [ref=e707]
+                  - generic [ref=e708]: "Image Credit: IHG"
+                - paragraph [ref=e709]:
+                  - text: A
+                  - strong [ref=e710]: full-service hotel
+                  - text: ", the"
+                  - link "Crowne Plaza Minsk" [ref=e711] [cursor=pointer]:
+                    - /url: https://www.ihg.com/crowneplaza/hotels/us/en/minsk/msqmk/hoteldetail
+                  - text: is a popular hotel in Belarus. This hotel is less than 1 mile from the Belarusian Great Patriotic War Museum, a little more than 1 mile from Gorky Park, and less than 2 miles from Victory Square.
+                - paragraph [ref=e712]:
+                  - text: As you can tell, people like the Crowne Plaza Minsk for its
+                  - strong [ref=e713]: central location
+                  - text: in the city, but this is equally useful if you are going to be wandering around on vacation. The property has
+                  - strong [ref=e714]: 2 restaurants, a cafe, a casino, and a nightclub
+                  - text: . There’s tons of meeting space, a fully equipped fitness center, an indoor pool, a spa, saunas, and hot tubs.
+                - paragraph [ref=e715]:
+                  - text: If staying here sounds good to you, you can book a stay here for
+                  - strong [ref=e716]: 15,000 to 17,500 IHG One Rewards points per night
+                  - text: . You’ll usually see award availability for the
+                  - strong [ref=e717]: 1 Queen Bed Nonsmoking
+                  - text: room.
+                - 'heading "8. InterContinental Pattaya Resort (Thailand): From 20,000 Points" [level=3] [ref=e718]':
+                  - text: "8."
+                  - link "InterContinental Pattaya Resort" [ref=e719] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/pattaya/pyxha/hoteldetail
+                  - text: "(Thailand): From 20,000 Points"
+                - 'figure "InterContinental Pattaya Resort. Image Credit: IHG" [ref=e721]':
+                  - link "InterContinental Hotels Pattaya Resort" [ref=e722] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/pattaya/pyxha/hoteldetail
+                    - img "InterContinental Hotels Pattaya Resort" [ref=e724]
+                  - generic [ref=e725]: "InterContinental Pattaya Resort. Image Credit: IHG"
+                - paragraph [ref=e726]:
+                  - link "InterContinental Pattaya Resort" [ref=e727] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/pattaya/pyxha/hoteldetail
+                  - text: is a
+                  - strong [ref=e728]: family-friendly, 5-star resort
+                  - text: nestled on a cliff overlooking the Gulf of Thailand in Pattaya, which is less than 2 hours driving distance from Bangkok. This resort offers a
+                  - strong [ref=e729]: private beach
+                  - text: ", and the Asian-style rooms are adorned with the usual amenities. Additionally, there are private balconies in all the rooms."
+                - paragraph [ref=e730]: Dining includes a global cuisine spot, a tapas lounge, and a casual grill. The 3 pools lie amid tropical gardens, and there’s a spa, a 24-a-day hour gym, a business center, and more. Be sure to utilize the free shuttle to downtown Pattaya!
+                - paragraph [ref=e731]:
+                  - text: Nights can be
+                  - strong [ref=e732]: booked for as few as 20,000 points
+                  - text: ", though rates vary depending on the day you’re booking for. Be sure to look out for the"
+                  - strong [ref=e733]: 1 King Resort Classic Garden View
+                  - text: and
+                  - strong [ref=e734]: 2 Queen Resort Classic Garden View
+                  - text: room types.
+                - 'heading "9. Holiday Inn Express Paris – Canal de la Villette (France): From 20,000 Points" [level=3] [ref=e735]':
+                  - text: "9."
+                  - link "Holiday Inn Express Paris – Canal de la Villette" [ref=e736] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinnexpress/hotels/us/en/paris/parlv/hoteldetail
+                  - text: "(France): From 20,000 Points"
+                - 'figure "Holiday Inn Express Paris Canal de la Villette. Image Credit: IHG" [ref=e738]':
+                  - link "Holiday Inn Express Canal de la Villette" [ref=e739] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinnexpress/hotels/us/en/paris/parlv/hoteldetail
+                    - img "Holiday Inn Express Canal de la Villette" [ref=e741]
+                  - generic [ref=e742]: "Holiday Inn Express Paris Canal de la Villette. Image Credit: IHG"
+                - paragraph [ref=e743]:
+                  - link "Holiday Inn Express Paris Canal de la Villette" [ref=e744] [cursor=pointer]:
+                    - /url: https://www.ihg.com/holidayinnexpress/hotels/us/en/paris/parlv/hoteldetail
+                  - text: is a modern, limited-service property 4 minutes’ walking distance from Riquet Metro station and 3 miles from the Louvre.
+                - paragraph [ref=e745]:
+                  - generic [ref=e746]:
+                    - strong [ref=e747]: "Hot Tip:"
+                    - text: There are so many great things to do and see in Paris. Explore our
+                    - link "ultimate travel guide to Paris" [ref=e748] [cursor=pointer]:
+                      - /url: /travel/paris-travel-guide/
+                    - text: for where to stay, what to see, and how to get around, and don’t miss the
+                    - link "best Paris hotels to book with points." [ref=e749] [cursor=pointer]:
+                      - /url: /travel/hotels/best-paris-hotels-book-with-points/
+                - paragraph [ref=e750]:
+                  - text: Each of the bright rooms has free Wi-Fi, a comfy bed, flat-screen TV, work desk, and tea and coffee maker. There’s
+                  - strong [ref=e751]: complimentary breakfast
+                  - text: served in the modern dining room. But if you’d like to explore more, there’s also a trendy bar, an outdoor terrace, and a business center.
+                - paragraph [ref=e752]:
+                  - text: You can book rooms at this tourist hotel for
+                  - strong [ref=e753]: 20,000 to 35,000 points per night
+                  - text: in the
+                  - strong [ref=e754]: 1 Double Bed With Sofa Bed
+                  - text: or
+                  - strong [ref=e755]: 2 Twin Beds
+                  - text: room type.
+                - 'heading "10. InterContinental Aqaba (Jordan): From 25,000 Points" [level=3] [ref=e756]':
+                  - text: "10."
+                  - link "InterContinental Aqaba" [ref=e757] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/aqaba/aqjha/hoteldetail
+                  - text: "(Jordan): From 25,000 Points"
+                - 'figure "InterContinental Aqaba. Image Credit: IHG" [ref=e759]':
+                  - link "InterContinental Aqaba" [ref=e760] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/aqaba/aqjha/hoteldetail
+                    - img "InterContinental Aqaba" [ref=e762]
+                  - generic [ref=e763]: "InterContinental Aqaba. Image Credit: IHG"
+                - paragraph [ref=e764]:
+                  - text: If you like scuba diving, check out Aqaba, Jordan. To make your visit even better, check out the
+                  - link "InterContinental Aqaba" [ref=e765] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/aqaba/aqjha/hoteldetail
+                  - text: ", set on"
+                  - strong [ref=e766]: a private beach overlooking the glorious Gulf of Aqaba
+                  - text: . This hotel is 14 minutes’ walking distance from the Aqaba Archaeological Museum and less than 10 miles from King Hussein International Airport (AQB).
+                - paragraph [ref=e767]:
+                  - text: The posh rooms have free Wi-Fi, flat-screen TVs, minibars, and
+                  - strong [ref=e768]: balconies with gulf views
+                  - text: . The property has numerous amenities, including a lagoon-style pool, a spa, a playground, a 24-hour-a-day gym, a ballroom, an executive lounge, a business center, and numerous eateries.
+                - paragraph [ref=e769]: The staff receives great reviews, and the breakfast spread is fantastic. While you’re there, make sure you take advantage of the many coffee shops serving traditional dishes.
+                - paragraph [ref=e770]:
+                  - text: Rooms can be booked here for
+                  - strong [ref=e771]: 25,000 to 40,000 points per night
+                  - text: . Look for the
+                  - strong [ref=e772]: King Standard
+                  - text: or
+                  - strong [ref=e773]: 2 Twin Standard Room
+                  - text: room type.
+                - 'heading "11. InterContinental Chennai Mahabalipuram Resort (India): From 17,500 Points" [level=3] [ref=e774]'
+                - 'figure "InterContinental Chennai Mahabalipuram Resort. Image Credit: IHG" [ref=e776]':
+                  - link "InterContinental Chennai Mahabalipuram Resort" [ref=e777] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/chennai/maamr/hoteldetail
+                    - img "InterContinental Chennai Mahabalipuram Resort" [ref=e779]
+                  - generic [ref=e780]: "InterContinental Chennai Mahabalipuram Resort. Image Credit: IHG"
+                - generic [ref=e781]:
+                  - strong [ref=e782]: "Update:"
+                  - paragraph [ref=e784]: This property is closed for renovations until November 1, 2025.
+                - paragraph [ref=e785]:
+                  - text: If you’d like a
+                  - strong [ref=e786]: private beach and amazing rooms
+                  - text: ", the InterContinental Chennai Mahabalipuram Resort is a solid choice. This property is 11 minutes’ walking distance from the Madras Crocodile Bank Trust and less than 7 miles from the Tiger Cave rock-cut temple."
+                - paragraph [ref=e787]: The posh rooms contain free Wi-Fi, flat-screen TVs, day beds, sunken tubs, and rainfall showers. On the grounds are a Chinese restaurant, an open-air cafe set atop a floating deck, and a 1920s American-style bar. The property also has an Ayurvedic spa, a fitness center, an outdoor pool, landscaped gardens, and an executive lounge.
+                - paragraph [ref=e788]:
+                  - text: You can book award stays for
+                  - strong [ref=e789]: 17,500 to 25,000 IHG One Rewards points per night
+                  - text: in the
+                  - strong [ref=e790]: 1 King Bed Resort Classic
+                  - text: or
+                  - strong [ref=e791]: Resort Classic Twin
+                  - text: room.
+                - paragraph [ref=e792]:
+                  - text: As with the
+                  - link "Park Hyatt in Chennai" [ref=e793] [cursor=pointer]:
+                    - /url: /travel/hotels/best-ways-to-redeem-hyatt-points/#1-Park-Hyatt-Chennai-Category-1
+                  - text: ","
+                  - strong [ref=e794]: this is a great opportunity to book a luxury hotel for far fewer points than usual
+                  - text: . Not only is it a good deal, but the staff really shines at this property.
+                - 'heading "12. InterContinental Hanoi Landmark72 (Vietnam): From 15,000 Points" [level=3] [ref=e795]':
+                  - text: "12."
+                  - link "InterContinental Hanoi Landmark72" [ref=e796] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/hanoi/hanha/hoteldetail
+                  - text: "(Vietnam): From 15,000 Points"
+                - 'figure "InterContinental Hanoi Landmark72. Image Credit: IHG" [ref=e798]':
+                  - link "InterContinental Hanoi Landmark72" [ref=e799] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/hanoi/hanha/hoteldetail
+                    - img "InterContinental Hanoi Landmark72" [ref=e801]
+                  - generic [ref=e802]: "InterContinental Hanoi Landmark72. Image Credit: IHG"
+                - paragraph [ref=e803]:
+                  - link "The InterContinental Hanoi Landmark72" [ref=e804] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/hanoi/hanha/hoteldetail
+                  - text: is known for its huge meeting and event facilities — the largest in Hanoi. It’s 1,135 feet tall, which makes it
+                  - strong [ref=e805]: one of the tallest hotels in the world
+                  - text: .
+                - paragraph [ref=e806]:
+                  - text: There are floor-to-ceiling windows, a great lobby bar, and 3 restaurants in this hotel, where you can stay for
+                  - strong [ref=e807]: 15,000 to 25,000 points per night
+                  - text: in the
+                  - strong [ref=e808]: 1 King Bed Deluxe Room
+                  - text: or
+                  - strong [ref=e809]: 2 Single Beds Deluxe Room
+                  - text: .
+                - generic [ref=e810]:
+                  - strong [ref=e811]: »
+                  - strong [ref=e812]: "Related:"
+                  - link "The Best Ways To Fly to Vietnam With Points and Miles [Step by Step]" [ref=e813] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-vietnam-with-points-and-miles/
+                - 'heading "13. InterContinental Phu Quoc Long Beach Resort (Vietnam): From 22,500 Points" [level=3] [ref=e814]':
+                  - text: "13."
+                  - link "InterContinental Phu Quoc Long Beach Resort" [ref=e815] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/phu-quoc/pqccp/hoteldetail
+                  - text: "(Vietnam): From 22,500 Points"
+                - 'figure "InterContinental Phu Quoc Long Beach Resort. Image Credit: IHG" [ref=e817]':
+                  - link "InterContinental Phu Quoc Long Beach Resort" [ref=e818] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/phu-quoc/pqccp/hoteldetail
+                    - img "InterContinental Phu Quoc Long Beach Resort" [ref=e820]
+                  - generic [ref=e821]: "InterContinental Phu Quoc Long Beach Resort. Image Credit: IHG"
+                - paragraph [ref=e822]:
+                  - link "InterContinental Phu Quoc" [ref=e823] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/phu-quoc/pqccp/hoteldetail
+                  - text: is
+                  - strong [ref=e824]: one of Vietnam’s most luxurious hotels
+                  - text: . With over 450 rooms, residences, and suites, this white-sands property could be worth getting to know.
+                - paragraph [ref=e825]: Each of the chic rooms comes with a flat-screen TV, separate sitting area, marble bathroom, tea and coffee facilities, and free Wi-Fi.
+                - paragraph [ref=e826]: You can eat at a fresh seafood restaurant, a rooftop bar, or an executive lounge to satisfy your cravings. Plus, check out the lobby lounge, outdoor pools, spa, event space, or just the sprawling spaces of this property.
+                - paragraph [ref=e827]:
+                  - text: You can find award room rates for
+                  - strong [ref=e828]: 22,500 to 35,000 points per night
+                  - text: in the
+                  - strong [ref=e829]: 1 King Bed Resort Classic Room
+                  - text: or
+                  - strong [ref=e830]: 2 Single Beds Resort Classic Room
+                  - text: .
+                - 'heading "14. InterContinental Malta: From 25,000 Points" [level=3] [ref=e831]':
+                  - text: "14."
+                  - link "InterContinental Malta" [ref=e832] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/gb/en/malta/malha/hoteldetail
+                  - text: ": From 25,000 Points"
+                - 'figure "InterContinental Malta. Image Credit: IHG" [ref=e834]':
+                  - link "InterContinental Malta" [ref=e835] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/gb/en/malta/malha/hoteldetail
+                    - img "InterContinental Malta" [ref=e837]
+                  - generic [ref=e838]: "InterContinental Malta. Image Credit: IHG"
+                - paragraph [ref=e839]:
+                  - text: Another true 5-star experience, the
+                  - link "InterContintental Malta" [ref=e840] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/gb/en/malta/malha/hoteldetail
+                  - text: has
+                  - strong [ref=e841]: a private beach a 2-minute walk from the property
+                  - text: . After you’ve explored the historic sites, you can relax at the hotel spa.
+                - paragraph [ref=e842]: Alternatively, you can revel in your room with its marble bathroom, tea and coffee maker, free high-speed Wi-Fi, flat-screen HDTV, and minibar.
+                - paragraph [ref=e843]: Within this property, there are 4 restaurants, a bar, a rooftop terrace with a cocktail lounge, an infinity pool, a gym, and meeting and event space.
+                - paragraph [ref=e844]:
+                  - text: Book this amazing IHG property for
+                  - strong [ref=e845]: 25,000 to 35,000 points per night
+                  - text: at the
+                  - strong [ref=e846]: Deluxe Room
+                  - text: type.
+                - 'heading "15. InterContinental Grand Stanford Hong Kong (China): From 20,000 Points" [level=3] [ref=e847]':
+                  - text: "15."
+                  - link "InterContinental Grand Stanford Hong Kong" [ref=e848] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/hong-kong/hkghb/hoteldetail
+                  - text: "(China): From 20,000 Points"
+                - 'figure "InterContinental Grand Stanford Hong Kong. Image Credit: IHG" [ref=e850]':
+                  - link "InterContinental Grand Stanford Hong Kong" [ref=e851] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/hong-kong/hkghb/hoteldetail
+                    - img "InterContinental Grand Stanford Hong Kong" [ref=e853]
+                  - generic [ref=e854]: "InterContinental Grand Stanford Hong Kong. Image Credit: IHG"
+                - paragraph [ref=e855]:
+                  - text: Known for its amazing views of the harbor, the
+                  - link "InterContinental Grand Stanford Hong Kong" [ref=e856] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/hong-kong/hkghb/hoteldetail
+                  - text: is an attractive luxury hotel for your stay in Hong Kong, especially since you can also
+                  - link "fly to Hong Kong on points" [ref=e857] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-hong-kong-with-points/
+                  - text: . This elegant hotel overlooks Kowloon Bay and Hong Kong Island from its location in Tsim Sha Tsui. (In 2023, its sister property, the InterContinental Hong Kong, another great property, rebranded as Regent Hong Kong, which was the original brand from 1980 to 2001.)
+                - paragraph [ref=e858]: Each of the Grand Stanford’s rooms is technologically advanced, with free high-speed Wi-Fi, a smart TV, and an iPod dock, minibar, marble bathroom, and coffee and tea maker.
+                - paragraph [ref=e859]: You can keep healthy at its extensive fitness center and spa or have a meal at one of several restaurants. There’s also an outdoor pool and a hot tub.
+                - paragraph [ref=e860]:
+                  - text: Currently, you can book a stay here for
+                  - strong [ref=e861]: 20,000 to 50,000 points per night
+                  - text: . Look for the
+                  - strong [ref=e862]: Single Classic
+                  - text: or
+                  - strong [ref=e863]: 2 Twins Classic
+                  - text: award rate.
+                - 'heading "16. InterContinental Mauritius: From 30,000 Points" [level=3] [ref=e864]':
+                  - text: "16."
+                  - link "InterContinental Mauritius" [ref=e865] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/gb/en/balaclava/mruma/hoteldetail
+                  - text: ": From 30,000 Points"
+                - 'figure "InterContinental Mauritius. Image Credit: IHG" [ref=e867]':
+                  - link "InterContinental Mauritius" [ref=e868] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/gb/en/balaclava/mruma/hoteldetail
+                    - img "InterContinental Mauritius" [ref=e870]
+                  - generic [ref=e871]: "InterContinental Mauritius. Image Credit: IHG"
+                - paragraph [ref=e872]:
+                  - text: Known for its natural beauty,
+                  - strong [ref=e873]: Mauritius is a bucket list destination
+                  - text: for many travelers. Booking an award stay at
+                  - link "InterContinental Resort Mauritius" [ref=e874] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/gb/en/balaclava/mruma/hoteldetail
+                  - text: could make your adventure even better!
+                - paragraph [ref=e875]: This property is set on the Bay of Balaclava, and it’s 6 miles from Sir Seewoosagur Ramgoolam Botanical Garden and 8 miles from the Jummah Masjid historic mosque.
+                - paragraph [ref=e876]: Each of the sleek rooms contains a flat-screen TV, free Wi-Fi, minibar, and bay view. Amenities include upscale eateries, a polished beach bar, an outdoor infinity pool, tennis courts, and a spa.
+                - paragraph [ref=e877]:
+                  - text: For as few as
+                  - strong [ref=e878]: 30,000 IHG One Rewards points
+                  - text: ", you can stay here and enjoy easy access to the beach throughout your stay. The exact room type varies, but look for the"
+                  - strong [ref=e879]: Standard Room
+                  - text: rate. It’s usually the
+                  - strong [ref=e880]: Deluxe Room Ocean Facing King Bed
+                  - text: or
+                  - strong [ref=e881]: 1 King Classic Sunset View Balcony
+                  - text: room.
+                - 'heading "17. InterContinental Melbourne (Australia): From 25,000 Points" [level=3] [ref=e882]':
+                  - text: "17."
+                  - link "InterContinental Melbourne" [ref=e883] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/melbourne/melha/hoteldetail
+                  - text: "(Australia): From 25,000 Points"
+                - 'figure "InterContinental Melbourne. Image Credit: IHG" [ref=e885]':
+                  - link "InterContinental Melbourne" [ref=e886] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/melbourne/melha/hoteldetail
+                    - img "InterContinental Melbourne" [ref=e888]
+                  - generic [ref=e889]: "InterContinental Melbourne. Image Credit: IHG"
+                - paragraph [ref=e890]:
+                  - link "The InterContinental Melbourne" [ref=e891] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/melbourne/melha/hoteldetail
+                  - text: defines a 5-star hotel experience in Australia. From the moment you arrive at the Collins Street property to the moment you walk through the door and check into your room, you should expect to be greeted by friendly staff.
+                - paragraph [ref=e892]: This hotel offers refined accommodations with amenities like high-speed Wi-Fi, flat-screen TVs, coffee makers, and more.
+                - paragraph [ref=e893]: The hotel also offers an indoor pool, a gym, a spa, a bar, an Italian eatery, and a formal restaurant offering modern Australian cuisine, as well as a cafe with high tea.
+                - paragraph [ref=e894]:
+                  - text: This hotel’s location lets you
+                  - link "explore Melbourne" [ref=e895] [cursor=pointer]:
+                    - /url: /travel/melbourne-australia-travel-guide/
+                  - text: with ease. Book an award stay for around 25,000 to 32,500 IHG One Rewards points per night on most nights. The award rate to look for is the
+                  - strong [ref=e896]: King Deluxe
+                  - text: room.
+                - 'heading "18. InterContinental Phoenicia Beirut (Lebanon): From 30,000 Points" [level=3] [ref=e897]':
+                  - text: "18."
+                  - link "InterContinental Phoenicia Beirut" [ref=e898] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/beirut/beyha/hoteldetail
+                  - text: "(Lebanon): From 30,000 Points"
+                - 'figure "InterContinental Phoenicia Beirut. Image Credit: IHG" [ref=e900]':
+                  - link "InterContinental Phoenicia Beirut" [ref=e901] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/beirut/beyha/hoteldetail
+                    - img "InterContinental Phoenicia Beirut" [ref=e903]
+                  - generic [ref=e904]: "InterContinental Phoenicia Beirut. Image Credit: IHG"
+                - paragraph [ref=e905]:
+                  - text: Considered one of the best hotels in Lebanon, the
+                  - link "InterContinental Phoenicia Beirut" [ref=e906] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/beirut/beyha/hoteldetail
+                  - text: is a 5-star hotel that overlooks Zaitunay Bay and is a 6-minute walk from the shops and eateries lining the Mediterranean coast.
+                - paragraph [ref=e907]: Within this luxury hotel, you’ll find oversized rooms with free Wi-Fi, flat-screen TVs, minibars, and balconies. If you’re booked into Club Rooms, you can access the executive lounge, too.
+                - paragraph [ref=e908]:
+                  - text: In this hotel are 4 restaurants and bars,
+                  - strong [ref=e909]: a complimentary airport shuttle
+                  - text: ", a gym, a spa, a business center, and an outdoor and indoor pool."
+                - paragraph [ref=e910]:
+                  - text: For as few as
+                  - strong [ref=e911]: 30,000 points per night
+                  - text: in the
+                  - strong [ref=e912]: Standard Room
+                  - text: (usually Superior King Room) award, you can book a stay here while you explore the many museums and architectural styles of the city.
+                - 'heading "19. InterContinental Porto – Palacio das Cardosas (Portugal): From 32,500 Points" [level=3] [ref=e913]':
+                  - text: "19."
+                  - link "InterContinental Porto – Palacio das Cardosas" [ref=e914] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/porto/prtha/hoteldetail
+                  - text: "(Portugal): From 32,500 Points"
+                - 'figure "InterContinental Porto Palacio das Cardosas. Image Credit: IHG" [ref=e916]':
+                  - link "InterContinental Porto Palacio das Cardosas" [ref=e917] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/porto/prtha/hoteldetail
+                    - img "InterContinental Porto Palacio das Cardosas" [ref=e919]
+                  - generic [ref=e920]: "InterContinental Porto Palacio das Cardosas. Image Credit: IHG"
+                - paragraph [ref=e921]:
+                  - text: Perhaps the best hotel in Porto, Portugal, the
+                  - link "InterContinental Porto" [ref=e922] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/porto/prtha/hoteldetail
+                  - text: is the place to stay while you enjoy some port wine from the Douro Valley. This
+                  - strong [ref=e923]: beautiful, historic hotel
+                  - text: is known for service that goes above and beyond.
+                - paragraph [ref=e924]: Each of the rooms has high ceilings and a marble bathroom, plus free Wi-Fi, a flat-screen TV, and coffee and tea maker. At this property, there’s a refined restaurant and a sophisticated bar, along with a spa that offers massage and beauty treatments.
+                - paragraph [ref=e925]:
+                  - text: Award stays in the
+                  - strong [ref=e926]: King Deluxe
+                  - text: or
+                  - strong [ref=e927]: Twin Deluxe
+                  - text: rooms can be booked for
+                  - strong [ref=e928]: 32,500 to 50,000 points per night.
+                - 'heading "20. InterContinental Bali Resort (Indonesia): From 35,000 Points" [level=3] [ref=e929]':
+                  - text: "20."
+                  - link "InterContinental Bali Resort" [ref=e930] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/bali/dpsha/hoteldetail
+                  - text: "(Indonesia): From 35,000 Points"
+                - 'figure "InterContinental Bali Resort. Image Credit: IHG" [ref=e932]':
+                  - link "Intercontinental Bali" [ref=e933] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/bali/dpsha/hoteldetail
+                    - img "Intercontinental Bali" [ref=e935]
+                  - generic [ref=e936]: "InterContinental Bali Resort. Image Credit: IHG"
+                - paragraph [ref=e937]:
+                  - text: Bali might be one of the most popular destinations on the planet right now as people flock there to
+                  - strong [ref=e938]: relax on the beach and enjoy the picturesque scenery
+                  - text: . To make your trip even better, check out the luxurious
+                  - link "InterContinental Bali Resort" [ref=e939] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/bali/dpsha/hoteldetail
+                  - text: ", with luxe rooms containing marble bathrooms, traditional wooden furnishings, and much more."
+                - paragraph [ref=e940]:
+                  - text: All of the rooms have a terrace or balcony, and there are 5 restaurants,
+                  - strong [ref=e941]: 6 outdoor pools
+                  - text: ", a day spa, salon, water sports center, gym, and shopping center to keep you busy!"
+                - paragraph [ref=e942]:
+                  - text: You can book a stay for as little as
+                  - strong [ref=e943]: 35,000 to 40,000 points per night
+                  - text: at the
+                  - strong [ref=e944]: 1 King Classic Garden View Balcony
+                  - text: or
+                  - strong [ref=e945]: 2 Single Classic Garden View Balcony
+                  - text: room types.
+                - paragraph [ref=e946]:
+                  - generic [ref=e947]:
+                    - strong [ref=e948]: "Hot Tip:"
+                    - link "Marriott Bonvoy" [ref=e949] [cursor=pointer]:
+                      - /url: /travel/hotels/marriott-rewards-loyalty-program/
+                    - text: points can deliver luxury in Bali, as well — see our review of
+                    - link "the Laguna, a Luxury Collection Resort & Spa in Nusa Dua" [ref=e950] [cursor=pointer]:
+                      - /url: /travel/the-laguna-nusa-dua-bali-review/
+                    - text: . With its 7 lagoon pools, beachfront access, and restaurants, you could easily stay here and not feel like you have to venture to the island’s more popular areas.
+                - 'heading "21. InterContinental Budapest (Hungary): From 25,000 Points" [level=3] [ref=e951]':
+                  - text: "21."
+                  - link "InterContinental Budapest" [ref=e952] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/budapest/budhb/hoteldetail
+                  - text: "(Hungary): From 25,000 Points"
+                - 'figure "InterContinental Budapest. Image Credit: IHG" [ref=e954]':
+                  - link "InterContinental Budapest" [ref=e955] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/budapest/budhb/hoteldetail
+                    - img "InterContinental Budapest" [ref=e957]
+                  - generic [ref=e958]: "InterContinental Budapest. Image Credit: IHG"
+                - paragraph [ref=e959]:
+                  - text: Budapest is a fascinating city to visit, with numerous museums, churches, and even the largest synagogue in Europe. When you visit this UNESCO World Heritage Site, you can stay at the
+                  - link "InterContinental Budapest" [ref=e960] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/budapest/budhb/hoteldetail
+                  - text: ", considered one of the city’s finest hotels."
+                - paragraph [ref=e961]: This hotel is 4 minutes’ walking distance from public transportation, 6 minutes’ walking distance from the Chain Bridge, and 14 minutes’ walking distance from the Hungarian State Opera House.
+                - paragraph [ref=e962]: The property features rooms with coffee makers, free Wi-Fi, and flat-screen TVs, as well as an executive lounge, restaurant, bar with a terrace, indoor pool, gym, spa, sauna, and steam room.
+                - paragraph [ref=e963]:
+                  - text: For as little as
+                  - strong [ref=e964]: 25,000 to 40,000 points per night
+                  - text: in the
+                  - strong [ref=e965]: King Classic Standard
+                  - text: or
+                  - strong [ref=e966]: 2 Single Beds Classic Standard
+                  - text: room, you get great views and service.
+                - 'heading "22. InterContinental Grand Seoul Parnas (South Korea): From 25,000 Points" [level=3] [ref=e967]':
+                  - text: "22."
+                  - link "InterContinental Grand Seoul Parnas" [ref=e968] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/seoul/seoha/hoteldetail
+                  - text: "(South Korea): From 25,000 Points"
+                - 'figure "InterContinental Grand Seoul Parnas. Image Credit: IHG" [ref=e970]':
+                  - link "InterContinental Grand Seoul Parnas" [ref=e971] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/seoul/seoha/hoteldetail
+                    - img "InterContinental Grand Seoul Parnas" [ref=e973]
+                  - generic [ref=e974]: "InterContinental Grand Seoul Parnas. Image Credit: IHG"
+                - paragraph [ref=e975]:
+                  - text: The phenomenal staff at the
+                  - link "InterContinental Grand Seoul Parnas" [ref=e976] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/seoul/seoha/hoteldetail
+                  - text: is really the difference at this excellent property. Guests have found that employees are always happy to help during stays in Seoul — a city that has something for you to do no matter what hour it is.
+                - paragraph [ref=e977]: In affluent Gangnam, this property has a full-service gym, French and Japanese restaurants, a spa, an indoor pool, a sauna, business facilities, meeting space, and a club lounge. Each of the rooms has a flat-screen TV, coffee maker, minibar, 24-hour-a-day room service, free Wi-Fi, and music systems.
+                - paragraph [ref=e978]:
+                  - text: You can book award stays for as few as
+                  - strong [ref=e979]: 25,000 IHG One Rewards points per night
+                  - text: . You’ll probably be reserving the
+                  - strong [ref=e980]: King Deluxe Room
+                  - text: or
+                  - strong [ref=e981]: 2 Twin Deluxe Room
+                  - text: .
+                - 'heading "23. InterContinental Madrid (Spain): From 35,000 Points" [level=3] [ref=e982]':
+                  - text: "23."
+                  - link "InterContinental Madrid" [ref=e983] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/madrid/mddha/hoteldetail
+                  - text: "(Spain): From 35,000 Points"
+                - 'figure "InterContinental Madrid. Image Credit: IHG" [ref=e985]':
+                  - link "InterContinental Madrid" [ref=e986] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/madrid/mddha/hoteldetail
+                    - img "InterContinental Madrid" [ref=e988]
+                  - generic [ref=e989]: "InterContinental Madrid. Image Credit: IHG"
+                - paragraph [ref=e990]:
+                  - text: A quick metro ride or nice walk from the city center, the
+                  - link "InterContinental Madrid" [ref=e991] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/madrid/mddha/hoteldetail
+                  - text: has a reputation for making guests feel right at home with top-notch service.
+                - paragraph [ref=e992]:
+                  - text: Each of the 302 luxurious hotel rooms has a plush bed, separate sitting area, desk, coffee and tea facilities, soaking tub, bathrobes and slippers, and flat-screen TV. This hotel has a restaurant with a terrace, a bar, a spa, a gym, a hot tub, a business center, an executive lounge, and
+                  - strong [ref=e993]: a whopping 16 meeting rooms
+                  - text: "!"
+                - paragraph [ref=e994]:
+                  - text: At
+                  - strong [ref=e995]: 35,000 to 40,000 points per night
+                  - text: for the
+                  - strong [ref=e996]: 1 Queen Bed Room
+                  - text: or
+                  - strong [ref=e997]: 2 Twin Beds Room
+                  - text: ", you’ll probably be happy you stayed here during your trip to"
+                  - link "Madrid" [ref=e998] [cursor=pointer]:
+                    - /url: /travel/fun-things-to-do-in-madrid-spain/
+                  - text: .
+                - 'heading "24. Regent Porto Montenegro: From 30,000 Points" [level=3] [ref=e999]':
+                  - text: "24."
+                  - link "Regent Porto Montenegro" [ref=e1000] [cursor=pointer]:
+                    - /url: https://www.ihg.com/regent/hotels/us/en/porto-montenegro/tivpm/hoteldetail
+                  - text: ": From 30,000 Points"
+                - 'figure "Regent Porto Montenegro. Image Credit: IHG" [ref=e1002]':
+                  - link "Regent Porto Montenegro" [ref=e1003] [cursor=pointer]:
+                    - /url: https://www.ihg.com/regent/hotels/us/en/porto-montenegro/tivpm/hoteldetail
+                    - img "Regent Porto Montenegro" [ref=e1005]
+                  - generic [ref=e1006]: "Regent Porto Montenegro. Image Credit: IHG"
+                - paragraph [ref=e1007]:
+                  - link "Regent Porto Montenegro" [ref=e1008] [cursor=pointer]:
+                    - /url: https://www.ihg.com/regent/hotels/us/en/porto-montenegro/tivpm/hoteldetail
+                  - text: is one of the most beautiful hotels along the palm-fringed shores of the Adriatic coast. As
+                  - strong [ref=e1009]: a playground for Europe’s glamorous elite
+                  - text: ", Porto Montenegro commands a big price tag, and Regent Porto Montenegro is no exception."
+                - paragraph [ref=e1010]: Each of the neoclassical rooms offers free Wi-Fi, a flat-screen TV, and a balcony with a mountain or sea view. Plus, it has the amenities like the library-style bar, French bakery, waterfront Italian garden, fitness center, spa, and indoor and outdoor pools.
+                - paragraph [ref=e1011]:
+                  - text: Stays can be booked here for
+                  - strong [ref=e1012]: 30,000 to 60,000 points per nigh
+                  - text: t in the
+                  - strong [ref=e1013]: Deluxe 1 King Mountain View Venezia
+                  - text: or
+                  - strong [ref=e1014]: Deluxe 1 King Sea View Venezia
+                  - text: room type.
+                - generic [ref=e1015]:
+                  - strong [ref=e1016]: »
+                  - strong [ref=e1017]: "Related:"
+                  - link "The Best Ways To Fly to Europe With Points and Miles [Step by Step]" [ref=e1018] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-europe-with-points/
+                - 'heading "25. Regent Taipei (Taiwan): From 30,000 Points" [level=3] [ref=e1019]':
+                  - text: "25."
+                  - link "Regent Taipei" [ref=e1020] [cursor=pointer]:
+                    - /url: https://www.ihg.com/regent/hotels/us/en/taipei/tperg/hoteldetail
+                  - text: "(Taiwan): From 30,000 Points"
+                - 'figure "Regent Taipei. Image Credit: IHG" [ref=e1022]':
+                  - link "Regent Taipei" [ref=e1023] [cursor=pointer]:
+                    - /url: https://www.ihg.com/regent/hotels/us/en/taipei/tperg/hoteldetail
+                    - img "Regent Taipei" [ref=e1025]
+                  - generic [ref=e1026]: "Regent Taipei. Image Credit: IHG"
+                - paragraph [ref=e1027]:
+                  - link "Regent Taipei" [ref=e1028] [cursor=pointer]:
+                    - /url: https://www.ihg.com/regent/hotels/us/en/taipei/tperg/hoteldetail
+                  - text: is a luxury hotel in the Zhongshan district of Taiwan’s capital city. Offering
+                  - strong [ref=e1029]: 5-star accommodations
+                  - text: ", this high-rise hotel is 7 minutes’ walking distance from the nearest metro station and less than 5 miles from the Taipei 101 skyscraper and 8 minutes from the National Palace Museum."
+                - paragraph [ref=e1030]: Each of these polished rooms contains a flat-screen TV, free Wi-Fi, tea and coffee maker, and luxurious bathroom. Within the hotel, there are 8 eateries, a business center, gym, spa, and outdoor rooftop pool.
+                - paragraph [ref=e1031]:
+                  - text: You need anywhere from
+                  - strong [ref=e1032]: 30,000 to 60,000 points per night
+                  - text: to stay in the
+                  - strong [ref=e1033]: 1 King Classic City View
+                  - text: room.
+                - 'heading "26. Kimpton Fitzroy London (U.K.): From 50,000 Points" [level=3] [ref=e1034]':
+                  - text: "26."
+                  - link "Kimpton Fitzroy London" [ref=e1035] [cursor=pointer]:
+                    - /url: https://www.ihg.com/kimptonhotels/hotels/us/en/fitzroy-london-hotel-uk/lonlp/hoteldetail
+                  - text: "(U.K.): From 50,000 Points"
+                - 'figure "Kimpton Fitzroy London. Image Credit: IHG" [ref=e1037]':
+                  - link "Kimpton Fitzroy London" [ref=e1038] [cursor=pointer]:
+                    - /url: https://www.ihg.com/kimptonhotels/hotels/us/en/fitzroy-london-hotel-uk/lonlp/hoteldetail
+                    - img "Kimpton Fitzroy London" [ref=e1040]
+                  - generic [ref=e1041]: "Kimpton Fitzroy London. Image Credit: IHG"
+                - paragraph [ref=e1042]:
+                  - link "Kimpton" [ref=e1043] [cursor=pointer]:
+                    - /url: /travel/hotels/kimpton-hotels-and-restaurants/
+                  - text: is renowned for its luxury hotels, and London is famous for its high costs, particularly for
+                  - link "luxury lodging" [ref=e1044] [cursor=pointer]:
+                    - /url: /travel/hotels/best-hotels-in-london/
+                  - text: . If you put this together, you’ll see that the
+                  - link "Kimpton Fitzroy" [ref=e1045] [cursor=pointer]:
+                    - /url: https://www.ihg.com/kimptonhotels/hotels/us/en/fitzroy-london-hotel-uk/lonlp/hoteldetail
+                  - text: offers excellent value.
+                - paragraph [ref=e1046]:
+                  - text: In the heart of Bloomsbury by Russell Square, this landmark building is 2 minutes from the nearest Tube stop and
+                  - strong [ref=e1047]: 5 minutes’ walking distance from the British Museum
+                  - text: .
+                - paragraph [ref=e1048]: Each of the rooms has free Wi-Fi, a flat-screen TV, and marble bathroom, as well as room service. The property has a seafood restaurant, cocktail lounge, teahouse, a coffee shop, event spaces, meeting space, a fitness center, and evening social hours.
+                - paragraph [ref=e1049]:
+                  - text: You need to redeem anywhere from
+                  - strong [ref=e1050]: 50,000 to 70,000 points per night
+                  - text: at this hotel in the
+                  - strong [ref=e1051]: One Single City Single
+                  - text: room.
+                - paragraph [ref=e1052]:
+                  - generic [ref=e1053]:
+                    - strong [ref=e1054]: "Hot Tip:"
+                    - text: Raid the Bar is a unique amenity at
+                    - link "Kimpton hotels" [ref=e1055] [cursor=pointer]:
+                      - /url: /travel/hotels/best-kimpton-hotels-to-book-with-points/
+                    - text: offered to those with IHG One Rewards Platinum or Diamond elite status. It includes a
+                    - strong [ref=e1056]: $10 credit to spend at the restaurant bar or minibar
+                    - text: during your stay.
+                - 'heading "27. InterContinental Sydney (Australia): From 42,500 Points" [level=3] [ref=e1057]':
+                  - text: "27."
+                  - link "InterContinental Sydney" [ref=e1058] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/sydney/sydha/hoteldetail
+                  - text: "(Australia): From 42,500 Points"
+                - 'figure "InterContinental Sydney. Image Credit: IHG" [ref=e1060]':
+                  - link "InterContinental Sydney" [ref=e1061] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/sydney/sydha/hoteldetail
+                    - img "InterContinental Sydney" [ref=e1063]
+                  - generic [ref=e1064]: "InterContinental Sydney. Image Credit: IHG"
+                - paragraph [ref=e1065]:
+                  - text: Sydney has a spectacular skyline, thanks to the Sydney Opera House and the Sydney Harbour Bridge. At the
+                  - link "InterContinental Sydney" [ref=e1066] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/sydney/sydha/hoteldetail
+                  - text: ", you can enjoy magnificent views of both (particularly nice at night) and"
+                  - strong [ref=e1067]: be close to many fun attractions
+                  - text: .
+                - paragraph [ref=e1068]: This 5-star hotel is home to 3 eateries, a rooftop lounge, spa, gym, and heated indoor pool.
+                - paragraph [ref=e1069]:
+                  - text: At
+                  - strong [ref=e1070]: 42,500 to 60,000 points per night
+                  - text: ", this is a luxurious IHG property. You’ll be booked in one of these rooms for standard awards:"
+                  - strong [ref=e1071]: King Superior City Room
+                  - text: ","
+                  - strong [ref=e1072]: King Classic City Room
+                  - text: ", or the"
+                  - strong [ref=e1073]: 2 Doubles Classic City Room
+                  - text: .
+                - 'heading "28. InterContinental Paris – Le Grand (France): From 70,000 Points" [level=3] [ref=e1074]':
+                  - text: "28."
+                  - link "InterContinental Paris – Le Grand" [ref=e1075] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/paris/parhb/hoteldetail
+                  - text: "(France): From 70,000 Points"
+                - 'figure "InterContinental Paris – Le Grand. Image Credit: IHG" [ref=e1077]':
+                  - link "InterContinental Paris - Le Grand" [ref=e1078] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/paris/parhb/hoteldetail
+                    - img "InterContinental Paris - Le Grand" [ref=e1080]
+                  - generic [ref=e1081]: "InterContinental Paris – Le Grand. Image Credit: IHG"
+                - paragraph [ref=e1082]:
+                  - text: You wouldn’t expect anything but luxury at an
+                  - link "InterContinental hotel property in Paris" [ref=e1083] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/paris/parhb/hoteldetail
+                  - text: .
+                - paragraph [ref=e1084]:
+                  - text: This ritzy hotel is 100 feet away from the Opéra Garnier and Opera Metro Station.
+                  - strong [ref=e1085]: The Napoleon III-style rooms feature luxury furnishings
+                  - text: ", free Wi-Fi, a minibar, and more. There’s a famous fine-dining restaurant and 2 other eateries, as well as a gym, steam room, business center, 23 meeting rooms, and a spa."
+                - paragraph [ref=e1086]:
+                  - text: Award stays can be booked for
+                  - strong [ref=e1087]: 70,000 to 90,000 IHG One Rewards points per night
+                  - text: in the
+                  - strong [ref=e1088]: 1 Queen Cosy
+                  - text: type.
+                - paragraph [ref=e1089]:
+                  - generic [ref=e1090]:
+                    - strong [ref=e1091]: "Hot Tip:"
+                    - text: Interested in an incredible Paris hotel with a spectacular location and view? Dig into our guide on the
+                    - link "best hotels in Paris" [ref=e1092] [cursor=pointer]:
+                      - /url: /travel/hotels/best-hotels-in-paris-france/
+                    - text: .
+                - 'heading "29. InterContinental Amstel Amsterdam (Netherlands): From 60,000 Points" [level=3] [ref=e1093]':
+                  - text: "29."
+                  - link "InterContinental Amstel Amsterdam" [ref=e1094] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/amsterdam/amsha/hoteldetail
+                  - text: "(Netherlands): From 60,000 Points"
+                - 'figure "InterContinental Amstel Amsterdam. Image Credit: IHG" [ref=e1096]':
+                  - img "InterContinental Amstel Amsterdam" [ref=e1098]
+                  - generic [ref=e1099]: "InterContinental Amstel Amsterdam. Image Credit: IHG"
+                - paragraph [ref=e1100]:
+                  - link "The InterContinental Amstel Amsterdam" [ref=e1101] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/amsterdam/amsha/hoteldetail
+                  - text: is on the river Amstel and provides a wonderful view.
+                  - strong [ref=e1102]: This historic, luxury hotel
+                  - text: is one of the most expensive hotels in the IHG portfolio and promises a
+                  - strong [ref=e1103]: truly opulent experience
+                  - text: .
+                - paragraph [ref=e1104]: This hotel is a 2-minute walk from Weesperplein Metro station and offers stunning views of the city or the river. Each of the rooms comes with free Wi-Fi, cable TV, a marble bathroom, minibar, and a plush bed. It has 4 eateries, a fitness center, indoor heated pool, sauna, steam room, and whirlpool.
+                - paragraph [ref=e1105]:
+                  - text: You can book award stays for
+                  - strong [ref=e1106]: 60,000 points per night here
+                  - text: . You’ll probably be booked into the
+                  - strong [ref=e1107]: 1 Queen Classic River View
+                  - text: or
+                  - strong [ref=e1108]: 1 King Premium City View
+                  - text: room.
+                - 'heading "30. InterContinental Paris – Avenue Marceau (France): From 60,000 Points" [level=3] [ref=e1109]':
+                  - text: "30."
+                  - link "InterContinental Paris – Avenue Marceau" [ref=e1110] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/paris/parat/hoteldetail
+                  - text: "(France): From 60,000 Points"
+                - 'figure "InterContinental Paris Avenue Marceau. Image Credit: IHG" [ref=e1112]':
+                  - link "InterContinental Hotels Paris Avenue Marceau" [ref=e1113] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/paris/parat/hoteldetail
+                    - img "InterContinental Hotels Paris Avenue Marceau" [ref=e1115]
+                  - generic [ref=e1116]: "InterContinental Paris Avenue Marceau. Image Credit: IHG"
+                - paragraph [ref=e1117]:
+                  - link "InterContinental Paris – Avenue Marceau" [ref=e1118] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/paris/parat/hoteldetail
+                  - text: is one of IHG’s more expensive properties. Since it’s in Paris, this 5-star hotel commands a big price tag.
+                - paragraph [ref=e1119]:
+                  - text: The good news is that
+                  - strong [ref=e1120]: this property has only 55 rooms, which means it offers a boutique feel
+                  - text: . This hotel is 4 minutes’ walking distance from George V Metro Station and 7 minutes’ walking distance from the Arc de Triomphe. It’s just over 1 mile from the Eiffel Tower.
+                - paragraph [ref=e1121]: The rooms include an espresso machine, 24-hour-a-day room service, and the usual amenities. Plus, there’s a fine-dining restaurant, a bar and lounge, a fitness center, a 24/7 business center, and a spa.
+                - paragraph [ref=e1122]:
+                  - text: Rooms at InterContinental Paris Avenue Marceau can be had for
+                  - strong [ref=e1123]: 60,000 to 70,000 points
+                  - text: in the
+                  - strong [ref=e1124]: 1 Queen Classic City View
+                  - text: room type.
+                - 'heading "31. InterContinental Bora Bora Resort Thalasso Spa (French Polynesia): From 70,000 Points" [level=3] [ref=e1125]':
+                  - text: "31."
+                  - link "InterContinental Bora Bora Resort Thalasso Spa" [ref=e1126] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/bora-bora/bobhb/hoteldetail
+                  - text: "(French Polynesia): From 70,000 Points"
+                - 'figure "InterContinental Bora Bora Resort Thalasso Spa. Image Credit: IHG" [ref=e1128]':
+                  - img "InterContinental Bora Bora Resort Thalasso Spa French Polynesia" [ref=e1130]
+                  - generic [ref=e1131]: "InterContinental Bora Bora Resort Thalasso Spa. Image Credit: IHG"
+                - paragraph [ref=e1132]:
+                  - link "InterContinental Bora Bora Thalasso Spa" [ref=e1133] [cursor=pointer]:
+                    - /url: https://www.ihg.com/intercontinental/hotels/us/en/bora-bora/bobhb/hoteldetail
+                  - text: in French Polynesia is
+                  - strong [ref=e1134]: one of the most expensive hotels in IHG’s entire portfolio
+                  - text: . Also one of the most aspirational hotels in the world, it’s on an islet overlooking a lagoon. It’s only a little more than a mile from Mount Otemanu, and
+                  - strong [ref=e1135]: each of the posh villas is over the water on stilts
+                  - text: .
+                - paragraph [ref=e1136]: The rooms each have free Wi-Fi, a flat-screen TV, living room, outdoor shower, shaded terrace with sun loungers, and pontoon! But the amenities don’t end there, because there are also 2 ritzy French restaurants with mountain views, a beachfront eatery and bar, spa, private beach, and tons of activities.
+                - paragraph [ref=e1137]:
+                  - text: If you happen to find award availability (usually only within 1 month before staying), you’ll find that the prices are usually around
+                  - strong [ref=e1138]: 70,000 points per night
+                  - text: for the
+                  - strong [ref=e1139]: 1 King Overwater Villa Beach View
+                  - text: .
+                - heading "Annual Reward Night Certificate" [level=2] [ref=e1140]
+                - paragraph [ref=e1141]:
+                  - text: Those who hold the
+                  - link "IHG Premier card" [ref=e1142] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/ihg-rewards-club-premier-credit-card/benefits/
+                  - text: or
+                  - link "IHG Premier Business card" [ref=e1143] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/ihg-rewards-premier-business-card/
+                  - text: receive a r
+                  - strong [ref=e1144]: eward night certificate on their account anniversar
+                  - text: y, which is valid for stays up to 40,000 points per night but can be topped off with extra points.
+                - paragraph [ref=e1145]: Availability for any of these versions of the certificates requires that the property have a standard award night available for you to book with a certificate. There may be additional limitations and blackouts.
+                - heading "Points-and-Cash Bookings" [level=2] [ref=e1146]
+                - paragraph [ref=e1148]: Advertisement
+                - paragraph [ref=e1151]: If you don’t have quite enough points to complete your booking or if you want to stretch your points a little further, try a points-and-cash booking. Some properties provide several options for points combined with cash. Some require more cash, while others require more points.
+                - heading "Final Thoughts" [level=2] [ref=e1152]
+                - paragraph [ref=e1153]:
+                  - text: With so many IHG properties around the world, you should be able to find an IHG property almost anywhere when traveling, and its brands range from basic to luxury. If you’re creative, you can find
+                  - link "amazing luxury properties" [ref=e1154] [cursor=pointer]:
+                    - /url: /travel/hotels/best-ihg-luxury-hotels-to-book-with-points/
+                  - text: in lower categories to stretch your points and enjoy spectacular hotels!
+              - generic [ref=e1155]:
+                - generic [ref=e1156]:
+                  - separator [ref=e1157]
+                  - text: "Featured Image Credit: IHG"
+                - generic [ref=e1158]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1159]
+                  - group [ref=e1160]:
+                    - generic "When do IHG points expire?" [ref=e1161] [cursor=pointer]
+                    - paragraph [ref=e1163]: IHG One Rewards points expire after 12 months of inactivity unless you have elite status.
+                  - group [ref=e1164]:
+                    - generic "What hotels does IHG own?" [ref=e1165] [cursor=pointer]
+                    - paragraph [ref=e1167]: IHG brands include Atwell Suites, avid hotels, Candlewood Suites, Crowne Plaza Hotels & Resorts, EVEN Hotels, Holiday Inn Club Vacations, Holiday Inn Express, Holiday Inn Hotels & Resorts, Hotel Indigo, HUALUXE Hotels and Resorts, InterContinental Hotels & Resorts, Kimpton Hotels & Restaurants, Regent Hotels & Resorts, Six Senses Hotels Resorts Spas, Staybridge Suites, and voco.
+                  - group [ref=e1168]:
+                    - generic "Can you book Club rooms or suites with IHG points?" [ref=e1169] [cursor=pointer]
+                    - paragraph [ref=e1171]: No. You can only book standard room awards at this time.
+                  - group [ref=e1172]:
+                    - generic "How many IHG points do you need for an award stay?" [ref=e1173] [cursor=pointer]
+                    - paragraph [ref=e1175]: Award stays cost between 10,000 and 70,000 IHG One Rewards points per night.
+                  - group [ref=e1176]:
+                    - generic "Can IHG points be transferred?" [ref=e1177] [cursor=pointer]
+                    - paragraph [ref=e1179]: IHG One Rewards points can be transferred to airline partners — but at a very poor rate. You get the most value out of your points by booking award stays at IHG properties.
+                  - group [ref=e1180]:
+                    - generic "What credit cards earn IHG points?" [ref=e1181] [cursor=pointer]
+                    - generic [ref=e1182]:
+                      - paragraph [ref=e1183]:
+                        - text: The IHG Premier card, IHG Premier Business card, and the IHG Traveler card earn IHG One Rewards points directly, but you can also earn IHG One Rewards points with cards that
+                        - link "earn Chase Ultimate Rewards" [ref=e1184] [cursor=pointer]:
+                          - /url: /credit-cards/how-to-earn-chase-ultimate-rewards-points/
+                        - text: .
+                      - paragraph [ref=e1185]:
+                        - text: You can
+                        - link "transfer Ultimate Rewards" [ref=e1186] [cursor=pointer]:
+                          - /url: /credit-cards/chase-ultimate-rewards-transfer-partners/
+                        - text: to IHG at a 1:1 ratio, and you can often earn Ultimate Rewards faster because of bonus categories.
+                      - paragraph [ref=e1187]: However, holding the IHG Premier card or IHG Premier Business card provides an annual reward night certificate that can be used at eligible IHG property stays up to 40,000 points per night.
+                - complementary
+                - group "Was this page helpful?" [ref=e1189]:
+                  - paragraph [ref=e1190]: Was this page helpful?
+                  - generic [ref=e1191]:
+                    - button "Yes" [ref=e1192] [cursor=pointer]
+                    - button "No" [ref=e1193] [cursor=pointer]
+                - generic [ref=e1194]:
+                  - figure [ref=e1196]:
+                    - img "Stephen Au's image" [ref=e1197]
+                  - generic [ref=e1198]:
+                    - heading "About Stephen Au" [level=2] [ref=e1199]:
+                      - text: About
+                      - link "Stephen Au" [ref=e1200] [cursor=pointer]:
+                        - /url: /author/stephen/
+                    - paragraph [ref=e1201]: Stephen is an established voice in the credit card space, with over 70 to his name. His work has been in publications like The Washington Post, and his Au Points and Awards Consulting Services is used by hundreds of clients.
+                    - list [ref=e1203]:
+                      - listitem [ref=e1204]:
+                        - link "Instagram icon" [ref=e1205] [cursor=pointer]:
+                          - /url: https://www.instagram.com/aupacs/
+                          - img "Instagram icon" [ref=e1206]
+                      - listitem [ref=e1207]:
+                        - link "LinkedIn icon" [ref=e1208] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/austephen/
+                          - img "LinkedIn icon" [ref=e1209]
+                      - listitem [ref=e1210]:
+                        - link "email icon" [ref=e1211] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1212]
+                - generic [ref=e1214]:
+                  - generic [ref=e1215]:
+                    - paragraph [ref=e1216]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1217]: ™
+                    - generic [ref=e1218]:
+                      - paragraph [ref=e1219]:
+                        - text: Get the
+                        - strong [ref=e1220]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1221]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1222]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1223]:
+                      - textbox "First Name" [ref=e1224]
+                      - textbox "Email" [ref=e1225]
+                      - button "Join Now" [disabled] [ref=e1226]
+                    - paragraph [ref=e1228]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1229] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1230] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1231] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1233]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1235]
+                - generic [ref=e1237]:
+                  - paragraph [ref=e1238]: We Recommend
+                  - generic [ref=e1239]:
+                    - generic [ref=e1240]:
+                      - link "Platinum Card® from American Express" [ref=e1241] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1242]
+                      - link "Terms Apply / Rates & Fees" [ref=e1243] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1244] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1245]
+                        - text: Apply Now
+                    - generic [ref=e1248]:
+                      - paragraph [ref=e1249]:
+                        - link "Platinum Card® from American Express" [ref=e1250] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1251]:
+                            - text: Platinum Card
+                            - superscript [ref=e1252]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1254]:
+                        - generic [ref=e1255]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1256] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1257]:
+                        - listitem [ref=e1258]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1259]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1260]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1261]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1262]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1263]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1264]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1265] [cursor=pointer]
+            - complementary [ref=e1267]:
+              - generic [ref=e1268]:
+                - generic [ref=e1270]:
+                  - paragraph [ref=e1271]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1272] [cursor=pointer]
+                  - generic [ref=e1273]:
+                    - generic [ref=e1276]:
+                      - generic [ref=e1277]:
+                        - generic [ref=e1278]:
+                          - img [ref=e1279]
+                          - generic [ref=e1281]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1282] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1283]
+                      - generic [ref=e1284]:
+                        - paragraph [ref=e1285]:
+                          - link "Platinum Card® from American Express" [ref=e1286] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1287]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1288] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1289]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1291] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1294]:
+                      - generic [ref=e1295]:
+                        - generic [ref=e1296]:
+                          - img [ref=e1297]
+                          - generic [ref=e1299]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1300] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1301]
+                      - generic [ref=e1302]:
+                        - paragraph [ref=e1303]:
+                          - link "American Express® Gold Card" [ref=e1304] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1305]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1306] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1307]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1309] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1312]:
+                      - generic [ref=e1313]:
+                        - generic [ref=e1314]:
+                          - img [ref=e1315]
+                          - generic [ref=e1317]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1318] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1319]
+                      - generic [ref=e1320]:
+                        - paragraph [ref=e1321]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1322] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1323]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1324] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1325]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1327] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/7010/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1330]:
+                      - generic [ref=e1331]:
+                        - generic [ref=e1332]:
+                          - img [ref=e1333]
+                          - generic [ref=e1335]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1336] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/7010/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1337]
+                      - generic [ref=e1338]:
+                        - paragraph [ref=e1339]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1340] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/7010/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1341]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1342] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/7010/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1343]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1345] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/7010/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1347] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1350]: Advertisement
+      - generic [ref=e1354]:
+        - paragraph [ref=e1355]: Related Posts
+        - generic [ref=e1356]:
+          - generic [ref=e1357]:
+            - link [ref=e1358] [cursor=pointer]:
+              - /url: /travel/hotels/how-to-earn-ihg-rewards-club-points/
+              - figure [ref=e1359]:
+                - img "15 Best Ways To Earn Lots of IHG One Rewards Points [2026]" [ref=e1361]
+            - link "15 Best Ways To Earn Lots of IHG One Rewards Points [2026]" [ref=e1362] [cursor=pointer]:
+              - /url: /travel/hotels/how-to-earn-ihg-rewards-club-points/
+          - generic [ref=e1363]:
+            - link [ref=e1364] [cursor=pointer]:
+              - /url: /travel/hotels/ihg-rewards-club-dining/
+              - figure [ref=e1365]:
+                - img "How To Use IHG One Rewards Dining to Earn More Points [2025]" [ref=e1367]
+            - link "How To Use IHG One Rewards Dining to Earn More Points [2025]" [ref=e1368] [cursor=pointer]:
+              - /url: /travel/hotels/ihg-rewards-club-dining/
+          - generic [ref=e1369]:
+            - link [ref=e1370] [cursor=pointer]:
+              - /url: /travel/hotels/wyndham-rewards-loyalty-program/
+              - figure [ref=e1371]:
+                - img "Wyndham Rewards Loyalty Program Review [2026]" [ref=e1373]
+            - link "Wyndham Rewards Loyalty Program Review [2026]" [ref=e1374] [cursor=pointer]:
+              - /url: /travel/hotels/wyndham-rewards-loyalty-program/
+          - generic [ref=e1375]:
+            - link [ref=e1376] [cursor=pointer]:
+              - /url: /credit-cards/use-10000-chase-ultimate-rewards/
+              - figure [ref=e1377]:
+                - img "The Best Ways To Use 10,000 (or Fewer) Chase Ultimate Rewards" [ref=e1379]
+            - link "The Best Ways To Use 10,000 (or Fewer) Chase Ultimate Rewards" [ref=e1380] [cursor=pointer]:
+              - /url: /credit-cards/use-10000-chase-ultimate-rewards/
+    - contentinfo [ref=e1381]:
+      - img [ref=e1382]
+      - img [ref=e1401]
+      - generic [ref=e1420]:
+        - generic [ref=e1421]:
+          - img [ref=e1423]
+          - generic [ref=e1428]:
+            - generic [ref=e1429]:
+              - paragraph [ref=e1430]: Upgrade your travel experience
+              - list [ref=e1431]:
+                - listitem [ref=e1432]:
+                  - link [ref=e1433] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1434]:
+                      - img "Facebook" [ref=e1435]
+                - listitem [ref=e1436]:
+                  - link [ref=e1437] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1438]:
+                      - img "Twitter" [ref=e1439]
+                - listitem [ref=e1440]:
+                  - link [ref=e1441] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1442]:
+                      - img "Instagram" [ref=e1443]
+                - listitem [ref=e1444]:
+                  - link [ref=e1445] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1446]:
+                      - img "Pinterest" [ref=e1447]
+                - listitem [ref=e1448]:
+                  - link [ref=e1449] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1450]:
+                      - img "Linkedin" [ref=e1451]
+                - listitem [ref=e1452]:
+                  - link [ref=e1453] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1454]:
+                      - img "Youtube" [ref=e1455]
+            - generic [ref=e1457]:
+              - list [ref=e1458]:
+                - listitem [ref=e1459]:
+                  - link "News" [ref=e1460] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1461]:
+                  - link "Credit Cards" [ref=e1462] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1463]:
+                  - link "Business" [ref=e1464] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1465]:
+                - listitem [ref=e1466]:
+                  - link "Finance" [ref=e1467] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1468]:
+                  - link "Travel Guides" [ref=e1469] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1470]:
+                  - link "Air Travel" [ref=e1471] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1472]:
+                - listitem [ref=e1473]:
+                  - link "Hotel Guides" [ref=e1474] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1475]:
+                  - link "Beginners" [ref=e1476] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1477]:
+                  - link "About" [ref=e1478] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1479]:
+                - listitem [ref=e1480]:
+                  - link "Podcast" [ref=e1481] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1482]:
+                  - link "Jobs & Careers" [ref=e1483] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1484]:
+                  - link "Contact Us" [ref=e1485] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1486]:
+          - paragraph [ref=e1487]:
+            - link "Privacy Policy" [ref=e1488] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1489] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1490] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1491] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1492] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1493] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1494] [cursor=pointer]
+          - paragraph [ref=e1495]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1496]:
+          - link "DMCA.com Protection Status" [ref=e1497] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1498]
+          - img "Comodo Secure Seal" [ref=e1500]
+        - generic [ref=e1501]:
+          - generic [ref=e1502]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1503]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1504]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1505]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1506]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1507] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1508]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1509]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1511]:
+    - generic [ref=e1512]:
+      - generic [ref=e1513]:
+        - button "close banner" [ref=e1514] [cursor=pointer]:
+          - img "close banner" [ref=e1515]
+        - img "company logo" [ref=e1517]
+      - generic [ref=e1518]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1520]
+        - generic [ref=e1521]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1522] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1523] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1525]:
+        - button "Manage" [ref=e1526] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1527] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1528] [cursor=pointer]
+    - generic [ref=e1530]:
+      - generic [ref=e1531]: "Powered by:"
+      - link "trustarc" [ref=e1532] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1533]

@@ -1,0 +1,1694 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "14 Best Ways To Redeem Virgin Atlantic Flying Club Virgin Points for Max Value [2026]" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Stephen Au's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Stephen Au
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: January 19, 2026, 10:00pm CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Keri Stooksbury
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Michael Y. Park
+          - figure [ref=e61]:
+            - img "14 Best Ways To Redeem Virgin Atlantic Flying Club Virgin Points for Max Value [2026]" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e1677]:
+            - generic "Jump to Section" [ref=e1678] [cursor=pointer]
+          - paragraph [ref=e68]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e69] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e70]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - heading "Key Takeaways" [level=2] [ref=e76]
+                  - list [ref=e78]:
+                    - listitem [ref=e79]: Virgin Atlantic Flying Club miles can be redeemed for flights on Virgin Atlantic and other partners like ANA, Delta, and Air France.
+                    - listitem [ref=e80]: Some of the best redemptions include flying ANA first class to Japan or Virgin Atlantic upper class to the U.K.
+                    - listitem [ref=e81]: Points can also be transferred from partners like Chase Ultimate Rewards and American Express Membership Rewards.
+                - paragraph [ref=e82]:
+                  - link "Virgin Atlantic Flying Club" [ref=e83] [cursor=pointer]:
+                    - /url: /travel/airlines/virgin-atlantic-flying-club-loyalty-program/
+                  - text: may not be one of the mileage programs you’re most familiar with, but it’s definitely worth paying attention to for a few reasons.
+                - paragraph [ref=e84]:
+                  - text: You can
+                  - link "earn Virgin Points by flying Virgin Atlantic or its partners" [ref=e85] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-virgin-atlantic-flying-club-miles/
+                  - text: . The number of points you earn depends on flight distance, cabin choice, ticket type, and elite status. You can also earn points by using a Virgin Atlantic credit card, shopping through an
+                  - link "online portal" [ref=e86] [cursor=pointer]:
+                    - /url: /travel/airlines/virgin-atlantic-shopping-portal/
+                  - text: ", and booking car rentals or hotel rooms with partnering programs."
+                - paragraph [ref=e87]: In this guide, we’ll explore the best ways you can use Virgin Points for maximum value, focusing on premium cabin awards on Virgin Atlantic’s partner airlines. Let’s get started!
+                - heading "How To Boost Your Virgin Points" [level=2] [ref=e88]
+                - paragraph [ref=e89]:
+                  - text: "Virgin Points are some of the easiest to earn, thanks to handy transfer partners. In fact, Virgin Atlantic is a transfer partner of all 7 of the major transferable rewards currencies:"
+                  - link "American Express Membership Rewards" [ref=e90] [cursor=pointer]:
+                    - /url: /credit-cards/american-express-membership-rewards-review/
+                  - text: ","
+                  - link "Bilt Rewards" [ref=e91] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/bilt-rewards-program-review/
+                  - text: ","
+                  - link "Capital One Miles," [ref=e92] [cursor=pointer]:
+                    - /url: /credit-cards/capital-one-miles-program-review/
+                  - link "Chase Ultimate Rewards" [ref=e93] [cursor=pointer]:
+                    - /url: /credit-cards/chase-ultimate-rewards-review/
+                  - text: ","
+                  - link "Citi ThankYou Rewards" [ref=e94] [cursor=pointer]:
+                    - /url: /credit-cards/citi-thankyou-rewards-review/
+                  - text: ","
+                  - link "Marriott Bonvoy" [ref=e95] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-transfer-partners/
+                  - text: ", and"
+                  - link "Wells Fargo Rewards" [ref=e96] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/wells-fargo-rewards-review/
+                  - text: .
+                - paragraph [ref=e97]:
+                  - text: Capital One Miles do not transfer directly to Virgin Atlantic Flying Club. Instead, you must transfer your rewards to
+                  - link "Virgin Red" [ref=e98] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/news/virgin-red-loyalty-program/
+                  - text: ", and then you can use those points with Flying Club."
+                - heading "American Express Membership Rewards Credit Cards" [level=3] [ref=e99]
+                - paragraph [ref=e100]:
+                  - link "American Express Membership Rewards" [ref=e101] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: transfer at a 1:1 ratio to Virgin Atlantic Flying Club, which is one of many
+                  - link "American Express transfer partners" [ref=e102] [cursor=pointer]:
+                    - /url: /credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: .
+                - heading "Recommended Amex Cards (Personal)" [level=4] [ref=e103]
+                - generic [ref=e105]:
+                  - generic [ref=e106]:
+                    - img [ref=e107]
+                    - generic [ref=e109]: BEST LOUNGE CARD
+                  - generic [ref=e110]:
+                    - link "Platinum Card® from American Express" [ref=e111] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Platinum Card® from American Express" [ref=e112]
+                    - link "Terms Apply / Rates & Fees" [ref=e113] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e114]: Terms Apply / Rates & Fees
+                    - generic [ref=e115]:
+                      - generic [ref=e116]:
+                        - img "Star rating icon" [ref=e119]
+                        - img "Star rating icon" [ref=e122]
+                        - img "Star rating icon" [ref=e125]
+                        - img "Star rating icon" [ref=e128]
+                        - generic [ref=e129]:
+                          - img "Star rating icon" [ref=e131]
+                          - img "Star rating icon" [ref=e133]
+                      - generic [ref=e134]:
+                        - generic [ref=e135]: U.P. Rating
+                        - img [ref=e138]:
+                          - img [ref=e139]
+                    - link "Apply Now" [ref=e142] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e143]
+                      - text: Apply Now
+                    - generic [ref=e146]: (at Amex's secure site)
+                    - generic [ref=e147]:
+                      - heading "Apply With Confidence" [level=4] [ref=e148]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e149]
+                      - paragraph [ref=e150]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e151]:
+                    - generic [ref=e153]:
+                      - link "Platinum Card® from American Express" [ref=e155] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-platinum-card/
+                        - text: Platinum Card
+                        - superscript [ref=e156]: ®
+                        - text: from American Express
+                      - text: The Amex Platinum reigns supreme for luxury travel, offering the best airport lounge access plus generous statement credits, and complimentary elite status.
+                    - generic [ref=e157]:
+                      - generic [ref=e158]:
+                        - generic [ref=e159]:
+                          - generic [ref=e160]: Welcome Offer
+                          - img [ref=e163]:
+                            - img [ref=e164]
+                        - generic [ref=e167]: As High As 175,000 Points. Find Out Your Offer.
+                      - generic [ref=e168]:
+                        - generic [ref=e170]: "UP's Offer Valuation*:"
+                        - generic [ref=e171]: Up to $3,850
+                    - generic [ref=e172]:
+                      - generic [ref=e173]:
+                        - generic [ref=e175]: Annual Fee
+                        - generic [ref=e176]: $895
+                      - generic [ref=e177]:
+                        - generic [ref=e179]: APR
+                        - generic [ref=e180]: See Pay Over Time APR
+                      - generic [ref=e181]:
+                        - generic [ref=e182]:
+                          - generic [ref=e183]: Credit Recommended
+                          - img [ref=e186]:
+                            - img [ref=e187]
+                        - generic [ref=e190]: Good to Excellent
+                    - generic [ref=e191]:
+                      - group [ref=e192]:
+                        - generic "Why We Like This Card" [ref=e193] [cursor=pointer]
+                      - group [ref=e194]:
+                        - generic "Pros & Cons" [ref=e195] [cursor=pointer]
+                      - group [ref=e196]:
+                        - generic "Card Highlights" [ref=e197] [cursor=pointer]
+                - paragraph [ref=e199]:
+                  - generic [ref=e200]:
+                    - strong [ref=e201]: "Hot Tip:"
+                    - strong [ref=e202]:
+                      - text: Apply and find out if you’re eligible for a
+                      - link "welcome bonus offer of as high as 175,000 points with the Amex Platinum." [ref=e203] [cursor=pointer]:
+                        - /url: /news/amex-platinum-card-175k-sign-up-bonus/
+                    - text: Welcome offers may vary and you may not be eligible for an offer.
+                - generic [ref=e205]:
+                  - generic [ref=e206]:
+                    - img [ref=e207]
+                    - generic [ref=e209]: BEST FOR DINING
+                  - generic [ref=e210]:
+                    - link "American Express® Gold Card" [ref=e211] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "American Express® Gold Card" [ref=e212]
+                    - link "Terms Apply / Rates & Fees" [ref=e213] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e214]: Terms Apply / Rates & Fees
+                    - generic [ref=e215]:
+                      - generic [ref=e216]:
+                        - img "Star rating icon" [ref=e219]
+                        - img "Star rating icon" [ref=e222]
+                        - img "Star rating icon" [ref=e225]
+                        - img "Star rating icon" [ref=e228]
+                        - generic [ref=e229]:
+                          - img "Star rating icon" [ref=e231]
+                          - img "Star rating icon" [ref=e233]
+                      - generic [ref=e234]:
+                        - generic [ref=e235]: U.P. Rating
+                        - img [ref=e238]:
+                          - img [ref=e239]
+                    - link "Apply Now" [ref=e242] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e243]
+                      - text: Apply Now
+                    - generic [ref=e246]: (at Amex's secure site)
+                    - generic [ref=e247]:
+                      - heading "Apply With Confidence" [level=4] [ref=e248]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e249]
+                      - paragraph [ref=e250]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e251]:
+                    - generic [ref=e253]:
+                      - link "American Express® Gold Card" [ref=e255] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-gold-card/
+                        - text: American Express
+                        - superscript [ref=e256]: ®
+                        - text: Gold Card
+                      - text: This is the best card for food lovers who dine out at restaurants (worldwide), order take-out and want big rewards at U.S. supermarkets!
+                    - generic [ref=e257]:
+                      - generic [ref=e258]:
+                        - generic [ref=e259]:
+                          - generic [ref=e260]: Welcome Offer
+                          - img [ref=e263]:
+                            - img [ref=e264]
+                        - generic [ref=e267]: As High As 100,000 Points. Find Out Your Offer.
+                      - generic [ref=e268]:
+                        - generic [ref=e270]: "UP's Offer Valuation*:"
+                        - generic [ref=e271]: Up to $2,200
+                    - generic [ref=e272]:
+                      - generic [ref=e273]:
+                        - generic [ref=e275]: Annual Fee
+                        - generic [ref=e276]: $325
+                      - generic [ref=e277]:
+                        - generic [ref=e279]: APR
+                        - generic [ref=e280]: See Pay Over Time APR
+                      - generic [ref=e281]:
+                        - generic [ref=e282]:
+                          - generic [ref=e283]: Credit Recommended
+                          - img [ref=e286]:
+                            - img [ref=e287]
+                        - generic [ref=e290]: Good to Excellent
+                    - generic [ref=e291]:
+                      - group [ref=e292]:
+                        - generic "Why We Like This Card" [ref=e293] [cursor=pointer]
+                      - group [ref=e294]:
+                        - generic "Pros & Cons" [ref=e295] [cursor=pointer]
+                      - group [ref=e296]:
+                        - generic "Card Highlights" [ref=e297] [cursor=pointer]
+                - paragraph [ref=e299]:
+                  - generic [ref=e300]:
+                    - strong [ref=e301]: "Hot Tip:"
+                    - text: Apply and find out if you’re eligible for a
+                    - link "welcome bonus offer as high as 100,000 points with the Amex Gold card" [ref=e303] [cursor=pointer]:
+                      - /url: /news/amex-gold-card-100k-sign-up-bonus/
+                    - text: . Welcome offers may vary and you may not be eligible for an offer.
+                - paragraph [ref=e304]:
+                  - strong [ref=e305]: Business owner?
+                  - text: See our article on
+                  - link "Amex business credit cards" [ref=e306] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-amex-business-credit-cards/
+                  - text: that earn Membership Rewards.
+                - heading "Chase Ultimate Rewards Credit Cards" [level=3] [ref=e307]
+                - paragraph [ref=e308]:
+                  - text: Chase points are
+                  - link "so easy to earn" [ref=e309] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-chase-ultimate-rewards-points/
+                  - text: ", and there are lots of valuable"
+                  - link "Chase transfer partners" [ref=e310] [cursor=pointer]:
+                    - /url: /credit-cards/chase-ultimate-rewards-transfer-partners/
+                  - text: ", both airlines and hotels. Chase Ultimate Rewards points transfer to Virgin Atlantic Flying Club at a 1:1 ratio."
+                - heading "Recommended Chase Cards (Personal)" [level=4] [ref=e311]
+                - generic [ref=e313]:
+                  - generic [ref=e314]:
+                    - img [ref=e315]
+                    - generic [ref=e317]: NEW OFFER
+                  - generic [ref=e318]:
+                    - link "Chase Sapphire Preferred® Card" [ref=e319] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Preferred® Card" [ref=e320]
+                    - link "Terms Apply / Rates & Fees" [ref=e321] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e322]: Terms Apply / Rates & Fees
+                    - generic [ref=e323]:
+                      - generic [ref=e324]:
+                        - img "Star rating icon" [ref=e327]
+                        - img "Star rating icon" [ref=e330]
+                        - img "Star rating icon" [ref=e333]
+                        - img "Star rating icon" [ref=e336]
+                        - generic [ref=e337]:
+                          - img "Star rating icon" [ref=e339]
+                          - img "Star rating icon" [ref=e341]
+                      - generic [ref=e342]:
+                        - generic [ref=e343]: U.P. Rating
+                        - img [ref=e346]:
+                          - img [ref=e347]
+                    - link "Apply Now" [ref=e350] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - img [ref=e351]
+                      - text: Apply Now
+                    - generic [ref=e354]: (at Chase's secure site)
+                  - generic [ref=e355]:
+                    - generic [ref=e357]:
+                      - link "Chase Sapphire Preferred® Card" [ref=e359] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                        - text: Chase Sapphire Preferred
+                        - superscript [ref=e360]: ®
+                        - text: Card
+                      - text: A fantastic travel card with a great welcome offer, good benefits, and perks for a moderate annual fee.
+                    - generic [ref=e361]:
+                      - generic [ref=e362]:
+                        - generic [ref=e363]:
+                          - generic [ref=e364]: Welcome Offer
+                          - img [ref=e367]:
+                            - img [ref=e368]
+                        - generic [ref=e371]: 60,000 75,000 points
+                      - generic [ref=e372]:
+                        - generic [ref=e374]: "UP's Offer Valuation*:"
+                        - generic [ref=e375]: $1,500
+                    - generic [ref=e376]:
+                      - generic [ref=e377]:
+                        - generic [ref=e379]: Annual Fee
+                        - generic [ref=e380]: $95
+                      - generic [ref=e381]:
+                        - generic [ref=e383]: APR
+                        - generic [ref=e384]: 19.24% - 27.49% Variable
+                      - generic [ref=e385]:
+                        - generic [ref=e386]:
+                          - generic [ref=e387]: Credit Recommended
+                          - img [ref=e390]:
+                            - img [ref=e391]
+                        - generic [ref=e394]: Good to Excellent
+                    - generic [ref=e395]:
+                      - group [ref=e396]:
+                        - generic "Why We Like This Card" [ref=e397] [cursor=pointer]
+                      - group [ref=e398]:
+                        - generic "Pros & Cons" [ref=e399] [cursor=pointer]
+                      - group [ref=e400]:
+                        - generic "Card Highlights" [ref=e401] [cursor=pointer]
+                - generic [ref=e403]:
+                  - generic [ref=e404]:
+                    - img [ref=e405]
+                    - generic [ref=e407]: NEW OFFER
+                  - generic [ref=e408]:
+                    - link "Chase Sapphire Reserve®" [ref=e409] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Reserve®" [ref=e410]
+                    - link "Terms Apply / Rates & Fees" [ref=e411] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserveTCCRF/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e412]: Terms Apply / Rates & Fees
+                    - generic [ref=e413]:
+                      - generic [ref=e414]:
+                        - img "Star rating icon" [ref=e417]
+                        - img "Star rating icon" [ref=e420]
+                        - img "Star rating icon" [ref=e423]
+                        - img "Star rating icon" [ref=e426]
+                        - generic [ref=e427]:
+                          - img "Star rating icon" [ref=e429]
+                          - img "Star rating icon" [ref=e431]
+                      - generic [ref=e432]:
+                        - generic [ref=e433]: U.P. Rating
+                        - img [ref=e436]:
+                          - img [ref=e437]
+                    - link "Apply Now" [ref=e440] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - img [ref=e441]
+                      - text: Apply Now
+                    - generic [ref=e444]: (at Chase's secure site)
+                  - generic [ref=e445]:
+                    - generic [ref=e447]:
+                      - link "Chase Sapphire Reserve®" [ref=e449] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-reserve/
+                        - text: Chase Sapphire Reserve
+                        - superscript [ref=e450]: ®
+                      - text: A top player in the high-end premium travel credit card space that earns points on travel and dining while offering top luxury perks.
+                    - generic [ref=e451]:
+                      - generic [ref=e452]:
+                        - generic [ref=e453]:
+                          - generic [ref=e454]: Welcome Offer
+                          - img [ref=e457]:
+                            - img [ref=e458]
+                        - generic [ref=e461]: 125,000 points
+                      - generic [ref=e462]:
+                        - generic [ref=e464]: "UP's Offer Valuation*:"
+                        - generic [ref=e465]: $2,500
+                    - generic [ref=e466]:
+                      - generic [ref=e467]:
+                        - generic [ref=e469]: Annual Fee
+                        - generic [ref=e470]: $795
+                      - generic [ref=e471]:
+                        - generic [ref=e473]: APR
+                        - generic [ref=e474]: 19.49% - 27.99% Variable
+                      - generic [ref=e475]:
+                        - generic [ref=e476]:
+                          - generic [ref=e477]: Credit Recommended
+                          - img [ref=e480]:
+                            - img [ref=e481]
+                        - generic [ref=e484]: Excellent
+                    - generic [ref=e485]:
+                      - group [ref=e486]:
+                        - generic "Why We Like This Card" [ref=e487] [cursor=pointer]
+                      - group [ref=e488]:
+                        - generic "Pros & Cons" [ref=e489] [cursor=pointer]
+                      - group [ref=e490]:
+                        - generic "Card Highlights" [ref=e491] [cursor=pointer]
+                - paragraph [ref=e492]:
+                  - strong [ref=e493]: Business owner?
+                  - text: See our article on
+                  - link "Chase business credit cards" [ref=e494] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-chase-business-credit-cards/
+                  - text: that earn Ultimate Rewards.
+                - heading "Marriott Bonvoy Credit Cards" [level=3] [ref=e495]
+                - paragraph [ref=e496]:
+                  - text: You can
+                  - link "earn Marriott Bonvoy points" [ref=e497] [cursor=pointer]:
+                    - /url: /travel/hotels/how-to-earn-marriott-rewards-points/
+                  - text: and
+                  - link "transfer" [ref=e498] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-transfer-partners/
+                  - text: those to Virgin Atlantic at a transfer rate of 3:1. Plus, for every 60,000 Marriott points you transfer, you receive an extra 5,000 Virgin Points bonus.
+                - paragraph [ref=e499]:
+                  - strong [ref=e500]: Recommended Marriott Bonvoy Cards
+                - generic [ref=e502]:
+                  - generic [ref=e503]:
+                    - link "Marriott Bonvoy Bold® Credit Card" [ref=e504] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBold/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - img "Marriott Bonvoy Bold® Credit Card" [ref=e505]
+                    - link "Terms Apply / Rates & Fees" [ref=e506] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoldTCCRF/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e507]: Terms Apply / Rates & Fees
+                    - generic [ref=e508]:
+                      - generic [ref=e509]:
+                        - img "Star rating icon" [ref=e512]
+                        - img "Star rating icon" [ref=e515]
+                        - img "Star rating icon" [ref=e518]
+                        - generic [ref=e519]:
+                          - img "Star rating icon" [ref=e521]
+                          - img "Star rating icon" [ref=e523]
+                        - generic [ref=e524]:
+                          - img "Star rating icon" [ref=e526]
+                          - img "Star rating icon" [ref=e527]
+                      - generic [ref=e528]:
+                        - generic [ref=e529]: U.P. Rating
+                        - img [ref=e532]:
+                          - img [ref=e533]
+                    - link "Apply Now" [ref=e536] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBold/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - img [ref=e537]
+                      - text: Apply Now
+                    - generic [ref=e540]: (at Chase's secure site)
+                  - generic [ref=e541]:
+                    - generic [ref=e543]:
+                      - link "Marriott Bonvoy Bold® Credit Card" [ref=e545] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-bold-credit-card/
+                        - text: Marriott Bonvoy Bold
+                        - superscript [ref=e546]: ®
+                        - text: Credit Card
+                      - text: A great option for Marriott hotel fans who want a no annual fee card and automatic Marriott Bonvoy elite status.
+                    - generic [ref=e547]:
+                      - generic [ref=e548]:
+                        - generic [ref=e549]:
+                          - generic [ref=e550]: Welcome Offer
+                          - img [ref=e553]:
+                            - img [ref=e554]
+                        - generic [ref=e557]: 30,000 points
+                      - generic [ref=e558]:
+                        - generic [ref=e560]: "UP's Offer Valuation*:"
+                        - generic [ref=e561]: $210
+                    - generic [ref=e562]:
+                      - generic [ref=e563]:
+                        - generic [ref=e565]: Annual Fee
+                        - generic [ref=e566]: $0
+                      - generic [ref=e567]:
+                        - generic [ref=e569]: APR
+                        - generic [ref=e570]: 19.24% - 27.74% Variable
+                      - generic [ref=e571]:
+                        - generic [ref=e572]:
+                          - generic [ref=e573]: Credit Recommended
+                          - img [ref=e576]:
+                            - img [ref=e577]
+                        - generic [ref=e580]: Good to Excellent
+                    - generic [ref=e581]:
+                      - group [ref=e582]:
+                        - generic "Why We Like This Card" [ref=e583] [cursor=pointer]
+                      - group [ref=e584]:
+                        - generic "Pros & Cons" [ref=e585] [cursor=pointer]
+                      - group [ref=e586]:
+                        - generic "Card Highlights" [ref=e587] [cursor=pointer]
+                - generic [ref=e589]:
+                  - generic [ref=e590]:
+                    - link "Marriott Bonvoy Boundless® Credit Card" [ref=e591] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundless/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - img "Marriott Bonvoy Boundless® Credit Card" [ref=e592]
+                    - link "Terms Apply / Rates & Fees" [ref=e593] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundlessTCCRF/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e594]: Terms Apply / Rates & Fees
+                    - generic [ref=e595]:
+                      - generic [ref=e596]:
+                        - img "Star rating icon" [ref=e599]
+                        - img "Star rating icon" [ref=e602]
+                        - img "Star rating icon" [ref=e605]
+                        - img "Star rating icon" [ref=e608]
+                        - generic [ref=e609]:
+                          - img "Star rating icon" [ref=e611]
+                          - img "Star rating icon" [ref=e613]
+                      - generic [ref=e614]:
+                        - generic [ref=e615]: U.P. Rating
+                        - img [ref=e618]:
+                          - img [ref=e619]
+                    - link "Apply Now" [ref=e622] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundless/TRD/3424/dissn.1775548838764.7073346957.1/
+                      - img [ref=e623]
+                      - text: Apply Now
+                    - generic [ref=e626]: (at Chase's secure site)
+                  - generic [ref=e627]:
+                    - generic [ref=e629]:
+                      - link "Marriott Bonvoy Boundless® Credit Card" [ref=e631] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-boundless-credit-card/
+                        - text: Marriott Bonvoy Boundless
+                        - superscript [ref=e632]: ®
+                        - text: Credit Card
+                      - text: Marriott loyalists will love this card's annual Free Night Award, automatic elite status, and up to 17x points per $1 on Marriott hotel stays.
+                    - generic [ref=e633]:
+                      - generic [ref=e634]:
+                        - generic [ref=e635]:
+                          - generic [ref=e636]: Welcome Offer
+                          - img [ref=e639]:
+                            - img [ref=e640]
+                        - generic [ref=e643]: Earn up to 4 Free Night Awards
+                      - generic [ref=e644]:
+                        - generic [ref=e646]: "UP's Offer Valuation*:"
+                        - generic [ref=e647]: Up to $1,400
+                    - generic [ref=e648]:
+                      - generic [ref=e649]:
+                        - generic [ref=e651]: Annual Fee
+                        - generic [ref=e652]: $95
+                      - generic [ref=e653]:
+                        - generic [ref=e655]: APR
+                        - generic [ref=e656]: 19.24% - 27.74% Variable
+                      - generic [ref=e657]:
+                        - generic [ref=e658]:
+                          - generic [ref=e659]: Credit Recommended
+                          - img [ref=e662]:
+                            - img [ref=e663]
+                        - generic [ref=e666]: Good to Excellent
+                    - generic [ref=e667]:
+                      - group [ref=e668]:
+                        - generic "Why We Like This Card" [ref=e669] [cursor=pointer]
+                      - group [ref=e670]:
+                        - generic "Pros & Cons" [ref=e671] [cursor=pointer]
+                      - group [ref=e672]:
+                        - generic "Card Highlights" [ref=e673] [cursor=pointer]
+                - generic [ref=e675]:
+                  - generic [ref=e676]:
+                    - img [ref=e677]
+                    - generic [ref=e679]: LIMITED TIME OFFER
+                  - generic [ref=e680]:
+                    - link "Marriott Bonvoy Bevy® American Express® Card" [ref=e681] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevy_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Marriott Bonvoy Bevy® American Express® Card" [ref=e682]
+                    - link "Terms Apply / Rates & Fees" [ref=e683] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e684]: Terms Apply / Rates & Fees
+                    - generic [ref=e685]:
+                      - generic [ref=e686]:
+                        - img "Star rating icon" [ref=e689]
+                        - img "Star rating icon" [ref=e692]
+                        - img "Star rating icon" [ref=e695]
+                        - generic [ref=e696]:
+                          - img "Star rating icon" [ref=e698]
+                          - img "Star rating icon" [ref=e699]
+                        - generic [ref=e700]:
+                          - img "Star rating icon" [ref=e702]
+                          - img "Star rating icon" [ref=e703]
+                      - generic [ref=e704]:
+                        - generic [ref=e705]: U.P. Rating
+                        - img [ref=e708]:
+                          - img [ref=e709]
+                    - link "Apply Now" [ref=e712] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevy_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e713]
+                      - text: Apply Now
+                    - generic [ref=e716]: (at Amex's secure site)
+                    - generic [ref=e717]:
+                      - heading "Apply With Confidence" [level=4] [ref=e718]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e719]
+                      - paragraph [ref=e720]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e721]:
+                    - generic [ref=e723]:
+                      - link "Marriott Bonvoy Bevy® American Express® Card" [ref=e725] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-bevy-card/
+                        - text: Marriott Bonvoy Bevy
+                        - superscript [ref=e726]: ®
+                        - text: American Express
+                        - superscript [ref=e727]: ®
+                        - text: Card
+                      - text: The Marriott Bonvoy Bevy card gives you automatic Marriott elite status and helps you earn more Marriott Bonvoy points on your everyday purchases.
+                    - generic [ref=e728]:
+                      - generic [ref=e729]:
+                        - generic [ref=e730]:
+                          - generic [ref=e731]: Welcome Offer
+                          - img [ref=e734]:
+                            - img [ref=e735]
+                        - generic [ref=e738]: 175,000 points
+                      - generic [ref=e739]:
+                        - generic [ref=e741]: "UP's Offer Valuation*:"
+                        - generic [ref=e742]: Up to $1,225
+                    - generic [ref=e743]:
+                      - generic [ref=e744]:
+                        - generic [ref=e746]: Annual Fee
+                        - generic [ref=e747]: $250
+                      - generic [ref=e748]:
+                        - generic [ref=e750]: APR
+                        - generic [ref=e751]: 19.49%-28.49% Variable
+                      - generic [ref=e752]:
+                        - generic [ref=e753]:
+                          - generic [ref=e754]: Credit Recommended
+                          - img [ref=e757]:
+                            - img [ref=e758]
+                        - generic [ref=e761]: Good to Excellent
+                    - generic [ref=e762]:
+                      - group [ref=e763]:
+                        - generic "Why We Like This Card" [ref=e764] [cursor=pointer]
+                      - group [ref=e765]:
+                        - generic "Pros & Cons" [ref=e766] [cursor=pointer]
+                      - group [ref=e767]:
+                        - generic "Card Highlights" [ref=e768] [cursor=pointer]
+                - generic [ref=e770]:
+                  - generic [ref=e771]:
+                    - img [ref=e772]
+                    - generic [ref=e774]: LIMITED TIME OFFER
+                  - generic [ref=e775]:
+                    - link "Marriott Bonvoy Brilliant® American Express® Card" [ref=e776] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliant_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Marriott Bonvoy Brilliant® American Express® Card" [ref=e777]
+                    - link "Terms Apply / Rates & Fees" [ref=e778] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e779]: Terms Apply / Rates & Fees
+                    - generic [ref=e780]:
+                      - generic [ref=e781]:
+                        - img "Star rating icon" [ref=e784]
+                        - img "Star rating icon" [ref=e787]
+                        - img "Star rating icon" [ref=e790]
+                        - img "Star rating icon" [ref=e793]
+                        - generic [ref=e794]:
+                          - img "Star rating icon" [ref=e796]
+                          - img "Star rating icon" [ref=e797]
+                      - generic [ref=e798]:
+                        - generic [ref=e799]: U.P. Rating
+                        - img [ref=e802]:
+                          - img [ref=e803]
+                    - link "Apply Now" [ref=e806] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliant_addSource/TRD/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e807]
+                      - text: Apply Now
+                    - generic [ref=e810]: (at Amex's secure site)
+                    - generic [ref=e811]:
+                      - heading "Apply With Confidence" [level=4] [ref=e812]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e813]
+                      - paragraph [ref=e814]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e815]:
+                    - generic [ref=e817]:
+                      - link "Marriott Bonvoy Brilliant® American Express® Card" [ref=e819] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-brilliant-american-express-card/
+                        - text: Marriott Bonvoy Brilliant
+                        - superscript [ref=e820]: ®
+                        - text: American Express
+                        - superscript [ref=e821]: ®
+                        - text: Card
+                      - text: A premium card for Marriott fans who want perks like an annual statement credit and Free Night Award, plus a fast track to Marriott elite status.
+                    - generic [ref=e822]:
+                      - generic [ref=e823]:
+                        - generic [ref=e824]:
+                          - generic [ref=e825]: Welcome Offer
+                          - img [ref=e828]:
+                            - img [ref=e829]
+                        - generic [ref=e832]: 200,000 points
+                      - generic [ref=e833]:
+                        - generic [ref=e835]: "UP's Offer Valuation*:"
+                        - generic [ref=e836]: Up to $1,400
+                    - generic [ref=e837]:
+                      - generic [ref=e838]:
+                        - generic [ref=e840]: Annual Fee
+                        - generic [ref=e841]: $650
+                      - generic [ref=e842]:
+                        - generic [ref=e844]: APR
+                        - generic [ref=e845]: 19.49%-28.49% Variable
+                      - generic [ref=e846]:
+                        - generic [ref=e847]:
+                          - generic [ref=e848]: Credit Recommended
+                          - img [ref=e851]:
+                            - img [ref=e852]
+                        - generic [ref=e855]: Good to Excellent
+                    - generic [ref=e856]:
+                      - group [ref=e857]:
+                        - generic "Why We Like This Card" [ref=e858] [cursor=pointer]
+                      - group [ref=e859]:
+                        - generic "Pros & Cons" [ref=e860] [cursor=pointer]
+                      - group [ref=e861]:
+                        - generic "Card Highlights" [ref=e862] [cursor=pointer]
+                - heading "The 14 Best Ways To Use Your Virgin Points" [level=2] [ref=e863]
+                - paragraph [ref=e864]:
+                  - text: Some SkyTeam partner awards can be booked online with Virgin Points, but you’ll have to get on the phone for other partners. Before you call, it’s best to confirm that space is available with another tool. For example, you can check ANA availability on
+                  - link "united.com" [ref=e865] [cursor=pointer]:
+                    - /url: http://united.com
+                  - text: .
+                - paragraph [ref=e866]:
+                  - text: Delta doesn’t release the same premium cabin availability to Virgin Atlantic as it releases to
+                  - link "Delta SkyMiles" [ref=e867] [cursor=pointer]:
+                    - /url: /travel/airlines/delta-skymiles-loyalty-program/
+                  - text: members, but Virgin Atlantic can show online search results easily.
+                - paragraph [ref=e868]:
+                  - text: If you’re using Virgin Atlantic to search for Delta Air Lines availability, you may be unable to search online for travel to certain cities. To get around this, you can
+                  - link "simply use ExpertFlyer" [ref=e869] [cursor=pointer]:
+                    - /url: /travel/expertflyer/
+                  - text: or
+                  - link "delta.com" [ref=e870] [cursor=pointer]:
+                    - /url: http://delta.com
+                  - text: (look for partner-level availability). Another option, if you’re still confused by the variable award buckets put forth by Delta, is to use
+                  - link "Korean Air" [ref=e871] [cursor=pointer]:
+                    - /url: https://www.koreanair.com/
+                  - text: ", which is clunky but somewhat reliable."
+                - paragraph [ref=e872]: Once you’ve confirmed availability for the flights and dates you’d like to travel, give Virgin Atlantic a call at 800-365-9500. Remember that you cannot mix partners on award tickets.
+                - paragraph [ref=e873]: When you have enough Virgin Points for a trip, you can get some ideas by looking below and choosing one that appeals to you.
+                - paragraph [ref=e874]: Keep in mind there are tons of different ways to use your points — don’t be limited to just the options we’ve highlighted!
+                - heading "1. Fly ANA First Class to Japan One-Way (From 72,500 Points)" [level=3] [ref=e875]
+                - 'figure "Book this epic first-class seat with transferable rewards such as Chase Ultimate Rewards points. Image Credit: Stella Shon" [ref=e877]':
+                  - img "ANA First Class Empty Window Seat" [ref=e879]
+                  - generic [ref=e880]:
+                    - text: "Book this epic first-class seat with transferable rewards such as Chase Ultimate Rewards points. Image Credit:"
+                    - link "Stella Shon" [ref=e881] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/stella/
+                - paragraph [ref=e882]:
+                  - text: Undoubtedly, this is one of the
+                  - strong [ref=e883]: most valuable sweet spots in the world. Though there have been devaluations, this is a timeless and classic aspirational redemption on one of the best first-class
+                  - text: airlines in the world. These first-class flights are on All Nippon Airways, one of Japan’s largest airlines.
+                - paragraph [ref=e884]: "Virgin Atlantic divides the U.S. into 2 zones with incredible premium cabin values:"
+                - paragraph [ref=e885]: "ANA First Class U.S. to Japan:"
+                - list [ref=e886]:
+                  - listitem [ref=e887]: "Eastern and Central U.S. to Japan: 170,000 points round-trip (85,000 points one-way)"
+                  - listitem [ref=e888]: "Western U.S. and Canada to Japan: 145,000 points round-trip (72,500 points one-way)"
+                - paragraph [ref=e889]: "ANA Business Class U.S. to Japan:"
+                - list [ref=e890]:
+                  - listitem [ref=e891]: "Eastern and Central U.S. to Japan: 120,000 points round-trip (60,000 points one-way)"
+                  - listitem [ref=e892]: "Western U.S. and Canada to Japan: 105,000 points round-trip (52,500 points one-way)"
+                - generic [ref=e893]:
+                  - strong [ref=e894]: "Hot Tip:"
+                  - paragraph [ref=e896]:
+                    - text: Check out our
+                    - link "review of ANA’s 777 business class" [ref=e897] [cursor=pointer]:
+                      - /url: /travel/airlines/ana-777-business-class-review/
+                    - text: "!"
+                - paragraph [ref=e898]:
+                  - text: If you want to continue elsewhere in Asia, you will, unfortunately, be charged 2 separate awards, so this deal is only worthwhile for travel to Japan.
+                  - strong [ref=e899]: Expect taxes and fees to be around $300 for a round-trip flight per person.
+                - heading "2. Fly Virgin Atlantic Upper-Class Round-Trip Between the U.S. and U.K. (From 57,000 Points)" [level=3] [ref=e900]:
+                  - strong [ref=e901]: 2. Fly Virgin Atlantic Upper-Class Round-Trip Between the U.S. and U.K. (From 57,000 Points)
+                - 'figure "Virgin Atlantic’s Upper Class product. Catch a flight on this with Virgin Points! Image Credit: Greg Stone" [ref=e903]':
+                  - img "Virgin Atlantic Airbus A350 Upper Class Seat 9D" [ref=e905]
+                  - generic [ref=e906]:
+                    - text: "Virgin Atlantic’s Upper Class product. Catch a flight on this with Virgin Points! Image Credit:"
+                    - link "Greg Stone" [ref=e907] [cursor=pointer]:
+                      - /url: /author/greg/
+                - paragraph [ref=e908]:
+                  - text: "On to the next option in the best ways to use Virgin Points: flying"
+                  - strong [ref=e909]: Upper Class
+                  - text: "! Off-peak award flights between the U.K. and the U.S. vary between 57,00 and 81,000 Virgin Points round-trip."
+                - paragraph [ref=e910]: Standard-season award flights range between 95,000 and 135,000 points round-trip, while peak season will cost 115,000 to 155,000 points round-trip. East Coast cities require fewer points than West Coast cities.
+                - paragraph [ref=e911]: Round-trip premium economy tickets can be booked for 35,000 to 55,000 points during standard season, depending on the route.
+                - generic [ref=e912]:
+                  - strong [ref=e913]: "Hot Tip:"
+                  - paragraph [ref=e915]:
+                    - text: Check out our step-by-step guide to
+                    - link "booking Virgin Atlantic Upper Class" [ref=e916] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-virgin-atlantic-upper-class/
+                    - text: "!"
+                - paragraph [ref=e917]:
+                  - text: Remember that
+                  - strong [ref=e918]: Virgin Atlantic imposes rather high fuel surcharges on its award flights
+                  - text: ", and you are also be subject to pricey government and airport taxes when flying through the U.K."
+                - paragraph [ref=e919]: For example, fees on round-trip economy class awards between the U.K. and the U.S. are around $440. Considering we’ve seen economy tickets on sale for this price, it may not be the best way to redeem your miles.
+                - paragraph [ref=e920]: Surcharges on premium economy awards are around $870 round-trip, while fees in the Upper Class can exceed $1,600 round-trip.
+                - paragraph [ref=e921]:
+                  - text: To check for peak versus standard season dates and access the Virgin Atlantic award chart for Virgin Atlantic flights,
+                  - link "visit this link" [ref=e922] [cursor=pointer]:
+                    - /url: https://www.virginatlantic.com/us/en/flying-club/miles/spend-miles/reward-flights.html
+                  - text: .
+                - paragraph [ref=e923]: If you’ve already purchased a flight, upgrading an eligible existing reservation booked with cash is possible. An economy classic ticket can be upgraded to premium economy for 15,000 to 25,000 points round-trip, depending on the route, or to an Upper Class seat for between 70,000 and 105,000 points. Economy Basic tickets are not eligible for upgrades.
+                - generic [ref=e924]:
+                  - strong [ref=e925]: "Hot Tip:"
+                  - paragraph [ref=e927]:
+                    - text: Use the
+                    - link "Amex Platinum card" [ref=e928] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/american-express-platinum-card/
+                    - text: to
+                    - link "get Global Entry" [ref=e929] [cursor=pointer]:
+                      - /url: /travel/global-entry-program/
+                    - text: and
+                    - link "TSA PreCheck" [ref=e930] [cursor=pointer]:
+                      - /url: /travel/airports/tsa-precheck-program/
+                    - text: to make your trip go more smoothly.
+                - heading "3. Fly Air France or KLM Business Class One-Way From the U.S. East Coast or the Caribbean to Western Europe (From 48,500 Points)" [level=3] [ref=e931]
+                - figure "Air France exudes French elegance and classic luxury. Image Credit Juan Ruiz" [ref=e933]:
+                  - img "Air France Business Class A350 New Business Class" [ref=e935]
+                  - generic [ref=e936]: Air France exudes French elegance and classic luxury. Image Credit Juan Ruiz
+                - paragraph [ref=e937]:
+                  - link "Air France and KLM" [ref=e938] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/flying-blue-air-france-klm-loyalty-program/
+                  - text: are among Virgin Atlantic’s many partners in the SkyTeam alliance, which Virgin joined in early 2023.
+                - paragraph [ref=e939]:
+                  - text: In this case, the highest cabin you can book is business, but it has a fully lie-flat bed, excellent catering, and great service. Believe it or not, you can even redeem Virgin Points on many routes cheaper than you’d
+                  - link "redeem Flying Blue miles" [ref=e940] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-air-france-klm-flying-blue-miles/
+                  - text: for!
+                - paragraph [ref=e941]:
+                  - text: If you redeem Virgin Points between Zone 1 and Zone 6, you can book business class during off-peak dates for 48,500 points (58,500 points during peak dates) for both
+                  - link "Air France" [ref=e942] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/air-france-review/
+                  - text: and KLM.
+                - paragraph [ref=e943]: "Here’s what Zone 1 includes:"
+                - list [ref=e944]:
+                  - listitem [ref=e945]: U.K., Germany, France, Belgium, Netherlands, Ireland, Switzerland, Luxembourg, Spain, Portugal, Austria, Denmark, Balearic Islands, Finland, Italy, Malta, Norway, and Sweden
+                - paragraph [ref=e946]: "Here’s what Zone 6 includes:"
+                - list [ref=e947]:
+                  - listitem [ref=e948]:
+                    - text: U.S. East Coast (see below), eastern Canada (see below), Antigua, Barbados, Bahamas, Cuba, Bermuda, Dominican Republic, French Guyana, Grenada, Guadeloupe, Cayman Islands, Turks and Caicos Islands, Virgin Islands, Jamaica, Martinique, Haiti, Puerto Rico, Trinidad and Tobago, and Sint Maarten.
+                    - list [ref=e949]:
+                      - listitem [ref=e950]: "The following U.S. states: Maine, New Hampshire, Vermont, New York, Massachusetts, Rhode Island, Connecticut, New Jersey, Pennsylvania, Delaware, Maryland, Washington, D.C., West Virginia, Virginia, Michigan, Indiana, Wisconsin, Illinois, Ohio, Kentucky, Tennessee, North Carolina, South Carolina, Georgia, Alabama, Mississippi, and Florida"
+                      - listitem [ref=e951]: "The following Canadian provinces: Ontario, Quebec, Newfoundland, New Brunswick, Nova Scotia, and Prince Edward Island"
+                - paragraph [ref=e952]: "As you can see, you can fly from much of Western Europe to the eastern U.S., eastern Canada, or the Caribbean. Here are a few example routes you can take:"
+                - list [ref=e953]:
+                  - listitem [ref=e954]:
+                    - strong [ref=e955]:
+                      - text: Chicago (ORD) – Amsterdam (AMS)
+                      - strong [ref=e956]: –
+                      - text: Naples (NAP)
+                    - text: "on"
+                    - link "KLM business class" [ref=e957] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-klm-business-class/
+                    - text: for 48,500 points during off-peak dates
+                  - listitem [ref=e958]:
+                    - strong [ref=e959]:
+                      - text: Helsinki (HEL)
+                      - strong [ref=e960]: –
+                      - text: Paris (CDG)
+                      - strong [ref=e961]: –
+                      - text: Sint Maarten (SXM)
+                    - text: "on"
+                    - link "Air France business class" [ref=e962] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-air-france-business-class/
+                    - text: for 48,500 points during off-peak dates
+                  - listitem [ref=e963]:
+                    - strong [ref=e964]:
+                      - text: Miami (MIA)
+                      - strong [ref=e965]: –
+                      - text: Paris (CDG)
+                    - text: on Air France business class for 48,500 points during off-peak dates
+                - heading "4. Fly Delta Economy to Hawaii One-Way (From 22,000 Points)" [level=3] [ref=e966]:
+                  - strong [ref=e967]: 4. Fly Delta Economy to Hawaii One-Way (From 22,000 Points)
+                - 'figure "Fly to Hawaii on Delta with your Virgin Points, and you’ll know exactly how many points it will cost ahead of time. Image Credit: Stella Shon" [ref=e969]':
+                  - img "Stella in Maui" [ref=e971]
+                  - generic [ref=e972]: "Fly to Hawaii on Delta with your Virgin Points, and you’ll know exactly how many points it will cost ahead of time. Image Credit: Stella Shon"
+                - paragraph [ref=e973]: "Virgin Atlantic Flying Club has 3 pricing categories for awards booked on Delta Air Lines:"
+                - list [ref=e976]:
+                  - listitem [ref=e977]: Nonstop U.K. to U.S.
+                  - listitem [ref=e978]: Nonstop Europe (excluding the U.K.) to the U.S.
+                  - listitem [ref=e979]: Distanced-based pricing for all other awards
+                - paragraph [ref=e980]: All pricing is per segment, so if you need a connecting flight or want a stopover, the points needed for each segment are added together. On distance-based redemptions, pricing is as low as 7,500 points one-way for economy on routes up to 500 miles and goes up to 65,500 points for 6,001 miles or more. Round-trip flights are double the cost of one-way.
+                - paragraph [ref=e981]: The distance between Los Angeles (LAX) and Honolulu (HNL) is just over 2,500 miles, which would price at 22,000 points for a Delta flight using Virgin Points.
+                - paragraph [ref=e982]: Since Delta itself does not publish an award chart, there can be great redemption values with Virgin Points. However, you’ll want to compare redemptions with both programs, as sometimes flights may be priced lower with Delta.
+                - heading "5. Fly on Delta One Suites to Europe One-Way (From 47,500 Points)" [level=3] [ref=e983]
+                - 'figure "Delta One Suites. Image Credit: Stephen Au" [ref=e985]':
+                  - link "Delta One Suites A350-900 seat 8B" [ref=e986] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/10/Delta-One-Suites-A350-900-seat-8B-1.jpg?auto=webp&disable=upscale
+                    - img "Delta One Suites A350-900 seat 8B" [ref=e988]
+                  - generic [ref=e989]:
+                    - text: "Delta One Suites. Image Credit:"
+                    - link "Stephen Au" [ref=e990] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/stephen/
+                - paragraph [ref=e991]: We’ve compiled a comprehensive guide on the best ways to book Delta One, including Delta One Suites, its best business-class product. Delta One Suites are available on most Airbus A350 and A330-900 flights and feature sliding doors, comfortable Westin bedding, and an excellent soft pillow.
+                - paragraph [ref=e992]: One of the best ways to book Delta One Suites is with Virgin Points. Nonstop flights between Europe (excluding the U.K.) and the U.S. start at 47,500 Virgin Points each way from the East Coast during off-peak dates. You’ll want to check the aircraft to ensure your flight has the Suites instead of the standard Delta One business class.
+                - paragraph [ref=e993]: Delta One frequently costs upwards of 200,000 SkyMiles if you’re booking with Delta, so using Virgin Points can provide significant savings.
+                - paragraph [ref=e994]: It used to be possible to book Delta One Suites from the U.S. to Asia for 60,000 points and Australia for 75,000 points. Unfortunately, Virgin’s switch to distance-based pricing for flights outside of Europe means these awards are now at least 105,000 points each way, depending on the route.
+                - heading "6. Fly From New Zealand to Oceania Round-Trip on Air New Zealand (From 15,000 Points)" [level=3] [ref=e995]:
+                  - strong [ref=e996]: 6. Fly From New Zealand to Oceania Round-Trip on Air New Zealand (From 15,000 Points)
+                - 'figure "Image Credit: James Larounis" [ref=e998]':
+                  - img "ANZ Dash 8 Seats" [ref=e1000]
+                  - generic [ref=e1001]:
+                    - text: "Image Credit:"
+                    - link "James Larounis" [ref=e1002] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/jameslarounis/
+                - paragraph [ref=e1003]: Intra-New Zealand redemptions are 15,000 Virgin Points round-trip in economy, but business class is unavailable.
+                - paragraph [ref=e1004]: Awards between New Zealand and Australia (including the Pacific Islands) cost 20,000 Virgin Points in economy and 30,000 points in business class, which is pretty reasonable.
+                - paragraph [ref=e1005]: These award flights cannot be booked online; they can only be booked over the phone.
+                - paragraph [ref=e1006]:
+                  - generic [ref=e1007]:
+                    - strong [ref=e1008]: "Hot Tip:"
+                    - text: If you’re staying in a hotel, you might want to use a
+                    - link "hotel credit card" [ref=e1009] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/hotel/
+                    - text: like the
+                    - link "Marriott Boundless card" [ref=e1010] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/marriott-bonvoy-boundless-credit-card/
+                    - text: . You’ll get Gold elite status benefits and earn additional points for your stays!
+                - heading "7. Fly From New Zealand to the U.S. in Business Class Round-Trip (From 125,000 Points)" [level=3] [ref=e1011]:
+                  - strong [ref=e1012]: 7. Fly From New Zealand to the U.S. in Business Class Round-Trip (From 125,000 Points)
+                - 'figure "You’ll be ready to hit the water swimming when you fly Air New Zealand’s business class from Los Angeles or San Francisco to Auckland. Image Credit: Daniel Ross" [ref=e1014]':
+                  - img "Air New Zealand Boeing 787 business class cabin rear" [ref=e1016]
+                  - generic [ref=e1017]:
+                    - text: "You’ll be ready to hit the water swimming when you fly Air New Zealand’s business class from Los Angeles or San Francisco to Auckland. Image Credit:"
+                    - link "Daniel Ross" [ref=e1018] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/daniel/
+                - paragraph [ref=e1019]:
+                  - text: One of the better ways to fly to New Zealand is nonstop via
+                  - link "Air New Zealand" [ref=e1020] [cursor=pointer]:
+                    - /url: /travel/airlines/air-new-zealand-us-routes-and-plane-types/
+                  - text: ", and you can redeem Virgin Points for business class flights on these routes."
+                - paragraph [ref=e1021]: A nonstop, round-trip flight between Auckland (AKL) and Los Angeles (LAX) or San Francisco (SFO) costs 80,000 Virgin Points in economy and 125,000 points in business class.
+                - paragraph [ref=e1022]:
+                  - text: "In practice, however, those awards are virtually unavailable. The key exception is this:"
+                  - strong [ref=e1023]: During the first half of the year, Air New Zealand may periodically dump a huge number of business class award seats for travel during the low season (June to August, with most awards in July).
+                - paragraph [ref=e1024]: For those still interested in trying out the airline, awards between New Zealand and Asia tend to be more available for booking through partners. Per the Flying Club chart, these round-trip flights can be booked for 60,000 points in economy and 80,000 points in business class.
+                - heading "8. Travel Within Australia on Virgin Australia (From 15,000 Points)" [level=3] [ref=e1025]:
+                  - strong [ref=e1026]: 8. Travel Within Australia on Virgin Australia (From 15,000 Points)
+                - paragraph [ref=e1027]: Redeeming Virgin Points on domestic Virgin Australia routes can be a good option if cash flights are expensive.
+                - paragraph [ref=e1028]:
+                  - text: Redemption rates vary depending on the distance flown. For example, one-way economy tickets with less than 400 miles cost 8,000 Virgin Points.
+                  - strong [ref=e1029]: Perth (PER) to Cocos Islands (CCK) comes to 40,000 points
+                  - text: round-trip, and
+                  - strong [ref=e1030]: Hobert (HBA) to Brisbane (BNE) costs 30,000 points
+                  - text: . Fuel surcharges do not apply to domestic tickets.
+                - paragraph [ref=e1031]: Passengers can book one-way award flights for half the price of a round-trip award, meaning it’s possible to combine a few one-way awards for a tour of Australia.
+                - paragraph [ref=e1032]:
+                  - generic [ref=e1033]:
+                    - strong [ref=e1034]: "Hot Tip:"
+                    - text: Check out more fantastic cabin photos of
+                    - link "Virgin Australia’s business class" [ref=e1035] [cursor=pointer]:
+                      - /url: /travel/airlines/virgin-australia-777-business-class-review/
+                    - text: in our review!
+                - heading "9. Travel Within Africa on South African Airways (From 20,000 Points)" [level=3] [ref=e1036]:
+                  - strong [ref=e1037]: 9. Travel Within Africa on South African Airways (From 20,000 Points)
+                - 'figure "Welcome to South Africa! Image Credit: Keri Stooksbury" [ref=e1039]':
+                  - img "South African Airways JNB VFA business class seat" [ref=e1041]
+                  - generic [ref=e1042]:
+                    - text: "Welcome to South Africa! Image Credit:"
+                    - link "Keri Stooksbury" [ref=e1043] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/keri/
+                - paragraph [ref=e1044]: "Flying Club provides rather lucrative options for award travel within South Africa, as well as between South Africa and the following Southern Africa destinations:"
+                - list [ref=e1045]:
+                  - listitem [ref=e1046]: Botswana, Lesotho, Madagascar, Malawi, Mozambique, Namibia, Swaziland, Zambia, and Zimbabwe
+                - paragraph [ref=e1047]: Round-trip economy tickets on these routes are 20,000 points, and business class tickets are 30,000 points.
+                - paragraph [ref=e1048]: "A slightly higher cost of redemption applies to award flights booked between South Africa and the following Central and Northern African destinations:"
+                - list [ref=e1049]:
+                  - listitem [ref=e1050]: Angola, Benin, Cameroon, Cote d’Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Kenya, Nigeria, Senegal, Tanzania, and Uganda
+                - paragraph [ref=e1051]: Round-trip tickets on these routes are 40,000 points for economy, and business class tickets are 50,000 points.
+                - paragraph [ref=e1052]: All pricing is per segment, so if you need a connecting flight or want a stopover, the points needed for each segment are added together. One-way flights are half the cost of round-trip.
+                - paragraph [ref=e1053]:
+                  - generic [ref=e1054]:
+                    - strong [ref=e1055]: "Hot Tip:"
+                    - text: When you’re flying multiple legs, and you need to check your bag, the chances of it getting lost increase. You can minimize that risk by getting baggage insurance from a card like the
+                    - link "Chase Sapphire Preferred card" [ref=e1056] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                    - text: .
+                - heading "10. Fly on ANA Economy Round-Trip Within Japan (From 15,000 Points)" [level=3] [ref=e1057]:
+                  - strong [ref=e1058]: 10. Fly on ANA Economy Round-Trip Within Japan (From 15,000 Points)
+                - 'figure "Image Credit: Ryan Smith" [ref=e1060]':
+                  - img "All Nippon Airways ANA B777 plane at gate Chicago ORD" [ref=e1062]
+                  - generic [ref=e1063]: "Image Credit: Ryan Smith"
+                - paragraph [ref=e1064]: Flying Club offers an interesting opportunity to redeem points for ANA-operated flights. The award chart shows the same redemption level — 15,000 points — for all round-trip intra-Japan flights in economy class, no matter the distance.
+                - paragraph [ref=e1065]: For example, flying from Ozora (MMB) to Tokyo (HND) round-trip can cost over $300 during the peak summer travel season, giving you a value of 2 cents per point. Similarly, round-trip flights from Miyakojima (MMY) to Osaka (KIX) are typically at least $250.
+                - generic [ref=e1066]:
+                  - strong [ref=e1067]: »
+                  - strong [ref=e1068]: "Related:"
+                  - link "The Ultimate Guide to the 2026 Cherry Blossom Festivals in Japan" [ref=e1069] [cursor=pointer]:
+                    - /url: /travel/japan-cherry-blossom-festival-guide/
+                - paragraph [ref=e1070]: Neither business class nor first class redemptions are available, and these redemptions can only be made by phone.
+                - heading "11. U.S. to London in Virgin Atlantic Economy Class One-Way (From 6,000 Points)" [level=3] [ref=e1071]:
+                  - strong [ref=e1072]: 11. U.S. to London in Virgin Atlantic Economy Class One-Way (From 6,000 Points)
+                - 'figure "Image Credit: Juan Ruiz" [ref=e1074]':
+                  - img "Virgin Atlantic Economy Seating" [ref=e1076]
+                  - generic [ref=e1077]: "Image Credit: Juan Ruiz"
+                - paragraph [ref=e1078]:
+                  - text: Virgin Atlantic offers one of the cheapest award tickets to Europe. You can fly between New York (JFK) and London (LHR) for as little as
+                  - strong [ref=e1079]: 6,000 points and $111 one-way in economy class
+                  - text: . Even flights from
+                  - strong [ref=e1080]: Los Angeles start at a reasonable 9,000 points one-way
+                  - text: .
+                - paragraph [ref=e1081]: Virgin Atlantic offers a comfortable economy class cabin on these routes, making the award a great value.
+                - paragraph [ref=e1082]:
+                  - text: Best of all, Virgin Atlantic’s transfer partners often run
+                  - link "transfer bonuses" [ref=e1083] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/news/current-credit-card-transfer-bonuses/
+                  - text: of up to 30%. This drops the price of these award tickets to just ~4,615-6,000 points one-way.
+                - heading "12. Fly Air New Zealand Business Class One-Way From the U.S. West Coast to the South Pacific (From 45,000 Points)" [level=3] [ref=e1084]:
+                  - strong [ref=e1085]: 12. Fly Air New Zealand Business Class One-Way From the U.S. West Coast to the South Pacific (From 45,000 Points)
+                - 'figure "Image Credit: Daniel Ross" [ref=e1087]':
+                  - img "Air New Zealand Boeing 787 business class cabin rear" [ref=e1089]
+                  - generic [ref=e1090]: "Image Credit: Daniel Ross"
+                - paragraph [ref=e1091]:
+                  - text: Air New Zealand offers flights to underserved destinations like
+                  - strong [ref=e1092]: Fiji, Samoa, Tahiti, New Caledonia, Cook Islands, and Tonga
+                  - text: . You can fly to these destinations (indirectly) from
+                  - strong [ref=e1093]: Los Angeles (LAX) in business class for just 45,000 Virgin Atlantic points
+                  - text: one-way.
+                - paragraph [ref=e1094]: You can also opt for an economy class ticket for 30,000 points one-way, but with the price difference being so little, it can make sense to upgrade.
+                - heading "13. Fly Nonstop Delta Economy (From 7,500 Points)" [level=3] [ref=e1095]
+                - 'figure "Image Credit: Stella Shon" [ref=e1097]':
+                  - img "Delta Air Lines Airbus A220" [ref=e1099]
+                  - generic [ref=e1100]: "Image Credit: Stella Shon"
+                - paragraph [ref=e1101]: "Virgin Atlantic uses distance-based pricing for Delta flights outside the U.K. and the rest of Europe. This can unlock some incredible values, especially for nonstop, short-haul routes where the cash price may be high. The award chart is as follows:"
+                - table [ref=e1104]:
+                  - rowgroup [ref=e1105]:
+                    - row "Miles Flown Virgin Points Needed for Delta Economy (One-Way) Virgin Points Needed for Delta One/First Class (One-Way)" [ref=e1106]:
+                      - cell "Miles Flown" [ref=e1107]:
+                        - paragraph [ref=e1108]:
+                          - strong [ref=e1109]: Miles Flown
+                      - cell "Virgin Points Needed for Delta Economy (One-Way)" [ref=e1110]:
+                        - paragraph [ref=e1111]:
+                          - strong [ref=e1112]: Virgin Points Needed for Delta Economy (One-Way)
+                      - cell "Virgin Points Needed for Delta One/First Class (One-Way)" [ref=e1113]:
+                        - paragraph [ref=e1114]:
+                          - strong [ref=e1115]: Virgin Points Needed for Delta One/First Class (One-Way)
+                    - row "0-500 7,500 17,500" [ref=e1116]:
+                      - cell "0-500" [ref=e1117]:
+                        - paragraph [ref=e1118]:
+                          - strong [ref=e1119]: 0-500
+                      - cell "7,500" [ref=e1120]:
+                        - paragraph [ref=e1121]: 7,500
+                      - cell "17,500" [ref=e1122]:
+                        - paragraph [ref=e1123]: 17,500
+                    - row "501-1,000 11,000 27,500" [ref=e1124]:
+                      - cell "501-1,000" [ref=e1125]:
+                        - paragraph [ref=e1126]:
+                          - strong [ref=e1127]: 501-1,000
+                      - cell "11,000" [ref=e1128]:
+                        - paragraph [ref=e1129]: 11,000
+                      - cell "27,500" [ref=e1130]:
+                        - paragraph [ref=e1131]: 27,500
+                    - row "1,001-1,500 16,500 40,000" [ref=e1132]:
+                      - cell "1,001-1,500" [ref=e1133]:
+                        - paragraph [ref=e1134]:
+                          - strong [ref=e1135]: 1,001-1,500
+                      - cell "16,500" [ref=e1136]:
+                        - paragraph [ref=e1137]: 16,500
+                      - cell "40,000" [ref=e1138]:
+                        - paragraph [ref=e1139]: 40,000
+                    - row "1,501-2,000 18,500 45,000" [ref=e1140]:
+                      - cell "1,501-2,000" [ref=e1141]:
+                        - paragraph [ref=e1142]:
+                          - strong [ref=e1143]: 1,501-2,000
+                      - cell "18,500" [ref=e1144]:
+                        - paragraph [ref=e1145]: 18,500
+                      - cell "45,000" [ref=e1146]:
+                        - paragraph [ref=e1147]: 45,000
+                    - row "2,001-3,000 22,000 52,500" [ref=e1148]:
+                      - cell "2,001-3,000" [ref=e1149]:
+                        - paragraph [ref=e1150]:
+                          - strong [ref=e1151]: 2,001-3,000
+                      - cell "22,000" [ref=e1152]:
+                        - paragraph [ref=e1153]: 22,000
+                      - cell "52,500" [ref=e1154]:
+                        - paragraph [ref=e1155]: 52,500
+                    - row "3,001-4,000 35,000 80,000" [ref=e1156]:
+                      - cell "3,001-4,000" [ref=e1157]:
+                        - paragraph [ref=e1158]:
+                          - strong [ref=e1159]: 3,001-4,000
+                      - cell "35,000" [ref=e1160]:
+                        - paragraph [ref=e1161]: 35,000
+                      - cell "80,000" [ref=e1162]:
+                        - paragraph [ref=e1163]: 80,000
+                    - row "4,001-5,000 44,000 105,000" [ref=e1164]:
+                      - cell "4,001-5,000" [ref=e1165]:
+                        - paragraph [ref=e1166]:
+                          - strong [ref=e1167]: 4,001-5,000
+                      - cell "44,000" [ref=e1168]:
+                        - paragraph [ref=e1169]: 44,000
+                      - cell "105,000" [ref=e1170]:
+                        - paragraph [ref=e1171]: 105,000
+                    - row "5,001-6,000 49,500 130,000" [ref=e1172]:
+                      - cell "5,001-6,000" [ref=e1173]:
+                        - paragraph [ref=e1174]:
+                          - strong [ref=e1175]: 5,001-6,000
+                      - cell "49,500" [ref=e1176]:
+                        - paragraph [ref=e1177]: 49,500
+                      - cell "130,000" [ref=e1178]:
+                        - paragraph [ref=e1179]: 130,000
+                    - row "6,001+ 65,500 165,000" [ref=e1180]:
+                      - cell "6,001+" [ref=e1181]:
+                        - paragraph [ref=e1182]:
+                          - strong [ref=e1183]: 6,001+
+                      - cell "65,500" [ref=e1184]:
+                        - paragraph [ref=e1185]: 65,500
+                      - cell "165,000" [ref=e1186]:
+                        - paragraph [ref=e1187]: 165,000
+                - paragraph [ref=e1188]: In addition to the West Coast-to-Hawaii sweet spot for 22,000 points, as noted earlier, another sweet spot is short-haul economy routes for 7,500 points each way. On a sample award booking from Detroit (DTW) to Nashville (BNA), Delta charges 14,900 SkyMiles, while the same flight is available with Virgin Atlantic Flying Club for 7,500 points.
+                - paragraph [ref=e1189]: That’s almost half as many points as needed! First class is also available with Virgin Points at around half the price of what Delta charges.
+                - 'figure "Image Credit: Delta" [ref=e1191]':
+                  - img "Delta DTW BNA award flight" [ref=e1193]
+                  - generic [ref=e1194]: "Image Credit: Delta"
+                - 'figure "Image Credit: Virgin Atlantic" [ref=e1196]':
+                  - img "Screenshot 2023 11 13 at 10.19.42 PM" [ref=e1198]
+                  - generic [ref=e1199]: "Image Credit: Virgin Atlantic"
+                - heading "14. Stay at Richard Branson’s Private Island for 7 Days (2 Million Points)" [level=3] [ref=e1200]
+                - 'figure "Necker Island. Image Credit: Virgin Limited Edition" [ref=e1202]':
+                  - img "Necker Island" [ref=e1204]
+                  - generic [ref=e1205]: "Necker Island. Image Credit: Virgin Limited Edition"
+                - paragraph [ref=e1206]:
+                  - text: Richard Branson, the founder of the Virgin Group, lives on
+                  - strong [ref=e1207]: his own private island
+                  - text: — known as
+                  - link "Necker Island" [ref=e1208] [cursor=pointer]:
+                    - /url: https://www.virginlimitededition.com/en/necker-island/
+                  - text: — in the British Virgin Islands.
+                - paragraph [ref=e1209]: Why is this important?
+                - paragraph [ref=e1210]:
+                  - text: Because you can redeem (a boatload) of Virgin Points to stay on Necker Island during certain
+                  - link "Celebration Weeks" [ref=e1211] [cursor=pointer]:
+                    - /url: https://www.virgin.com/en-us/virgin-red/spend-virgin-points/stay-at-necker-island-2024-16442
+                  - text: . It won’t come cheap, though, at a whopping
+                  - strong [ref=e1212]: 2 million points
+                  - text: for 2 people sharing 1 room in the Great House for 7 nights.
+                - paragraph [ref=e1213]: For perspective, Great House rooms cost $5,000 per night during Celebration Weeks, so your 7-night stay is worth $35,000.
+                - paragraph [ref=e1214]: But your stay doesn’t just include the room. Your stay includes all food and drink (including alcohol), activities on the island, and return boat transfers to Necker Island from Virgin Gorda or Beef Island.
+                - paragraph [ref=e1215]: Your flights are not included, however.
+                - paragraph [ref=e1216]: Points redemptions for Necker Island are limited to 15 bookings per year.
+                - paragraph [ref=e1218]: Advertisement
+                - heading "Using Virgin Points With Airline Partners" [level=2] [ref=e1219]
+                - paragraph [ref=e1220]:
+                  - text: Virgin Atlantic is part of the
+                  - link "SkyTeam" [ref=e1221] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/the-skyteam-alliance/
+                  - text: "alliance, and you can earn and redeem points with all member airlines. Virgin Atlantic also has several partners outside of the alliance, including:"
+                - list [ref=e1222]:
+                  - listitem [ref=e1223]:
+                    - link "Aeromexico" [ref=e1224] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-aeromexico-rewards-points/
+                  - listitem [ref=e1225]: Air New Zealand
+                  - listitem [ref=e1226]:
+                    - link "All Nippon Airways (ANA)" [ref=e1227] [cursor=pointer]:
+                      - /url: /travel/airlines/how-to-earn-ana-mileage-club-miles/
+                  - listitem [ref=e1228]:
+                    - link "China Eastern" [ref=e1229] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-china-eastern-airlines-eastern-miles-points/
+                  - listitem [ref=e1230]: El Al
+                  - listitem [ref=e1231]: IndiGo (for mileage-earning only)
+                  - listitem [ref=e1232]: Kenya Airways
+                  - listitem [ref=e1233]:
+                    - link "Korean Air" [ref=e1234] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/korean-air-skypass-loyalty-program/
+                  - listitem [ref=e1235]:
+                    - link "LATAM" [ref=e1236] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/latam-review/
+                  - listitem [ref=e1237]: Middle East Airlines
+                  - listitem [ref=e1238]: Saudia Airlines
+                  - listitem [ref=e1239]: Scandinavian Airlines (SAS)
+                  - listitem [ref=e1240]: South African Airlines
+                  - listitem [ref=e1241]: Vietnam Airlines
+                  - listitem [ref=e1242]:
+                    - link "Virgin Australia" [ref=e1243] [cursor=pointer]:
+                      - /url: /travel/airlines/how-to-earn-virgin-australia-velocity-points/
+                  - listitem [ref=e1244]: Westjet
+                - paragraph [ref=e1245]: Redeeming Virgin Points is allowed on all partners except SAS and IndiGo. Award seats can be booked up to 331 days in advance.
+                - paragraph [ref=e1246]:
+                  - generic [ref=e1247]:
+                    - strong [ref=e1248]: "Hot Tip:"
+                    - text: For more information on Virgin Atlantic’s loyalty program, check out the
+                    - link "Virgin Atlantic Flying Club loyalty program page" [ref=e1249] [cursor=pointer]:
+                      - /url: /travel/airlines/virgin-atlantic-flying-club-loyalty-program/
+                    - text: .
+                - heading "Final Thoughts" [level=2] [ref=e1250]
+                - paragraph [ref=e1251]:
+                  - text: While Virgin Atlantic Flying Club often charges higher fees than many competing airlines for its operated flights, it
+                  - emphasis [ref=e1252]: does
+                  - text: still offer a handful of good redemptions that you shouldn’t count out … especially since Virgin Points are so easy to obtain!
+                - paragraph [ref=e1253]: We hope our list of the best ways to use Virgin Points was helpful. Now all that’s left is to go earn some points and start saving up. Happy redeeming!
+              - generic [ref=e1254]:
+                - generic [ref=e1255]:
+                  - separator [ref=e1256]
+                  - text: "Featured Image Credit: Daniel Ross"
+                - generic [ref=e1257]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1258]
+                  - group [ref=e1259]:
+                    - generic "What are Flying Club points?" [ref=e1260] [cursor=pointer]
+                    - paragraph [ref=e1262]: Flying Club is the frequent flyer program of Virgin Atlantic. Virgin Points are the points earned and redeemed.
+                  - group [ref=e1263]:
+                    - generic "What are Virgin Atlantic Flying Club points worth?" [ref=e1264] [cursor=pointer]
+                    - generic [ref=e1265]:
+                      - paragraph [ref=e1266]:
+                        - text: The value of Virgin Points depends on what kind of ticket you are redeeming with your points. We value Virgin Points around
+                        - link "1.4 cents each" [ref=e1267] [cursor=pointer]:
+                          - /url: /travel/points-and-miles-valuations/
+                        - text: .
+                      - paragraph [ref=e1268]: However, it is possible to find redemptions that are much better. For example, a business or first class flight on ANA could be worth over 5 cents per point!
+                  - group [ref=e1269]:
+                    - generic "Who are Virgin Atlantic's partners?" [ref=e1270] [cursor=pointer]
+                    - generic [ref=e1271]:
+                      - text: Virgin Atlantic is part of the
+                      - link "SkyTeam" [ref=e1272] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/travel/airlines/the-skyteam-alliance/
+                      - text: "alliance, and you can earn and redeem points with all member airlines. Virgin Atlantic also has several partners outside of the alliance, including:"
+                      - list [ref=e1274]:
+                        - listitem [ref=e1275]:
+                          - link "Aeromexico" [ref=e1276] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-aeromexico-rewards-points/
+                        - listitem [ref=e1277]: Air New Zealand
+                        - listitem [ref=e1278]:
+                          - link "All Nippon Airways (ANA)" [ref=e1279] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-earn-ana-mileage-club-miles/
+                        - listitem [ref=e1280]:
+                          - link "China Eastern" [ref=e1281] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-china-eastern-airlines-eastern-miles-points/
+                          - list [ref=e1282]:
+                            - listitem:
+                              - list
+                        - listitem [ref=e1283]: El Al
+                        - listitem [ref=e1284]: IndiGo (for mileage-earning only)
+                        - listitem [ref=e1285]: Kenya Airways
+                        - listitem [ref=e1286]:
+                          - link "Korean Air" [ref=e1287] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/korean-air-skypass-loyalty-program/
+                        - listitem [ref=e1288]: LATAM
+                        - listitem [ref=e1289]: Middle East Airlines
+                        - listitem [ref=e1290]: Saudia Airlines
+                        - listitem [ref=e1291]: Scandinavian Airlines (SAS)
+                        - listitem [ref=e1292]: South African Airlines
+                        - listitem [ref=e1293]: Vietnam Airlines
+                        - listitem [ref=e1294]:
+                          - link "Virgin Australia" [ref=e1295] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-earn-virgin-australia-velocity-points/
+                        - listitem [ref=e1296]:
+                          - text: Westjet
+                          - list
+                  - group [ref=e1297]:
+                    - generic "Are Virgin Atlantic Flying Club tickets refundable?" [ref=e1298] [cursor=pointer]
+                    - paragraph [ref=e1300]: Virgin Atlantic charges a reasonable $50 fee to change an award ticket, or cancel and redeposit your miles.
+                  - group [ref=e1301]:
+                    - generic "When do Flying Club points expire?" [ref=e1302] [cursor=pointer]
+                    - paragraph [ref=e1304]:
+                      - text: Virgin Points
+                      - link "do not expire" [ref=e1305] [cursor=pointer]:
+                        - /url: /travel/when-do-my-frequent-flyer-miles-expire/
+                      - text: .
+                - complementary [ref=e1306]:
+                  - paragraph [ref=e1308]:
+                    - generic [ref=e1310]:
+                      - text: For rates and fees of the Platinum Card
+                      - superscript [ref=e1311]: ®
+                      - text: from American Express, click
+                      - link "here" [ref=e1312] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e1314]:
+                      - text: For rates and fees of the American Express
+                      - superscript [ref=e1315]: ®
+                      - text: Gold Card, click
+                      - link "here" [ref=e1316] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TE/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e1318]:
+                      - text: For rates and fees of the Marriott Bonvoy Bevy
+                      - superscript [ref=e1319]: ®
+                      - text: American Express
+                      - superscript [ref=e1320]: ®
+                      - text: Card, click
+                      - link "here" [ref=e1321] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TE/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e1323]:
+                      - text: For rates and fees of the Marriott Bonvoy Brilliant
+                      - superscript [ref=e1324]: ®
+                      - text: American Express
+                      - superscript [ref=e1325]: ®
+                      - text: card, click
+                      - link "here" [ref=e1326] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TE/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e1328]:
+                      - text: For rates and fees of the Marriott Bonvoy Business
+                      - superscript [ref=e1329]: ®
+                      - text: American Express
+                      - superscript [ref=e1330]: ®
+                      - text: Card, click
+                      - link "here" [ref=e1331] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/MarriottBonvoyBusinessAmexTCCRF_addSource/TE/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                - group "Was this page helpful?" [ref=e1333]:
+                  - paragraph [ref=e1334]: Was this page helpful?
+                  - generic [ref=e1335]:
+                    - button "Yes" [ref=e1336] [cursor=pointer]
+                    - button "No" [ref=e1337] [cursor=pointer]
+                - generic [ref=e1338]:
+                  - figure [ref=e1340]:
+                    - img "Stephen Au's image" [ref=e1341]
+                  - generic [ref=e1342]:
+                    - heading "About Stephen Au" [level=2] [ref=e1343]:
+                      - text: About
+                      - link "Stephen Au" [ref=e1344] [cursor=pointer]:
+                        - /url: /author/stephen/
+                    - paragraph [ref=e1345]: Stephen is an established voice in the credit card space, with over 70 to his name. His work has been in publications like The Washington Post, and his Au Points and Awards Consulting Services is used by hundreds of clients.
+                    - list [ref=e1347]:
+                      - listitem [ref=e1348]:
+                        - link "Instagram icon" [ref=e1349] [cursor=pointer]:
+                          - /url: https://www.instagram.com/aupacs/
+                          - img "Instagram icon" [ref=e1350]
+                      - listitem [ref=e1351]:
+                        - link "LinkedIn icon" [ref=e1352] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/austephen/
+                          - img "LinkedIn icon" [ref=e1353]
+                      - listitem [ref=e1354]:
+                        - link "email icon" [ref=e1355] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1356]
+                - generic [ref=e1358]:
+                  - generic [ref=e1359]:
+                    - paragraph [ref=e1360]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1361]: ™
+                    - generic [ref=e1362]:
+                      - paragraph [ref=e1363]:
+                        - text: Get the
+                        - strong [ref=e1364]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1365]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1366]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1367]:
+                      - textbox "First Name" [ref=e1368]
+                      - textbox "Email" [ref=e1369]
+                      - button "Join Now" [disabled] [ref=e1370]
+                    - paragraph [ref=e1372]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1373] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1374] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1375] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1377]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1379]
+                - generic [ref=e1381]:
+                  - paragraph [ref=e1382]: We Recommend
+                  - generic [ref=e1383]:
+                    - generic [ref=e1384]:
+                      - link "Platinum Card® from American Express" [ref=e1385] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1386]
+                      - link "Terms Apply / Rates & Fees" [ref=e1387] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1388] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1389]
+                        - text: Apply Now
+                    - generic [ref=e1392]:
+                      - paragraph [ref=e1393]:
+                        - link "Platinum Card® from American Express" [ref=e1394] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1395]:
+                            - text: Platinum Card
+                            - superscript [ref=e1396]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1398]:
+                        - generic [ref=e1399]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1400] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1401]:
+                        - listitem [ref=e1402]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1403]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1404]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1405]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1406]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1407]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1408]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1409] [cursor=pointer]
+            - complementary [ref=e1411]:
+              - generic [ref=e1412]:
+                - generic [ref=e1414]:
+                  - paragraph [ref=e1415]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1416] [cursor=pointer]
+                  - generic [ref=e1417]:
+                    - generic [ref=e1420]:
+                      - generic [ref=e1421]:
+                        - generic [ref=e1422]:
+                          - img [ref=e1423]
+                          - generic [ref=e1425]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1426] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1427]
+                      - generic [ref=e1428]:
+                        - paragraph [ref=e1429]:
+                          - link "Platinum Card® from American Express" [ref=e1430] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1431]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1432] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1433]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1435] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1438]:
+                      - generic [ref=e1439]:
+                        - generic [ref=e1440]:
+                          - img [ref=e1441]
+                          - generic [ref=e1443]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1444] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1445]
+                      - generic [ref=e1446]:
+                        - paragraph [ref=e1447]:
+                          - link "American Express® Gold Card" [ref=e1448] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1449]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1450] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1451]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1453] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1456]:
+                      - generic [ref=e1457]:
+                        - generic [ref=e1458]:
+                          - img [ref=e1459]
+                          - generic [ref=e1461]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1462] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1463]
+                      - generic [ref=e1464]:
+                        - paragraph [ref=e1465]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1466] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1467]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1468] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1469]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1471] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/3424/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1474]:
+                      - generic [ref=e1475]:
+                        - generic [ref=e1476]:
+                          - img [ref=e1477]
+                          - generic [ref=e1479]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1480] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/3424/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1481]
+                      - generic [ref=e1482]:
+                        - paragraph [ref=e1483]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1484] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/3424/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1485]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1486] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/3424/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1487]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1489] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/3424/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1491] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1494]: Advertisement
+      - generic [ref=e1496]:
+        - paragraph [ref=e1497]: Related Posts
+        - generic [ref=e1498]:
+          - generic [ref=e1499]:
+            - link [ref=e1500] [cursor=pointer]:
+              - /url: /travel/airlines/virgin-atlantic-flying-club-loyalty-program/
+              - figure [ref=e1501]:
+                - img "Virgin Atlantic Flying Club Loyalty Program Review" [ref=e1503]
+            - link "Virgin Atlantic Flying Club Loyalty Program Review" [ref=e1504] [cursor=pointer]:
+              - /url: /travel/airlines/virgin-atlantic-flying-club-loyalty-program/
+          - generic [ref=e1505]:
+            - link [ref=e1506] [cursor=pointer]:
+              - /url: /travel/airlines/lufthansa-miles-and-more-loyalty-program/
+              - figure [ref=e1507]:
+                - img "Lufthansa Miles & More Loyalty Program Review" [ref=e1509]
+            - link "Lufthansa Miles & More Loyalty Program Review" [ref=e1510] [cursor=pointer]:
+              - /url: /travel/airlines/lufthansa-miles-and-more-loyalty-program/
+          - generic [ref=e1511]:
+            - link [ref=e1512] [cursor=pointer]:
+              - /url: /travel/hotels/marriott-rewards-loyalty-program/
+              - figure [ref=e1513]:
+                - img "Marriott Bonvoy Hotel Loyalty Program – Full Review" [ref=e1515]
+            - link "Marriott Bonvoy Hotel Loyalty Program – Full Review" [ref=e1516] [cursor=pointer]:
+              - /url: /travel/hotels/marriott-rewards-loyalty-program/
+          - generic [ref=e1517]:
+            - link [ref=e1518] [cursor=pointer]:
+              - /url: /travel/airlines/emirates-skywards-loyalty-program/
+              - figure [ref=e1519]:
+                - img "Emirates Skywards Loyalty Program Review" [ref=e1521]
+            - link "Emirates Skywards Loyalty Program Review" [ref=e1522] [cursor=pointer]:
+              - /url: /travel/airlines/emirates-skywards-loyalty-program/
+    - contentinfo [ref=e1523]:
+      - img [ref=e1524]
+      - img [ref=e1543]
+      - generic [ref=e1562]:
+        - generic [ref=e1563]:
+          - img [ref=e1565]
+          - generic [ref=e1570]:
+            - generic [ref=e1571]:
+              - paragraph [ref=e1572]: Upgrade your travel experience
+              - list [ref=e1573]:
+                - listitem [ref=e1574]:
+                  - link [ref=e1575] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1576]:
+                      - img "Facebook" [ref=e1577]
+                - listitem [ref=e1578]:
+                  - link [ref=e1579] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1580]:
+                      - img "Twitter" [ref=e1581]
+                - listitem [ref=e1582]:
+                  - link [ref=e1583] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1584]:
+                      - img "Instagram" [ref=e1585]
+                - listitem [ref=e1586]:
+                  - link [ref=e1587] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1588]:
+                      - img "Pinterest" [ref=e1589]
+                - listitem [ref=e1590]:
+                  - link [ref=e1591] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1592]:
+                      - img "Linkedin" [ref=e1593]
+                - listitem [ref=e1594]:
+                  - link [ref=e1595] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1596]:
+                      - img "Youtube" [ref=e1597]
+            - generic [ref=e1599]:
+              - list [ref=e1600]:
+                - listitem [ref=e1601]:
+                  - link "News" [ref=e1602] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1603]:
+                  - link "Credit Cards" [ref=e1604] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1605]:
+                  - link "Business" [ref=e1606] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1607]:
+                - listitem [ref=e1608]:
+                  - link "Finance" [ref=e1609] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1610]:
+                  - link "Travel Guides" [ref=e1611] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1612]:
+                  - link "Air Travel" [ref=e1613] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1614]:
+                - listitem [ref=e1615]:
+                  - link "Hotel Guides" [ref=e1616] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1617]:
+                  - link "Beginners" [ref=e1618] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1619]:
+                  - link "About" [ref=e1620] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1621]:
+                - listitem [ref=e1622]:
+                  - link "Podcast" [ref=e1623] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1624]:
+                  - link "Jobs & Careers" [ref=e1625] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1626]:
+                  - link "Contact Us" [ref=e1627] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1628]:
+          - paragraph [ref=e1629]:
+            - link "Privacy Policy" [ref=e1630] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1631] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1632] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1633] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1634] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1635] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1676] [cursor=pointer]
+          - paragraph [ref=e1636]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1637]:
+          - link "DMCA.com Protection Status" [ref=e1638] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1639]
+          - img "Comodo Secure Seal" [ref=e1641]
+        - generic [ref=e1642]:
+          - generic [ref=e1643]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1644]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1645]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1646]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1647]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1648] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1649]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1650]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1652]:
+    - generic [ref=e1653]:
+      - generic [ref=e1654]:
+        - button "close banner" [ref=e1655] [cursor=pointer]:
+          - img "close banner" [ref=e1656]
+        - img "company logo" [ref=e1658]
+      - generic [ref=e1659]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1661]
+        - generic [ref=e1662]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1663] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1664] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1666]:
+        - button "Manage" [ref=e1667] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1668] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1669] [cursor=pointer]
+    - generic [ref=e1671]:
+      - generic [ref=e1672]: "Powered by:"
+      - link "trustarc" [ref=e1673] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1674]

@@ -1,0 +1,1558 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "12 Best Ways To Redeem Turkish Airlines Miles&Smiles Miles for Maximum Value" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Stephen Au's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Stephen Au
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: January 31, 2026, 1:34pm CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Stella Shon
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Kellie Jez
+          - figure [ref=e61]:
+            - img "12 Best Ways To Redeem Turkish Airlines Miles&Smiles Miles for Maximum Value" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e1599]:
+            - generic "Jump to Section" [ref=e1600] [cursor=pointer]
+          - paragraph [ref=e68]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e69] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e70]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - heading "Key Takeaways" [level=2] [ref=e76]
+                  - list [ref=e78]:
+                    - listitem [ref=e79]: Turkish Airlines Miles&Smiles miles are best redeemed for award flights on Turkish Airlines and Star Alliance partners, especially in business class.
+                    - listitem [ref=e80]: Unless you’re booking a flight with Turkish Airlines, it’s best to search for award flights using United’s website, as it is easier to use.
+                    - listitem [ref=e81]: Transferring points from partners like Citi ThankYou Rewards, Capital One Miles, and Marriott Bonvoy can help you build up your balance.
+                - paragraph [ref=e82]: Turkish Airlines Miles&Smiles miles have historically been difficult to earn due to the lack of transfer partners available, which made it increasingly difficult to earn enough points without flying a ton and crediting your flights to earn Turkish Airlines miles.
+                - paragraph [ref=e83]:
+                  - text: However,
+                  - link "Turkish Airlines" [ref=e84] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/turkish-airlines-review/
+                  - text: "is now a transfer partner with Bilt Rewards, Capital One Miles, Citi ThankYou Rewards, and Marriott Bonvoy. Plus, it has a U.S. co-branded credit card:"
+                  - link "Turkish Airlines Miles&Smiles Premier Visa Signature® Credit Card" [ref=e85] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/turkish-airlines-milessmiles-premier-visa-signature-credit-card/
+                    - text: Turkish Airlines Miles&Smiles Premier Visa Signature
+                    - superscript [ref=e86]: ®
+                    - text: Credit Card
+                  - text: .
+                - paragraph [ref=e87]: Miles&Smiles has a lot of excellent award sweet spots — and because it hasn’t received a lot of coverage in the frequent flyer world, these sweet spots have stayed below the radar for the most part.
+                - paragraph [ref=e88]: For example, one-way flights are allowed (but you cannot fly more than 1 carrier on inbound or outbound flights), you can have up to 4 segments on one-way awards, and you can have up to 8 segments on round-trip awards. It also uses a region-based award chart, so there are definitely lots of opportunities for optimization and award sweet spots.
+                - heading "The Pros and Cons of Turkish Miles&Smiles (Quick Overview)" [level=2] [ref=e89]
+                - paragraph [ref=e90]: Although there are lots of opportunities to optimize Turkish Airlines miles, we’ll first go over some of the pros and cons before deep-diving into all the sweet spots.
+                - paragraph [ref=e91]:
+                  - text: To begin with,
+                  - strong [ref=e92]:
+                    - link "fuel surcharges" [ref=e93] [cursor=pointer]:
+                      - /url: /travel/airlines/airline-fuel-surcharges/
+                    - text: are
+                  - strong [ref=e94]: always passed on
+                  - text: ", so be aware of that when booking award flights."
+                - paragraph [ref=e95]:
+                  - text: If you are booking Turkish Airlines flights only, you can
+                  - link "reserve your flights completely online" [ref=e96] [cursor=pointer]:
+                    - /url: https://turkishairlines.com/
+                  - text: . Otherwise, you’ll need to call the sales office at 800-874-8875.
+                - paragraph [ref=e97]: Turkish Airlines has an online search engine that could potentially allow you to book partner flights online. The major downside to this is that the search engine is very buggy and often doesn’t show all possible availability.
+                - paragraph [ref=e98]:
+                  - text: We recommend starting your search first on
+                  - link "United.com" [ref=e99] [cursor=pointer]:
+                    - /url: http://United.com
+                  - text: and then locating flights under the
+                  - strong [ref=e100]: Saver
+                  - text: award bucket. Once you’ve located options, ring up the Turkish Airlines sales office to book
+                  - link "Star Alliance tickets" [ref=e101] [cursor=pointer]:
+                    - /url: /travel/airlines/the-star-alliance/
+                  - text: .
+                - paragraph [ref=e102]: "There are a few fees Turkish Airlines charges as well:"
+                - list [ref=e103]:
+                  - listitem [ref=e104]:
+                    - strong [ref=e105]: Redeposit Fees
+                    - text: ": $25 for international or ₺100 (~$5.84) for domestic flights"
+                  - listitem [ref=e106]:
+                    - strong [ref=e107]: No-show Redeposit Fees
+                    - text: ": $25 for international or ₺100 (~$5.84) for domestic flights"
+                  - listitem [ref=e108]:
+                    - strong [ref=e109]: Any Changes (Time/Date/Routing) On Turkish Flights and Partner Flights
+                    - text: ": $25 for international flights and ₺50 (~$2.92) for domestic flights"
+                - paragraph [ref=e110]: On all award tickets operated by Turkish Airlines, 1 stopover is allowed. You are allowed 1 open-jaw (instead of a stopover) for round-trip awards.
+                - paragraph [ref=e111]:
+                  - text: Miles&Smiles
+                  - link "miles expire" [ref=e112] [cursor=pointer]:
+                    - /url: /travel/when-do-my-frequent-flyer-miles-expire/
+                  - text: 3 years after they are earned, but you can pay $10 per 1,000 miles and extend them for 3 years.
+                - paragraph [ref=e113]:
+                  - strong [ref=e114]: Mixed cabin awards are
+                  - strong [ref=e115]: allowed
+                  - text: ", but you’ll pay the price for the higher class on the itinerary. You also can’t mix carriers for 1 direction of the flight."
+                - paragraph [ref=e116]:
+                  - text: For example, if you’re
+                  - link "flying from the U.S." [ref=e117] [cursor=pointer]:
+                    - /url: /travel/airlines/turkish-airlines-us-routes-plane-types/
+                  - text: to the Middle East, you cannot fly to Turkey on Turkish Airlines and to Cairo on Egyptair; you must fly on Turkish Airlines the whole way.
+                - paragraph [ref=e118]: Your entire itinerary may have up to 8 segments if it is round-trip, and 4 if it is one-way.
+                - paragraph [ref=e119]:
+                  - strong [ref=e120]: You can backtrack, but the same airport can’t be in your itinerary more than once in the inbound and outbound legs.
+                  - text: This would normally be a great opportunity for optimization, but it’s pretty much nullified because of the restriction on mixed carriers.
+                - paragraph [ref=e121]: If you’re short on Turkish Airlines miles and need 10,000 miles or less, you can pay €25 (~$26) per 1,000 miles to top off your balance.
+                - paragraph [ref=e122]: You can redeem miles for someone else, but they need to be registered in your Miles&Smiles account beforehand.
+                - paragraph [ref=e123]: Whew! Now that we have that business out of the way, let’s dive into this guide.
+                - heading "How To Boost Your Turkish Airlines Miles&Smiles" [level=2] [ref=e124]
+                - heading "Capital One Miles Credit Cards" [level=3] [ref=e125]
+                - paragraph [ref=e126]:
+                  - link "Capital One miles transfer to Turkish" [ref=e127] [cursor=pointer]:
+                    - /url: /credit-cards/capital-one-transfer-partners/
+                  - text: at a 1:1 ratio in up to 1 business day and are
+                  - link "easy to earn" [ref=e128] [cursor=pointer]:
+                    - /url: /credit-cards/best-ways-to-earn-capital-one-miles-and-rewards/
+                  - text: "!"
+                - heading "Recommended Capital One Cards" [level=4] [ref=e129]
+                - generic [ref=e131]:
+                  - generic [ref=e132]:
+                    - img "Capital One Venture X Rewards Credit Card" [ref=e133]
+                    - generic [ref=e134]:
+                      - generic [ref=e135]:
+                        - img "Star rating icon" [ref=e138]
+                        - img "Star rating icon" [ref=e141]
+                        - img "Star rating icon" [ref=e144]
+                        - img "Star rating icon" [ref=e147]
+                        - generic [ref=e148]:
+                          - img "Star rating icon" [ref=e150]
+                          - img "Star rating icon" [ref=e152]
+                      - generic [ref=e153]:
+                        - generic [ref=e154]: U.P. Rating
+                        - img [ref=e157]:
+                          - img [ref=e158]
+                  - generic [ref=e161]:
+                    - generic [ref=e163]:
+                      - link "Capital One Venture X Rewards Credit Card" [ref=e165] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-x/
+                      - text: The Capital One Venture X card is an excellent option for travelers looking for an all-in-one premium credit card.
+                    - generic [ref=e166]:
+                      - generic [ref=e167]:
+                        - generic [ref=e168]:
+                          - generic [ref=e169]: Welcome Offer
+                          - img [ref=e172]:
+                            - img [ref=e173]
+                        - generic [ref=e176]: 75,000 miles
+                      - generic [ref=e177]:
+                        - generic [ref=e179]: "UP's Offer Valuation*:"
+                        - generic [ref=e180]: $1,350
+                    - generic [ref=e181]:
+                      - generic [ref=e182]:
+                        - generic [ref=e184]: Annual Fee
+                        - generic [ref=e185]: $395
+                      - generic [ref=e186]:
+                        - generic [ref=e188]: APR
+                        - generic [ref=e189]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e190]:
+                        - generic [ref=e191]:
+                          - generic [ref=e192]: Credit Recommended
+                          - img [ref=e195]:
+                            - img [ref=e196]
+                        - generic [ref=e199]: Excellent
+                    - generic [ref=e200]:
+                      - group [ref=e201]:
+                        - generic "Why We Like This Card" [ref=e202] [cursor=pointer]
+                      - group [ref=e203]:
+                        - generic "Pros & Cons" [ref=e204] [cursor=pointer]
+                      - group [ref=e205]:
+                        - generic "Card Highlights" [ref=e206] [cursor=pointer]
+                - generic [ref=e208]:
+                  - generic [ref=e209]:
+                    - img [ref=e210]
+                    - generic [ref=e212]: LIMITED-TIME ONLY
+                  - generic [ref=e213]:
+                    - img "Capital One Venture Rewards Credit Card" [ref=e214]
+                    - generic [ref=e215]:
+                      - generic [ref=e216]:
+                        - img "Star rating icon" [ref=e219]
+                        - img "Star rating icon" [ref=e222]
+                        - img "Star rating icon" [ref=e225]
+                        - img "Star rating icon" [ref=e228]
+                        - generic [ref=e229]:
+                          - img "Star rating icon" [ref=e231]
+                          - img "Star rating icon" [ref=e233]
+                      - generic [ref=e234]:
+                        - generic [ref=e235]: U.P. Rating
+                        - img [ref=e238]:
+                          - img [ref=e239]
+                  - generic [ref=e242]:
+                    - generic [ref=e244]:
+                      - link "Capital One Venture Rewards Credit Card" [ref=e246] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-rewards-credit-card/
+                      - text: Get 2x miles plus some of the most flexible redemptions offered by a travel credit card!
+                    - generic [ref=e247]:
+                      - generic [ref=e248]:
+                        - generic [ref=e249]:
+                          - generic [ref=e250]: Welcome Offer
+                          - img [ref=e253]:
+                            - img [ref=e254]
+                        - generic [ref=e257]: 75,000 miles + $250 Capital One Travel credit
+                      - generic [ref=e258]:
+                        - generic [ref=e260]: "UP's Offer Valuation*:"
+                        - generic [ref=e261]: $1,600
+                    - generic [ref=e262]:
+                      - generic [ref=e263]:
+                        - generic [ref=e265]: Annual Fee
+                        - generic [ref=e266]: $95
+                      - generic [ref=e267]:
+                        - generic [ref=e269]: APR
+                        - generic [ref=e270]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e271]:
+                        - generic [ref=e272]:
+                          - generic [ref=e273]: Credit Recommended
+                          - img [ref=e276]:
+                            - img [ref=e277]
+                        - generic [ref=e280]: Good to Excellent Credit
+                    - generic [ref=e281]:
+                      - group [ref=e282]:
+                        - generic "Why We Like This Card" [ref=e283] [cursor=pointer]
+                      - group [ref=e284]:
+                        - generic "Pros & Cons" [ref=e285] [cursor=pointer]
+                      - group [ref=e286]:
+                        - generic "Card Highlights" [ref=e287] [cursor=pointer]
+                - generic [ref=e289]:
+                  - generic [ref=e290]:
+                    - img "Capital One VentureOne Rewards Credit Card" [ref=e291]
+                    - generic [ref=e292]:
+                      - generic [ref=e293]:
+                        - img "Star rating icon" [ref=e296]
+                        - img "Star rating icon" [ref=e299]
+                        - img "Star rating icon" [ref=e302]
+                        - img "Star rating icon" [ref=e305]
+                        - generic [ref=e306]:
+                          - img "Star rating icon" [ref=e308]
+                          - img "Star rating icon" [ref=e309]
+                      - generic [ref=e310]:
+                        - generic [ref=e311]: U.P. Rating
+                        - img [ref=e314]:
+                          - img [ref=e315]
+                  - generic [ref=e318]:
+                    - generic [ref=e320]:
+                      - link "Capital One VentureOne Rewards Credit Card" [ref=e322] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-ventureone-rewards-credit-card/
+                      - text: The card offers unlimited miles at 1.25x per $1 and no annual fee. When you consider the flexible rewards, frequent travelers come out on top.
+                    - generic [ref=e323]:
+                      - generic [ref=e324]:
+                        - generic [ref=e325]:
+                          - generic [ref=e326]: Welcome Offer
+                          - img [ref=e329]:
+                            - img [ref=e330]
+                        - generic [ref=e333]: 20,000 miles
+                      - generic [ref=e334]:
+                        - generic [ref=e336]: "UP's Offer Valuation*:"
+                        - generic [ref=e337]: $200
+                    - generic [ref=e338]:
+                      - generic [ref=e339]:
+                        - generic [ref=e341]: Annual Fee
+                        - generic [ref=e342]: $0
+                      - generic [ref=e343]:
+                        - generic [ref=e345]: APR
+                        - generic [ref=e346]: "Purchases: 0% intro APR on purchases for 15 months; variable 18.49% - 28.49% thereafter"
+                      - generic [ref=e347]:
+                        - generic [ref=e348]:
+                          - generic [ref=e349]: Credit Recommended
+                          - img [ref=e352]:
+                            - img [ref=e353]
+                        - generic [ref=e356]: Good to Excellent (670-850)
+                    - generic [ref=e357]:
+                      - group [ref=e358]:
+                        - generic "Why We Like This Card" [ref=e359] [cursor=pointer]
+                      - group [ref=e360]:
+                        - generic "Pros & Cons" [ref=e361] [cursor=pointer]
+                      - group [ref=e362]:
+                        - generic "Card Highlights" [ref=e363] [cursor=pointer]
+                - heading "Citi ThankYou Rewards Credit Cards" [level=3] [ref=e364]
+                - paragraph [ref=e365]:
+                  - text: As we stated above, Turkish Airlines Miles&Smiles is a
+                  - link "transfer partner of Citi ThankYou Rewards" [ref=e366] [cursor=pointer]:
+                    - /url: /credit-cards/citi-thankyou-points-transfer-partners/
+                  - text: .
+                - paragraph [ref=e367]:
+                  - text: There is no shortage of ways to
+                  - link "earn lots of Citi ThankYou Points," [ref=e368] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-citi-thankyou-points/
+                  - text: so give this method a lot of thought if you want to earn Turkish Airlines miles!
+                - paragraph [ref=e369]: Citi transfers at a 1:1 ratio with premium cards and at a 1:0.7 ratio with non-premium cards in 1 to 2 business days.
+                - heading "Recommended Citi Cards" [level=4] [ref=e370]
+                - generic [ref=e372]:
+                  - generic [ref=e373]:
+                    - img "Citi Strata Premier℠ Card" [ref=e374]
+                    - generic [ref=e375]:
+                      - generic [ref=e376]:
+                        - img "Star rating icon" [ref=e379]
+                        - img "Star rating icon" [ref=e382]
+                        - img "Star rating icon" [ref=e385]
+                        - img "Star rating icon" [ref=e388]
+                        - generic [ref=e389]:
+                          - img "Star rating icon" [ref=e391]
+                          - img "Star rating icon" [ref=e392]
+                      - generic [ref=e393]:
+                        - generic [ref=e394]: U.P. Rating
+                        - img [ref=e397]:
+                          - img [ref=e398]
+                  - generic [ref=e401]:
+                    - link "Citi Strata Premier℠ Card" [ref=e405] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/citi-strata-premier-card/
+                    - generic [ref=e406]:
+                      - generic [ref=e407]:
+                        - generic [ref=e408]:
+                          - generic [ref=e409]: Welcome Offer
+                          - img [ref=e412]:
+                            - img [ref=e413]
+                        - generic [ref=e416]: 60,000 points
+                      - generic [ref=e417]:
+                        - generic [ref=e419]: "UP's Offer Valuation*:"
+                        - generic [ref=e420]: $960
+                    - generic [ref=e421]:
+                      - generic [ref=e422]:
+                        - generic [ref=e424]: Annual Fee
+                        - generic [ref=e425]: $95
+                      - generic [ref=e426]:
+                        - generic [ref=e428]: APR
+                        - generic [ref=e429]: 19.49% to 27.49% Variable
+                    - generic [ref=e430]:
+                      - group [ref=e431]:
+                        - generic "Why We Like This Card" [ref=e432] [cursor=pointer]
+                      - group [ref=e433]:
+                        - generic "Pros & Cons" [ref=e434] [cursor=pointer]
+                      - group [ref=e435]:
+                        - generic "Card Highlights" [ref=e436] [cursor=pointer]
+                - generic [ref=e438]:
+                  - generic [ref=e439]:
+                    - img "Citi Strata Elite℠ Card" [ref=e440]
+                    - generic [ref=e441]:
+                      - generic [ref=e442]:
+                        - img "Star rating icon" [ref=e445]
+                        - img "Star rating icon" [ref=e448]
+                        - img "Star rating icon" [ref=e451]
+                        - generic [ref=e452]:
+                          - img "Star rating icon" [ref=e454]
+                          - img "Star rating icon" [ref=e456]
+                        - generic [ref=e457]:
+                          - img "Star rating icon" [ref=e459]
+                          - img "Star rating icon" [ref=e460]
+                      - generic [ref=e461]:
+                        - generic [ref=e462]: U.P. Rating
+                        - img [ref=e465]:
+                          - img [ref=e466]
+                  - generic [ref=e469]:
+                    - generic [ref=e471]:
+                      - link "Citi Strata Elite℠ Card" [ref=e473] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/citi-strata-elite-card/
+                      - text: The Citi Strata Elite card is Citi's most premium card built for frequent travelers and foodies.
+                    - generic [ref=e474]:
+                      - generic [ref=e475]:
+                        - generic [ref=e476]:
+                          - generic [ref=e477]: Welcome Offer
+                          - img [ref=e480]:
+                            - img [ref=e481]
+                        - generic [ref=e484]: 75,000 points
+                      - generic [ref=e485]:
+                        - generic [ref=e487]: "UP's Offer Valuation*:"
+                        - generic [ref=e488]: Up to $1,200
+                    - generic [ref=e489]:
+                      - generic [ref=e490]:
+                        - generic [ref=e492]: Annual Fee
+                        - generic [ref=e493]: $595
+                      - generic [ref=e494]:
+                        - generic [ref=e496]: APR
+                        - generic [ref=e497]: 20.49% to 28.49% Variable
+                    - generic [ref=e498]:
+                      - group [ref=e499]:
+                        - generic "Why We Like This Card" [ref=e500] [cursor=pointer]
+                      - group [ref=e501]:
+                        - generic "Pros & Cons" [ref=e502] [cursor=pointer]
+                      - group [ref=e503]:
+                        - generic "Card Highlights" [ref=e504] [cursor=pointer]
+                - generic [ref=e506]:
+                  - generic [ref=e507]:
+                    - img "Citi Strata℠ Card" [ref=e508]
+                    - generic [ref=e509]:
+                      - generic [ref=e510]:
+                        - img "Star rating icon" [ref=e513]
+                        - img "Star rating icon" [ref=e516]
+                        - img "Star rating icon" [ref=e519]
+                        - generic [ref=e520]:
+                          - img "Star rating icon" [ref=e522]
+                          - img "Star rating icon" [ref=e524]
+                        - generic [ref=e525]:
+                          - img "Star rating icon" [ref=e527]
+                          - img "Star rating icon" [ref=e528]
+                      - generic [ref=e529]:
+                        - generic [ref=e530]: U.P. Rating
+                        - img [ref=e533]:
+                          - img [ref=e534]
+                  - generic [ref=e537]:
+                    - link "Citi Strata℠ Card" [ref=e541] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/citi-strata-card/
+                    - generic [ref=e542]:
+                      - generic [ref=e543]:
+                        - generic [ref=e544]:
+                          - generic [ref=e545]: Welcome Offer
+                          - img [ref=e548]:
+                            - img [ref=e549]
+                        - generic [ref=e552]: 20,000 points
+                      - generic [ref=e553]:
+                        - generic [ref=e555]: "UP's Offer Valuation*:"
+                        - generic [ref=e556]: $320
+                    - generic [ref=e557]:
+                      - generic [ref=e558]:
+                        - generic [ref=e560]: Annual Fee
+                        - generic [ref=e561]: $0
+                      - generic [ref=e562]:
+                        - generic [ref=e564]: APR
+                        - generic [ref=e565]: 0% intro APR on purchases and balance transfers for 15 months, and then a variable APR 18.49% to 28.49%.
+                      - generic [ref=e566]:
+                        - generic [ref=e567]:
+                          - generic [ref=e568]: Credit Recommended
+                          - img [ref=e571]:
+                            - img [ref=e572]
+                        - generic [ref=e575]: Good to Excellent
+                    - generic [ref=e576]:
+                      - group [ref=e577]:
+                        - generic "Why We Like This Card" [ref=e578] [cursor=pointer]
+                      - group [ref=e579]:
+                        - generic "Pros & Cons" [ref=e580] [cursor=pointer]
+                      - group [ref=e581]:
+                        - generic "Card Highlights" [ref=e582] [cursor=pointer]
+                - generic [ref=e584]:
+                  - generic [ref=e585]:
+                    - img "Citi Double Cash® Card" [ref=e586]
+                    - generic [ref=e587]:
+                      - generic [ref=e588]:
+                        - img "Star rating icon" [ref=e591]
+                        - img "Star rating icon" [ref=e594]
+                        - img "Star rating icon" [ref=e597]
+                        - img "Star rating icon" [ref=e600]
+                        - generic [ref=e601]:
+                          - img "Star rating icon" [ref=e603]
+                          - img "Star rating icon" [ref=e605]
+                      - generic [ref=e606]:
+                        - generic [ref=e607]: U.P. Rating
+                        - img [ref=e610]:
+                          - img [ref=e611]
+                  - generic [ref=e614]:
+                    - generic [ref=e616]:
+                      - link "Citi Double Cash® Card" [ref=e618] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/citi-double-cash-card/
+                        - text: Citi Double Cash
+                        - superscript [ref=e619]: ®
+                        - text: Card
+                      - text: Great card for the average spender with no specific focus category; worry-free cash-back earning on everything!
+                    - generic [ref=e621]:
+                      - generic [ref=e622]:
+                        - generic [ref=e623]: Welcome Offer
+                        - img [ref=e626]:
+                          - img [ref=e627]
+                      - generic [ref=e630]: $200 cash-back
+                    - generic [ref=e631]:
+                      - generic [ref=e632]:
+                        - generic [ref=e634]: Annual Fee
+                        - generic [ref=e635]: $0
+                      - generic [ref=e636]:
+                        - generic [ref=e638]: APR
+                        - generic [ref=e639]: 17.49% to 27.49% Variable
+                      - generic [ref=e640]:
+                        - generic [ref=e641]:
+                          - generic [ref=e642]: Credit Recommended
+                          - img [ref=e645]:
+                            - img [ref=e646]
+                        - generic [ref=e649]: Fair to Excellent (580-850)
+                    - generic [ref=e650]:
+                      - group [ref=e651]:
+                        - generic "Why We Like This Card" [ref=e652] [cursor=pointer]
+                      - group [ref=e653]:
+                        - generic "Pros & Cons" [ref=e654] [cursor=pointer]
+                      - group [ref=e655]:
+                        - generic "Card Highlights" [ref=e656] [cursor=pointer]
+                - generic [ref=e658]:
+                  - generic [ref=e659]:
+                    - img "Citi Custom Cash® Card" [ref=e660]
+                    - generic [ref=e661]:
+                      - generic [ref=e662]:
+                        - img "Star rating icon" [ref=e665]
+                        - img "Star rating icon" [ref=e668]
+                        - img "Star rating icon" [ref=e671]
+                        - img "Star rating icon" [ref=e674]
+                        - generic [ref=e675]:
+                          - img "Star rating icon" [ref=e677]
+                          - img "Star rating icon" [ref=e679]
+                      - generic [ref=e680]:
+                        - generic [ref=e681]: U.P. Rating
+                        - img [ref=e684]:
+                          - img [ref=e685]
+                  - generic [ref=e688]:
+                    - generic [ref=e690]:
+                      - link "Citi Custom Cash® Card" [ref=e692] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/citi-custom-cash-card/
+                        - text: Citi Custom Cash
+                        - superscript [ref=e693]: ®
+                        - text: Card
+                      - text: Earn big on purchases in your top eligible spend category, up to the first $500 each billing cycle, without an annual fee!
+                    - generic [ref=e695]:
+                      - generic [ref=e696]:
+                        - generic [ref=e697]: Welcome Offer
+                        - img [ref=e700]:
+                          - img [ref=e701]
+                      - generic [ref=e704]: $200
+                    - generic [ref=e705]:
+                      - generic [ref=e706]:
+                        - generic [ref=e708]: Annual Fee
+                        - generic [ref=e709]: $0
+                      - generic [ref=e710]:
+                        - generic [ref=e712]: APR
+                        - generic [ref=e713]: 17.49% - 27.49% Variable
+                      - generic [ref=e714]:
+                        - generic [ref=e715]:
+                          - generic [ref=e716]: Credit Recommended
+                          - img [ref=e719]:
+                            - img [ref=e720]
+                        - generic [ref=e723]: Fair to Excellent (580-850)
+                    - generic [ref=e724]:
+                      - group [ref=e725]:
+                        - generic "Why We Like This Card" [ref=e726] [cursor=pointer]
+                      - group [ref=e727]:
+                        - generic "Pros & Cons" [ref=e728] [cursor=pointer]
+                      - group [ref=e729]:
+                        - generic "Card Highlights" [ref=e730] [cursor=pointer]
+                - heading "Marriott Bonvoy Credit Cards" [level=3] [ref=e731]
+                - paragraph [ref=e732]:
+                  - text: Another great way to earn a lot of Turkish Airlines miles is with
+                  - link "Marriott Bonvoy" [ref=e733] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-transfer-partners/
+                  - text: .
+                - paragraph [ref=e734]:
+                  - text: Marriott is an invaluable transfer partner for so many airlines, and there are many ways to
+                  - link "maximize Marriott Bonvoy points for flights" [ref=e735] [cursor=pointer]:
+                    - /url: /travel/hotels/best-ways-to-redeem-marriott-points/
+                  - text: and
+                  - link "hotel stays" [ref=e736] [cursor=pointer]:
+                    - /url: /travel/hotels/best-ways-to-redeem-marriott-points-for-hotel-stays/
+                  - text: .
+                - paragraph [ref=e737]:
+                  - text: Although the time to transfer Turkish Airlines points is unknown, it will probably take around 1 business day for transfers to complete. See our list of the
+                  - link "best Marriott credit cards" [ref=e738] [cursor=pointer]:
+                    - /url: /credit-cards/best-marriott-bonvoy-credit-cards/
+                  - text: in our detailed guide.
+                - heading "Bilt Rewards" [level=3] [ref=e739]
+                - paragraph [ref=e740]:
+                  - text: You can
+                  - link "earn Bilt Points" [ref=e741] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-bilt-rewards-points/
+                  - text: with a Bilt credit card and
+                  - link "transfer them" [ref=e742] [cursor=pointer]:
+                    - /url: /credit-cards/bilt-rewards-transfer-partners/
+                  - text: to Turkish at a 1:1 ratio, with a minimum of 2,000 points transferred.
+                - heading "Turkish Airlines Co-branded Credit Card for the U.S." [level=3] [ref=e743]
+                - paragraph [ref=e744]: The Turkish Airlines Premier Visa card has a decent welcome offer and elevated earnings on Turkish Airlines and everyday purchases like groceries and dining.
+                - generic [ref=e746]:
+                  - generic [ref=e747]:
+                    - img "Turkish Airlines Miles&Smiles Premier Visa Signature® Credit Card" [ref=e748]
+                    - generic [ref=e749]:
+                      - generic [ref=e750]:
+                        - img "Star rating icon" [ref=e753]
+                        - img "Star rating icon" [ref=e756]
+                        - img "Star rating icon" [ref=e759]
+                        - generic [ref=e760]:
+                          - img "Star rating icon" [ref=e762]
+                          - img "Star rating icon" [ref=e764]
+                        - generic [ref=e765]:
+                          - img "Star rating icon" [ref=e767]
+                          - img "Star rating icon" [ref=e768]
+                      - generic [ref=e769]:
+                        - generic [ref=e770]: U.P. Rating
+                        - img [ref=e773]:
+                          - img [ref=e774]
+                  - generic [ref=e777]:
+                    - generic [ref=e779]:
+                      - link "Turkish Airlines Miles&Smiles Premier Visa Signature® Credit Card" [ref=e781] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/turkish-airlines-milessmiles-premier-visa-signature-credit-card/
+                        - text: Turkish Airlines Miles&Smiles Premier Visa Signature
+                        - superscript [ref=e782]: ®
+                        - text: Credit Card
+                      - text: Receive extra perks on flights and extra miles on daily purchases with the Turkish Airlines Premier Visa card.
+                    - generic [ref=e784]:
+                      - generic [ref=e785]:
+                        - generic [ref=e786]: Welcome Offer
+                        - img [ref=e789]:
+                          - img [ref=e790]
+                      - generic [ref=e793]: Up to 40,000 miles
+                    - generic [ref=e795]:
+                      - generic [ref=e797]: Annual Fee
+                      - generic [ref=e798]: $99
+                    - generic [ref=e799]:
+                      - group [ref=e800]:
+                        - generic "Why We Like This Card" [ref=e801] [cursor=pointer]
+                      - group [ref=e802]:
+                        - generic "Pros & Cons" [ref=e803] [cursor=pointer]
+                      - group [ref=e804]:
+                        - generic "Card Highlights" [ref=e805] [cursor=pointer]
+                - paragraph [ref=e806]:
+                  - generic [ref=e807]:
+                    - strong [ref=e808]: "Hot Tip:"
+                    - text: Don’t miss our dedicated piece on the
+                    - link "best ways to earn lots of Turkish Airlines Miles&Smiles" [ref=e809] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-earn-turkish-airlines-miles-smiles/
+                    - text: .
+                - paragraph [ref=e811]: Advertisement
+                - heading "The 12 Best Ways To Use Your Turkish Airlines Miles" [level=2] [ref=e812]
+                - paragraph [ref=e813]: Let’s discover the best ways to redeem your Turkish miles!
+                - paragraph [ref=e814]: In general, unless you are planning on booking a flight aboard Turkish Airlines, we always recommend starting your search on United’s website.
+                - paragraph [ref=e815]:
+                  - text: It’s just so much easier to use, and if you find availability for
+                  - strong [ref=e816]: Saver
+                  - text: awards, you should be able to redeem your Turkish Airlines miles for those partner flights.
+                - paragraph [ref=e817]: One-way to the Maldives from just 35,000 miles one way in economy. You can’t get much cheaper than that.
+                - heading "1. Fly SWISS Business Class to Switzerland (90,000 Miles)" [level=3] [ref=e818]
+                - 'figure "SWISS business class features a lie-flat bed. Image Credit: Ehsan Haque" [ref=e820]':
+                  - img "SWISS 777 300ER business class cabin from back" [ref=e822]
+                  - generic [ref=e823]: "SWISS business class features a lie-flat bed. Image Credit: Ehsan Haque"
+                - paragraph [ref=e824]:
+                  - text: SWISS has an excellent route network, a great
+                  - link "business class" [ref=e825] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-swiss-air-business-class/
+                  - text: "product, and flies to a huge tourist destination: Switzerland."
+                - paragraph [ref=e826]:
+                  - text: It, unfortunately,
+                  - strong [ref=e827]: does levy fuel surcharges.
+                  - text: Nevertheless, if you’re able to pony up $750 to Europe or $365 from Europe each way, it’ll be worth it to use Turkish Airlines miles here.
+                - paragraph [ref=e828]: "SWISS flies between Geneva (GVA) and New York (JFK). The airline also offers flights to Zurich (ZRH) from these 8 U.S. cities:"
+                - generic [ref=e829]:
+                  - paragraph
+                  - list [ref=e830]:
+                    - listitem [ref=e831]: Boston (BOS)
+                    - listitem [ref=e832]: Chicago (ORD)
+                    - listitem [ref=e833]: Los Angeles (LAX)
+                    - listitem [ref=e834]: Miami (MIA)
+                    - listitem [ref=e835]: New York (JFK)
+                    - listitem [ref=e836]: Newark (EWR)
+                    - listitem [ref=e837]: San Francisco (SFO)
+                    - listitem [ref=e838]: Washington, D.C. (IAD)
+                  - paragraph
+                - heading "2. Fly From Asia to the Maldives (35,000 Miles)" [level=3] [ref=e839]
+                - 'figure "Image Credit: Daniel Ross" [ref=e841]':
+                  - img "Singapore Airlines landing at Male" [ref=e843]
+                  - generic [ref=e844]: "Image Credit: Daniel Ross"
+                - paragraph [ref=e845]:
+                  - link "Singapore Airlines" [ref=e846] [cursor=pointer]:
+                    - /url: /travel/airlines/singapore-airlines-review/
+                  - text: is a Star Alliance partner and thus eligible for booking with your Turkish Airlines miles. One of the best ways to do so might be a trip from Asia to the Maldives.
+                - paragraph [ref=e847]: As a highly popular tourist destination, flights to the Maldives can be overpriced, and finding award availability can be difficult.
+                - paragraph [ref=e848]: However, if you’re able to find a flight, you can take off from anywhere within Asia, including Tokyo (HND/NRT), Hong Kong (HKG), and Singapore (SIN), and get all the w
+                - heading "3. Fly Austrian Airlines Business Class to Austria (90,000 Miles)" [level=3] [ref=e849]
+                - 'figure "Image Credit: Alberto Riva" [ref=e851]':
+                  - img "Austrian Airlines B777-200 Avianca A320 Miami" [ref=e853]
+                  - generic [ref=e854]: "Image Credit: Alberto Riva"
+                - paragraph [ref=e855]: "Austrian Airlines generally operates 2 aircraft on flights from the U.S. to Austria: the 767 and 777."
+                - paragraph [ref=e856]:
+                  - strong [ref=e857]: If possible, choose the 767 over the 777 when flying Austrian Airlines.
+                - paragraph [ref=e858]: The 767 has a better business class product, with a staggered 1-2-1 configuration that offers direct aisle access for every seat. The 777 alternates rows with a 1-2-1 and 2-2-2 configuration, so direct aisle access is a luxury you’ll have to hope for.
+                - paragraph [ref=e859]: You’ll be able to fly round-trip between Austria and the U.S. for 90,000 miles, plus taxes and fees.
+                - paragraph [ref=e860]: The 767 is flown from Vienna (VIE) to Boston (BOS), New York (JFK) and Washington, D.C. (IAD). Meanwhile, the 777 is flown from Vienna (VIE) to Chicago (ORD), Los Angeles (LAX), and Newark (EWR).
+                - paragraph [ref=e861]:
+                  - generic [ref=e862]:
+                    - strong [ref=e863]: "Bottom Line:"
+                    - text: Overall, this is an excellent way to comfortably get to Austria
+                    - link "in business class" [ref=e864] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-austrian-airlines-business-class/
+                    - text: at a low mileage cost if you can pay for the fuel surcharges.
+                - heading "4. Fly Transcontinental in the U.S. (From 15,000 Miles)" [level=3] [ref=e865]
+                - 'figure "Flying on United Polaris is a great way to get across the country. Image Credit: Stephen Au" [ref=e867]':
+                  - link "United Polaris 787-10" [ref=e868] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/05/United-Polaris-787-10-seat-e1560620590195.jpg?auto=webp&disable=upscale
+                    - img "United Polaris 787-10" [ref=e870]
+                  - generic [ref=e871]:
+                    - text: "Flying on United Polaris is a great way to get across the country. Image Credit:"
+                    - link "Stephen Au" [ref=e872] [cursor=pointer]:
+                      - /url: /author/stephen/
+                - paragraph [ref=e873]: Flying across the country in America can be exceedingly expensive. With economy flights in excess of $500 to $1,000 at times, and business and first class in excess of $2,000, you definitely want to save money where you can.
+                - paragraph [ref=e874]: If you are planning a transcontinental flight involving Los Angeles (LAX), Newark (EWR), New York (JFK), or San Francisco (SFO), you might want to read this section.
+                - paragraph [ref=e875]:
+                  - link "United Airlines" [ref=e876] [cursor=pointer]:
+                    - /url: /travel/airlines/united-airlines-review/
+                  - text: is going to be your best bet here since Turkish Airlines is a Star Alliance partner.
+                - paragraph [ref=e877]:
+                  - text: Its premium transcontinental routing includes United’s fabulous
+                  - link "Polaris business class" [ref=e878] [cursor=pointer]:
+                    - /url: /travel/airlines/united-polaris/
+                  - text: product. Even better, flying this product will only cost 22,500 miles each way and 45,000 miles round-trip.
+                - paragraph [ref=e879]:
+                  - strong [ref=e880]: This is probably the best deal you’re ever going to get on United Polaris class across the U.S.!
+                - paragraph [ref=e881]: "Here’s the breakdown for the other cabin classes in each direction:"
+                - table [ref=e884]:
+                  - rowgroup [ref=e885]:
+                    - row "Cabin Class Turkish Airlines Miles Cost (Transcontinental Flights)" [ref=e886]:
+                      - cell "Cabin Class" [ref=e887]:
+                        - paragraph [ref=e888]:
+                          - strong [ref=e889]: Cabin Class
+                      - cell "Turkish Airlines Miles Cost (Transcontinental Flights)" [ref=e890]:
+                        - paragraph [ref=e891]:
+                          - strong [ref=e892]: Turkish Airlines Miles Cost
+                          - strong [ref=e893]: (Transcontinental Flights)
+                    - row "Economy 15,000" [ref=e894]:
+                      - cell "Economy" [ref=e895]:
+                        - paragraph [ref=e896]: Economy
+                      - cell "15,000" [ref=e897]:
+                        - paragraph [ref=e898]: 15,000
+                    - row "Business 22,500" [ref=e899]:
+                      - cell "Business" [ref=e900]:
+                        - paragraph [ref=e901]: Business
+                      - cell "22,500" [ref=e902]:
+                        - paragraph [ref=e903]: 22,500
+                    - row "First 30,000" [ref=e904]:
+                      - cell "First" [ref=e905]:
+                        - paragraph [ref=e906]: First
+                      - cell "30,000" [ref=e907]:
+                        - paragraph [ref=e908]: 30,000
+                - paragraph [ref=e909]: Taxes and fees will generally be minimal, with a maximum of $50 levied each way.
+                - paragraph [ref=e910]:
+                  - generic [ref=e911]:
+                    - strong [ref=e912]: "Hot Tip:"
+                    - text: Using Turkish miles to fly across the U.S. in Polaris business class is one of the best ways to
+                    - link "get maximum value on domestic award redemptions" [ref=e913] [cursor=pointer]:
+                      - /url: /travel/airlines/best-us-domestic-flight-redemptions/
+                    - text: .
+                - heading "5. Fly Air Canada Business Class to India (100,000 Miles)" [level=3] [ref=e914]
+                - 'figure "Air Canada Signature class. Image Credit: Ehsan Haque" [ref=e916]':
+                  - img "Air canada business class bed" [ref=e918]
+                  - generic [ref=e919]: "Air Canada Signature class. Image Credit: Ehsan Haque"
+                - paragraph [ref=e920]:
+                  - link "While flying to India" [ref=e921] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-india-with-points/
+                  - text: can be excruciatingly expensive and a distant journey, Star Alliance partner Air Canada operates some fantastic
+                  - link "business class flights" [ref=e922] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-air-canada-business-class/
+                  - text: to India.
+                - paragraph [ref=e923]: With an average flight time of 14 hours from Canada, your trip to India will definitely be more comfortable in business class.
+                - paragraph [ref=e924]: Air Canada levies fuel surcharges of $560 each way, so your total taxes and fees will be approximately $610 each way.
+                - paragraph [ref=e925]:
+                  - text: However, spending the few hundred dollars extra might be worth it because it only costs
+                  - strong [ref=e926]: 100,000 miles each way to fly to India in business class from Canada.
+                - paragraph [ref=e927]: "Air Canada operates 3 nonstop routes to India as follows:"
+                - list [ref=e928]:
+                  - listitem [ref=e929]:
+                    - strong [ref=e930]: Toronto (YYZ) – Delhi (DEL)
+                  - listitem [ref=e931]:
+                    - strong [ref=e932]: Toronto (YYZ) – Mumbai (BOM)
+                  - listitem [ref=e933]:
+                    - strong [ref=e934]: Montreal (YUL) – Delhi (DEL)
+                - paragraph [ref=e935]: On these routes, Air Canada utilizes the Boeing 787 Dreamliner with an excellent business class product.
+                - paragraph [ref=e936]: This is a 1-2-1 reverse herringbone configuration with direct aisle access, loads of privacy, and solid catering.
+                - paragraph [ref=e937]:
+                  - generic [ref=e938]:
+                    - strong [ref=e939]: "Bottom Line:"
+                    - text: Overall, if you want to fly business class to India from Canada, definitely consider using Turkish Airlines miles to do it, with a one-way cost of 52,500 miles + $450 in taxes and fees.
+                - heading "6. Utilize the Generous Oceania Zone Definition (From 30,000 Miles)" [level=3] [ref=e940]
+                - 'figure "If you have a chance, you can also try the Air New Zealand business class product! Regardless of what plane you fly, Air New Zealand business class is one of the best in the world. Image Credit: Daniel Ross" [ref=e942]':
+                  - img "Air New Zealand Boeing 787 business class cabin rear" [ref=e944]
+                  - generic [ref=e945]:
+                    - text: "If you have a chance, you can also try the Air New Zealand business class product! Regardless of what plane you fly, Air New Zealand business class is one of the best in the world. Image Credit:"
+                    - link "Daniel Ross" [ref=e946] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/daniel/
+                - paragraph [ref=e947]: "Turkish Airlines has an extremely generous definition of Oceania, which we can use to our advantage. Specifically, the region includes these islands, countries, and territories:"
+                - list [ref=e948]:
+                  - listitem [ref=e949]: Australia, Cook Islands, Federated States of Micronesia, Fiji, French Polynesia, Guam, Marshall Islands, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Palau, Papua New Guinea, Samoa, Tonga, Vanuatu
+                - paragraph [ref=e950]:
+                  - text: Notice that
+                  - strong [ref=e951]: Guam and French Polynesia are included with Australia, New Zealand, and the like.
+                  - text: This is an astonishing observation because flights from Oceania regions to Australia can be more than 7 hours long!
+                - paragraph [ref=e952]: You will mainly be searching for Air New Zealand flights here, since Virgin Australia and Qantas are not Star Alliance partners.
+                - table [ref=e955]:
+                  - rowgroup [ref=e956]:
+                    - row "“Intra-Oceania” Flights in Each Cabin Class" [ref=e957]:
+                      - cell "“Intra-Oceania” Flights in Each Cabin Class" [ref=e958]:
+                        - paragraph [ref=e960]:
+                          - strong [ref=e961]: “Intra-Oceania” Flights in Each Cabin Class
+                    - row "Economy 30,000" [ref=e962]:
+                      - cell "Economy" [ref=e963]:
+                        - paragraph [ref=e964]: Economy
+                      - cell "30,000" [ref=e965]:
+                        - paragraph [ref=e966]: 30,000
+                    - row "Business 40,000" [ref=e967]:
+                      - cell "Business" [ref=e968]:
+                        - paragraph [ref=e969]: Business
+                      - cell "40,000" [ref=e970]:
+                        - paragraph [ref=e971]: 40,000
+                    - row "First 50,000" [ref=e972]:
+                      - cell "First" [ref=e973]:
+                        - paragraph [ref=e974]: First
+                      - cell "50,000" [ref=e975]:
+                        - paragraph [ref=e976]: 50,000
+                - paragraph [ref=e977]: "And here is an example route you can take:"
+                - list [ref=e978]:
+                  - listitem [ref=e979]:
+                    - strong [ref=e980]: Rarotonga (RAR) to Sydney (SYD)
+                    - text: one-way for 40,000 miles + ~$85 in taxes and fees in
+                    - link "Air New Zealand’s 787 business class" [ref=e981] [cursor=pointer]:
+                      - /url: /travel/airlines/air-new-zealand-787-9-business-class-review-syd-akl/
+                    - text: (7 hours each way!)
+                - heading "7. Fly Within the “Far East” in Business Class (50,000 Miles)" [level=3] [ref=e982]
+                - 'figure "This lie-flat ANA business class seat can be yours with some planning! Image Credit: Stephen Au" [ref=e984]':
+                  - link "ANA Business Class" [ref=e985] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/03/ANA-Business-Class-1-e1553924914542.jpg?auto=webp&disable=upscale
+                    - img "ANA Business Class" [ref=e987]
+                  - generic [ref=e988]:
+                    - text: "This lie-flat ANA business class seat can be yours with some planning! Image Credit:"
+                    - link "Stephen Au" [ref=e989] [cursor=pointer]:
+                      - /url: /author/stephen/
+                - paragraph [ref=e990]: "The Far East, as defined by Turkish Airlines, contains the following:"
+                - list [ref=e991]:
+                  - listitem [ref=e992]: Brunei, Cambodia, China, China Taipei, Hong Kong – SAR of China, Indonesia, Japan, Korea, Laos, Macau, Malaysia, Maldives, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Thailand, Vietnam
+                - paragraph [ref=e993]: Basically, the Far East includes all of Asia with the exception of India, Nepal, Pakistan, Russia, and Central Asia.
+                - paragraph [ref=e994]: Since this is such a huge region, you can get tons of value from flying business class within the Far East for only 50,000 miles each way.
+                - paragraph [ref=e995]:
+                  - text: Of course, you’re still limited to 1 carrier, but there’s still some room for optimization. As always,
+                  - strong [ref=e996]: you’ll be on the hook for all fuel surcharges
+                  - text: .
+                - paragraph [ref=e997]: "Here are some example routes:"
+                - list [ref=e998]:
+                  - listitem [ref=e999]:
+                    - strong [ref=e1000]: Seoul (ICN) – Singapore (SIN)
+                    - text: one-way for 50,000 miles + ~$75 in taxes and fees in Asiana’s A330 regional business class
+                  - listitem [ref=e1001]:
+                    - strong [ref=e1002]: Taipei (TPE) – Bali (DPS)
+                    - text: one-way for 50,000 miles + $60 in taxes and fees in EVA Air’s A330 regional business class
+                  - listitem [ref=e1003]:
+                    - strong [ref=e1004]: Tokyo (HND/NRT) – Jakarta (CGK)
+                    - text: one-way for 50,000 miles + ~$136 in taxes and fees in ANA business class
+                - heading "8. Fly Between Europe 2 and the Far East in Business Class (90,000 Miles)" [level=3] [ref=e1005]
+                - 'figure "A comfortable lie-flat seat, fantastic food and beverage offerings, and even pajamas are what you can expect in EVA Air business class. Image Credit: EVA Air" [ref=e1007]':
+                  - img "Eva Air Royal Laurel Class business 777" [ref=e1009]
+                  - generic [ref=e1010]: "A comfortable lie-flat seat, fantastic food and beverage offerings, and even pajamas are what you can expect in EVA Air business class. Image Credit: EVA Air"
+                - paragraph [ref=e1011]: Another sweet spot is flying from Europe 2 to the Far East or vice-versa in business class. You can do this for 90,000 miles each way.
+                - paragraph [ref=e1012]: "Europe 2 includes:"
+                - generic [ref=e1013]:
+                  - paragraph
+                  - list [ref=e1014]:
+                    - listitem [ref=e1015]: Austria
+                    - listitem [ref=e1016]: Azerbaijan
+                    - listitem [ref=e1017]: Belarus
+                    - listitem [ref=e1018]: Belgium
+                    - listitem [ref=e1019]: Czech Republic
+                    - listitem [ref=e1020]: Denmark
+                    - listitem [ref=e1021]: Estonia
+                    - listitem [ref=e1022]: Faroe Islands
+                    - listitem [ref=e1023]: Finland
+                    - listitem [ref=e1024]: France
+                    - listitem [ref=e1025]: Germany
+                    - listitem [ref=e1026]: Iceland
+                    - listitem [ref=e1027]: Ireland
+                    - listitem [ref=e1028]: Italy
+                    - listitem [ref=e1029]: Latvia
+                    - listitem [ref=e1030]: Lithuania
+                    - listitem [ref=e1031]: Luxembourg
+                    - listitem [ref=e1032]: Malta
+                    - listitem [ref=e1033]: Netherlands
+                    - listitem [ref=e1034]: Norway
+                    - listitem [ref=e1035]: Poland
+                    - listitem [ref=e1036]: Portugal
+                    - listitem [ref=e1037]: Russia
+                    - listitem [ref=e1038]: Slovakia
+                    - listitem [ref=e1039]: Spain
+                    - listitem [ref=e1040]: Sweden
+                    - listitem [ref=e1041]: Switzerland
+                    - listitem [ref=e1042]: United Kingdom
+                  - paragraph
+                - paragraph [ref=e1043]: "The Far East includes:"
+                - generic [ref=e1044]:
+                  - paragraph
+                  - list [ref=e1045]:
+                    - listitem [ref=e1046]: Brunei
+                    - listitem [ref=e1047]: Cambodia
+                    - listitem [ref=e1048]: China
+                    - listitem [ref=e1049]: Hong Kong
+                    - listitem [ref=e1050]: Indonesia
+                    - listitem [ref=e1051]: Japan
+                    - listitem [ref=e1052]: Korea
+                    - listitem [ref=e1053]: Laos
+                    - listitem [ref=e1054]: Macau
+                    - listitem [ref=e1055]: Malaysia
+                    - listitem [ref=e1056]: Maldives
+                    - listitem [ref=e1057]: Mongolia
+                    - listitem [ref=e1058]: Myanmar
+                    - listitem [ref=e1059]: Philippines
+                    - listitem [ref=e1060]: Singapore
+                    - listitem [ref=e1061]: Sri Lanka
+                    - listitem [ref=e1062]: Taipei
+                    - listitem [ref=e1063]: Thailand
+                    - listitem [ref=e1064]: Vietnam
+                  - paragraph
+                - paragraph [ref=e1065]:
+                  - generic [ref=e1066]:
+                    - strong [ref=e1067]: "Hot Tip:"
+                    - text: To view all of the regions under Turkish Airlines’ frequent flyer program, click
+                    - link "this link" [ref=e1068] [cursor=pointer]:
+                      - /url: https://www.turkishairlines.com/en-int/miles-and-smiles/redeem-miles/redeem-miles-on-flights/turkish-airlines-award-tickets/
+                    - text: and expand the table that says
+                    - strong [ref=e1069]: Award region table
+                    - text: near the bottom of the page.
+                - paragraph [ref=e1070]: With flights up to 12 hours long, paying only 90,000 miles is a great deal. Your fuel surcharges will be at their lowest when originating from the Far East as opposed to Europe 2.
+                - paragraph [ref=e1071]: "Here are some example routes from Europe 2 to the Far East:"
+                - list [ref=e1072]:
+                  - listitem [ref=e1073]:
+                    - strong [ref=e1074]: Brussels (BRU) – Tokyo (NRT)
+                    - text: one-way for 90,000 miles + ~$221 in taxes and fees in ANA business class
+                  - listitem [ref=e1075]:
+                    - strong [ref=e1076]: London (LHR) – Tokyo (HND)
+                    - text: one-way for 90,000 miles + ~$510 in taxes and fees in ANA business class
+                  - listitem [ref=e1077]:
+                    - strong [ref=e1078]: Munich (MUC) – Bangkok (BKK)
+                    - text: one-way for 90,000 miles + ~$223 in taxes and fees in
+                    - link "Thai Airways business class" [ref=e1079] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-thai-airways-business-class-with-points/
+                  - listitem [ref=e1080]:
+                    - strong [ref=e1081]: Paris (CDG) – Taipei (TPE)
+                    - text: one-way for 90,000 miles + $210 in taxes and fees in
+                    - link "EVA Air business class" [ref=e1082] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-eva-air-business-class/
+                  - listitem [ref=e1083]:
+                    - strong [ref=e1084]: Warsaw (WAW) – Tokyo (NRT)
+                    - text: one-way for 90,000 miles + ~$220 in taxes and fees in LOT Polish business class
+                - paragraph [ref=e1085]: "And here are some examples you can take from the Far East to Europe 2:"
+                - list [ref=e1086]:
+                  - listitem [ref=e1087]:
+                    - strong [ref=e1088]: Bangkok (BKK) – Frankfurt (FRA)
+                    - text: one-way for 90,000 miles + ~$142 in taxes and fees in Thai Airways business class
+                  - listitem [ref=e1089]:
+                    - strong [ref=e1090]: Hong Kong (HKG) – Munich (MUC)
+                    - text: one-way for 90,000 miles + ~$45 in taxes and fees in
+                    - link "Lufthansa business class" [ref=e1091] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-lufthansa-business-class/
+                  - listitem [ref=e1092]:
+                    - strong [ref=e1093]: Seoul (ICN) – London (LHR)
+                    - text: one-way for 90,000 miles + ~$113 in taxes and fees in
+                    - link "Asiana Airlines business class" [ref=e1094] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-asiana-business-class/
+                  - listitem [ref=e1095]:
+                    - strong [ref=e1096]: Singapore (SIN) – Zurich (ZRH)
+                    - text: one-way for 90,000 miles + ~$338 in taxes and fees in SWISS business class
+                  - listitem [ref=e1097]:
+                    - strong [ref=e1098]: Vienna (VIE) – Taipei (TPE)
+                    - text: one-way for 90,000 miles + ~$238 in taxes and fees in EVA Air business class
+                - paragraph [ref=e1099]:
+                  - generic [ref=e1100]:
+                    - strong [ref=e1101]: "Bottom Line:"
+                    - text: As you can see, there are tons of routes you can fly between Europe 2 and the Far East! This is just a taste of the possibilities. You can expect to pay
+                    - strong [ref=e1102]: 90,000 miles for one-way flights and 180,000 miles for round-trip flights
+                    - text: .
+                - heading "9. Fly From Europe 2 to the Middle East in Business Class (53,000 Miles)" [level=3] [ref=e1103]
+                - 'figure "Turkish Airlines’s new business class middle aisle seats. Image Credit: Greg Stone" [ref=e1105]':
+                  - img "Turkish Airlines Boeing 787 9 Business Class Middle Aisle Seats" [ref=e1107]
+                  - generic [ref=e1108]:
+                    - text: "Turkish Airlines’s new business class middle aisle seats. Image Credit:"
+                    - link "Greg Stone" [ref=e1109] [cursor=pointer]:
+                      - /url: /author/greg/
+                - paragraph [ref=e1110]: If you want to fly on a short-haul, international flight from Europe 2 to the Middle East in business class, it won’t cost you very much at all!
+                - paragraph [ref=e1111]: With business class flights priced at 53,000 miles, there’s some solid value to be had with this redemption.
+                - paragraph [ref=e1112]: "Here are some unique and awesome redemptions you can make with only 53,000 miles:"
+                - list [ref=e1113]:
+                  - listitem [ref=e1114]:
+                    - strong [ref=e1115]: Frankfurt (FRA) – Kuwait City (KWI)
+                    - text: one-way for 53,000 miles + ~$288 in taxes and fees in Lufthansa business class
+                  - listitem [ref=e1116]:
+                    - strong [ref=e1117]: Istanbul (IST) – Doha (DOH)
+                    - text: one-way for 53,000 miles + ~$111 in taxes and fees in Turkish Airlines business class
+                  - listitem [ref=e1118]:
+                    - strong [ref=e1119]: Zurich (ZRH) – Dubai (DXB)
+                    - text: one-way for 53,000 miles + ~$273 in taxes and fees in SWISS business class
+                - heading "10. Fly From South America to Europe 2 in Business Class (100,000 Miles)" [level=3] [ref=e1120]
+                - 'figure "Fly Lufthansa business class to South America. Image Credit: Alberto Riva" [ref=e1122]':
+                  - img "Lufthansa Business Class 747 8 Lower Deck Main Section" [ref=e1124]
+                  - generic [ref=e1125]: "Fly Lufthansa business class to South America. Image Credit: Alberto Riva"
+                - paragraph [ref=e1126]: Turkish Airlines also has a very inclusive definition of South America, so we can use this to our advantage — especially when flying between Europe 2 and South America.
+                - paragraph [ref=e1127]: "Here are the countries and territories that make up South America:"
+                - list [ref=e1128]:
+                  - listitem [ref=e1129]: Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bolivia, Brazil, Cayman Islands, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Grenada, Guadeloupe, Guatemala, Haiti, Honduras, Jamaica, Martinique, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, and Saint Lucia
+                - paragraph [ref=e1130]: The list of areas governed by the South America award chart is huge!
+                - paragraph [ref=e1131]: "We won’t be able to look at all the routes to Europe 2, but here are several great options you can book with 52,500 miles each way:"
+                - list [ref=e1132]:
+                  - listitem [ref=e1133]:
+                    - strong [ref=e1134]: Bogotá (BOG) – Barcelona (BCN)
+                    - text: one-way for 100,000 miles + ~$106 ($38 in reverse) in taxes and fees in Avianca business class
+                  - listitem [ref=e1135]:
+                    - strong [ref=e1136]: Buenos Aires (EZE) – Frankfurt (FRA)
+                    - text: one-way for 100,000 miles + ~$533 ($408 in reverse) in taxes and fees in Lufthansa business class
+                  - listitem [ref=e1137]:
+                    - strong [ref=e1138]: Panama City (PTY) – Istanbul (IST)
+                    - text: one-way for 100,000 miles + ~$528 (no reverse route) in taxes and fees in Turkish Airlines business class
+                  - listitem [ref=e1139]:
+                    - strong [ref=e1140]: Rio de Janeiro (GIG) – Munich (MUC)
+                    - text: one-way for 100,000miles + ~$33 ($396 in reverse) in taxes and fees in Lufthansa business class
+                  - listitem [ref=e1141]:
+                    - strong [ref=e1142]: São Paolo (GRU) – Porto (OPO) or Lisbon (LIS)
+                    - text: one-way for 100,000 miles + ~$12 ($309 in reverse) in taxes and fees in TAP Portugal business class
+                - paragraph [ref=e1143]:
+                  - generic [ref=e1144]:
+                    - strong [ref=e1145]: "Bottom Line:"
+                    - text: There are plenty of ways you can fly from South America to Europe 2 in business class. These routes range anywhere from 8 to 12 hours in duration, so you’ll definitely be able to fly on these long-haul routes in comfort!
+                - heading "11. Fly ANA’s “The Room” Business Class to Japan (130,000 Miles)" [level=3] [ref=e1146]
+                - 'figure "ANA’s new business class seating is unparalleled. Image Credit: ANA" [ref=e1148]':
+                  - img "ANA B777 300ER The Room" [ref=e1150]
+                  - generic [ref=e1151]: "ANA’s new business class seating is unparalleled. Image Credit: ANA"
+                - paragraph [ref=e1152]:
+                  - link "ANA" [ref=e1153] [cursor=pointer]:
+                    - /url: /travel/airlines/all-nippon-airways-ana-review/
+                  - text: is one of the world’s few 5-star airlines as voted by Skytrax. This is, in part, due to its wonderful service — the airline is renowned for the way it treats its passengers.
+                - paragraph [ref=e1154]:
+                  - text: Fortunately for us, you can experience
+                  - link "ANA’s business class" [ref=e1155] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-ana-business-class/
+                  - text: all the way to Japan for just 67,500 Turkish miles.
+                - paragraph [ref=e1156]: Even better, ANA launched a new seating configuration that one-ups every other business class out there.
+                - paragraph [ref=e1157]: Although its old business class seats are still excellent, “The Room,” which can be found on select B777-300ERs, features alternating seats and sliding doors that guarantee the ultimate in privacy.
+                - paragraph [ref=e1158]: "Not every route features “The Room,” but here are some routes that do:"
+                - list [ref=e1159]:
+                  - listitem [ref=e1160]:
+                    - strong [ref=e1161]: New York (JFK) – Tokyo (HND)
+                    - text: one-way for 130,000 miles + ~$224 in taxes and fees
+                  - listitem [ref=e1162]:
+                    - strong [ref=e1163]: San Francisco (SFO) – Tokyo (HND)
+                    - text: one-way for 130,000 miles + ~$224 in taxes and fees
+                - heading "12. Fly United From the Continental U.S. to Hawaii (From 25,000 Miles)" [level=3] [ref=e1164]
+                - 'figure "United Polaris 787-10. Image Credit: Stephen Au" [ref=e1166]':
+                  - link "United Polaris 787-10" [ref=e1167] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/05/United-Polaris-787-10-rear-cabin-view-2.jpg?auto=webp&disable=upscale
+                    - img "United Polaris 787-10" [ref=e1169]
+                  - generic [ref=e1170]: "United Polaris 787-10. Image Credit: Stephen Au"
+                - paragraph [ref=e1171]:
+                  - text: The very last redemption here is on United Airlines. You can
+                  - link "fly domestically to Hawaii" [ref=e1172] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-hawaii-with-points/
+                  - text: for 25,000 miles one-way, or 40,000 miles round-trip.
+                - paragraph [ref=e1173]: This is an excellent deal, and one of the best, if not the single best way to fly to Hawaii from the mainland U.S. Also, it includes any East Coast flights as well.
+                - paragraph [ref=e1174]: The same flight in business class costs 80,000 miles round-trip or 40,000 miles one-way.
+                - paragraph [ref=e1175]: "Considering that some of these flights contain lie-flat seats in business class, it could potentially be a huge sweet spot for travelers headed to Hawaii. Here are some example routes to fly:"
+                - list [ref=e1176]:
+                  - listitem [ref=e1177]:
+                    - strong [ref=e1178]: Newark (EWR) – Honolulu (HNL)
+                    - text: one-way in United business class for 40,000 Turkish Airlines miles + ~$5.60 in taxes and fees
+                  - listitem [ref=e1179]:
+                    - strong [ref=e1180]: San Francisco (SFO) – Kona (KOA)
+                    - text: one-way in United economy class for 25,000 Turkish Airlines miles + ~$5.60 in taxes and fees
+                - heading "Final Thoughts" [level=2] [ref=e1181]
+                - paragraph [ref=e1182]: Although Turkish Airlines is a relatively unknown frequent flyer program, there are plenty of ways to take advantage of the Miles&Smiles program by utilizing Capital One, Citi, Marriott Bonvoy, and Bilt as transfer partners.
+                - paragraph [ref=e1183]: There are a few booking quirks, and it is generally not a “beginner-friendly” award program. But if you’re willing to stick it out, you can book some awesome sweet spots!
+              - generic [ref=e1184]:
+                - generic [ref=e1185]:
+                  - separator [ref=e1186]
+                  - text: "Featured Image Credit: Greg Stone"
+                - generic [ref=e1187]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1188]
+                  - group [ref=e1189]:
+                    - generic "How do I join Turkish Airlines Miles&Smiles?" [ref=e1190] [cursor=pointer]
+                    - paragraph [ref=e1192]:
+                      - text: You can
+                      - link "sign up for Turkish Airlines Miles&Smiles online" [ref=e1193] [cursor=pointer]:
+                        - /url: https://www.turkishairlines.com/en-us/miles-and-smiles/sign-up-form/
+                      - text: .
+                  - group [ref=e1194]:
+                    - generic "Do I need to be an Turkish Airlines Miles&Smiles member to search for awards?" [ref=e1195] [cursor=pointer]
+                    - paragraph [ref=e1197]: Yes, you must be a member to search for award availability.
+                  - group [ref=e1198]:
+                    - generic "How many Turkish Airlines miles do I have?" [ref=e1199] [cursor=pointer]
+                    - paragraph [ref=e1201]: You may check your miles balance by signing in on the top right corner of the Miles&Smiles homepage.
+                  - group [ref=e1202]:
+                    - generic "When do Turkish Airlines Miles expire?" [ref=e1203] [cursor=pointer]
+                    - paragraph [ref=e1205]: Turkish Airlines miles expire 3 years after they are earned. You can extend miles for another 3 years at a rate of $10 per 1,000 miles.
+                  - group [ref=e1206]:
+                    - generic "Can I transfer miles to Turkish Airlines from other loyalty programs?" [ref=e1207] [cursor=pointer]
+                    - paragraph [ref=e1209]: Yes. You can transfer from Capital One, Citi, Marriott Bonvoy, and Bilt.
+                  - group [ref=e1210]:
+                    - generic "How many Turkish Airlines miles are required for a trip reward?" [ref=e1211] [cursor=pointer]
+                    - generic [ref=e1212]:
+                      - paragraph [ref=e1213]:
+                        - text: You can see the
+                        - link "Turkish Airlines award chart" [ref=e1214] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/travel/airlines/turkish-airlines-milessmiles-award-sweet-spots/
+                        - text: "by following these steps:"
+                      - list [ref=e1215]:
+                        - listitem [ref=e1216]:
+                          - text: Visit
+                          - link "Miles&Smiles" [ref=e1217] [cursor=pointer]:
+                            - /url: https://www.turkishairlines.com/en-pt/miles-and-smiles/awards/index.html
+                        - listitem [ref=e1218]:
+                          - text: Scroll down to the
+                          - strong [ref=e1219]: Miles&Smiles Award Tables
+                          - text: section
+                        - listitem [ref=e1220]:
+                          - text: Click
+                          - strong [ref=e1221]: Award Ticket Table
+                          - text: for the complete award chart
+                  - group [ref=e1222]:
+                    - generic "Which credit cards can I use to earn Turkish Airlines miles?" [ref=e1223] [cursor=pointer]
+                    - paragraph [ref=e1225]: You can earn Turkish Airlines miles from the Turkish Airlines Premier Visa card, and any Capital One Miles, Citi ThankYou Rewards, Marriott Bonvoy, or Bilt credit cards.
+                  - group [ref=e1226]:
+                    - generic "How can I contact Turkish Airlines?" [ref=e1227] [cursor=pointer]
+                    - paragraph [ref=e1229]: You can contact Turkish Airlines 24 hours a day at 800-874-8875.
+                - complementary [ref=e1230]:
+                  - generic [ref=e1231]:
+                    - paragraph [ref=e1232]:
+                      - generic [ref=e1233]: The information regarding the Capital One VentureOne Rewards Credit Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1234]:
+                        - text: The information regarding the Citi Double Cash
+                        - superscript [ref=e1235]: ®
+                        - text: Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1236]:
+                        - text: The information regarding the Citi Custom Cash
+                        - superscript [ref=e1237]: ®
+                        - text: Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1238]: The information regarding the Citi Strata Premier℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1239]: The information regarding the Citi Strata℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1240]: The information regarding the Citi Strata Elite℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1241]:
+                        - text: The information regarding the Turkish Airlines Miles&Smiles Premier Visa Signature
+                        - superscript [ref=e1242]: ®
+                        - text: Credit Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph [ref=e1243]:
+                      - generic [ref=e1245]:
+                        - text: For rates and fees of the Marriott Bonvoy Bevy
+                        - superscript [ref=e1246]: ®
+                        - text: American Express
+                        - superscript [ref=e1247]: ®
+                        - text: Card, click
+                        - link "here" [ref=e1248] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TE/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1250]:
+                        - text: For rates and fees of the Marriott Bonvoy Brilliant
+                        - superscript [ref=e1251]: ®
+                        - text: American Express
+                        - superscript [ref=e1252]: ®
+                        - text: card, click
+                        - link "here" [ref=e1253] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TE/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                - group "Was this page helpful?" [ref=e1255]:
+                  - paragraph [ref=e1256]: Was this page helpful?
+                  - generic [ref=e1257]:
+                    - button "Yes" [ref=e1258] [cursor=pointer]
+                    - button "No" [ref=e1259] [cursor=pointer]
+                - generic [ref=e1260]:
+                  - figure [ref=e1262]:
+                    - img "Stephen Au's image" [ref=e1263]
+                  - generic [ref=e1264]:
+                    - heading "About Stephen Au" [level=2] [ref=e1265]:
+                      - text: About
+                      - link "Stephen Au" [ref=e1266] [cursor=pointer]:
+                        - /url: /author/stephen/
+                    - paragraph [ref=e1267]: Stephen is an established voice in the credit card space, with over 70 to his name. His work has been in publications like The Washington Post, and his Au Points and Awards Consulting Services is used by hundreds of clients.
+                    - list [ref=e1269]:
+                      - listitem [ref=e1270]:
+                        - link "Instagram icon" [ref=e1271] [cursor=pointer]:
+                          - /url: https://www.instagram.com/aupacs/
+                          - img "Instagram icon" [ref=e1272]
+                      - listitem [ref=e1273]:
+                        - link "LinkedIn icon" [ref=e1274] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/austephen/
+                          - img "LinkedIn icon" [ref=e1275]
+                      - listitem [ref=e1276]:
+                        - link "email icon" [ref=e1277] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1278]
+                - generic [ref=e1280]:
+                  - generic [ref=e1281]:
+                    - paragraph [ref=e1282]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1283]: ™
+                    - generic [ref=e1284]:
+                      - paragraph [ref=e1285]:
+                        - text: Get the
+                        - strong [ref=e1286]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1287]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1288]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1289]:
+                      - textbox "First Name" [ref=e1290]
+                      - textbox "Email" [ref=e1291]
+                      - button "Join Now" [disabled] [ref=e1292]
+                    - paragraph [ref=e1294]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1295] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1296] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1297] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1299]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1301]
+                - generic [ref=e1303]:
+                  - paragraph [ref=e1304]: We Recommend
+                  - generic [ref=e1305]:
+                    - generic [ref=e1306]:
+                      - link "Platinum Card® from American Express" [ref=e1307] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1308]
+                      - link "Terms Apply / Rates & Fees" [ref=e1309] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1310] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1311]
+                        - text: Apply Now
+                    - generic [ref=e1314]:
+                      - paragraph [ref=e1315]:
+                        - link "Platinum Card® from American Express" [ref=e1316] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1317]:
+                            - text: Platinum Card
+                            - superscript [ref=e1318]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1320]:
+                        - generic [ref=e1321]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1322] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1323]:
+                        - listitem [ref=e1324]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1325]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1326]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1327]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1328]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1329]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1330]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1331] [cursor=pointer]
+            - complementary [ref=e1333]:
+              - generic [ref=e1334]:
+                - generic [ref=e1336]:
+                  - paragraph [ref=e1337]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1338] [cursor=pointer]
+                  - generic [ref=e1339]:
+                    - generic [ref=e1342]:
+                      - generic [ref=e1343]:
+                        - generic [ref=e1344]:
+                          - img [ref=e1345]
+                          - generic [ref=e1347]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1348] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1349]
+                      - generic [ref=e1350]:
+                        - paragraph [ref=e1351]:
+                          - link "Platinum Card® from American Express" [ref=e1352] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1353]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1354] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1355]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1357] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1360]:
+                      - generic [ref=e1361]:
+                        - generic [ref=e1362]:
+                          - img [ref=e1363]
+                          - generic [ref=e1365]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1366] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1367]
+                      - generic [ref=e1368]:
+                        - paragraph [ref=e1369]:
+                          - link "American Express® Gold Card" [ref=e1370] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1371]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1372] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1373]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1375] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1378]:
+                      - generic [ref=e1379]:
+                        - generic [ref=e1380]:
+                          - img [ref=e1381]
+                          - generic [ref=e1383]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1384] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1385]
+                      - generic [ref=e1386]:
+                        - paragraph [ref=e1387]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1388] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1389]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1390] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1391]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1393] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/21598/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1396]:
+                      - generic [ref=e1397]:
+                        - generic [ref=e1398]:
+                          - img [ref=e1399]
+                          - generic [ref=e1401]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1402] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/21598/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1403]
+                      - generic [ref=e1404]:
+                        - paragraph [ref=e1405]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1406] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/21598/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1407]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1408] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/21598/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1409]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1411] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/21598/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1413] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1416]: Advertisement
+      - generic [ref=e1418]:
+        - paragraph [ref=e1419]: Related Posts
+        - generic [ref=e1420]:
+          - generic [ref=e1421]:
+            - link [ref=e1422] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-american-airlines-first-class/
+              - figure [ref=e1423]:
+                - img "Best Ways To Book American Airlines First Class Using Points [Step by Step]" [ref=e1425]
+            - link "Best Ways To Book American Airlines First Class Using Points [Step by Step]" [ref=e1426] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-american-airlines-first-class/
+          - generic [ref=e1427]:
+            - link [ref=e1428] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-use-10000-or-fewer-american-airlines-miles/
+              - figure [ref=e1429]:
+                - img "The Best Ways To Use 10,000 (or Fewer) American Airlines AAdvantage Miles" [ref=e1431]
+            - link "The Best Ways To Use 10,000 (or Fewer) American Airlines AAdvantage Miles" [ref=e1432] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-use-10000-or-fewer-american-airlines-miles/
+          - generic [ref=e1433]:
+            - link [ref=e1434] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-american-airlines-business-class/
+              - figure [ref=e1435]:
+                - img "Best Ways To Book American Airlines Business Class Using Points [Step by Step]" [ref=e1437]
+            - link "Best Ways To Book American Airlines Business Class Using Points [Step by Step]" [ref=e1438] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-american-airlines-business-class/
+          - generic [ref=e1439]:
+            - link [ref=e1440] [cursor=pointer]:
+              - /url: /travel/airlines/best-international-business-class-airlines-in-the-world/
+              - figure [ref=e1441]:
+                - img "The 19 Best International Business Class Airlines in the World" [ref=e1443]
+            - link "The 19 Best International Business Class Airlines in the World" [ref=e1444] [cursor=pointer]:
+              - /url: /travel/airlines/best-international-business-class-airlines-in-the-world/
+    - contentinfo [ref=e1445]:
+      - img [ref=e1446]
+      - img [ref=e1465]
+      - generic [ref=e1484]:
+        - generic [ref=e1485]:
+          - img [ref=e1487]
+          - generic [ref=e1492]:
+            - generic [ref=e1493]:
+              - paragraph [ref=e1494]: Upgrade your travel experience
+              - list [ref=e1495]:
+                - listitem [ref=e1496]:
+                  - link [ref=e1497] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1498]:
+                      - img "Facebook" [ref=e1499]
+                - listitem [ref=e1500]:
+                  - link [ref=e1501] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1502]:
+                      - img "Twitter" [ref=e1503]
+                - listitem [ref=e1504]:
+                  - link [ref=e1505] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1506]:
+                      - img "Instagram" [ref=e1507]
+                - listitem [ref=e1508]:
+                  - link [ref=e1509] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1510]:
+                      - img "Pinterest" [ref=e1511]
+                - listitem [ref=e1512]:
+                  - link [ref=e1513] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1514]:
+                      - img "Linkedin" [ref=e1515]
+                - listitem [ref=e1516]:
+                  - link [ref=e1517] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1518]:
+                      - img "Youtube" [ref=e1519]
+            - generic [ref=e1521]:
+              - list [ref=e1522]:
+                - listitem [ref=e1523]:
+                  - link "News" [ref=e1524] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1525]:
+                  - link "Credit Cards" [ref=e1526] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1527]:
+                  - link "Business" [ref=e1528] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1529]:
+                - listitem [ref=e1530]:
+                  - link "Finance" [ref=e1531] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1532]:
+                  - link "Travel Guides" [ref=e1533] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1534]:
+                  - link "Air Travel" [ref=e1535] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1536]:
+                - listitem [ref=e1537]:
+                  - link "Hotel Guides" [ref=e1538] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1539]:
+                  - link "Beginners" [ref=e1540] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1541]:
+                  - link "About" [ref=e1542] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1543]:
+                - listitem [ref=e1544]:
+                  - link "Podcast" [ref=e1545] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1546]:
+                  - link "Jobs & Careers" [ref=e1547] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1548]:
+                  - link "Contact Us" [ref=e1549] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1550]:
+          - paragraph [ref=e1551]:
+            - link "Privacy Policy" [ref=e1552] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1553] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1554] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1555] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1556] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1557] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1598] [cursor=pointer]
+          - paragraph [ref=e1558]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1559]:
+          - link "DMCA.com Protection Status" [ref=e1560] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1561]
+          - img "Comodo Secure Seal" [ref=e1563]
+        - generic [ref=e1564]:
+          - generic [ref=e1565]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1566]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1567]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1568]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1569]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1570] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1571]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1572]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1574]:
+    - generic [ref=e1575]:
+      - generic [ref=e1576]:
+        - button "close banner" [ref=e1577] [cursor=pointer]:
+          - img "close banner" [ref=e1578]
+        - img "company logo" [ref=e1580]
+      - generic [ref=e1581]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1583]
+        - generic [ref=e1584]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1585] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1586] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1588]:
+        - button "Manage" [ref=e1589] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1590] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1591] [cursor=pointer]
+    - generic [ref=e1593]:
+      - generic [ref=e1594]: "Powered by:"
+      - link "trustarc" [ref=e1595] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1596]

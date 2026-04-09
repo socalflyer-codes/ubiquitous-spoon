@@ -1,0 +1,1734 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "14 Best Ways To Redeem Singapore KrisFlyer Miles for Max Value [2026]" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Alex Miller's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Alex Miller
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: January 19, 2026, 6:51pm CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Stella Shon
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Michael Y. Park
+          - figure [ref=e61]:
+            - img "14 Best Ways To Redeem Singapore KrisFlyer Miles for Max Value [2026]" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e1833]:
+            - generic "Jump to Section" [ref=e1834] [cursor=pointer]
+          - paragraph [ref=e68]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e69] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e70]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - heading "Key Takeaways" [level=2] [ref=e76]
+                  - list [ref=e78]:
+                    - listitem [ref=e79]: KrisFlyer miles can be redeemed for award flights on Singapore Airlines and partner airlines such as ANA, Lufthansa, and United Airlines.
+                    - listitem [ref=e80]: Transfer points from programs like Amex Membership Rewards, Chase Ultimate Rewards, or Citi ThankYou to KrisFlyer to boost your miles balance.
+                    - listitem [ref=e81]: Redeeming miles for flights on Singapore Airlines’ own routes, especially in Business and First Class, often provides the best value.
+                - paragraph [ref=e82]: Singapore Airlines is one of the world’s most beloved airlines. The iconic uniforms of Singapore Airlines flight attendants symbolize the airline’s exemplary customer service.
+                - paragraph [ref=e83]: Singapore Changi Airport (SIN) is also lauded as one of the best airports in the world, and it is a 24-hour destination in its own right. Many travelers deliberately book long layovers in Singapore to explore, shop, play, and, most of all, eat!
+                - paragraph [ref=e84]: The airline’s KrisFlyer miles can be earned in many ways, and KrisFlyer is one of the most versatile frequent flyer programs for smart travelers. As a member of Star Alliance, Singapore Airlines also has an extensive network of partners.
+                - paragraph [ref=e85]: Let’s learn the best ways to use KrisFlyer miles for awesome travel around the world!
+                - heading "Best Ways To Earn KrisFlyer Miles" [level=2] [ref=e86]
+                - paragraph [ref=e87]:
+                  - text: KrisFlyer miles can be transferred from
+                  - link "American Express Membership Rewards" [ref=e88] [cursor=pointer]:
+                    - /url: /credit-cards/american-express-membership-rewards-review/
+                  - text: ","
+                  - link "Capital One Miles" [ref=e89] [cursor=pointer]:
+                    - /url: /credit-cards/capital-one-miles-program-review/
+                  - text: ","
+                  - link "Chase Ultimate Rewards" [ref=e90] [cursor=pointer]:
+                    - /url: /credit-cards/chase-ultimate-rewards-review/
+                  - text: ", and"
+                  - link "Citi ThankYou Rewards" [ref=e91] [cursor=pointer]:
+                    - /url: /credit-cards/citi-thankyou-rewards-review/
+                  - text: (all at a rate of 1:1, except for Citi’s no-annual-fee cards that transfer at 1:0.7), and from
+                  - link "Marriott Bonvoy" [ref=e92] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-transfer-partners/
+                  - text: at a transfer rate of 3:1 with a 5,000-mile bonus for every 60,000 points transferred.
+                - heading "Recommended Amex Cards (Personal)" [level=4] [ref=e93]
+                - generic [ref=e95]:
+                  - generic [ref=e96]:
+                    - img [ref=e97]
+                    - generic [ref=e99]: BEST LOUNGE CARD
+                  - generic [ref=e100]:
+                    - link "Platinum Card® from American Express" [ref=e101] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Platinum Card® from American Express" [ref=e102]
+                    - link "Terms Apply / Rates & Fees" [ref=e103] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TRD/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e104]: Terms Apply / Rates & Fees
+                    - generic [ref=e105]:
+                      - generic [ref=e106]:
+                        - img "Star rating icon" [ref=e109]
+                        - img "Star rating icon" [ref=e112]
+                        - img "Star rating icon" [ref=e115]
+                        - img "Star rating icon" [ref=e118]
+                        - generic [ref=e119]:
+                          - img "Star rating icon" [ref=e121]
+                          - img "Star rating icon" [ref=e123]
+                      - generic [ref=e124]:
+                        - generic [ref=e125]: U.P. Rating
+                        - img [ref=e128]:
+                          - img [ref=e129]
+                    - link "Apply Now" [ref=e132] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e133]
+                      - text: Apply Now
+                    - generic [ref=e136]: (at Amex's secure site)
+                    - generic [ref=e137]:
+                      - heading "Apply With Confidence" [level=4] [ref=e138]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e139]
+                      - paragraph [ref=e140]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e141]:
+                    - generic [ref=e143]:
+                      - link "Platinum Card® from American Express" [ref=e145] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-platinum-card/
+                        - text: Platinum Card
+                        - superscript [ref=e146]: ®
+                        - text: from American Express
+                      - text: The Amex Platinum reigns supreme for luxury travel, offering the best airport lounge access plus generous statement credits, and complimentary elite status.
+                    - generic [ref=e147]:
+                      - generic [ref=e148]:
+                        - generic [ref=e149]:
+                          - generic [ref=e150]: Welcome Offer
+                          - img [ref=e153]:
+                            - img [ref=e154]
+                        - generic [ref=e157]: As High As 175,000 Points. Find Out Your Offer.
+                      - generic [ref=e158]:
+                        - generic [ref=e160]: "UP's Offer Valuation*:"
+                        - generic [ref=e161]: Up to $3,850
+                    - generic [ref=e162]:
+                      - generic [ref=e163]:
+                        - generic [ref=e165]: Annual Fee
+                        - generic [ref=e166]: $895
+                      - generic [ref=e167]:
+                        - generic [ref=e169]: APR
+                        - generic [ref=e170]: See Pay Over Time APR
+                      - generic [ref=e171]:
+                        - generic [ref=e172]:
+                          - generic [ref=e173]: Credit Recommended
+                          - img [ref=e176]:
+                            - img [ref=e177]
+                        - generic [ref=e180]: Good to Excellent
+                    - generic [ref=e181]:
+                      - group [ref=e182]:
+                        - generic "Why We Like This Card" [ref=e183] [cursor=pointer]
+                      - group [ref=e184]:
+                        - generic "Pros & Cons" [ref=e185] [cursor=pointer]
+                      - group [ref=e186]:
+                        - generic "Card Highlights" [ref=e187] [cursor=pointer]
+                - generic [ref=e189]:
+                  - generic [ref=e190]:
+                    - img [ref=e191]
+                    - generic [ref=e193]: BEST FOR DINING
+                  - generic [ref=e194]:
+                    - link "American Express® Gold Card" [ref=e195] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "American Express® Gold Card" [ref=e196]
+                    - link "Terms Apply / Rates & Fees" [ref=e197] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TRD/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e198]: Terms Apply / Rates & Fees
+                    - generic [ref=e199]:
+                      - generic [ref=e200]:
+                        - img "Star rating icon" [ref=e203]
+                        - img "Star rating icon" [ref=e206]
+                        - img "Star rating icon" [ref=e209]
+                        - img "Star rating icon" [ref=e212]
+                        - generic [ref=e213]:
+                          - img "Star rating icon" [ref=e215]
+                          - img "Star rating icon" [ref=e217]
+                      - generic [ref=e218]:
+                        - generic [ref=e219]: U.P. Rating
+                        - img [ref=e222]:
+                          - img [ref=e223]
+                    - link "Apply Now" [ref=e226] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e227]
+                      - text: Apply Now
+                    - generic [ref=e230]: (at Amex's secure site)
+                    - generic [ref=e231]:
+                      - heading "Apply With Confidence" [level=4] [ref=e232]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e233]
+                      - paragraph [ref=e234]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e235]:
+                    - generic [ref=e237]:
+                      - link "American Express® Gold Card" [ref=e239] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-gold-card/
+                        - text: American Express
+                        - superscript [ref=e240]: ®
+                        - text: Gold Card
+                      - text: This is the best card for food lovers who dine out at restaurants (worldwide), order take-out and want big rewards at U.S. supermarkets!
+                    - generic [ref=e241]:
+                      - generic [ref=e242]:
+                        - generic [ref=e243]:
+                          - generic [ref=e244]: Welcome Offer
+                          - img [ref=e247]:
+                            - img [ref=e248]
+                        - generic [ref=e251]: As High As 100,000 Points. Find Out Your Offer.
+                      - generic [ref=e252]:
+                        - generic [ref=e254]: "UP's Offer Valuation*:"
+                        - generic [ref=e255]: Up to $2,200
+                    - generic [ref=e256]:
+                      - generic [ref=e257]:
+                        - generic [ref=e259]: Annual Fee
+                        - generic [ref=e260]: $325
+                      - generic [ref=e261]:
+                        - generic [ref=e263]: APR
+                        - generic [ref=e264]: See Pay Over Time APR
+                      - generic [ref=e265]:
+                        - generic [ref=e266]:
+                          - generic [ref=e267]: Credit Recommended
+                          - img [ref=e270]:
+                            - img [ref=e271]
+                        - generic [ref=e274]: Good to Excellent
+                    - generic [ref=e275]:
+                      - group [ref=e276]:
+                        - generic "Why We Like This Card" [ref=e277] [cursor=pointer]
+                      - group [ref=e278]:
+                        - generic "Pros & Cons" [ref=e279] [cursor=pointer]
+                      - group [ref=e280]:
+                        - generic "Card Highlights" [ref=e281] [cursor=pointer]
+                - paragraph [ref=e282]:
+                  - strong [ref=e283]: Business Owner?
+                  - text: Check out our article on the best
+                  - link "Amex business cards" [ref=e284] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-amex-business-credit-cards/
+                  - text: that earn Membership Rewards.
+                - heading "Recommended Capital One Cards (Personal)" [level=4] [ref=e285]
+                - generic [ref=e287]:
+                  - generic [ref=e288]:
+                    - img "Capital One Venture X Rewards Credit Card" [ref=e289]
+                    - generic [ref=e290]:
+                      - generic [ref=e291]:
+                        - img "Star rating icon" [ref=e294]
+                        - img "Star rating icon" [ref=e297]
+                        - img "Star rating icon" [ref=e300]
+                        - img "Star rating icon" [ref=e303]
+                        - generic [ref=e304]:
+                          - img "Star rating icon" [ref=e306]
+                          - img "Star rating icon" [ref=e308]
+                      - generic [ref=e309]:
+                        - generic [ref=e310]: U.P. Rating
+                        - img [ref=e313]:
+                          - img [ref=e314]
+                  - generic [ref=e317]:
+                    - generic [ref=e319]:
+                      - link "Capital One Venture X Rewards Credit Card" [ref=e321] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-x/
+                      - text: The Capital One Venture X card is an excellent option for travelers looking for an all-in-one premium credit card.
+                    - generic [ref=e322]:
+                      - generic [ref=e323]:
+                        - generic [ref=e324]:
+                          - generic [ref=e325]: Welcome Offer
+                          - img [ref=e328]:
+                            - img [ref=e329]
+                        - generic [ref=e332]: 75,000 miles
+                      - generic [ref=e333]:
+                        - generic [ref=e335]: "UP's Offer Valuation*:"
+                        - generic [ref=e336]: $1,350
+                    - generic [ref=e337]:
+                      - generic [ref=e338]:
+                        - generic [ref=e340]: Annual Fee
+                        - generic [ref=e341]: $395
+                      - generic [ref=e342]:
+                        - generic [ref=e344]: APR
+                        - generic [ref=e345]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e346]:
+                        - generic [ref=e347]:
+                          - generic [ref=e348]: Credit Recommended
+                          - img [ref=e351]:
+                            - img [ref=e352]
+                        - generic [ref=e355]: Excellent
+                    - generic [ref=e356]:
+                      - group [ref=e357]:
+                        - generic "Why We Like This Card" [ref=e358] [cursor=pointer]
+                      - group [ref=e359]:
+                        - generic "Pros & Cons" [ref=e360] [cursor=pointer]
+                      - group [ref=e361]:
+                        - generic "Card Highlights" [ref=e362] [cursor=pointer]
+                - generic [ref=e364]:
+                  - generic [ref=e365]:
+                    - img [ref=e366]
+                    - generic [ref=e368]: LIMITED-TIME ONLY
+                  - generic [ref=e369]:
+                    - img "Capital One Venture Rewards Credit Card" [ref=e370]
+                    - generic [ref=e371]:
+                      - generic [ref=e372]:
+                        - img "Star rating icon" [ref=e375]
+                        - img "Star rating icon" [ref=e378]
+                        - img "Star rating icon" [ref=e381]
+                        - img "Star rating icon" [ref=e384]
+                        - generic [ref=e385]:
+                          - img "Star rating icon" [ref=e387]
+                          - img "Star rating icon" [ref=e389]
+                      - generic [ref=e390]:
+                        - generic [ref=e391]: U.P. Rating
+                        - img [ref=e394]:
+                          - img [ref=e395]
+                  - generic [ref=e398]:
+                    - generic [ref=e400]:
+                      - link "Capital One Venture Rewards Credit Card" [ref=e402] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-rewards-credit-card/
+                      - text: Get 2x miles plus some of the most flexible redemptions offered by a travel credit card!
+                    - generic [ref=e403]:
+                      - generic [ref=e404]:
+                        - generic [ref=e405]:
+                          - generic [ref=e406]: Welcome Offer
+                          - img [ref=e409]:
+                            - img [ref=e410]
+                        - generic [ref=e413]: 75,000 miles + $250 Capital One Travel credit
+                      - generic [ref=e414]:
+                        - generic [ref=e416]: "UP's Offer Valuation*:"
+                        - generic [ref=e417]: $1,600
+                    - generic [ref=e418]:
+                      - generic [ref=e419]:
+                        - generic [ref=e421]: Annual Fee
+                        - generic [ref=e422]: $95
+                      - generic [ref=e423]:
+                        - generic [ref=e425]: APR
+                        - generic [ref=e426]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e427]:
+                        - generic [ref=e428]:
+                          - generic [ref=e429]: Credit Recommended
+                          - img [ref=e432]:
+                            - img [ref=e433]
+                        - generic [ref=e436]: Good to Excellent Credit
+                    - generic [ref=e437]:
+                      - group [ref=e438]:
+                        - generic "Why We Like This Card" [ref=e439] [cursor=pointer]
+                      - group [ref=e440]:
+                        - generic "Pros & Cons" [ref=e441] [cursor=pointer]
+                      - group [ref=e442]:
+                        - generic "Card Highlights" [ref=e443] [cursor=pointer]
+                - generic [ref=e445]:
+                  - generic [ref=e446]:
+                    - img "Capital One VentureOne Rewards Credit Card" [ref=e447]
+                    - generic [ref=e448]:
+                      - generic [ref=e449]:
+                        - img "Star rating icon" [ref=e452]
+                        - img "Star rating icon" [ref=e455]
+                        - img "Star rating icon" [ref=e458]
+                        - img "Star rating icon" [ref=e461]
+                        - generic [ref=e462]:
+                          - img "Star rating icon" [ref=e464]
+                          - img "Star rating icon" [ref=e465]
+                      - generic [ref=e466]:
+                        - generic [ref=e467]: U.P. Rating
+                        - img [ref=e470]:
+                          - img [ref=e471]
+                  - generic [ref=e474]:
+                    - generic [ref=e476]:
+                      - link "Capital One VentureOne Rewards Credit Card" [ref=e478] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-ventureone-rewards-credit-card/
+                      - text: The card offers unlimited miles at 1.25x per $1 and no annual fee. When you consider the flexible rewards, frequent travelers come out on top.
+                    - generic [ref=e479]:
+                      - generic [ref=e480]:
+                        - generic [ref=e481]:
+                          - generic [ref=e482]: Welcome Offer
+                          - img [ref=e485]:
+                            - img [ref=e486]
+                        - generic [ref=e489]: 20,000 miles
+                      - generic [ref=e490]:
+                        - generic [ref=e492]: "UP's Offer Valuation*:"
+                        - generic [ref=e493]: $200
+                    - generic [ref=e494]:
+                      - generic [ref=e495]:
+                        - generic [ref=e497]: Annual Fee
+                        - generic [ref=e498]: $0
+                      - generic [ref=e499]:
+                        - generic [ref=e501]: APR
+                        - generic [ref=e502]: "Purchases: 0% intro APR on purchases for 15 months; variable 18.49% - 28.49% thereafter"
+                      - generic [ref=e503]:
+                        - generic [ref=e504]:
+                          - generic [ref=e505]: Credit Recommended
+                          - img [ref=e508]:
+                            - img [ref=e509]
+                        - generic [ref=e512]: Good to Excellent (670-850)
+                    - generic [ref=e513]:
+                      - group [ref=e514]:
+                        - generic "Why We Like This Card" [ref=e515] [cursor=pointer]
+                      - group [ref=e516]:
+                        - generic "Pros & Cons" [ref=e517] [cursor=pointer]
+                      - group [ref=e518]:
+                        - generic "Card Highlights" [ref=e519] [cursor=pointer]
+                - heading "Recommended Chase Cards (Personal)" [level=4] [ref=e520]
+                - generic [ref=e522]:
+                  - generic [ref=e523]:
+                    - img [ref=e524]
+                    - generic [ref=e526]: NEW OFFER
+                  - generic [ref=e527]:
+                    - link "Chase Sapphire Preferred® Card" [ref=e528] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/3294/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Preferred® Card" [ref=e529]
+                    - link "Terms Apply / Rates & Fees" [ref=e530] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/TRD/3294/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e531]: Terms Apply / Rates & Fees
+                    - generic [ref=e532]:
+                      - generic [ref=e533]:
+                        - img "Star rating icon" [ref=e536]
+                        - img "Star rating icon" [ref=e539]
+                        - img "Star rating icon" [ref=e542]
+                        - img "Star rating icon" [ref=e545]
+                        - generic [ref=e546]:
+                          - img "Star rating icon" [ref=e548]
+                          - img "Star rating icon" [ref=e550]
+                      - generic [ref=e551]:
+                        - generic [ref=e552]: U.P. Rating
+                        - img [ref=e555]:
+                          - img [ref=e556]
+                    - link "Apply Now" [ref=e559] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/3294/dissn.1775548838764.7073346957.1/
+                      - img [ref=e560]
+                      - text: Apply Now
+                    - generic [ref=e563]: (at Chase's secure site)
+                  - generic [ref=e564]:
+                    - generic [ref=e566]:
+                      - link "Chase Sapphire Preferred® Card" [ref=e568] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                        - text: Chase Sapphire Preferred
+                        - superscript [ref=e569]: ®
+                        - text: Card
+                      - text: A fantastic travel card with a great welcome offer, good benefits, and perks for a moderate annual fee.
+                    - generic [ref=e570]:
+                      - generic [ref=e571]:
+                        - generic [ref=e572]:
+                          - generic [ref=e573]: Welcome Offer
+                          - img [ref=e576]:
+                            - img [ref=e577]
+                        - generic [ref=e580]: 60,000 75,000 points
+                      - generic [ref=e581]:
+                        - generic [ref=e583]: "UP's Offer Valuation*:"
+                        - generic [ref=e584]: $1,500
+                    - generic [ref=e585]:
+                      - generic [ref=e586]:
+                        - generic [ref=e588]: Annual Fee
+                        - generic [ref=e589]: $95
+                      - generic [ref=e590]:
+                        - generic [ref=e592]: APR
+                        - generic [ref=e593]: 19.24% - 27.49% Variable
+                      - generic [ref=e594]:
+                        - generic [ref=e595]:
+                          - generic [ref=e596]: Credit Recommended
+                          - img [ref=e599]:
+                            - img [ref=e600]
+                        - generic [ref=e603]: Good to Excellent
+                    - generic [ref=e604]:
+                      - group [ref=e605]:
+                        - generic "Why We Like This Card" [ref=e606] [cursor=pointer]
+                      - group [ref=e607]:
+                        - generic "Pros & Cons" [ref=e608] [cursor=pointer]
+                      - group [ref=e609]:
+                        - generic "Card Highlights" [ref=e610] [cursor=pointer]
+                - generic [ref=e612]:
+                  - generic [ref=e613]:
+                    - img [ref=e614]
+                    - generic [ref=e616]: NEW OFFER
+                  - generic [ref=e617]:
+                    - link "Chase Sapphire Reserve®" [ref=e618] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/3294/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Reserve®" [ref=e619]
+                    - link "Terms Apply / Rates & Fees" [ref=e620] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserveTCCRF/TRD/3294/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e621]: Terms Apply / Rates & Fees
+                    - generic [ref=e622]:
+                      - generic [ref=e623]:
+                        - img "Star rating icon" [ref=e626]
+                        - img "Star rating icon" [ref=e629]
+                        - img "Star rating icon" [ref=e632]
+                        - img "Star rating icon" [ref=e635]
+                        - generic [ref=e636]:
+                          - img "Star rating icon" [ref=e638]
+                          - img "Star rating icon" [ref=e640]
+                      - generic [ref=e641]:
+                        - generic [ref=e642]: U.P. Rating
+                        - img [ref=e645]:
+                          - img [ref=e646]
+                    - link "Apply Now" [ref=e649] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/3294/dissn.1775548838764.7073346957.1/
+                      - img [ref=e650]
+                      - text: Apply Now
+                    - generic [ref=e653]: (at Chase's secure site)
+                  - generic [ref=e654]:
+                    - generic [ref=e656]:
+                      - link "Chase Sapphire Reserve®" [ref=e658] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-reserve/
+                        - text: Chase Sapphire Reserve
+                        - superscript [ref=e659]: ®
+                      - text: A top player in the high-end premium travel credit card space that earns points on travel and dining while offering top luxury perks.
+                    - generic [ref=e660]:
+                      - generic [ref=e661]:
+                        - generic [ref=e662]:
+                          - generic [ref=e663]: Welcome Offer
+                          - img [ref=e666]:
+                            - img [ref=e667]
+                        - generic [ref=e670]: 125,000 points
+                      - generic [ref=e671]:
+                        - generic [ref=e673]: "UP's Offer Valuation*:"
+                        - generic [ref=e674]: $2,500
+                    - generic [ref=e675]:
+                      - generic [ref=e676]:
+                        - generic [ref=e678]: Annual Fee
+                        - generic [ref=e679]: $795
+                      - generic [ref=e680]:
+                        - generic [ref=e682]: APR
+                        - generic [ref=e683]: 19.49% - 27.99% Variable
+                      - generic [ref=e684]:
+                        - generic [ref=e685]:
+                          - generic [ref=e686]: Credit Recommended
+                          - img [ref=e689]:
+                            - img [ref=e690]
+                        - generic [ref=e693]: Excellent
+                    - generic [ref=e694]:
+                      - group [ref=e695]:
+                        - generic "Why We Like This Card" [ref=e696] [cursor=pointer]
+                      - group [ref=e697]:
+                        - generic "Pros & Cons" [ref=e698] [cursor=pointer]
+                      - group [ref=e699]:
+                        - generic "Card Highlights" [ref=e700] [cursor=pointer]
+                - heading "Recommended Citi Cards (Personal)" [level=4] [ref=e701]
+                - generic [ref=e703]:
+                  - generic [ref=e704]:
+                    - img "Citi Strata Premier℠ Card" [ref=e705]
+                    - generic [ref=e706]:
+                      - generic [ref=e707]:
+                        - img "Star rating icon" [ref=e710]
+                        - img "Star rating icon" [ref=e713]
+                        - img "Star rating icon" [ref=e716]
+                        - img "Star rating icon" [ref=e719]
+                        - generic [ref=e720]:
+                          - img "Star rating icon" [ref=e722]
+                          - img "Star rating icon" [ref=e723]
+                      - generic [ref=e724]:
+                        - generic [ref=e725]: U.P. Rating
+                        - img [ref=e728]:
+                          - img [ref=e729]
+                  - generic [ref=e732]:
+                    - link "Citi Strata Premier℠ Card" [ref=e736] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/citi-strata-premier-card/
+                    - generic [ref=e737]:
+                      - generic [ref=e738]:
+                        - generic [ref=e739]:
+                          - generic [ref=e740]: Welcome Offer
+                          - img [ref=e743]:
+                            - img [ref=e744]
+                        - generic [ref=e747]: 60,000 points
+                      - generic [ref=e748]:
+                        - generic [ref=e750]: "UP's Offer Valuation*:"
+                        - generic [ref=e751]: $960
+                    - generic [ref=e752]:
+                      - generic [ref=e753]:
+                        - generic [ref=e755]: Annual Fee
+                        - generic [ref=e756]: $95
+                      - generic [ref=e757]:
+                        - generic [ref=e759]: APR
+                        - generic [ref=e760]: 19.49% to 27.49% Variable
+                    - generic [ref=e761]:
+                      - group [ref=e762]:
+                        - generic "Why We Like This Card" [ref=e763] [cursor=pointer]
+                      - group [ref=e764]:
+                        - generic "Pros & Cons" [ref=e765] [cursor=pointer]
+                      - group [ref=e766]:
+                        - generic "Card Highlights" [ref=e767] [cursor=pointer]
+                - generic [ref=e769]:
+                  - generic [ref=e770]:
+                    - img "Citi Strata Elite℠ Card" [ref=e771]
+                    - generic [ref=e772]:
+                      - generic [ref=e773]:
+                        - img "Star rating icon" [ref=e776]
+                        - img "Star rating icon" [ref=e779]
+                        - img "Star rating icon" [ref=e782]
+                        - generic [ref=e783]:
+                          - img "Star rating icon" [ref=e785]
+                          - img "Star rating icon" [ref=e787]
+                        - generic [ref=e788]:
+                          - img "Star rating icon" [ref=e790]
+                          - img "Star rating icon" [ref=e791]
+                      - generic [ref=e792]:
+                        - generic [ref=e793]: U.P. Rating
+                        - img [ref=e796]:
+                          - img [ref=e797]
+                  - generic [ref=e800]:
+                    - generic [ref=e802]:
+                      - link "Citi Strata Elite℠ Card" [ref=e804] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/citi-strata-elite-card/
+                      - text: The Citi Strata Elite card is Citi's most premium card built for frequent travelers and foodies.
+                    - generic [ref=e805]:
+                      - generic [ref=e806]:
+                        - generic [ref=e807]:
+                          - generic [ref=e808]: Welcome Offer
+                          - img [ref=e811]:
+                            - img [ref=e812]
+                        - generic [ref=e815]: 75,000 points
+                      - generic [ref=e816]:
+                        - generic [ref=e818]: "UP's Offer Valuation*:"
+                        - generic [ref=e819]: Up to $1,200
+                    - generic [ref=e820]:
+                      - generic [ref=e821]:
+                        - generic [ref=e823]: Annual Fee
+                        - generic [ref=e824]: $595
+                      - generic [ref=e825]:
+                        - generic [ref=e827]: APR
+                        - generic [ref=e828]: 20.49% to 28.49% Variable
+                    - generic [ref=e829]:
+                      - group [ref=e830]:
+                        - generic "Why We Like This Card" [ref=e831] [cursor=pointer]
+                      - group [ref=e832]:
+                        - generic "Pros & Cons" [ref=e833] [cursor=pointer]
+                      - group [ref=e834]:
+                        - generic "Card Highlights" [ref=e835] [cursor=pointer]
+                - generic [ref=e837]:
+                  - generic [ref=e838]:
+                    - img "Citi Strata℠ Card" [ref=e839]
+                    - generic [ref=e840]:
+                      - generic [ref=e841]:
+                        - img "Star rating icon" [ref=e844]
+                        - img "Star rating icon" [ref=e847]
+                        - img "Star rating icon" [ref=e850]
+                        - generic [ref=e851]:
+                          - img "Star rating icon" [ref=e853]
+                          - img "Star rating icon" [ref=e855]
+                        - generic [ref=e856]:
+                          - img "Star rating icon" [ref=e858]
+                          - img "Star rating icon" [ref=e859]
+                      - generic [ref=e860]:
+                        - generic [ref=e861]: U.P. Rating
+                        - img [ref=e864]:
+                          - img [ref=e865]
+                  - generic [ref=e868]:
+                    - link "Citi Strata℠ Card" [ref=e872] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/citi-strata-card/
+                    - generic [ref=e873]:
+                      - generic [ref=e874]:
+                        - generic [ref=e875]:
+                          - generic [ref=e876]: Welcome Offer
+                          - img [ref=e879]:
+                            - img [ref=e880]
+                        - generic [ref=e883]: 20,000 points
+                      - generic [ref=e884]:
+                        - generic [ref=e886]: "UP's Offer Valuation*:"
+                        - generic [ref=e887]: $320
+                    - generic [ref=e888]:
+                      - generic [ref=e889]:
+                        - generic [ref=e891]: Annual Fee
+                        - generic [ref=e892]: $0
+                      - generic [ref=e893]:
+                        - generic [ref=e895]: APR
+                        - generic [ref=e896]: 0% intro APR on purchases and balance transfers for 15 months, and then a variable APR 18.49% to 28.49%.
+                      - generic [ref=e897]:
+                        - generic [ref=e898]:
+                          - generic [ref=e899]: Credit Recommended
+                          - img [ref=e902]:
+                            - img [ref=e903]
+                        - generic [ref=e906]: Good to Excellent
+                    - generic [ref=e907]:
+                      - group [ref=e908]:
+                        - generic "Why We Like This Card" [ref=e909] [cursor=pointer]
+                      - group [ref=e910]:
+                        - generic "Pros & Cons" [ref=e911] [cursor=pointer]
+                      - group [ref=e912]:
+                        - generic "Card Highlights" [ref=e913] [cursor=pointer]
+                - generic [ref=e915]:
+                  - generic [ref=e916]:
+                    - img "Citi Double Cash® Card" [ref=e917]
+                    - generic [ref=e918]:
+                      - generic [ref=e919]:
+                        - img "Star rating icon" [ref=e922]
+                        - img "Star rating icon" [ref=e925]
+                        - img "Star rating icon" [ref=e928]
+                        - img "Star rating icon" [ref=e931]
+                        - generic [ref=e932]:
+                          - img "Star rating icon" [ref=e934]
+                          - img "Star rating icon" [ref=e936]
+                      - generic [ref=e937]:
+                        - generic [ref=e938]: U.P. Rating
+                        - img [ref=e941]:
+                          - img [ref=e942]
+                  - generic [ref=e945]:
+                    - generic [ref=e947]:
+                      - link "Citi Double Cash® Card" [ref=e949] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/citi-double-cash-card/
+                        - text: Citi Double Cash
+                        - superscript [ref=e950]: ®
+                        - text: Card
+                      - text: Great card for the average spender with no specific focus category; worry-free cash-back earning on everything!
+                    - generic [ref=e952]:
+                      - generic [ref=e953]:
+                        - generic [ref=e954]: Welcome Offer
+                        - img [ref=e957]:
+                          - img [ref=e958]
+                      - generic [ref=e961]: $200 cash-back
+                    - generic [ref=e962]:
+                      - generic [ref=e963]:
+                        - generic [ref=e965]: Annual Fee
+                        - generic [ref=e966]: $0
+                      - generic [ref=e967]:
+                        - generic [ref=e969]: APR
+                        - generic [ref=e970]: 17.49% to 27.49% Variable
+                      - generic [ref=e971]:
+                        - generic [ref=e972]:
+                          - generic [ref=e973]: Credit Recommended
+                          - img [ref=e976]:
+                            - img [ref=e977]
+                        - generic [ref=e980]: Fair to Excellent (580-850)
+                    - generic [ref=e981]:
+                      - group [ref=e982]:
+                        - generic "Why We Like This Card" [ref=e983] [cursor=pointer]
+                      - group [ref=e984]:
+                        - generic "Pros & Cons" [ref=e985] [cursor=pointer]
+                      - group [ref=e986]:
+                        - generic "Card Highlights" [ref=e987] [cursor=pointer]
+                - paragraph [ref=e988]:
+                  - text: Finally, there are many
+                  - link "Marriott credit cards" [ref=e989] [cursor=pointer]:
+                    - /url: /credit-cards/best-marriott-bonvoy-credit-cards/
+                  - text: available which we cover in our in-depth guide.
+                - heading "The 14 Best Ways To Use Your Singapore Airlines KrisFlyer Miles" [level=2] [ref=e990]
+                - heading "1. Singapore Suites Class on International Routes (From 45,000 Miles)" [level=3] [ref=e991]:
+                  - strong [ref=e994]: 1. Singapore Suites Class on International Routes (From 45,000 Miles)
+                - 'figure "The Singapore Suites life. Image Credit: Greg Stone" [ref=e996]':
+                  - img "Singapore Airways Airbus A380 First Class Suites" [ref=e998]
+                  - generic [ref=e999]:
+                    - text: "The Singapore Suites life. Image Credit:"
+                    - link "Greg Stone" [ref=e1000] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/greg/
+                - paragraph [ref=e1001]: "Among the top ways to use Singapore KrisFlyer miles is with Singapore Suites: one of the world’s best first class airline experiences. With a companion, this is the mile-high double bed!"
+                - paragraph [ref=e1002]:
+                  - strong [ref=e1003]: Only the A380 has Singapore Suites Class.
+                  - text: Not that first class on other aircraft is shabby — but make sure you know what you are getting before you book! Unfortunately,
+                  - strong [ref=e1004]: the popular Singapore Suites Class is no longer available on any U.S. routes
+                  - text: since the airline pulled the aircraft from the New York (JFK) to Singapore (SIN) route in May 2023, switching to a Boeing 777-300ER.
+                - paragraph [ref=e1005]: "However, you can still book Suites Class on several international routes. Here are some fun options for Saver awards:"
+                - list [ref=e1006]:
+                  - listitem [ref=e1007]:
+                    - strong [ref=e1008]: Singapore (SIN) – Hong Kong (HKG)
+                    - text: ": 47,500 miles"
+                  - listitem [ref=e1009]:
+                    - strong [ref=e1010]:
+                      - strong [ref=e1011]: Singapore (SIN)
+                      - text: – Sydney (SYD)
+                    - text: ": 95,000 miles"
+                  - listitem [ref=e1012]:
+                    - strong [ref=e1013]:
+                      - strong [ref=e1014]: Singapore (SIN)
+                      - text: – London (LHR)
+                    - text: ": 148,000 miles"
+                - paragraph [ref=e1015]:
+                  - text: Need help booking? See our step-by-step guide for
+                  - link "booking Singapore Suites using points" [ref=e1016] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-singapore-airlines-first-class/
+                  - text: .
+                - paragraph [ref=e1017]:
+                  - generic [ref=e1018]:
+                    - strong [ref=e1019]: "Hot Tip:"
+                    - text: If you are connecting, having a card like
+                    - link "Amex Platinum card" [ref=e1020] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/american-express-platinum-card/
+                    - text: can be useful for offering
+                    - link "lounge access" [ref=e1021] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/american-express-platinum-card/airport-lounge-access/
+                    - text: while you wait!
+                - heading "2. Singapore Airlines First Class From Los Angeles to Tokyo or Seoul (From 132,500 Miles)" [level=3] [ref=e1022]:
+                  - strong [ref=e1023]: 2. Singapore Airlines First Class From Los Angeles to Tokyo or Seoul
+                  - strong [ref=e1026]: (From 132,500 Miles)
+                - 'figure "Singapore Airlines first class on the 777. Image Credit: Greg Stone" [ref=e1028]':
+                  - img "Greg Stone - Singapore Airlines Boeing 777 First Class - Side On" [ref=e1030]
+                  - generic [ref=e1031]: "Singapore Airlines first class on the 777. Image Credit: Greg Stone"
+                - paragraph [ref=e1032]: Fly first class from Los Angeles (LAX) to Tokyo (NRT) or Seoul (ICN) for 132,500 miles one-way with Saver pricing. It’s not Suites Class, but it should certainly do! Advantage pricing is 224,500 miles one-way.
+                - paragraph [ref=e1033]:
+                  - generic [ref=e1034]:
+                    - strong [ref=e1035]: "Hot Tip:"
+                    - text: Check out our
+                    - link "review of Singapore Airlines’ 777 product in first class from Singapore (SIN) to Sydney (SYD)" [ref=e1036] [cursor=pointer]:
+                      - /url: /travel/airlines/singapore-airlines-777-first-class-sin-syd/
+                    - text: .
+                - heading "3. Singapore Airlines Business Class From the U.S. West Coast or Vancouver to Singapore (From 112,500 Miles)" [level=3] [ref=e1037]:
+                  - strong [ref=e1039]: 3. Singapore Airlines Business Class From the U.S. West Coast or Vancouver to Singapore (From 112,500 Miles)
+                - 'figure "Singapore Airlines Airbus A350 business class mood lighting. Image Credit: Greg Stone" [ref=e1041]':
+                  - link "Singapore Airlines Airbus A350 Business Class" [ref=e1042] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/07/23-Singapore-Airlines-Airbus-A350-Business-Class-Mood-Lighting.jpg?auto=webp&disable=upscale
+                    - img "Singapore Airlines Airbus A350 Business Class" [ref=e1044]
+                  - generic [ref=e1045]: "Singapore Airlines Airbus A350 business class mood lighting. Image Credit: Greg Stone"
+                - paragraph [ref=e1046]: You can fly nonstop to Singapore on Singapore Airlines from Los Angeles (LAX), San Francisco (SFO), Seattle (SEA), or Vancouver, Canada (YVR) for 112,500 miles one-way with Saver pricing and for 148,000 with Advantage pricing.
+                - paragraph [ref=e1047]:
+                  - generic [ref=e1048]:
+                    - strong [ref=e1049]: "Hot Tip:"
+                    - text: For a complete list of SQ routes to/from the U.S., check out our
+                    - link "definitive guide to Singapore Airlines U.S. routes" [ref=e1050] [cursor=pointer]:
+                      - /url: /travel/airlines/singapore-airlines-us-routes-plane-types/
+                    - text: .
+                - heading "4. United Domestic Business or First Class (From 43,000 Miles)" [level=3] [ref=e1051]:
+                  - strong [ref=e1054]: 4. United Domestic Business or First Class
+                  - strong [ref=e1055]: (From 43,000 Miles)
+                - 'figure "United’s first class on U.S. transcontinental flights. Image Credit: United" [ref=e1057]':
+                  - img "United first class man on tablet" [ref=e1059]
+                  - generic [ref=e1060]: "United’s first class on U.S. transcontinental flights. Image Credit: United"
+                - paragraph [ref=e1061]:
+                  - text: KrisFlyer is often a better value for U.S. transcontinental flights on United than
+                  - link "United’s own MileagePlus program" [ref=e1062] [cursor=pointer]:
+                    - /url: /travel/airlines/united-airlines-mileageplus-loyalty-program/
+                  - text: . Business class one-way is 29,000 KrisFlyer miles, and first class is 43,000. Since United MileagePlus no longer offers an award chart, its pricing can often be much higher.
+                - paragraph [ref=e1063]:
+                  - text: "Keep in mind United MileagePlus has 2 types of award redemptions:"
+                  - link "Saver and Everyday" [ref=e1064] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-united-mileageplus-miles/
+                  - text: .
+                  - strong [ref=e1065]: Saver awards are the lower-priced redemptions — these flights should also be bookable with KrisFlyer miles.
+                  - text: You can use the
+                  - strong [ref=e1066]: Flexible dates
+                  - text: option on United’s website to identify dates with Saver award space before booking with your KrisFlyer miles on the Singapore Airlines’ website.
+                - heading "5. United Airlines to Hawaii (From 20,500 Miles)" [level=3] [ref=e1067]:
+                  - strong [ref=e1069]: 5. United Airlines to Hawaii (From
+                  - text: "20"
+                  - strong [ref=e1071]: ",500 Miles)"
+                - 'figure "United economy class. Image Credit: United" [ref=e1073]':
+                  - img "United economy 787 10" [ref=e1075]
+                  - generic [ref=e1076]: "United economy class. Image Credit: United"
+                - paragraph [ref=e1077]:
+                  - link "Hawaii" [ref=e1078] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-hawaii-with-points/
+                  - text: is ever-popular. Flying United, you can get there in economy for 20,500, business for 43,000, or first class for 57,500 KrisFlyer miles if you find Saver award space.
+                - heading "6. Singapore Airlines From the U.S. to Europe (From 27,500 Miles)" [level=3] [ref=e1079]:
+                  - strong [ref=e1080]: 6. Singapore Airlines From the U.S. to Europe (From 27,500 Miles)
+                - 'figure "Singapore Airlines Airbus A350 business class. Image Credit: Greg Stone" [ref=e1082]':
+                  - img "Singapore Airlines Airbus A350 Business Class - Flat Bed" [ref=e1084]
+                  - generic [ref=e1085]: "Singapore Airlines Airbus A350 business class. Image Credit: Greg Stone"
+                - paragraph [ref=e1086]: Want to fly to Europe on a carrier with service that puts U.S. carriers to shame? Yep, that’ll work!
+                - paragraph [ref=e1087]:
+                  - text: Singapore Airlines operates flights to Europe between
+                  - strong [ref=e1088]: New York (JFK) and Frankfurt (FRA)
+                  - text: .
+                - paragraph [ref=e1089]: "One-way Saver Award prices on this route are:"
+                - list [ref=e1090]:
+                  - listitem [ref=e1091]: Economy — 27,500 miles
+                  - listitem [ref=e1092]: Premium Economy — 57,000 miles
+                  - listitem [ref=e1093]: Business — 89,000 miles
+                  - listitem [ref=e1094]: First — 106,500 miles
+                - paragraph [ref=e1095]:
+                  - strong [ref=e1096]:
+                    - text: Keep an eye out for Singapore’s frequent
+                    - link "Spontaneous Escapes" [ref=e1097] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/news/singapore-spontaneous-escapes/
+                    - text: promotions,
+                  - text: which offer significant discounts on award redemptions. There is typically a short window to book, and you have to travel between specified dates. The promotion is also “while supplies last,” so availability could be gone before the promo’s official end date.
+                - paragraph [ref=e1098]: But the savings can be great. For instance, 30% off business class redemptions between JFK and Frankfurt in both directions. That takes the award pricing from 89,000 miles down to 62,400 miles.
+                - paragraph [ref=e1099]: If Saver Awards are not available, the more expensive Advantage Awards are 47,000 in economy, 105,000 in business, and 172,000 in first class.
+                - paragraph [ref=e1100]:
+                  - text: Need help booking? See our step-by-step guide to
+                  - link "booking Singapore business class" [ref=e1101] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-singapore-airlines-business-class/
+                  - text: .
+                - heading "7. Star Alliance Flights to Europe (From 32,500 Miles)" [level=3] [ref=e1102]:
+                  - strong [ref=e1104]: 7. Star Alliance Flights to Europe (From 32,500 Miles)
+                - 'figure "Image Credit: United" [ref=e1106]':
+                  - img "United economy multimedia view" [ref=e1108]
+                  - generic [ref=e1109]: "Image Credit: United"
+                - paragraph [ref=e1110]:
+                  - text: KrisFlyer charges 32,500 miles in economy class from the
+                  - link "U.S. to Europe" [ref=e1111] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-europe-with-points/
+                  - text: on United and other
+                  - link "Star Alliance carriers" [ref=e1112] [cursor=pointer]:
+                    - /url: /travel/airlines/the-star-alliance/
+                  - text: . The major U.S. carriers typically start around 30,000 miles in their programs, but now that most use a dynamic pricing model, prices can often be much higher.
+                - heading "8. Star Alliance Flights to the Middle East or North Africa (From 60,000 Miles)" [level=3] [ref=e1113]:
+                  - strong [ref=e1115]: 8. Star Alliance Flights to the Middle East or North Africa (From 60,000 Miles)
+                - 'figure "Middle seats provide direct aisle access in Lufthansa business class. Image Credit: Lufthansa" [ref=e1117]':
+                  - link "Lufthansa Business Class Cabin" [ref=e1118] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/04/Lufthansa-Business-Class-Cabin.jpg?auto=webp&disable=upscale
+                    - img "Lufthansa Business Class Cabin" [ref=e1120]
+                  - generic [ref=e1121]: "Middle seats provide direct aisle access in Lufthansa business class. Image Credit: Lufthansa"
+                - paragraph [ref=e1122]:
+                  - text: Like going from the U.S. to Europe, using your KrisFlyer member miles from the
+                  - link "U.S. to the Middle East and North Africa" [ref=e1123] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-middle-east-and-north-africa-with-points/
+                  - text: is a solid value at 60,000 miles in economy class, 114,500 miles in business, and 137,000 miles in first.
+                - paragraph [ref=e1124]: Surcharges vary by airline and route.
+                - heading "9. Star Alliance Business Class to Central or South Africa (From 63,000 Miles)" [level=3] [ref=e1125]:
+                  - strong [ref=e1127]: 9. Star Alliance Business Class to Central or South Africa (From 63,000 Miles)
+                - 'figure "It’s going to be easy to wake up from a good night’s sleep after flying Ethiopian’s business class to Africa! Image Credit: Ethiopian Airlines" [ref=e1129]':
+                  - link "Ethiopian business class" [ref=e1130] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/09/ethiopian-business-class.jpg?auto=webp&disable=upscale
+                    - img "Ethiopian business class" [ref=e1132]
+                  - generic [ref=e1133]: "It’s going to be easy to wake up from a good night’s sleep after flying Ethiopian’s business class to Africa! Image Credit: Ethiopian Airlines"
+                - paragraph [ref=e1134]:
+                  - text: Getting to
+                  - link "Central" [ref=e1135] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-africa-with-points-and-miles/
+                  - text: and
+                  - link "South Africa" [ref=e1136] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-south-africa-with-points-and-miles/
+                  - text: is expensive, especially in premium cabins. A one-way ticket in economy is 63,000 miles, business class is 122,500 miles, and first class is 184,000 miles.
+                - paragraph [ref=e1137]:
+                  - text: Star Alliance has the most extensive African network, with EgyptAir,
+                  - link "Ethiopian Airlines" [ref=e1138] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/ethiopian-airlines-review/
+                  - text: ", and United all operating flights from the U.S. This is one award where, with the increase in KrisFlyer award prices, you should take extra time to shop around with other Star Alliance programs for their rates."
+                - paragraph [ref=e1139]: "Star Alliance carriers in Europe (and Turkish in particular) have many Africa routes that often mirror former colonial ties. Example: TAP Air Portugal flies to Angola and São Tome and Principe."
+                - heading "10. Lufthansa First Class to Europe (133,500 Miles)" [level=3] [ref=e1140]:
+                  - strong [ref=e1142]: 10. Lufthansa First Class to Europe (133,500 Miles)
+                - 'figure "Lufthansa B747-8 first class cabin seats. Image Credit: Cherag Dubash" [ref=e1144]':
+                  - link "Lufthansa B747-8 First Class Cabin - Cherag Dubash" [ref=e1145] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/10/Lufthansa_B747-8_First_Class_Cabin_Cherag_Dubash-3.jpg?auto=webp&disable=upscale
+                    - img "Lufthansa B747-8 First Class Cabin - Cherag Dubash" [ref=e1147]
+                  - generic [ref=e1148]:
+                    - text: "Lufthansa B747-8 first class cabin seats. Image Credit:"
+                    - link "Cherag Dubash" [ref=e1149] [cursor=pointer]:
+                      - /url: /author/cherag/
+                - paragraph [ref=e1150]: "Lufthansa first class is another luxury travel dream: 133,500 KrisFlyer miles gets you from the U.S. to Europe one-way."
+                - paragraph [ref=e1151]:
+                  - text: Make sure to book a long connection in Frankfurt to check out the
+                  - link "First Class Terminal" [ref=e1152] [cursor=pointer]:
+                    - /url: /news/lufthansa-first-class-terminal-reopens/
+                  - text: ", the lounge experience of a lifetime! And note that the taxes and fuel surcharge can cost upwards of $1,000. Unless you’re flush with KrisFlyer miles, you may want to consider booking with other Star Alliance partners with lower fuel surcharges, such as"
+                  - link "Air Canada Aeroplan" [ref=e1153] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/air-canada-aeroplan-loyalty-program/
+                  - text: .
+                - paragraph [ref=e1154]:
+                  - strong [ref=e1155]: Need help booking?
+                  - text: See our step-by-step
+                  - link "Lufthansa first class booking guide" [ref=e1156] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-lufthansa-first-class/
+                  - text: .
+                - heading "11. South Pacific Island Hopping on Star Alliance (From 14,500 Miles)" [level=3] [ref=e1157]:
+                  - strong [ref=e1159]: 11. South Pacific Island Hopping on Star Alliance (From 14,500 Miles)
+                - 'figure "Air New Zealand economy class. Image Credit: Air New Zealand" [ref=e1161]':
+                  - img "Air New Zealand Economy" [ref=e1163]
+                  - generic [ref=e1164]: "Air New Zealand economy class. Image Credit: Air New Zealand"
+                - paragraph [ref=e1165]: If you have an extended Pacific trip planned, KrisFlyer has a fantastic offer on its award chart. Australia, New Zealand, and the Pacific encompass a huge geographic region.
+                - paragraph [ref=e1166]: For just 14,500/38,000/52,000 miles each way in economy/business/first class, you can fly within the Pacific. A round-trip flight can add a stopover, and up to 3 additional stopovers are available for $100 each.
+                - paragraph [ref=e1167]: Availability can be tough to find for many of these routes, but Air New Zealand domestic and Australia flights have decent award availability. Pacific flights are tough or nonexistent for islands with no other service, such as Niue and Norfolk.
+                - heading "12. South Pacific Island Hopping on Virgin Australia (From 23,000 Miles)" [level=3] [ref=e1168]:
+                  - strong [ref=e1169]: 12. South Pacific Island Hopping on Virgin Australia (From 23,000 Miles)
+                - 'figure "Tonga’s natural beauty can be had on points and miles. Image Credit: Shutterstock" [ref=e1171]':
+                  - img "Virgin Australia economy" [ref=e1173]
+                  - generic [ref=e1174]: "Tonga’s natural beauty can be had on points and miles. Image Credit: Shutterstock"
+                - paragraph [ref=e1175]: With Star Alliance and Virgin Australia using separate award charts, you can’t mix Air New Zealand and Virgin Australia on the same award. The good news is Virgin Australia can do it alone with excellent award availability on many routes.
+                - paragraph [ref=e1176]: Of the options to book awards on Virgin Australia (Delta SkyMiles, Etihad Guest, Virgin Atlantic), KrisFlyer, and Etihad Guest rival each other for the best value on short flights. KrisFlyer’s free stopover on a round-trip gives it an edge.
+                - paragraph [ref=e1177]:
+                  - strong [ref=e1178]: Booking up to 3 additional stopovers at $100 each is tempting!
+                  - text: Unlike with Star Alliance awards, the stopover can be wholly within 1 country.
+                - paragraph [ref=e1179]: Australia 1 (Australian Capital Territory, New South Wales, Queensland, South Australia, Tasmania, Victoria) to Papua New Guinea and the Pacific Islands (Cook Islands, Fiji, Samoa, Solomon Islands, Tonga, Vanuatu) is 23,000 miles one-way in economy class. These flights could easily cost you hundreds of dollars!
+                - heading "13. Australia Domestic Flights on Virgin Australia (From 13,000 Miles)" [level=3] [ref=e1180]:
+                  - strong [ref=e1181]: 13. Australia Domestic Flights on Virgin Australia (From 13,000 Miles)
+                - 'figure "Virgin Boeing 737s at Melbourne Airport. Image Credit: Daniel Ross" [ref=e1183]':
+                  - img "Virgin Australia aircraft" [ref=e1185]
+                  - generic [ref=e1186]:
+                    - text: "Virgin Boeing 737s at Melbourne Airport. Image Credit:"
+                    - link "Daniel Ross" [ref=e1187] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/daniel/
+                - paragraph [ref=e1188]: Australia 1 includes Sydney, Melbourne, Brisbane, and many of Australia’s premier tourist attractions, from Cairns and Hamilton Island to the Great Barrier Reef down to Tasmania. All of those are only 13,000 miles in economy class or 26,000 in business class.
+                - paragraph [ref=e1189]: Virgin Australia domestic business is a great experience with dedicated valet and check-in, and international-level airport lounges. At 26,000 miles, it may be worth the splurge to order a flat white and press-your-own breakfast melt!
+                - heading "14. Christmas and Cocos (Keeling) Islands (From 17,500 Miles)" [level=3] [ref=e1190]:
+                  - strong [ref=e1191]: 14. Christmas and Cocos (Keeling) Islands (From 17,500 Miles)
+                - 'figure "Visit stunning Christmas Island and meet its red crabs! Image Credit: pipmagazine.com.au." [ref=e1193]':
+                  - img "Visit stunning Christmas Island and meet its red crabs! Image courtesy of pipmagazine.com.au." [ref=e1195]
+                  - generic [ref=e1196]: "Visit stunning Christmas Island and meet its red crabs! Image Credit: pipmagazine.com.au."
+                - paragraph [ref=e1197]: These Australian islands in the Indian Ocean are some of the most isolated inhabited islands in the world. Famed for their magnificent beaches, diving, hiking, and the annual red crab migration on Christmas Island, these are dream islands you can still visit before word spreads.
+                - paragraph [ref=e1198]: Amazingly, they all sit in Australia 3, meaning you’d use just 17,500 miles in economy and 35,500 in business. These flights often top $700!
+                - paragraph [ref=e1199]: Virgin Australia is the only regular airline service to both islands with twice-weekly flights from Perth.
+                - paragraph [ref=e1200]:
+                  - strong [ref=e1201]: "Note:"
+                  - text: Singapore KrisFlyer award space on Virgin Australia is inconsistent and not always as good as
+                  - link "other partners of Virgin Australia" [ref=e1202] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-virgin-australia-points/
+                  - text: . As alternatives, try booking with
+                  - link "Delta SkyMiles" [ref=e1203] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-delta-skymiles/
+                  - text: or
+                  - link "Virgin Atlantic Flying Club" [ref=e1204] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-virgin-atlantic-miles/
+                  - text: .
+                - paragraph [ref=e1205]: Because the flights are operated by Virgin Australia Regional, Etihad is unable to book awards on this route.
+                - paragraph [ref=e1207]: Advertisement
+                - heading "Details for the Singapore Airlines KrisFlyer Program" [level=2] [ref=e1208]
+                - paragraph [ref=e1209]: "The great values of KrisFlyer come from 3 features:"
+                - list [ref=e1210]:
+                  - listitem [ref=e1211]:
+                    - strong [ref=e1212]: Access to Singapore Airlines Premium Cabin Awards
+                    - text: — These are rarely made available to partner airlines.
+                  - listitem [ref=e1213]:
+                    - strong [ref=e1214]: Star Alliance Network of Airlines
+                    - text: — Awards are competitively priced for travel around the world for the largest airline alliance in the world.
+                  - listitem [ref=e1215]:
+                    - strong [ref=e1216]: Distinctive Airline Partners
+                    - text: — Airlines, such as Virgin Australia, that are not part of an airline alliance have fewer options for award flights.
+                - paragraph [ref=e1217]:
+                  - generic [ref=e1218]:
+                    - strong [ref=e1219]: "Hot Tip:"
+                    - text: Singapore Airlines uses a practice called “journey control” on its own flights. This means the same flight segments may or may not be available depending on your origin and destination. For instance, New York-Singapore may not be available, but New York-Kuala Lumpur connecting through Singapore on the same flights may be available. Be flexible in your searches!
+                - heading "Singapore Suites Class" [level=3] [ref=e1220]
+                - paragraph [ref=e1221]: The dream award for many travelers is Singapore Suites Class. You only get it with KrisFlyer miles, not partner miles.
+                - paragraph [ref=e1222]:
+                  - text: Unfortunately, the popular Singapore Suites Class hasn’t been available on any U.S. routes since the airline pulled the Airbus A380 from the New York to Singapore flight in May 2023, switching to a Boeing 777-300ER. However,
+                  - strong [ref=e1223]: you can still book Suites Class on several international routes,
+                  - text: including from Singapore to Australia, Europe, and New Zealand. If you’re having difficulty finding availability, our advice is to waitlist a bunch of awards and hope to get lucky!
+                - heading "Star Alliance Partners" [level=3] [ref=e1224]
+                - paragraph [ref=e1225]: "KrisFlyer can be used to book awards on all Star Alliance member airlines:"
+                - table [ref=e1229]:
+                  - rowgroup [ref=e1230]:
+                    - row "Star Alliance Partners" [ref=e1231]:
+                      - cell "Star Alliance Partners" [ref=e1232]:
+                        - paragraph [ref=e1234]:
+                          - strong [ref=e1235]: Star Alliance Partners
+                    - row "Aegean Airlines Ethiopian Airlines" [ref=e1236]:
+                      - cell "Aegean Airlines" [ref=e1237]:
+                        - paragraph [ref=e1238]: Aegean Airlines
+                      - cell "Ethiopian Airlines" [ref=e1239]:
+                        - paragraph [ref=e1240]: Ethiopian Airlines
+                    - row "Air Canada EVA Air" [ref=e1241]:
+                      - cell "Air Canada" [ref=e1242]:
+                        - paragraph [ref=e1243]:
+                          - link "Air Canada" [ref=e1244] [cursor=pointer]:
+                            - /url: /travel/airlines/air-canada-aeroplan-loyalty-program/
+                      - cell "EVA Air" [ref=e1245]:
+                        - paragraph [ref=e1246]: EVA Air
+                    - row "Air China ITA Airways (in 2026)" [ref=e1247]:
+                      - cell "Air China" [ref=e1248]:
+                        - paragraph [ref=e1249]:
+                          - link "Air China" [ref=e1250] [cursor=pointer]:
+                            - /url: /travel/airlines/air-china-phoenixmiles-loyalty-program/
+                      - cell "ITA Airways (in 2026)" [ref=e1251]:
+                        - paragraph [ref=e1252]: ITA Airways (in 2026)
+                    - row "Air India LOT Polish Airlines" [ref=e1253]:
+                      - cell "Air India" [ref=e1254]:
+                        - paragraph [ref=e1255]: Air India
+                      - cell "LOT Polish Airlines" [ref=e1256]:
+                        - paragraph [ref=e1257]: LOT Polish Airlines
+                    - row "Air New Zealand Lufthansa" [ref=e1258]:
+                      - cell "Air New Zealand" [ref=e1259]:
+                        - paragraph [ref=e1260]:
+                          - link "Air New Zealand" [ref=e1261] [cursor=pointer]:
+                            - /url: /travel/airlines/air-new-zealand-airpoints-loyalty-program/
+                      - cell "Lufthansa" [ref=e1262]:
+                        - paragraph [ref=e1263]:
+                          - link "Lufthansa" [ref=e1264] [cursor=pointer]:
+                            - /url: /travel/airlines/lufthansa-miles-and-more-loyalty-program/
+                    - row "ANA Shenzhen Airlines" [ref=e1265]:
+                      - cell "ANA" [ref=e1266]:
+                        - paragraph [ref=e1267]:
+                          - link "ANA" [ref=e1268] [cursor=pointer]:
+                            - /url: /travel/airlines/ana-mileage-club-loyalty-program/
+                      - cell "Shenzhen Airlines" [ref=e1269]:
+                        - paragraph [ref=e1270]: Shenzhen Airlines
+                    - row "Asiana Airlines Singapore Airlines" [ref=e1271]:
+                      - cell "Asiana Airlines" [ref=e1272]:
+                        - paragraph [ref=e1273]:
+                          - link "Asiana Airlines" [ref=e1274] [cursor=pointer]:
+                            - /url: /travel/airlines/asiana-airlines-asiana-club-loyalty-program/
+                      - cell "Singapore Airlines" [ref=e1275]:
+                        - paragraph [ref=e1276]:
+                          - link "Singapore Airlines" [ref=e1277] [cursor=pointer]:
+                            - /url: /travel/airlines/singapore-airlines-krisflyer-loyalty-program/
+                    - row "Austrian South African Airways" [ref=e1278]:
+                      - cell "Austrian" [ref=e1279]:
+                        - paragraph [ref=e1280]: Austrian
+                      - cell "South African Airways" [ref=e1281]:
+                        - paragraph [ref=e1282]: South African Airways
+                    - row "Avianca SWISS" [ref=e1283]:
+                      - cell "Avianca" [ref=e1284]:
+                        - paragraph [ref=e1285]:
+                          - link "Avianca" [ref=e1286] [cursor=pointer]:
+                            - /url: /travel/airlines/avianca-lifemiles-loyalty-program/
+                      - cell "SWISS" [ref=e1287]:
+                        - paragraph [ref=e1288]: SWISS
+                    - row "Brussels Airlines TAP Air Portugal" [ref=e1289]:
+                      - cell "Brussels Airlines" [ref=e1290]:
+                        - paragraph [ref=e1291]: Brussels Airlines
+                      - cell "TAP Air Portugal" [ref=e1292]:
+                        - paragraph [ref=e1293]:
+                          - link "TAP Air Portugal" [ref=e1294] [cursor=pointer]:
+                            - /url: /travel/airlines/tap-air-portugal-loyalty-program/
+                    - row "Copa Airlines Thai Airways" [ref=e1295]:
+                      - cell "Copa Airlines" [ref=e1296]:
+                        - paragraph [ref=e1297]: Copa Airlines
+                      - cell "Thai Airways" [ref=e1298]:
+                        - paragraph [ref=e1299]:
+                          - link "Thai Airways" [ref=e1300] [cursor=pointer]:
+                            - /url: /travel/airlines/thai-airways-royal-orchid-plus-loyalty-program/
+                    - row "Croatia Airlines Turkish Airlines" [ref=e1301]:
+                      - cell "Croatia Airlines" [ref=e1302]:
+                        - paragraph [ref=e1303]: Croatia Airlines
+                      - cell "Turkish Airlines" [ref=e1304]:
+                        - paragraph [ref=e1305]:
+                          - link "Turkish Airlines" [ref=e1306] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/turkish-airlines-review/
+                    - row "Egypt Air United Airlines" [ref=e1307]:
+                      - cell "Egypt Air" [ref=e1308]:
+                        - paragraph [ref=e1309]: Egypt Air
+                      - cell "United Airlines" [ref=e1310]:
+                        - paragraph [ref=e1311]:
+                          - link "United Airlines" [ref=e1312] [cursor=pointer]:
+                            - /url: /travel/airlines/united-airlines-mileageplus-loyalty-program/
+                - paragraph [ref=e1313]: You can search for awards for most of these airlines on the websites of United, Air Canada, or ANA. The Singapore Airlines website only searches Singapore Airlines flights.
+                - heading "Additional Airline Partners" [level=3] [ref=e1314]
+                - paragraph [ref=e1315]: "KrisFlyer partners with the following regional and budget carriers. For the other airlines, you need to call KrisFlyer to search award space and book:"
+                - list [ref=e1316]:
+                  - listitem [ref=e1317]:
+                    - strong [ref=e1318]: Scoot,
+                    - text: based in Singapore
+                  - listitem [ref=e1319]:
+                    - strong [ref=e1320]: Juneyao,
+                    - text: based in China
+                  - listitem [ref=e1321]:
+                    - strong [ref=e1322]: Vistara,
+                    - text: based in India
+                - paragraph [ref=e1323]: KrisFlyer also partners with Virgin Australia, which is opens up some great redemption opportunities. You can check for Virgin Australia award availability on the Delta website.
+                - heading "How Much Do KrisFlyer Awards Cost?" [level=3] [ref=e1324]
+                - paragraph [ref=e1325]: You can book economy class, premium economy, business, and first class awards with KrisFlyer. Economy and business class generally offer competitive value.
+                - paragraph [ref=e1326]:
+                  - text: Premium economy usually only costs slightly less than business, so if you have sufficient miles,
+                  - strong [ref=e1327]: business class is often the better value
+                  - text: .
+                - paragraph [ref=e1328]: First class awards are priced high, so save them for the most spectacular redemptions, such as Singapore Suites. You cannot redeem for SWISS first class.
+                - paragraph [ref=e1329]: "The award charts are here:"
+                - generic [ref=e1330]:
+                  - paragraph
+                  - list [ref=e1331]:
+                    - listitem [ref=e1332]:
+                      - link "Juneyao Airlines award chart" [ref=e1333] [cursor=pointer]:
+                        - /url: https://www.singaporeair.com/saar5/pdf/ppsclub_krisflyer/charts/JuneyaoAir_AwdChart.pdf
+                    - listitem [ref=e1334]:
+                      - text: Scoot uses a
+                      - link "voucher system that converts miles to cash value" [ref=e1335] [cursor=pointer]:
+                        - /url: https://www.flyscoot.com/en/discover/escape-with-scoot/krisflyer
+                    - listitem [ref=e1336]:
+                      - link "Singapore award chart" [ref=e1337] [cursor=pointer]:
+                        - /url: https://www.singaporeair.com/saar5/pdf/ppsclub_krisflyer/charts/SQ_AwdChart.pdf
+                    - listitem [ref=e1338]:
+                      - link "Star Alliance award chart" [ref=e1339] [cursor=pointer]:
+                        - /url: https://www.singaporeair.com/saar5/pdf/ppsclub_krisflyer/charts/StarAlliance_RoundTripAwds.pdf
+                    - listitem [ref=e1340]:
+                      - link "Virgin Australia award chart" [ref=e1341] [cursor=pointer]:
+                        - /url: https://www.singaporeair.com/saar5/pdf/ppsclub_krisflyer/charts/VirginAus_AwdChart.pdf
+                    - listitem [ref=e1342]:
+                      - link "Vistara award chart" [ref=e1343] [cursor=pointer]:
+                        - /url: https://www.singaporeair.com/saar5/pdf/ppsclub_krisflyer/charts/Vistara_AwdChart.pdf
+                  - paragraph
+                - paragraph [ref=e1344]:
+                  - text: There is also a handy online
+                  - link "redemption calculator" [ref=e1345] [cursor=pointer]:
+                    - /url: https://www.singaporeair.com/en_UK/ppsclub-krisflyer/miles/how-to-use/
+                  - text: .
+                - heading "New Online Search, New Offline Fees" [level=3] [ref=e1346]
+                - paragraph [ref=e1347]: KrisFlyer has progressively rolled out improved online award booking, including partner booking capabilities.
+                - paragraph [ref=e1348]: For any ticket that can be booked, changed, or canceled online, there is now a fee of $25 or 2,500 miles if you call KrisFlyer to process the transaction. It if cannot be done online, make sure to ask that the fee be waived.
+                - paragraph [ref=e1349]:
+                  - generic [ref=e1350]:
+                    - strong [ref=e1351]: "Hot Tip:"
+                    - text: While you need to fly the most direct routing on awards, that most direct routing on Singapore Airlines can mean backtracking through Singapore … perfect if you have that Suites Class ticket and want to maximize your flying time!
+                - heading "Routing and Stopovers" [level=3] [ref=e1352]
+                - paragraph [ref=e1353]:
+                  - text: Singapore is among a dwindling number of airlines that
+                  - link "still allow stopovers" [ref=e1354] [cursor=pointer]:
+                    - /url: /travel/airlines/stopovers-and-open-jaws/
+                  - text: "on awards. You can have a stopover as long as 30 days within the 1-year validity of the ticket and can have a maximum of 6 segments:"
+                - list [ref=e1355]:
+                  - listitem [ref=e1356]:
+                    - strong [ref=e1357]: "Saver Awards:"
+                    - text: No stopovers on one-ways, 1 stopover on round-trips
+                  - listitem [ref=e1358]:
+                    - strong [ref=e1359]: "Standard and Full Awards:"
+                    - text: 1 stopover on one-ways, 2 on round-trips
+                  - listitem [ref=e1360]:
+                    - strong [ref=e1361]: "Star Alliance Awards:"
+                    - text: 1 stopover on round-trips
+                - paragraph [ref=e1362]: "There are some exceptions:"
+                - list [ref=e1363]:
+                  - listitem [ref=e1364]: No stopovers in the country of departure
+                  - listitem [ref=e1365]: No stopovers on a ticket entirely in 1 country or intra-Europe tickets
+                  - listitem [ref=e1366]: No stopovers on U.S.-Puerto Rico-U.S. Virgin Islands-Canada tickets
+                  - listitem [ref=e1367]: A stopover cannot exceed 30 days
+                - paragraph [ref=e1368]: A single itinerary can have a maximum of 6 segments.
+                - paragraph [ref=e1369]:
+                  - generic [ref=e1370]:
+                    - strong [ref=e1371]: "Hot Tip:"
+                    - text: Up to 3 additional stopovers may be purchased for $100 each on Singapore and Star Alliance round-trip awards. This can be a huge savings over multiple award tickets!
+                - heading "Award Surcharges" [level=3] [ref=e1372]
+                - paragraph [ref=e1373]: KrisFlyer levies high cash surcharges on many awards, but it has recently done away with surcharges for flights on Singapore Airlines.
+                - paragraph [ref=e1374]: Compared to other Star Alliance programs, the KrisFlyer miles price may be lower than the cash price.
+                - paragraph [ref=e1375]: "The following airlines have no or low surcharges:"
+                - generic [ref=e1376]:
+                  - paragraph
+                  - list [ref=e1377]:
+                    - listitem [ref=e1378]: Air Canada (in the Americas)
+                    - listitem [ref=e1379]: Air New Zealand (but taxes can be high)
+                    - listitem [ref=e1380]: Avianca
+                    - listitem [ref=e1381]: Copa
+                    - listitem [ref=e1382]: United (in the Americas)
+                    - listitem [ref=e1383]: Virgin Australia (but taxes can be high)
+                  - paragraph
+                - paragraph [ref=e1384]:
+                  - generic [ref=e1385]:
+                    - strong [ref=e1386]: "Hot Tip:"
+                    - text: Use a card like the
+                    - link "Chase Sapphire Reserve card" [ref=e1387] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/reviews/chase-sapphire-reserve/
+                    - text: to get some of your surcharges refunded with the travel/airline credits offered.
+                - heading "Award Holds and Waitlist" [level=3] [ref=e1388]
+                - paragraph [ref=e1389]:
+                  - text: Officially, there are no
+                  - link "award holds" [ref=e1390] [cursor=pointer]:
+                    - /url: /travel/airlines/airline-award-hold-policies-fees/
+                  - text: on KrisFlyer. Over the phone, you may get lucky and be given up to 3 days, but don’t count on it.
+                - paragraph [ref=e1391]: If an award you want on Singapore Airlines is not available, you can waitlist it as long as you have the necessary amount of miles in your account. You can waitlist multiple flights, too, as long as you have enough miles for the most expensive flight you are waitlisting.
+                - paragraph [ref=e1392]: Once your award becomes available, you are notified with 24 hours to book (though you are not obligated to book).
+                - heading "Booking Class Upgrades" [level=3] [ref=e1393]
+                - paragraph [ref=e1394]: Upgrade awards from paid tickets are available on Singapore Airlines and Star Alliance.
+                - paragraph [ref=e1395]: You can only upgrade 1 class of service. From economy to premium economy, only expensive Y, B, and E fares may be upgraded; this will generally be a poor award value.
+                - paragraph [ref=e1396]: "The upgrade award charts are here:"
+                - list [ref=e1397]:
+                  - listitem [ref=e1398]:
+                    - link "Singapore Airlines upgrade award chart" [ref=e1399] [cursor=pointer]:
+                      - /url: https://www.singaporeair.com/saar5/pdf/ppsclub_krisflyer/charts/SQ_OneWayUpgradeCharts.pdf
+                  - listitem [ref=e1400]:
+                    - link "Star Alliance upgrade award chart" [ref=e1401] [cursor=pointer]:
+                      - /url: https://www.singaporeair.com/saar5/pdf/ppsclub_krisflyer/charts/SA_BookingClassUpgrades.pdf
+                - paragraph [ref=e1402]:
+                  - generic [ref=e1403]:
+                    - strong [ref=e1404]: "Hot Tip:"
+                    - text: Singapore Airlines premium economy cash fares can often be significantly less than business, and can then be upgraded to business class at a reasonable miles cost.
+                - heading "Miles and Cash" [level=3] [ref=e1405]
+                - paragraph [ref=e1406]: The KrisFlyer miles and cash option is almost always a poor value. A KrisFlyer mile is valued at 0.7 cents per point, much lower than booking cash tickets using credit card points (which are usually 1 cent per point at minimum).
+                - heading "Transfer and Family Booking" [level=3] [ref=e1407]
+                - paragraph [ref=e1408]: An area where KrisFlyer lags behind its competition is offering household accounts to pool miles … or even options that allow you to transfer miles for free.
+                - paragraph [ref=e1409]: You also cannot book award tickets for just anybody; you must nominate up to 5 people to book awards for.
+                - paragraph [ref=e1410]: To take someone off this list, they must have been on your account for 6 months. Then, the change costs 3,000 miles and $30 online, or 5,000 miles and $50 by telephone.
+                - paragraph [ref=e1411]: Elite members receive discounts or waivers, depending on status. Big families beware!
+                - heading "Changes and Cancellation" [level=3] [ref=e1412]
+                - paragraph [ref=e1413]:
+                  - text: KrisFlyer’s change and cancellation fees are among the lowest in the world. These are attractive to people with unpredictable travel schedules who seek to lock in awards when available.
+                  - strong [ref=e1414]: Date changes for Singapore Airlines flights are free.
+                - paragraph [ref=e1415]: Other changes to awards are only $20 to change online. Changes by telephone incur an additional fee of $25 or 2,500 miles (only if the task can be completed online). Changes within 24 hours of departure or no-shows incur a fee of $75.
+                - paragraph [ref=e1416]: The cancellation (mile redeposit) fee is only $30, and Singapore Airlines elites pay $15. Again, among the lowest in the world!
+                - heading "Miles Expiration" [level=3] [ref=e1417]
+                - paragraph [ref=e1418]: KrisFlyer miles expire 3 years after they’re earned, regardless of account activity. So don’t hoard miles! If you are transferring from credit cards, don’t transfer to KrisFlyer until you are ready to book an award and have confirmed it is available.
+                - paragraph [ref=e1419]: Reviving expired miles for 6 months costs 1,200 miles and $12 per 10,000 miles. Elite members receive discounts or waivers, depending on status.
+                - heading "Final Thoughts" [level=2] [ref=e1420]
+                - paragraph [ref=e1421]: You won’t have a problem finding a way to use your Singapore Krisflyer miles anytime soon! There are nearly unlimited ways to use them; those listed here just happen to be some of our favorites. The best ways to use Singapore KrisFlyer miles will be up to you and your travel desires.
+                - paragraph [ref=e1422]: From economy class up to Singapore Suites, Singapore Airlines is a great airline to fly.
+              - generic [ref=e1423]:
+                - generic [ref=e1424]:
+                  - separator [ref=e1425]
+                  - text: "Featured Image Credit:"
+                  - link "Alex Miller" [ref=e1426] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/alexmiller/
+                - generic [ref=e1427]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1428]
+                  - group [ref=e1429]:
+                    - generic "How can I earn miles on Singapore Airlines?" [ref=e1430] [cursor=pointer]
+                    - paragraph [ref=e1432]:
+                      - text: Start by signing up for the Singapore Airlines KrisFlyer loyalty program. You can
+                      - link "earn miles" [ref=e1433] [cursor=pointer]:
+                        - /url: /travel/airlines/how-to-earn-singapore-airlines-krisflyer-miles/
+                      - text: by flying on Singapore Airlines and its partner airlines, booking with its hotel and car rental partners, online shopping, and more.
+                  - group [ref=e1434]:
+                    - generic "Is it possible to earn Singapore Airlines KrisFlyer miles by using credit cards?" [ref=e1435] [cursor=pointer]
+                    - paragraph [ref=e1437]:
+                      - text: KrisFlyer miles can be transferred from
+                      - link "American Express Membership Rewards" [ref=e1438] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/credit-cards/amex-membership-rewards-transfer-partners/
+                      - text: ", Capital One Miles, Chase Ultimate Rewards, and Citi ThankYou Rewards (all at a rate of 1:1, except for no-annual-fee Citi cards that transfer at 1:0.7), and from Marriott Bonvoy at a transfer rate of 3:1 with a 5,000-mile bonus for every 60,000 points transferred."
+                  - group [ref=e1439]:
+                    - generic "Can I redeem KrisFlyer miles for Singapore Suites?" [ref=e1440] [cursor=pointer]
+                    - paragraph [ref=e1442]: Yes, one of the greatest uses of Singapore Airlines KrisFlyer miles is redeeming for Singapore Suites Class. It is only available on the A380. Singapore does not release these awards to its partners, so you need to book with KrisFlyer.
+                  - group [ref=e1443]:
+                    - generic "Is there a Singapore Airlines award chart?" [ref=e1444] [cursor=pointer]
+                    - paragraph [ref=e1446]:
+                      - text: Yes, see the award charts for
+                      - link "Singapore Airlines" [ref=e1447] [cursor=pointer]:
+                        - /url: https://www.singaporeair.com/content/dam/sia/web-assets/pdfs/ppsclub-krisflyer/krisflyer/progupdates/awardcharts/SingaporeAirlinesOne-WayAdvantageSaverAwardChartupdated1Nov25.pdf
+                      - text: ","
+                      - link "Star Alliance airlines" [ref=e1448] [cursor=pointer]:
+                        - /url: https://www.singaporeair.com/content/dam/sia/web-assets/pdfs/ppsclub-krisflyer/krisflyer/progupdates/awardcharts/StarAllianceRound-TripAwardChartupdated1Nov25.pdf
+                      - text: ", and"
+                      - link "partner airlines" [ref=e1449] [cursor=pointer]:
+                        - /url: https://www.singaporeair.com/en_UK/us/ppsclub-krisflyer/use-miles/redeem-miles/award-tickets-on-partner-airlines/
+                      - text: .
+                  - group [ref=e1450]:
+                    - generic "Is Singapore Airlines part of the Star Alliance?" [ref=e1451] [cursor=pointer]
+                    - paragraph [ref=e1453]: Yes, Singapore Airlines is part of the Star Alliance. Singapore also partners with Virgin Australia, as well as budget carriers Scoot, Juneyao, and Vistara.
+                - complementary [ref=e1454]:
+                  - generic [ref=e1455]:
+                    - paragraph [ref=e1456]:
+                      - generic [ref=e1457]: The information regarding the Capital One VentureOne Rewards Credit Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1458]:
+                        - text: The information regarding the Citi Double Cash
+                        - superscript [ref=e1459]: ®
+                        - text: Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1460]: The information regarding the Citi Strata Premier℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1461]: The information regarding the Citi Strata Elite℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1462]: The information regarding the Citi Strata℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph [ref=e1463]:
+                      - generic [ref=e1465]:
+                        - text: For rates and fees of the Platinum Card
+                        - superscript [ref=e1466]: ®
+                        - text: from American Express, click
+                        - link "here" [ref=e1467] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1469]:
+                        - text: For rates and fees of the American Express
+                        - superscript [ref=e1470]: ®
+                        - text: Gold Card, click
+                        - link "here" [ref=e1471] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TE/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1473]:
+                        - text: For rates and fees of the Marriott Bonvoy Bevy
+                        - superscript [ref=e1474]: ®
+                        - text: American Express
+                        - superscript [ref=e1475]: ®
+                        - text: Card, click
+                        - link "here" [ref=e1476] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TE/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1478]:
+                        - text: For rates and fees of the Marriott Bonvoy Brilliant
+                        - superscript [ref=e1479]: ®
+                        - text: American Express
+                        - superscript [ref=e1480]: ®
+                        - text: card, click
+                        - link "here" [ref=e1481] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TE/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                - group "Was this page helpful?" [ref=e1483]:
+                  - paragraph [ref=e1484]: Was this page helpful?
+                  - generic [ref=e1485]:
+                    - button "Yes" [ref=e1486] [cursor=pointer]
+                    - button "No" [ref=e1487] [cursor=pointer]
+                - generic [ref=e1488]:
+                  - figure [ref=e1490]:
+                    - img "Alex Miller's image" [ref=e1491]
+                  - generic [ref=e1492]:
+                    - heading "About Alex Miller" [level=2] [ref=e1493]:
+                      - text: About
+                      - link "Alex Miller" [ref=e1494] [cursor=pointer]:
+                        - /url: /author/alexmiller/
+                    - paragraph [ref=e1495]: Founder and CEO of Upgraded Points, Alex is a leader in the industry and has earned and redeemed millions of points and miles. He frequently discusses the award travel industry with CNBC, Fox Business, The New York Times, and more.
+                    - list [ref=e1497]:
+                      - listitem [ref=e1498]:
+                        - link "Facebook icon" [ref=e1499] [cursor=pointer]:
+                          - /url: https://facebook.com/upgradedpoints
+                          - img "Facebook icon" [ref=e1500]
+                      - listitem [ref=e1501]:
+                        - link "Instagram icon" [ref=e1502] [cursor=pointer]:
+                          - /url: https://instagram.com/upgradedpoints/
+                          - img "Instagram icon" [ref=e1503]
+                      - listitem [ref=e1504]:
+                        - link "LinkedIn icon" [ref=e1505] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/alexmilleruk/
+                          - img "LinkedIn icon" [ref=e1506]
+                      - listitem [ref=e1507]:
+                        - link "Twitter icon" [ref=e1508] [cursor=pointer]:
+                          - /url: https://twitter.com/upgradedpoints
+                          - img "Twitter icon" [ref=e1509]
+                      - listitem [ref=e1510]:
+                        - link "email icon" [ref=e1511] [cursor=pointer]:
+                          - /url: mailto:alex@upgradedpoints.com
+                          - img "email icon" [ref=e1512]
+                - generic [ref=e1514]:
+                  - generic [ref=e1515]:
+                    - paragraph [ref=e1516]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1517]: ™
+                    - generic [ref=e1518]:
+                      - paragraph [ref=e1519]:
+                        - text: Get the
+                        - strong [ref=e1520]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1521]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1522]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1523]:
+                      - textbox "First Name" [ref=e1524]
+                      - textbox "Email" [ref=e1525]
+                      - button "Join Now" [disabled] [ref=e1526]
+                    - paragraph [ref=e1528]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1529] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1530] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1531] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1533]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1535]
+                - generic [ref=e1537]:
+                  - paragraph [ref=e1538]: We Recommend
+                  - generic [ref=e1539]:
+                    - generic [ref=e1540]:
+                      - link "Platinum Card® from American Express" [ref=e1541] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1542]
+                      - link "Terms Apply / Rates & Fees" [ref=e1543] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1544] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1545]
+                        - text: Apply Now
+                    - generic [ref=e1548]:
+                      - paragraph [ref=e1549]:
+                        - link "Platinum Card® from American Express" [ref=e1550] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1551]:
+                            - text: Platinum Card
+                            - superscript [ref=e1552]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1554]:
+                        - generic [ref=e1555]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1556] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1557]:
+                        - listitem [ref=e1558]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1559]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1560]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1561]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1562]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1563]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1564]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1565] [cursor=pointer]
+            - complementary [ref=e1567]:
+              - generic [ref=e1568]:
+                - generic [ref=e1570]:
+                  - paragraph [ref=e1571]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1572] [cursor=pointer]
+                  - generic [ref=e1573]:
+                    - generic [ref=e1576]:
+                      - generic [ref=e1577]:
+                        - generic [ref=e1578]:
+                          - img [ref=e1579]
+                          - generic [ref=e1581]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1582] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1583]
+                      - generic [ref=e1584]:
+                        - paragraph [ref=e1585]:
+                          - link "Platinum Card® from American Express" [ref=e1586] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1587]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1588] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1589]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1591] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1594]:
+                      - generic [ref=e1595]:
+                        - generic [ref=e1596]:
+                          - img [ref=e1597]
+                          - generic [ref=e1599]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1600] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1601]
+                      - generic [ref=e1602]:
+                        - paragraph [ref=e1603]:
+                          - link "American Express® Gold Card" [ref=e1604] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1605]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1606] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1607]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1609] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1612]:
+                      - generic [ref=e1613]:
+                        - generic [ref=e1614]:
+                          - img [ref=e1615]
+                          - generic [ref=e1617]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1618] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1619]
+                      - generic [ref=e1620]:
+                        - paragraph [ref=e1621]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1622] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1623]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1624] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1625]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1627] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/3294/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1630]:
+                      - generic [ref=e1631]:
+                        - generic [ref=e1632]:
+                          - img [ref=e1633]
+                          - generic [ref=e1635]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1636] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/3294/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1637]
+                      - generic [ref=e1638]:
+                        - paragraph [ref=e1639]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1640] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/3294/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1641]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1642] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/3294/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1643]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1645] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/3294/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1647] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1650]: Advertisement
+      - generic [ref=e1652]:
+        - paragraph [ref=e1653]: Related Posts
+        - generic [ref=e1654]:
+          - generic [ref=e1655]:
+            - link [ref=e1656] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-virgin-australia-points/
+              - figure [ref=e1657]:
+                - img "7 Best Ways to Redeem Virgin Australia Points for Max Value" [ref=e1659]
+            - link "7 Best Ways to Redeem Virgin Australia Points for Max Value" [ref=e1660] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-virgin-australia-points/
+          - generic [ref=e1661]:
+            - link [ref=e1662] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-citi-thankyou-points/
+              - figure [ref=e1663]:
+                - img "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [ref=e1665]
+            - link "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [ref=e1666] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-citi-thankyou-points/
+          - generic [ref=e1667]:
+            - link [ref=e1668] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-alaska-airlines-atmos-rewards-points/
+              - figure [ref=e1669]:
+                - img "10 Best Ways To Redeem Alaska Atmos Rewards Points for Max Value" [ref=e1671]
+            - link "10 Best Ways To Redeem Alaska Atmos Rewards Points for Max Value" [ref=e1672] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-alaska-airlines-atmos-rewards-points/
+          - generic [ref=e1673]:
+            - link [ref=e1674] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-amex-membership-rewards-points/
+              - figure [ref=e1675]:
+                - img "52 Best Ways To Redeem Amex Membership Rewards Points for Max Value" [ref=e1677]
+            - link "52 Best Ways To Redeem Amex Membership Rewards Points for Max Value" [ref=e1678] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-amex-membership-rewards-points/
+    - contentinfo [ref=e1679]:
+      - img [ref=e1680]
+      - img [ref=e1699]
+      - generic [ref=e1718]:
+        - generic [ref=e1719]:
+          - img [ref=e1721]
+          - generic [ref=e1726]:
+            - generic [ref=e1727]:
+              - paragraph [ref=e1728]: Upgrade your travel experience
+              - list [ref=e1729]:
+                - listitem [ref=e1730]:
+                  - link [ref=e1731] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1732]:
+                      - img "Facebook" [ref=e1733]
+                - listitem [ref=e1734]:
+                  - link [ref=e1735] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1736]:
+                      - img "Twitter" [ref=e1737]
+                - listitem [ref=e1738]:
+                  - link [ref=e1739] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1740]:
+                      - img "Instagram" [ref=e1741]
+                - listitem [ref=e1742]:
+                  - link [ref=e1743] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1744]:
+                      - img "Pinterest" [ref=e1745]
+                - listitem [ref=e1746]:
+                  - link [ref=e1747] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1748]:
+                      - img "Linkedin" [ref=e1749]
+                - listitem [ref=e1750]:
+                  - link [ref=e1751] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1752]:
+                      - img "Youtube" [ref=e1753]
+            - generic [ref=e1755]:
+              - list [ref=e1756]:
+                - listitem [ref=e1757]:
+                  - link "News" [ref=e1758] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1759]:
+                  - link "Credit Cards" [ref=e1760] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1761]:
+                  - link "Business" [ref=e1762] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1763]:
+                - listitem [ref=e1764]:
+                  - link "Finance" [ref=e1765] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1766]:
+                  - link "Travel Guides" [ref=e1767] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1768]:
+                  - link "Air Travel" [ref=e1769] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1770]:
+                - listitem [ref=e1771]:
+                  - link "Hotel Guides" [ref=e1772] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1773]:
+                  - link "Beginners" [ref=e1774] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1775]:
+                  - link "About" [ref=e1776] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1777]:
+                - listitem [ref=e1778]:
+                  - link "Podcast" [ref=e1779] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1780]:
+                  - link "Jobs & Careers" [ref=e1781] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1782]:
+                  - link "Contact Us" [ref=e1783] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1784]:
+          - paragraph [ref=e1785]:
+            - link "Privacy Policy" [ref=e1786] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1787] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1788] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1789] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1790] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1791] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1832] [cursor=pointer]
+          - paragraph [ref=e1792]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1793]:
+          - link "DMCA.com Protection Status" [ref=e1794] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1795]
+          - img "Comodo Secure Seal" [ref=e1797]
+        - generic [ref=e1798]:
+          - generic [ref=e1799]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1800]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1801]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1802]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1803]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1804] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1805]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1806]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1808]:
+    - generic [ref=e1809]:
+      - generic [ref=e1810]:
+        - button "close banner" [ref=e1811] [cursor=pointer]:
+          - img "close banner" [ref=e1812]
+        - img "company logo" [ref=e1814]
+      - generic [ref=e1815]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1817]
+        - generic [ref=e1818]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1819] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1820] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1822]:
+        - button "Manage" [ref=e1823] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1824] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1825] [cursor=pointer]
+    - generic [ref=e1827]:
+      - generic [ref=e1828]: "Powered by:"
+      - link "trustarc" [ref=e1829] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1830]

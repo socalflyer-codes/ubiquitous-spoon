@@ -1,0 +1,1315 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Hotels" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/hotels/
+            - heading "37 Best Ways To Redeem Marriott Bonvoy Points for Hotel Stays [Maximum Value]" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Stephen Au's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e1245]: Stephen Au
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: December 5, 2025, 12:51pm CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Jessica Merritt
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Kellie Jez
+          - figure [ref=e61]:
+            - img "37 Best Ways To Redeem Marriott Bonvoy Points for Hotel Stays [Maximum Value]" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e65]:
+            - generic "Jump to Section" [ref=e66] [cursor=pointer]
+          - paragraph [ref=e70]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e71] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e72]:
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - generic [ref=e76]:
+                  - heading "Key Takeaways" [level=2] [ref=e78]
+                  - list [ref=e80]:
+                    - listitem [ref=e81]: Marriott Bonvoy points can be redeemed at incredible properties such as Courtyard Pilsen, Czech Republic, Renaissance Shanghai Putuo Hotel, China, and JW Marriott Hotel Hanoi, Vietnam.
+                    - listitem [ref=e82]: If you book 4 nights using points, you get the fifth night for free.
+                    - listitem [ref=e83]: Marriott’s cash-and-points option is useful for those with fewer points, and points can also be used for room upgrades.
+                - paragraph [ref=e84]: Marriott has been in frequent travelers’ headlines for quite a while now and is bigger than ever with the Marriott Bonvoy program.
+                - paragraph [ref=e85]:
+                  - text: We already put together the
+                  - link "best ways to redeem Marriott Bonvoy points for flights" [ref=e86] [cursor=pointer]:
+                    - /url: /travel/hotels/best-ways-to-redeem-marriott-points/
+                    - text: best ways to redeem Marriott Bonvoy points for
+                    - strong [ref=e87]: flights
+                  - text: ", but if you’re interested in spending your Marriott Bonvoy points on hotels, we have you covered, too!"
+                - paragraph [ref=e88]: For this guide, we looked at all the properties globally and came up with 37 of the best Marriott hotel redemptions.
+                - heading "How To Earn Marriott Bonvoy Points" [level=2] [ref=e89]
+                - paragraph [ref=e90]:
+                  - text: If you need to boost your
+                  - link "Marriott Bonvoy" [ref=e91] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-rewards-loyalty-program/
+                  - text: balance, see our article on the
+                  - link "best ways to earn Marriott Bonvoy points" [ref=e92] [cursor=pointer]:
+                    - /url: /travel/hotels/how-to-earn-marriott-rewards-points/
+                  - text: .
+                - paragraph [ref=e93]:
+                  - text: Using rewards credit cards is certainly one of the preferred ways to accrue a lot of Marriott Bonvoy points. You’ll find several options below (including some
+                  - link "cards that should be in every Marriott loyalist’s wallet" [ref=e94] [cursor=pointer]:
+                    - /url: /credit-cards/best-credit-cards-for-marriott-loyalists/
+                  - text: "):"
+                - generic [ref=e96]:
+                  - generic [ref=e97]:
+                    - link "Marriott Bonvoy Bold® Credit Card" [ref=e98] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBold/TRD/19800/dissn.1775548838764.7073346957.1/
+                      - img "Marriott Bonvoy Bold® Credit Card" [ref=e99]
+                    - link "Terms Apply / Rates & Fees" [ref=e100] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoldTCCRF/TRD/19800/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e101]: Terms Apply / Rates & Fees
+                    - generic [ref=e102]:
+                      - generic [ref=e103]:
+                        - img "Star rating icon" [ref=e106]
+                        - img "Star rating icon" [ref=e109]
+                        - img "Star rating icon" [ref=e112]
+                        - generic [ref=e113]:
+                          - img "Star rating icon" [ref=e115]
+                          - img "Star rating icon" [ref=e117]
+                        - generic [ref=e118]:
+                          - img "Star rating icon" [ref=e120]
+                          - img "Star rating icon" [ref=e121]
+                      - generic [ref=e122]:
+                        - generic [ref=e123]: U.P. Rating
+                        - img [ref=e126]:
+                          - img [ref=e127]
+                    - link "Apply Now" [ref=e130] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBold/TRD/19800/dissn.1775548838764.7073346957.1/
+                      - img [ref=e131]
+                      - text: Apply Now
+                    - generic [ref=e134]: (at Chase's secure site)
+                  - generic [ref=e135]:
+                    - generic [ref=e137]:
+                      - link "Marriott Bonvoy Bold® Credit Card" [ref=e139] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-bold-credit-card/
+                        - text: Marriott Bonvoy Bold
+                        - superscript [ref=e140]: ®
+                        - text: Credit Card
+                      - text: A great option for Marriott hotel fans who want a no annual fee card and automatic Marriott Bonvoy elite status.
+                    - generic [ref=e141]:
+                      - generic [ref=e142]:
+                        - generic [ref=e143]:
+                          - generic [ref=e144]: Welcome Offer
+                          - img [ref=e147]:
+                            - img [ref=e148]
+                        - generic [ref=e151]: 30,000 points
+                      - generic [ref=e152]:
+                        - generic [ref=e154]: "UP's Offer Valuation*:"
+                        - generic [ref=e155]: $210
+                    - generic [ref=e156]:
+                      - generic [ref=e157]:
+                        - generic [ref=e159]: Annual Fee
+                        - generic [ref=e160]: $0
+                      - generic [ref=e161]:
+                        - generic [ref=e163]: APR
+                        - generic [ref=e164]: 19.24% - 27.74% Variable
+                      - generic [ref=e165]:
+                        - generic [ref=e166]:
+                          - generic [ref=e167]: Credit Recommended
+                          - img [ref=e170]:
+                            - img [ref=e171]
+                        - generic [ref=e174]: Good to Excellent
+                    - generic [ref=e175]:
+                      - group [ref=e176]:
+                        - generic "Why We Like This Card" [ref=e177] [cursor=pointer]
+                      - group [ref=e178]:
+                        - generic "Pros & Cons" [ref=e179] [cursor=pointer]
+                      - group [ref=e180]:
+                        - generic "Card Highlights" [ref=e181] [cursor=pointer]
+                - generic [ref=e183]:
+                  - generic [ref=e184]:
+                    - link "Marriott Bonvoy Boundless® Credit Card" [ref=e185] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundless/TRD/19800/dissn.1775548838764.7073346957.1/
+                      - img "Marriott Bonvoy Boundless® Credit Card" [ref=e186]
+                    - link "Terms Apply / Rates & Fees" [ref=e187] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundlessTCCRF/TRD/19800/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e188]: Terms Apply / Rates & Fees
+                    - generic [ref=e189]:
+                      - generic [ref=e190]:
+                        - img "Star rating icon" [ref=e193]
+                        - img "Star rating icon" [ref=e196]
+                        - img "Star rating icon" [ref=e199]
+                        - img "Star rating icon" [ref=e202]
+                        - generic [ref=e203]:
+                          - img "Star rating icon" [ref=e205]
+                          - img "Star rating icon" [ref=e207]
+                      - generic [ref=e208]:
+                        - generic [ref=e209]: U.P. Rating
+                        - img [ref=e212]:
+                          - img [ref=e213]
+                    - link "Apply Now" [ref=e216] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundless/TRD/19800/dissn.1775548838764.7073346957.1/
+                      - img [ref=e217]
+                      - text: Apply Now
+                    - generic [ref=e220]: (at Chase's secure site)
+                  - generic [ref=e221]:
+                    - generic [ref=e223]:
+                      - link "Marriott Bonvoy Boundless® Credit Card" [ref=e225] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-boundless-credit-card/
+                        - text: Marriott Bonvoy Boundless
+                        - superscript [ref=e226]: ®
+                        - text: Credit Card
+                      - text: Marriott loyalists will love this card's annual Free Night Award, automatic elite status, and up to 17x points per $1 on Marriott hotel stays.
+                    - generic [ref=e227]:
+                      - generic [ref=e228]:
+                        - generic [ref=e229]:
+                          - generic [ref=e230]: Welcome Offer
+                          - img [ref=e233]:
+                            - img [ref=e234]
+                        - generic [ref=e237]: Earn up to 4 Free Night Awards
+                      - generic [ref=e238]:
+                        - generic [ref=e240]: "UP's Offer Valuation*:"
+                        - generic [ref=e241]: Up to $1,400
+                    - generic [ref=e242]:
+                      - generic [ref=e243]:
+                        - generic [ref=e245]: Annual Fee
+                        - generic [ref=e246]: $95
+                      - generic [ref=e247]:
+                        - generic [ref=e249]: APR
+                        - generic [ref=e250]: 19.24% - 27.74% Variable
+                      - generic [ref=e251]:
+                        - generic [ref=e252]:
+                          - generic [ref=e253]: Credit Recommended
+                          - img [ref=e256]:
+                            - img [ref=e257]
+                        - generic [ref=e260]: Good to Excellent
+                    - generic [ref=e261]:
+                      - group [ref=e262]:
+                        - generic "Why We Like This Card" [ref=e263] [cursor=pointer]
+                      - group [ref=e264]:
+                        - generic "Pros & Cons" [ref=e265] [cursor=pointer]
+                      - group [ref=e266]:
+                        - generic "Card Highlights" [ref=e267] [cursor=pointer]
+                - generic [ref=e269]:
+                  - generic [ref=e270]:
+                    - img [ref=e271]
+                    - generic [ref=e273]: LIMITED TIME OFFER
+                  - generic [ref=e274]:
+                    - link "Marriott Bonvoy Bevy® American Express® Card" [ref=e275] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevy_addSource/TRD/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Marriott Bonvoy Bevy® American Express® Card" [ref=e276]
+                    - link "Terms Apply / Rates & Fees" [ref=e277] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TRD/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e278]: Terms Apply / Rates & Fees
+                    - generic [ref=e279]:
+                      - generic [ref=e280]:
+                        - img "Star rating icon" [ref=e283]
+                        - img "Star rating icon" [ref=e286]
+                        - img "Star rating icon" [ref=e289]
+                        - generic [ref=e290]:
+                          - img "Star rating icon" [ref=e292]
+                          - img "Star rating icon" [ref=e293]
+                        - generic [ref=e294]:
+                          - img "Star rating icon" [ref=e296]
+                          - img "Star rating icon" [ref=e297]
+                      - generic [ref=e298]:
+                        - generic [ref=e299]: U.P. Rating
+                        - img [ref=e302]:
+                          - img [ref=e303]
+                    - link "Apply Now" [ref=e306] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevy_addSource/TRD/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e307]
+                      - text: Apply Now
+                    - generic [ref=e310]: (at Amex's secure site)
+                    - generic [ref=e311]:
+                      - heading "Apply With Confidence" [level=4] [ref=e312]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e313]
+                      - paragraph [ref=e314]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e315]:
+                    - generic [ref=e317]:
+                      - link "Marriott Bonvoy Bevy® American Express® Card" [ref=e319] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-bevy-card/
+                        - text: Marriott Bonvoy Bevy
+                        - superscript [ref=e320]: ®
+                        - text: American Express
+                        - superscript [ref=e321]: ®
+                        - text: Card
+                      - text: The Marriott Bonvoy Bevy card gives you automatic Marriott elite status and helps you earn more Marriott Bonvoy points on your everyday purchases.
+                    - generic [ref=e322]:
+                      - generic [ref=e323]:
+                        - generic [ref=e324]:
+                          - generic [ref=e325]: Welcome Offer
+                          - img [ref=e328]:
+                            - img [ref=e329]
+                        - generic [ref=e332]: 175,000 points
+                      - generic [ref=e333]:
+                        - generic [ref=e335]: "UP's Offer Valuation*:"
+                        - generic [ref=e336]: Up to $1,225
+                    - generic [ref=e337]:
+                      - generic [ref=e338]:
+                        - generic [ref=e340]: Annual Fee
+                        - generic [ref=e341]: $250
+                      - generic [ref=e342]:
+                        - generic [ref=e344]: APR
+                        - generic [ref=e345]: 19.49%-28.49% Variable
+                      - generic [ref=e346]:
+                        - generic [ref=e347]:
+                          - generic [ref=e348]: Credit Recommended
+                          - img [ref=e351]:
+                            - img [ref=e352]
+                        - generic [ref=e355]: Good to Excellent
+                    - generic [ref=e356]:
+                      - group [ref=e357]:
+                        - generic "Why We Like This Card" [ref=e358] [cursor=pointer]
+                      - group [ref=e359]:
+                        - generic "Pros & Cons" [ref=e360] [cursor=pointer]
+                      - group [ref=e361]:
+                        - generic "Card Highlights" [ref=e362] [cursor=pointer]
+                - generic [ref=e364]:
+                  - generic [ref=e365]:
+                    - img [ref=e366]
+                    - generic [ref=e368]: LIMITED TIME OFFER
+                  - generic [ref=e369]:
+                    - link "Marriott Bonvoy Brilliant® American Express® Card" [ref=e370] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliant_addSource/TRD/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Marriott Bonvoy Brilliant® American Express® Card" [ref=e371]
+                    - link "Terms Apply / Rates & Fees" [ref=e372] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TRD/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e373]: Terms Apply / Rates & Fees
+                    - generic [ref=e374]:
+                      - generic [ref=e375]:
+                        - img "Star rating icon" [ref=e378]
+                        - img "Star rating icon" [ref=e381]
+                        - img "Star rating icon" [ref=e384]
+                        - img "Star rating icon" [ref=e387]
+                        - generic [ref=e388]:
+                          - img "Star rating icon" [ref=e390]
+                          - img "Star rating icon" [ref=e391]
+                      - generic [ref=e392]:
+                        - generic [ref=e393]: U.P. Rating
+                        - img [ref=e396]:
+                          - img [ref=e397]
+                    - link "Apply Now" [ref=e400] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliant_addSource/TRD/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e401]
+                      - text: Apply Now
+                    - generic [ref=e404]: (at Amex's secure site)
+                    - generic [ref=e405]:
+                      - heading "Apply With Confidence" [level=4] [ref=e406]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e407]
+                      - paragraph [ref=e408]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e409]:
+                    - generic [ref=e411]:
+                      - link "Marriott Bonvoy Brilliant® American Express® Card" [ref=e413] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-brilliant-american-express-card/
+                        - text: Marriott Bonvoy Brilliant
+                        - superscript [ref=e414]: ®
+                        - text: American Express
+                        - superscript [ref=e415]: ®
+                        - text: Card
+                      - text: A premium card for Marriott fans who want perks like an annual statement credit and Free Night Award, plus a fast track to Marriott elite status.
+                    - generic [ref=e416]:
+                      - generic [ref=e417]:
+                        - generic [ref=e418]:
+                          - generic [ref=e419]: Welcome Offer
+                          - img [ref=e422]:
+                            - img [ref=e423]
+                        - generic [ref=e426]: 200,000 points
+                      - generic [ref=e427]:
+                        - generic [ref=e429]: "UP's Offer Valuation*:"
+                        - generic [ref=e430]: Up to $1,400
+                    - generic [ref=e431]:
+                      - generic [ref=e432]:
+                        - generic [ref=e434]: Annual Fee
+                        - generic [ref=e435]: $650
+                      - generic [ref=e436]:
+                        - generic [ref=e438]: APR
+                        - generic [ref=e439]: 19.49%-28.49% Variable
+                      - generic [ref=e440]:
+                        - generic [ref=e441]:
+                          - generic [ref=e442]: Credit Recommended
+                          - img [ref=e445]:
+                            - img [ref=e446]
+                        - generic [ref=e449]: Good to Excellent
+                    - generic [ref=e450]:
+                      - group [ref=e451]:
+                        - generic "Why We Like This Card" [ref=e452] [cursor=pointer]
+                      - group [ref=e453]:
+                        - generic "Pros & Cons" [ref=e454] [cursor=pointer]
+                      - group [ref=e455]:
+                        - generic "Card Highlights" [ref=e456] [cursor=pointer]
+                - heading "37 Amazing Marriott Hotel Redemptions" [level=2] [ref=e457]
+                - heading "1. Courtyard Pilsen — Czech Republic" [level=3] [ref=e458]
+                - 'figure "The Courtyard Pilsen is a great place to stay while you visit the home of the Pilsner beer. Image Credit: Marriott" [ref=e460]':
+                  - link "Courtyard Pilsen" [ref=e461] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/08/Courtyard-Pilsen.jpg?auto=webp&disable=upscale
+                    - img "Courtyard Pilsen" [ref=e463]
+                  - generic [ref=e464]: "The Courtyard Pilsen is a great place to stay while you visit the home of the Pilsner beer. Image Credit: Marriott"
+                - paragraph [ref=e465]:
+                  - text: If you’ve ever wanted to visit the birthplace of the Pilsner, the
+                  - link "Courtyard Pilsen" [ref=e466] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/MarriottCourtyardPilsen/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: in the Czech Republic is a great place to stay during your visit that’s conveniently located in the city.
+                - paragraph [ref=e467]: The staff is friendly, and you can enjoy a nice breakfast before you explore the city and grab a Pilsner or 2.
+                - paragraph [ref=e468]: You can book the Courtyard Pilsen starting at 10,000 Marriott Bonvoy points per night. Reward nights here generally max out at 15,000 points per night.
+                - paragraph [ref=e469]:
+                  - text: You can even
+                  - link "fly to the Czech Republic on points" [ref=e470] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-the-czech-republic-with-points/
+                  - text: ", making this a potentially free vacation."
+                - heading "2. Courtyard Guayaquil — Ecuador" [level=3] [ref=e471]
+                - 'figure "Image Credit: Marriott" [ref=e473]':
+                  - img "Courtyard by Marriott Guayaquil" [ref=e475]
+                  - generic [ref=e476]: "Image Credit: Marriott"
+                - paragraph [ref=e477]:
+                  - text: Guayaquil is the largest city in Ecuador with plenty to see during your visit. The
+                  - link "Courtyard Guayaquil" [ref=e478] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/MarriottCourtyardGuayaquil/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: provides the perfect base for your adventure as it is located near many sites and restaurants.
+                - paragraph [ref=e479]: You can book a night starting at 10,000 Marriott Bonvoy points and up to 16,000 points per night, making it a great cheap option for long trips.
+                - paragraph [ref=e480]:
+                  - generic [ref=e481]:
+                    - strong [ref=e482]: "Hot Tip:"
+                    - text: If you don’t have a ton of points, check out these
+                    - link "options for redeeming 10,000 or fewer Marriott Bonvoy points" [ref=e483] [cursor=pointer]:
+                      - /url: /travel/hotels/best-ways-to-use-10000-marriott-bonvoy-points/
+                    - text: .
+                - heading "3. Renaissance Shanghai Putuo Hotel — China" [level=3] [ref=e484]
+                - 'figure "The Renaissance Shanghai Putuo Hotel is the perfect place to stay during your visit to Shanghai. Image Credit: Marriott" [ref=e486]':
+                  - link "Renaissance Shanghai Putuo Hotel" [ref=e487] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/08/Renaissance-Shanghai-Putuo-Hotel.jpg?auto=webp&disable=upscale
+                    - img "Renaissance Shanghai Putuo Hotel" [ref=e489]
+                  - generic [ref=e490]: "The Renaissance Shanghai Putuo Hotel is the perfect place to stay during your visit to Shanghai. Image Credit: Marriott"
+                - paragraph [ref=e491]:
+                  - text: The
+                  - link "Renaissance Shanghai Putuo Hotel" [ref=e492] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/ShanghaiPutuoHotel/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is located close to a Metro station, making it easy for guests to navigate Shanghai.
+                - paragraph [ref=e493]: The friendly staff from check-in to the hotel bar make this a great place to stay, whether you’re passing through on a business trip or visiting Shanghai for vacation.
+                - paragraph [ref=e494]: You can book a night here starting at around 15,000 Marriott Bonvoy points and going up to 21,000 points.
+                - heading "4. MOXY Milan Malpensa Airport — Italy" [level=3] [ref=e495]
+                - 'figure "Image Credit: Marriott" [ref=e497]':
+                  - img "Moxy Milan Malpensa Airport" [ref=e499]
+                  - generic [ref=e500]: "Image Credit: Marriott"
+                - paragraph [ref=e501]:
+                  - text: The MOXY hotel brand is meant to be fun and social, and you’ll get just that at the
+                  - link "MOXY Milan Malpensa Airport" [ref=e502] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/MilanMalpensaAirport/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: . If you have an early flight out of
+                  - link "Milan (MXP)" [ref=e503] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-italy-with-points/
+                  - text: or an overnight layover, this is the perfect place to stay.
+                - paragraph [ref=e504]: The hotel is located in Terminal 2 of the airport, so you won’t have to worry at all about a transfer when catching a flight.
+                - paragraph [ref=e505]: You can book a standard room here for 15,000 to 21,000 Marriott Bonvoy points per night.
+                - heading "5. JW Marriott Hotel Chengdu — China" [level=3] [ref=e506]
+                - 'figure "Image Credit: Marriott" [ref=e508]':
+                  - img "JW Marriott Hotel Chengdu" [ref=e510]
+                  - generic [ref=e511]: "Image Credit: Marriott"
+                - paragraph [ref=e512]:
+                  - text: The
+                  - link "JW Marriott Hotel Chengdu" [ref=e513] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/JWMarriottHotelChengdu/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is considered one of the best hotels in the city. Its location makes visiting the panda reserve a breeze, and if you’re in Chengdu, you have to see the pandas!
+                - paragraph [ref=e514]: Award stays can be booked starting around 20,000 to 30,000 points per night.
+                - generic [ref=e515]:
+                  - strong [ref=e516]: »
+                  - strong [ref=e517]: "Related:"
+                  - link "The 19 Best JW Marriott Hotels To Book With Points [For Max Value]" [ref=e518] [cursor=pointer]:
+                    - /url: /travel/hotels/best-jw-marriott-hotels-book-with-points/
+                - heading "6. JW Marriott Hotel Hanoi — Vietnam" [level=3] [ref=e519]
+                - 'figure "Image Credit: Marriott" [ref=e521]':
+                  - img "JW Marriott Hotel Hanoi" [ref=e523]
+                  - generic [ref=e524]: "Image Credit: Marriott"
+                - paragraph [ref=e525]:
+                  - text: If there’s one thing that people mention about the
+                  - link "JW Marriott Hotel Hanoi" [ref=e526] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/MarriottHotelHanoi/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: ", it’s the amazing service you can expect. Always friendly and ready to help, you’ll be able to relax by the pool or have a great meal during your stay in Hanoi."
+                - paragraph [ref=e527]: Priced at around 20,000 to 30,000 Marriott Bonvoy points, you can book a night at this fantastic property for a bargain.
+                - heading "7. JW Marriott Hotel Beijing — China" [level=3] [ref=e528]
+                - 'figure "Image Credit: Marriott" [ref=e530]':
+                  - img "JW Marriott Hotel Beijing" [ref=e532]
+                  - generic [ref=e533]: "Image Credit: Marriott"
+                - paragraph [ref=e534]:
+                  - text: Located near the mall, many restaurants, and a Metro station, the
+                  - link "JW Marriott Hotel Beijing" [ref=e535] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/JWMarriottHotelBeijing/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is a fantastic place to stay during your visit to Beijing. If you have access to the Executive Lounge, you’ll enjoy it even more!
+                - paragraph [ref=e536]: You can book a stay at this hotel starting at 20,000 Marriott Bonvoy points per night and topping out at 30,000 points per night.
+                - paragraph [ref=e537]:
+                  - generic [ref=e538]:
+                    - strong [ref=e539]: "Hot Tip:"
+                    - text: Marriott Bonvoy Platinum Elite, Titanium Elite, and Ambassador Elite receive guaranteed lounge access as a benefit of membership. Our complete
+                    - link "guide to the benefits of Marriott Elite status" [ref=e540] [cursor=pointer]:
+                      - /url: /travel/hotels/marriott-elite-status-benefits/
+                    - text: details the perks of each tier.
+                - heading "8. JW Marriott Bucharest Grand Hotel — Romania" [level=3] [ref=e541]
+                - 'figure "Enjoy the fantastic service at the JW Marriott Bucharest Grand Hotel. Image Credit: Marriott" [ref=e543]':
+                  - img "JW Marriott Bucharest Grand Hotel lobby" [ref=e545]
+                  - generic [ref=e546]: "Enjoy the fantastic service at the JW Marriott Bucharest Grand Hotel. Image Credit: Marriott"
+                - paragraph [ref=e547]:
+                  - text: Whether you want to walk to Romania’s Parliament or visit the old town section of Bucharest, the
+                  - link "JW Marriott Bucharest Grand Hotel" [ref=e548] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/JWMarriottBucharestGrandHotel/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is a great choice for your visit thanks to its amazing location.
+                - paragraph [ref=e549]: Like many JW Marriott Hotel properties, this one stands out for its exceptional service.
+                - paragraph [ref=e550]: You can book a stay at this hotel starting at around 20,000 to 30,000 Marriott Bonvoy points per night.
+                - heading "9. Marriott Hotel Al Forsan, Abu Dhabi — United Arab Emirates" [level=3] [ref=e551]
+                - 'figure "Image Credit: Marriott" [ref=e553]':
+                  - img "Marriott Hotel Al Forsan Swimming Pool Abu Dhabi" [ref=e555]
+                  - generic [ref=e556]: "Image Credit: Marriott"
+                - paragraph [ref=e557]:
+                  - text: If you like relaxing at the pool, don’t miss this property! The
+                  - link "Marriott Hotel Al Forsan, Abu Dhabi" [ref=e558] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/MarriottHotelAlForsan/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: has a
+                  - strong [ref=e559]: massive pool
+                  - text: and plenty of food and drink to enjoy. This property opened in 2017 and receives rave reviews for its service — particularly the Executive Lounge staff.
+                - paragraph [ref=e560]:
+                  - text: This is another great option for your
+                  - link "free night certificates" [ref=e561] [cursor=pointer]:
+                    - /url: /travel/hotels/best-hotels-marriott-free-night-certificate/
+                  - text: ", and it can be booked for as low as 20,000 Marriott Bonvoy points per night or as much as 30,000 points per night."
+                - heading "10. JW Marriott Hotel Santo Domingo — Dominican Republic" [level=3] [ref=e562]
+                - 'figure "For one of the best hotels in the city, check out the JW Marriott Hotel Santo Domingo. Image Credit: Marriott" [ref=e564]':
+                  - link "JW Marriott Hotel Santo Domingo" [ref=e565] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/08/JW-Marriott-Hotel-Santo-Domingo.jpg?auto=webp&disable=upscale
+                    - img "JW Marriott Hotel Santo Domingo" [ref=e567]
+                  - generic [ref=e568]: "For one of the best hotels in the city, check out the JW Marriott Hotel Santo Domingo. Image Credit: Marriott"
+                - paragraph [ref=e569]:
+                  - text: If you enjoy luxury malls, the
+                  - link "JW Marriott Hotel Santo Domingo" [ref=e570] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/JWMarriottHotelSantoDomingo/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is connected to a great one. If you’d prefer to relax, this beautiful property has an amazing pool for you to enjoy as well.
+                - paragraph [ref=e571]: As is probably clear from the other JW Marriott hotels on the list, you can expect great service from the staff here, too.
+                - paragraph [ref=e572]: An award night can be booked for as little as 21,000 to 30,000 Marriott Bonvoy points in a standard room.
+                - heading "11. JW Marriott Hotel Bangkok — Thailand" [level=3] [ref=e573]
+                - 'figure "Image Credit: Marriott" [ref=e575]':
+                  - img "JW Marriott Hotel Bangkok" [ref=e577]
+                  - generic [ref=e578]: "Image Credit: Marriott"
+                - paragraph [ref=e579]:
+                  - text: Located in the heart of the city, the
+                  - link "JW Marriott Hotel Bangkok" [ref=e580] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/JWMarriottBangkok/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is a perfect place to stay — whether you’re traveling for work, on vacation, or just hoping to try some of Bangkok’s amazing street food!
+                - paragraph [ref=e581]: You can book a stay at this great hotel for 30,000 to 40,000 Marriott Bonvoy points per night.
+                - heading "12. JW Marriott Phu Quoc Emerald Bay Resort & Spa — Vietnam" [level=3] [ref=e582]
+                - 'figure "Enjoy a secluded retreat at the JW Marriott Phu Quoc Emerald Bay Resort & Spa. Image Credit: Marriott" [ref=e584]':
+                  - img "JW Marriott Phu Quoc La Jardin Guest Room Terrace" [ref=e586]
+                  - generic [ref=e587]: "Enjoy a secluded retreat at the JW Marriott Phu Quoc Emerald Bay Resort & Spa. Image Credit: Marriott"
+                - paragraph [ref=e588]:
+                  - text: The
+                  - link "JW Marriott Phu Quoc Emerald Bay Resort & Spa" [ref=e589] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/JWMarriottPhuQuocEmerald/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is located on an island just off the coast of Vietnam and Cambodia, and it’s just what you would expect from an island resort.
+                - paragraph [ref=e590]: This property makes it easy to relax, enjoy great food, and rest assured that the hotel staff is ready to help no matter what.
+                - paragraph [ref=e591]: You can book stays at this fantastic resort starting at around 45,000 points per night. However, during the high season, expect award nights to cost up to 63,000 points.
+                - paragraph [ref=e592]:
+                  - text: This is also a great place to use your annual free night certificate if you have an applicable
+                  - link "co-branded Marriott card" [ref=e593] [cursor=pointer]:
+                    - /url: /credit-cards/best-marriott-bonvoy-credit-cards/
+                  - text: .
+                - heading "13. Marriott Puerto Vallarta Resort & Spa — Mexico" [level=3] [ref=e594]
+                - 'figure "Image Credit: Marriott" [ref=e596]':
+                  - img "Marriott Puerto Vallarta Resort Spa Hotel" [ref=e598]
+                  - generic [ref=e599]: "Image Credit: Marriott"
+                - paragraph [ref=e600]:
+                  - text: You don’t have to cross an ocean to experience an amazing Marriott property! The
+                  - link "Marriott Puerto Vallarta Resort & Spa" [ref=e601] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/MarriottPuertoVallarta/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: in Mexico is a fantastic place to escape for a little relaxation. The staff is attentive and happy to ensure an easy vacation for you and your friends and family.
+                - paragraph [ref=e602]: Stays can be booked for around 60,000 to 63,000 points per night.
+                - heading "14. JW Marriott Macau — China" [level=3] [ref=e603]
+                - 'figure "Image Credit: Marriott" [ref=e605]':
+                  - img "JW Marriott Macau Hotel" [ref=e607]
+                  - generic [ref=e608]: "Image Credit: Marriott"
+                - paragraph [ref=e609]: If you like visiting the casinos of Las Vegas, you will love Macau. That’s not all there is to enjoy though, as Macau is a fascinating blend of European and Chinese cultures.
+                - paragraph [ref=e610]:
+                  - text: When you’re not running around Macau taking it all in, you can rest assured the staff at the
+                  - link "JW Marriott Macau" [ref=e611] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/JWMarriottMacau/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: will take care of you.
+                - paragraph [ref=e612]: Stays at this hotel start at around 30,000 Marriott Bonvoy points per night. Rates can go as high as 42,000 points per night, so keep that in mind.
+                - heading "15. JW Marriott Venice Resort & Spa — Italy" [level=3] [ref=e613]
+                - 'figure "Relax on a Venetian island at the JW Marriott Venice Resort & Spa. Image Credit: Marriott" [ref=e615]':
+                  - img "JW Marriott Venice Resort & Spa" [ref=e617]
+                  - generic [ref=e618]: "Relax on a Venetian island at the JW Marriott Venice Resort & Spa. Image Credit: Marriott"
+                - paragraph [ref=e619]:
+                  - text: If you’ve dreamed of escaping to a luxury private island resort to relax, look no further than the
+                  - link "JW Marriott Venice Resort & Spa" [ref=e620] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/JWMarriottVenice/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: .
+                - paragraph [ref=e621]: A quick water taxi ride away from the center of Venice, you can visit a city full of history during the day and relax at the resort at night.
+                - paragraph [ref=e622]: You can book stays here starting at around 40,000 to 75,000 Marriott Bonvoy points per night.
+                - paragraph [ref=e623]:
+                  - generic [ref=e624]:
+                    - strong [ref=e625]: "Hot Tip:"
+                    - text: Our comprehensive guide to
+                    - link "virtual tours of popular attractions" [ref=e626] [cursor=pointer]:
+                      - /url: /travel/virtual-tours-of-popular-attractions/
+                    - text: includes the canals, pathways, and unique bridges of Venice.
+                - heading "16. JW Marriott Grosvenor House — London, England" [level=3] [ref=e627]
+                - 'figure "Enjoy a life of luxury at the JW Marriott Grosvenor House. Image Credit: Marriott" [ref=e629]':
+                  - img "JW Marriott Grosvenor House" [ref=e631]
+                  - generic [ref=e632]: "Enjoy a life of luxury at the JW Marriott Grosvenor House. Image Credit: Marriott"
+                - paragraph [ref=e633]:
+                  - text: This beautiful property has an amazing staff, and some rooms even have views of Hyde Park. Without a doubt, the
+                  - link "JW Marriott Grosvenor House" [ref=e634] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/JWMarriottGrosvenorHouse/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is one of the
+                  - link "best hotels in London" [ref=e635] [cursor=pointer]:
+                    - /url: /travel/hotels/best-hotels-in-london/
+                  - text: ", an iconic city to visit."
+                - paragraph [ref=e636]: You can book your stay here starting at around 53,000 to 75,000 Marriott Bonvoy points per night.
+                - heading "17. St. Regis Bora Bora Resort — French Polynesia" [level=3] [ref=e637]
+                - 'figure "St. Regis Bora Bora. Image Credit: Marriott" [ref=e639]':
+                  - link "St Regis Bora Bora" [ref=e640] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/St-Regis-Bora-Bora.jpg?auto=webp&disable=upscale
+                    - img "St Regis Bora Bora" [ref=e642]
+                  - generic [ref=e643]: "St. Regis Bora Bora. Image Credit: Marriott"
+                - paragraph [ref=e644]:
+                  - text: Bora Bora is one of the hottest beach destinations in the world. Nestled within French Polynesia, the
+                  - link "St. Regis Bora Bora" [ref=e645] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/StRegisBoraBora/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: provides an impeccable, serene experience.
+                - paragraph [ref=e646]: You can book your stay here starting at around 92,000 Marriott Bonvoy points per night. Just beware that prices can go as high as 120,000 points per night!
+                - paragraph [ref=e647]:
+                  - generic [ref=e648]:
+                    - strong [ref=e649]: "Hot Tip:"
+                    - text: Couple a stay at the St. Regis Bora Bora with a
+                    - link "flight to Bora Bora on points" [ref=e650] [cursor=pointer]:
+                      - /url: /travel/best-ways-to-fly-to-bora-bora-with-points/
+                    - text: for a vacation all thanks to points!
+                - heading "18. St. Regis Hong Kong" [level=3] [ref=e651]
+                - 'figure "St. Regis Hong Kong. Image Credit: Marriott" [ref=e653]':
+                  - link "St Regis Hong Kong" [ref=e654] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/St-Regis-Hong-Kong.jpg?auto=webp&disable=upscale
+                    - img "St Regis Hong Kong" [ref=e656]
+                  - generic [ref=e657]: "St. Regis Hong Kong. Image Credit: Marriott"
+                - paragraph [ref=e658]:
+                  - text: Perhaps the most luxurious hotel in Hong Kong, the
+                  - link "St. Regis Hong Kong" [ref=e659] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/StRegisHongKong/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is redefining what elegance and opulence that Hong Kong is known for. Have an epic stay here savoring the dining from Michelin-starred chefs in the heart of the Wan Chai district.
+                - paragraph [ref=e660]: You can book your stay here for 76,000 to 106,000 Marriott Bonvoy points per night.
+                - heading "19. The Ritz-Carlton New York, Central Park" [level=3] [ref=e661]
+                - 'figure "The Ritz-Carlton, Central Park. Image Credit: Marriott" [ref=e663]':
+                  - img "Ritz-Carlton New York, Central Park Marriott" [ref=e665]
+                  - generic [ref=e666]: "The Ritz-Carlton, Central Park. Image Credit: Marriott"
+                - paragraph [ref=e667]:
+                  - text: Reminiscent of classic opulence,
+                  - link "The Ritz-Carlton New York, Central Park" [ref=e668] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/RitzCarltonNewYorkCentralPark/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is one of the best ways to stay in Manhattan. Nestled along
+                  - link "Central Park" [ref=e669] [cursor=pointer]:
+                    - /url: /travel/central-park-new-york-city-guide/
+                  - text: ", this hotel is definitely one of the best uses of Marriott Bonvoy points, particularly for high rollers."
+                - paragraph [ref=e670]: You can book your stay here starting at around 82,000 Marriott Bonvoy points per night. Though as you can imagine, reward rates can go as high as 120,000 points per night.
+                - heading "20. St. Regis New York" [level=3] [ref=e671]
+                - 'figure "St. Regis New York. Image Credit: Marriott" [ref=e673]':
+                  - link "St Regis New York" [ref=e674] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/St-Regis-New-York.jpg?auto=webp&disable=upscale
+                    - img "St Regis New York" [ref=e676]
+                  - generic [ref=e677]: "St. Regis New York. Image Credit: Marriott"
+                - paragraph [ref=e678]:
+                  - text: Perhaps the points hotel that competes most closely with The Ritz-Carlton is the
+                  - link "St. Regis New York" [ref=e679] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/StRegisNewYork/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: . What better way to experience New York luxury than butler service that packs and unpacks for you?
+                - paragraph [ref=e680]: You can book your stay here for 88,000 to 120,000 Marriott Bonvoy points per night.
+                - heading "21. Al Maha, a Luxury Collection Desert Resort & Spa, Dubai — United Arab Emirates" [level=3] [ref=e681]
+                - 'figure "Al Maha, a Luxury Collection Desert Resort & Spa, Dubai. Image Credit: Stephen Au" [ref=e683]':
+                  - img "Al Maha, a Luxury Collection Desert Resort & Spa, Dubai" [ref=e685]
+                  - generic [ref=e686]: "Al Maha, a Luxury Collection Desert Resort & Spa, Dubai. Image Credit: Stephen Au"
+                - paragraph [ref=e687]:
+                  - link "Al Maha, a Luxury Collection Desert Resort & Spa, Dubai" [ref=e688] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/MarriottAlMaha/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is one of the most aspirational properties out there. It is an
+                  - strong [ref=e689]: all-inclusive resort
+                  - text: ", meaning each guest can have 3 meals per day."
+                - paragraph [ref=e690]: You’ll also enjoy 2 activities per day, which include falconry, nature walks, ghaf tree walks, horseback riding, desert drives, wildlife drives, camel treks, sundowners, and archery.
+                - paragraph [ref=e691]: You can book your stay here for around 92,000 to 120,000 Marriott Bonvoy points per night.
+                - heading "22. St. Regis Maldives Vommuli Resort" [level=3] [ref=e692]
+                - 'figure "St. Regis Maldives. Image Credit: Marriott" [ref=e694]':
+                  - link "St Regis Maldives" [ref=e695] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/St-Regis-Maldives.jpg?auto=webp&disable=upscale
+                    - img "St Regis Maldives" [ref=e697]
+                  - generic [ref=e698]: "St. Regis Maldives. Image Credit: Marriott"
+                - paragraph [ref=e699]:
+                  - text: Certainly, the famous
+                  - link "St. Regis Maldives Vommuli Resort" [ref=e700] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/StRegisMaldivesVommuli/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is an unbelievable masterpiece in the hospitality industry.
+                - paragraph [ref=e701]: With cash prices starting at $1,000+, this is certainly one of the best ways to book an extremely expensive hotel with Marriott Bonvoy points.
+                - paragraph [ref=e702]: You can book your stay here starting at about 88,000 Marriott Bonvoy points per night. During pricey dates, expect to redeem closer to 120,000 points per night, though!
+                - heading "23. St. Regis Mardavall Mallorca Resort — Spain" [level=3] [ref=e703]
+                - 'figure "St. Regis Mardavall Mallorca Resort. Image Credit: Marriott" [ref=e705]':
+                  - img "St Regis Mardavall Mallorca Resort" [ref=e707]
+                  - generic [ref=e708]: "St. Regis Mardavall Mallorca Resort. Image Credit: Marriott"
+                - paragraph [ref=e709]: The birthplace of tennis legend Rafael Nadal, Mallorca is one of the best beach destinations in the Mediterranean.
+                - paragraph [ref=e710]:
+                  - text: The
+                  - link "St. Regis Mardavall Mallorca Resort" [ref=e711] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/StRegisMardavallMallorca/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: capitalizes on the perfect scenery by being one of the most expensive and luxurious properties in Mallorca.
+                - paragraph [ref=e712]: You can book your stay here starting at around 84,000 to 120,000 Marriott Bonvoy points per night.
+                - heading "24. W Koh Samui — Thailand" [level=3] [ref=e713]
+                - 'figure "W Koh Samui. Image Credit: Marriott" [ref=e715]':
+                  - link "W Koh Samui" [ref=e716] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/W-Koh-Samui.jpg?auto=webp&disable=upscale
+                    - img "W Koh Samui" [ref=e718]
+                  - generic [ref=e719]: "W Koh Samui. Image Credit: Marriott"
+                - paragraph [ref=e720]:
+                  - text: Koh Samui is known to be one of Thailand’s most prestigious islands to enjoy the sun and water. Situated on Mae Nam beach, the
+                  - link "W Koh Samui" [ref=e721] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/WKohSamui/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is an ultra-luxe property to spend your hard-earned Marriott Bonvoy points.
+                - paragraph [ref=e722]: You can book your stay here starting at 60,000 to 100,000 Marriott Bonvoy points per night.
+                - heading "25. W Maldives" [level=3] [ref=e723]
+                - 'figure "W Maldives. Image Credit: Marriott" [ref=e725]':
+                  - link "W Maldives" [ref=e726] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/W-Maldives-1.jpg?auto=webp&disable=upscale
+                    - img "W Maldives" [ref=e728]
+                  - generic [ref=e729]: "W Maldives. Image Credit: Marriott"
+                - paragraph [ref=e730]:
+                  - text: One competitor to the St. Regis Maldives is the
+                  - link "W Maldives" [ref=e731] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/WMaldives/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: ", which is also a Marriott hotel. Staying true to the W brand, these hotels primarily appeal to young adults with tons of activities and a dynamic vibe."
+                - paragraph [ref=e732]: You can book your stay here starting at around 74,000 to 110,000 Marriott Bonvoy points per night.
+                - heading "26. The Ritz-Carlton, Hong Kong" [level=3] [ref=e733]
+                - 'figure "Ritz Carlton Hong Kong. Image Credit: Ritz-Carlton" [ref=e735]':
+                  - link "Ritz Carlton Hong Kong" [ref=e736] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/Ritz-Carlton-Hong-Kong.jpg?auto=webp&disable=upscale
+                    - img "Ritz Carlton Hong Kong" [ref=e738]
+                  - generic [ref=e739]: "Ritz Carlton Hong Kong. Image Credit: Ritz-Carlton"
+                - paragraph [ref=e740]:
+                  - link "The Ritz-Carlton, Hong Kong" [ref=e741] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/RitzCarltonHongKong/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is the world’s highest hotel, and it’s located in West Kowloon, which is a somewhat atypical location for luxe hotels in Hong Kong. Nonetheless, some highlights include epic views, Michelin-star dining, and awesome service.
+                - paragraph [ref=e742]: You can book a standard room here for around 70,000 to 106,000 Marriott Bonvoy points per night, depending on the cash rates of your stay.
+                - heading "27. Suiran, a Luxury Collection Hotel, Kyoto — Japan" [level=3] [ref=e743]
+                - 'figure "Suiran Kyoto. Image Credit: Marriott" [ref=e745]':
+                  - link "Suiran Kyoto" [ref=e746] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/Suiran-Kyoto.jpg?auto=webp&disable=upscale
+                    - img "Suiran Kyoto" [ref=e748]
+                  - generic [ref=e749]: "Suiran Kyoto. Image Credit: Marriott"
+                - paragraph [ref=e750]:
+                  - link "Suiran, a Luxury Collection Hotel, Kyoto" [ref=e751] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/MarriottSuiranKyoto/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is one of the best uses of points. With cash rates through the roof, this peaceful retreat features ultra-classy Japanese accommodations and an authentic experience.
+                - paragraph [ref=e752]: Definitely consider this if you want to have a genuine experience in Kyoto.
+                - paragraph [ref=e753]: You can book your stay here starting at around 75,000 Marriott Bonvoy points per night. During the high season, expect rates to jump up to 120,000 points per night.
+                - heading "28. St. Regis Bali Resort — Indonesia" [level=3] [ref=e754]
+                - 'figure "St. Regis Bali. Image Credit: Marriott" [ref=e756]':
+                  - link "St Regis Bali" [ref=e757] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/St-Regis-Bali.jpg?auto=webp&disable=upscale
+                    - img "St Regis Bali" [ref=e759]
+                  - generic [ref=e760]: "St. Regis Bali. Image Credit: Marriott"
+                - paragraph [ref=e761]:
+                  - text: The
+                  - link "St. Regis Bali Resort" [ref=e762] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/StRegisBaliResort/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is located in the upscale area of Nusa Dua in
+                  - link "Bali" [ref=e763] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-bali-with-points/
+                  - text: . The service is known to be the highlight here, featuring classic Balinese touches of art and nature. With cash rates exceeding $600+ on average, staying here is a great use of your points.
+                - paragraph [ref=e764]: You can book your stay here starting at around 70,000 to 106,000 Marriott Bonvoy points per night.
+                - heading "29. St. Regis Florence — Italy" [level=3] [ref=e765]
+                - 'figure "St. Regis Florence. Image Credit: Marriott" [ref=e767]':
+                  - link "St Regis Florence" [ref=e768] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/St-Regis-Florence.jpg?auto=webp&disable=upscale
+                    - img "St Regis Florence" [ref=e770]
+                  - generic [ref=e771]: "St. Regis Florence. Image Credit: Marriott"
+                - paragraph [ref=e772]:
+                  - text: One of the most luxurious hotels in Italy, the
+                  - link "St. Regis Florence" [ref=e773] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/StRegisFlorence/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: features acclaimed fine dining, a posh spa, butler service, and opulent amenities — even wine and Champagne tastings.
+                - paragraph [ref=e774]: If you wanted to pay cash, you’d have to shell out at least $800 to $1,000 per night to book your stay here.
+                - paragraph [ref=e775]: You can book your stay here starting at around 70,000 Marriott Bonvoy points per night. During high season, those rates shoot up to around 106,000 points per night.
+                - heading "30. Santo Mauro, a Luxury Collection Hotel, Madrid — Spain" [level=3] [ref=e776]
+                - 'figure "Santo Mauro, a Luxury Collection Hotel, Madrid. Image Credit: Marriott" [ref=e778]':
+                  - img "Santo Mauro, a Luxury Collection Hotel, Madrid" [ref=e780]
+                  - generic [ref=e781]: "Santo Mauro, a Luxury Collection Hotel, Madrid. Image Credit: Marriott"
+                - paragraph [ref=e782]:
+                  - text: One of Madrid’s best luxury hotels is
+                  - link "Santo Mauro" [ref=e783] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/SantoMauro/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: ", which belongs to The Luxury Collection. This property is just a couple of blocks away from Paseo de la Castellana, which is where all of the action is in Madrid."
+                - generic [ref=e784]:
+                  - strong [ref=e785]: »
+                  - strong [ref=e786]: "Related:"
+                  - link "28 Fun Things To Do in Madrid, Spain [2025]" [ref=e787] [cursor=pointer]:
+                    - /url: /travel/fun-things-to-do-in-madrid-spain/
+                - paragraph [ref=e788]: This fantastic city hotel is spread out across 3 buildings with high-end rooms, 3 food and beverage outlets, and a gym.
+                - paragraph [ref=e789]: In general, you’ll redeem 77,500 to 103,000 points per night here. And if you pay cash, you’ll spend around $700 to $1,200 per night, depending on what dates you book.
+                - heading "31. The Tasman, a Luxury Collection Hotel, Hobart — Australia" [level=3] [ref=e790]
+                - 'figure "The Tasman, a Luxury Collection Hotel, Hobart. Image Credit: Marriott" [ref=e792]':
+                  - img "The Tasman, a Luxury Collection Hotel, Hobart" [ref=e794]
+                  - generic [ref=e795]: "The Tasman, a Luxury Collection Hotel, Hobart. Image Credit: Marriott"
+                - paragraph [ref=e796]:
+                  - text: One of Marriott Bonvoy’s new luxury hotels is
+                  - link "The Tasman" [ref=e797] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/TheTasman/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: ", which is located in Hobart, the capital city of Australia’s island state of Tasmania southwest of mainland Australia."
+                - paragraph [ref=e798]: If you’re looking for points hotels in Hobart, this is absolutely the place to book. This 5-star property has rooms at least 323 square feet large with ample space, marble bathrooms, and excellent service.
+                - paragraph [ref=e799]: This hotel also has a signature Italian restaurant, an alfresco lounge serving high tea and light bites, and a destination cocktail bar. Lastly, there’s a gym and plenty of space for meetings.
+                - paragraph [ref=e800]: Here, you can expect to redeem between 30,000 and 45,000 points per night, with paid stays costing anywhere from $200 to $730 per night at an average of around $350 per night.
+                - heading "32. Josun Palace, a Luxury Collection Hotel, Seoul Gangnam — Korea" [level=3] [ref=e801]
+                - 'figure "Josun Palace, a Luxury Collection Hotel, Seoul Gangnam. Image Credit: Marriott" [ref=e803]':
+                  - img "Josun Palace, a Luxury Collection Hotel, Seoul Gangnam" [ref=e805]
+                  - generic [ref=e806]: "Josun Palace, a Luxury Collection Hotel, Seoul Gangnam. Image Credit: Marriott"
+                - paragraph [ref=e807]:
+                  - text: Looking for modern chic luxury in South Korea’s capital city?
+                  - link "Josun Palace" [ref=e808] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/JosunPalace/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is one of the places you should keep on your radar.
+                - paragraph [ref=e809]: All rooms have floor-to-ceiling windows with panoramic views, and they’re all at least 473 square feet in size. Plus, you’ll enjoy spa-like marble bathrooms with a separate tub and rain shower.
+                - paragraph [ref=e810]: There are a total of 7 eateries here, plus a wellness spa, heated indoor pool, and gym.
+                - paragraph [ref=e811]: When you book reward stays here, they’ll cost 42,000 to 63,000 points per night. The average paid room rate is around $400 per night, but rates can go as low as $300 per night or as high as $800 per night.
+                - heading "33. The Ocean Club, a Luxury Collection Resort, Costa Norte — Dominican Republic" [level=3] [ref=e812]
+                - 'figure "The Ocean Club, a Luxury Collection Resort, Costa Norte. Image Credit: Marriott" [ref=e814]':
+                  - img "The Ocean Club, a Luxury Collection Resort, Costa Norte" [ref=e816]
+                  - generic [ref=e817]: "The Ocean Club, a Luxury Collection Resort, Costa Norte. Image Credit: Marriott"
+                - paragraph [ref=e818]:
+                  - text: Dreaming about an exclusive, lavish vacation in the Caribbean? One of the absolute gems of the Marriott Bonvoy portfolio is
+                  - link "The Ocean Club, a Luxury Collection Resort, Costa Norte" [ref=e819] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/TheOceanClubDR/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: ", which is close to Puerto Plata International Airport (POP)."
+                - paragraph [ref=e820]: The rooms at this property have plenty of space, including a full kitchen, a formal dining area, and a furnished patio or balcony. Also, there are 4 food and beverage outlets, a full gym, multiple pools, saunas, steam rooms, and a spa.
+                - paragraph [ref=e821]: You can expect to redeem 100,000 to 106,000 points per night here, and the cash value you’ll get will be anywhere from $650 to $2,000 per night.
+                - heading "34. The St. Regis Marsa Arabia Island, The Pearl Qatar" [level=3] [ref=e822]
+                - 'figure "The St. Regis Marsa Arabia Island, The Pearl Qatar. Image Credit: Marriott" [ref=e824]':
+                  - img "The St. Regis Marsa Arabia Island, The Pearl Qatar" [ref=e826]
+                  - generic [ref=e827]: "The St. Regis Marsa Arabia Island, The Pearl Qatar. Image Credit: Marriott"
+                - paragraph [ref=e828]:
+                  - text: One of the newest luxury megaresorts in the Middle East is
+                  - link "The St. Regis Marsa Arabia Island, The Pearl Qatar" [ref=e829] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/StRegisMarsaArabiaIsland/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: ", which is located in Qatar’s capital city of Doha. You’ll find superb and regal suites with at least 1,291 square feet of space, a full kitchen, a furnished balcony, a living room, and a marble bathroom."
+                - paragraph [ref=e830]: There are 10 restaurants and bars, a Longevity Hub by La Prairie, an outdoor pool, a gym, hot tub, and meeting and event facilities.
+                - paragraph [ref=e831]: You’ll get some excellent redemption value here because you’ll redeem 31,000 to 40,000 points per night to get a minimum of $550 per night worth of value and up to $900 per night of value.
+                - heading "35. The Ritz-Carlton, Aruba" [level=3] [ref=e832]
+                - 'figure "The Ritz-Carlton, Aruba. Image Credit: Marriott" [ref=e834]':
+                  - img "The Ritz-Carlton, Aruba" [ref=e836]
+                  - generic [ref=e837]: "The Ritz-Carlton, Aruba. Image Credit: Marriott"
+                - paragraph [ref=e838]:
+                  - link "The Ritz-Carlton, Aruba" [ref=e839] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/RitzCarltonAruba/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: is the most luxurious hotel you can book in one of the most popular vacation destinations for Americans. Keep in mind that this might change when The St. Regis Aruba opens, though!
+                - paragraph [ref=e840]: This high-end property offers oceanfront rooms with at least 550 square feet of personal real estate, private beach access, a casino, 2 pools, a spa, and space for events.
+                - paragraph [ref=e841]: For a stay at this luxe property, you’ll redeem anywhere from 77,500 to 106,000 points. Cash rates fluctuate between $850 per night during hurricane season and $1,500 per night during the peak high season.
+                - heading "36. The Ritz-Carlton, Amman — Jordan" [level=3] [ref=e842]
+                - 'figure "The Ritz-Carlton, Amman. Image Credit: Marriott" [ref=e844]':
+                  - img "The Ritz-Carlton, Amman" [ref=e846]
+                  - generic [ref=e847]: "The Ritz-Carlton, Amman. Image Credit: Marriott"
+                - paragraph [ref=e848]:
+                  - text: One of the newest properties to grace the Ritz-Carlton portfolio is
+                  - link "The Ritz-Carlton, Amman" [ref=e849] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/RitzCarltonAmman/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: ", located in Jordan’s capital city. It’s hard to think of a better way to pamper yourself when visiting Amman than booking The Ritz-Carlton Amman."
+                - paragraph [ref=e850]: This property has palatial guestrooms, 4 restaurants, multiple bars and lounges, indoor pools, outdoor pools, a gym, spa, and meeting space (including a ballroom).
+                - paragraph [ref=e851]: You’ll redeem around 43,000 to 63,000 points per night when staying here, which will get you a value of $350 to $500 per night.
+                - heading "37. The Ritz-Carlton New York, NoMad" [level=3] [ref=e852]
+                - 'figure "The Ritz-Carlton New York, NoMad. Image Credit: Marriott" [ref=e854]':
+                  - img "The Ritz-Carlton New York, NoMad" [ref=e856]
+                  - generic [ref=e857]: "The Ritz-Carlton New York, NoMad. Image Credit: Marriott"
+                - paragraph [ref=e858]:
+                  - text: One of the most exciting city hotel openings in New York is
+                  - link "The Ritz-Carlton New York, NoMad" [ref=e859] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/RitzCarltonNewYorkCityNoMad/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: ", which is located more downtown than its sister property"
+                  - link "The Ritz-Carlton, Central Park" [ref=e860] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/RitzCarltonNewYorkCentralPark/TE/19800/dissn.1775548838764.7073346957.1/
+                  - text: .
+                - paragraph [ref=e861]: This buzzy hotel has rooms with amazing views, food and beverage helmed by José Andrés, a spa, a fitness center, and over 10,000 square feet of event space.
+                - paragraph [ref=e862]: Expect to redeem around 96,000 to 120,000 points for a standard room, which is priced at around $1,100 on average. Rates can also drop to as low as $950 per night or jump to as high as $1,950 per night!
+                - paragraph [ref=e864]: Advertisement
+                - heading "Cash + Points Bookings" [level=2] [ref=e867]
+                - paragraph [ref=e868]:
+                  - text: To search for Cash + Points options, you have to search for award stays by selecting
+                  - strong [ref=e869]: Use Points / Certificates
+                  - text: when you search for a specific hotel. The search results will show you the award rate and any Cash + Points options (if availability exists).
+                - heading "Fifth Night Free on Award Stays" [level=2] [ref=e870]
+                - paragraph [ref=e871]: Another great way to use points is to book 4 nights with Marriott Bonvoy points to receive the fifth night free. You’re essentially getting a 20% discount per night, but the word “free” sounds great!
+                - heading "Use Points To Upgrade a Stay" [level=2] [ref=e872]
+                - paragraph [ref=e874]: Advertisement
+                - paragraph [ref=e877]: You can also use your Marriott Bonvoy points to upgrade a paid or award stay rather than paying cash. Upgrades are charged in blocks of 5,000 points, subject to hotel availability, with some properties and rooms requiring multiple upgrade blocks.
+                - heading "Homes & Villas by Marriott" [level=2] [ref=e878]
+                - paragraph [ref=e879]:
+                  - link "Homes & Villas by Marriott" [ref=e880] [cursor=pointer]:
+                    - /url: https://homes-and-villas.marriott.com/
+                  - text: includes thousands of premium and luxury homes located around the world, including the U.S., Canada, Central America, Mexico, South America, the Caribbean, Europe, the Middle East, Africa, and Asia Pacific! These properties are not owned or managed by Marriott.
+                - paragraph [ref=e881]: Rather than a traditional award chart, award nights are based on the price of a stay, with points worth 0.6 cents per point toward the stay.
+                - heading "Final Thoughts" [level=2] [ref=e882]
+                - paragraph [ref=e883]: Marriott has a massive presence around the world and some very nice properties that make for amazing award redemptions.
+                - paragraph [ref=e884]: With so many ways to earn Marriott Bonvoy points, it’s now even easier to amass the points needed for a wonderful trip!
+              - generic [ref=e885]:
+                - generic [ref=e886]:
+                  - separator [ref=e887]
+                  - text: "Featured Image Credit: Marriott"
+                - generic [ref=e888]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e889]
+                  - group [ref=e890]:
+                    - generic "What are the best way to earn Marriott Bonvoy points?" [ref=e891] [cursor=pointer]
+                    - paragraph [ref=e893]:
+                      - text: Between credit cards, referrals, promotions, and more, there are so many different ways to
+                      - link "earn Marriott Bonvoy points" [ref=e894] [cursor=pointer]:
+                        - /url: /travel/hotels/how-to-earn-marriott-rewards-points/
+                      - text: .
+                  - group [ref=e895]:
+                    - generic "Can I redeem Marriott Bonvoy points for cash?" [ref=e896] [cursor=pointer]
+                    - paragraph [ref=e898]: You can’t redeem Marriott Bonvoy points for cash, but you can use them to pay for part of a hotel stay using Cash + Points. You can also redeem your points for free hotel stays outright.
+                  - group [ref=e899]:
+                    - generic "How many Marriott Bonvoy points do I need for a free night?" [ref=e900] [cursor=pointer]
+                    - paragraph [ref=e902]: Depending on the specific hotel, it might cost anywhere from 5,000 points per night to over 130,000 points per night for a free night.
+                  - group [ref=e903]:
+                    - generic "How much are 25,000 Marriott Bonvoy points worth?" [ref=e904] [cursor=pointer]
+                    - paragraph [ref=e906]:
+                      - text: According to our
+                      - link "valuations of Marriott Bonvoy points" [ref=e907] [cursor=pointer]:
+                        - /url: /travel/points-and-miles-valuations/
+                      - text: at 0.7 cents each, 25,000 points are worth around $175.
+                - complementary [ref=e908]:
+                  - paragraph [ref=e910]:
+                    - generic [ref=e912]:
+                      - text: For rates and fees of the Marriott Bonvoy Bevy
+                      - superscript [ref=e913]: ®
+                      - text: American Express
+                      - superscript [ref=e914]: ®
+                      - text: Card, click
+                      - link "here" [ref=e915] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TE/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e917]:
+                      - text: For rates and fees of the Marriott Bonvoy Brilliant
+                      - superscript [ref=e918]: ®
+                      - text: American Express
+                      - superscript [ref=e919]: ®
+                      - text: card, click
+                      - link "here" [ref=e920] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TE/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                - group "Was this page helpful?" [ref=e922]:
+                  - paragraph [ref=e923]: Was this page helpful?
+                  - generic [ref=e924]:
+                    - button "Yes" [ref=e925] [cursor=pointer]
+                    - button "No" [ref=e926] [cursor=pointer]
+                - generic [ref=e927]:
+                  - figure [ref=e929]:
+                    - img "Stephen Au's image" [ref=e930]
+                  - generic [ref=e931]:
+                    - heading "About Stephen Au" [level=2] [ref=e932]:
+                      - text: About
+                      - link "Stephen Au" [ref=e933] [cursor=pointer]:
+                        - /url: /author/stephen/
+                    - paragraph [ref=e934]: Stephen is an established voice in the credit card space, with over 70 to his name. His work has been in publications like The Washington Post, and his Au Points and Awards Consulting Services is used by hundreds of clients.
+                    - list [ref=e936]:
+                      - listitem [ref=e937]:
+                        - link "Instagram icon" [ref=e938] [cursor=pointer]:
+                          - /url: https://www.instagram.com/aupacs/
+                          - img "Instagram icon" [ref=e939]
+                      - listitem [ref=e940]:
+                        - link "LinkedIn icon" [ref=e941] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/austephen/
+                          - img "LinkedIn icon" [ref=e942]
+                      - listitem [ref=e943]:
+                        - link "email icon" [ref=e944] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e945]
+                - generic [ref=e947]:
+                  - generic [ref=e948]:
+                    - paragraph [ref=e949]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e950]: ™
+                    - generic [ref=e951]:
+                      - paragraph [ref=e952]:
+                        - text: Get the
+                        - strong [ref=e953]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e954]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e955]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e956]:
+                      - textbox "First Name" [ref=e957]
+                      - textbox "Email" [ref=e958]
+                      - button "Join Now" [disabled] [ref=e959]
+                    - paragraph [ref=e961]:
+                      - text: We respect your
+                      - link "privacy" [ref=e962] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e963] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e964] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e966]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e968]
+                - generic [ref=e970]:
+                  - paragraph [ref=e971]: We Recommend
+                  - generic [ref=e972]:
+                    - generic [ref=e973]:
+                      - link "Platinum Card® from American Express" [ref=e974] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e975]
+                      - link "Terms Apply / Rates & Fees" [ref=e976] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e977] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e978]
+                        - text: Apply Now
+                    - generic [ref=e981]:
+                      - paragraph [ref=e982]:
+                        - link "Platinum Card® from American Express" [ref=e983] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e984]:
+                            - text: Platinum Card
+                            - superscript [ref=e985]: ®
+                            - text: from American Express
+                      - paragraph [ref=e987]:
+                        - generic [ref=e988]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e989] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e990]:
+                        - listitem [ref=e991]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e992]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e993]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e994]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e995]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e996]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e997]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e998] [cursor=pointer]
+            - complementary [ref=e1000]:
+              - generic [ref=e1001]:
+                - generic [ref=e1003]:
+                  - paragraph [ref=e1004]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1005] [cursor=pointer]
+                  - generic [ref=e1006]:
+                    - generic [ref=e1009]:
+                      - generic [ref=e1010]:
+                        - generic [ref=e1011]:
+                          - img [ref=e1012]
+                          - generic [ref=e1014]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1015] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1016]
+                      - generic [ref=e1017]:
+                        - paragraph [ref=e1018]:
+                          - link "Platinum Card® from American Express" [ref=e1019] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1020]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1021] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1022]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1024] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1027]:
+                      - generic [ref=e1028]:
+                        - generic [ref=e1029]:
+                          - img [ref=e1030]
+                          - generic [ref=e1032]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1033] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1034]
+                      - generic [ref=e1035]:
+                        - paragraph [ref=e1036]:
+                          - link "American Express® Gold Card" [ref=e1037] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1038]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1039] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1040]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1042] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1045]:
+                      - generic [ref=e1046]:
+                        - generic [ref=e1047]:
+                          - img [ref=e1048]
+                          - generic [ref=e1050]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1051] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1052]
+                      - generic [ref=e1053]:
+                        - paragraph [ref=e1054]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1055] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1056]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1057] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1058]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1060] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/19800/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1063]:
+                      - generic [ref=e1064]:
+                        - generic [ref=e1065]:
+                          - img [ref=e1066]
+                          - generic [ref=e1068]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1069] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/19800/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1070]
+                      - generic [ref=e1071]:
+                        - paragraph [ref=e1072]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1073] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/19800/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1074]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1075] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/19800/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1076]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1078] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/19800/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1080] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1083]: Advertisement
+      - generic [ref=e1087]:
+        - paragraph [ref=e1088]: Related Posts
+        - generic [ref=e1089]:
+          - generic [ref=e1090]:
+            - link [ref=e1091] [cursor=pointer]:
+              - /url: /travel/hotels/marriott-rewards-loyalty-program/
+              - figure [ref=e1092]:
+                - img "Marriott Bonvoy Hotel Loyalty Program – Full Review" [ref=e1094]
+            - link "Marriott Bonvoy Hotel Loyalty Program – Full Review" [ref=e1095] [cursor=pointer]:
+              - /url: /travel/hotels/marriott-rewards-loyalty-program/
+          - generic [ref=e1096]:
+            - link [ref=e1097] [cursor=pointer]:
+              - /url: /travel/hotels/marriott-transfer-partners/
+              - figure [ref=e1098]:
+                - img "Marriott Bonvoy Airline Transfer Partners and How To Use Them [2026]" [ref=e1100]
+            - link "Marriott Bonvoy Airline Transfer Partners and How To Use Them [2026]" [ref=e1101] [cursor=pointer]:
+              - /url: /travel/hotels/marriott-transfer-partners/
+          - generic [ref=e1102]:
+            - link [ref=e1103] [cursor=pointer]:
+              - /url: /credit-cards/reviews/marriott-bonvoy-boundless-credit-card/
+              - figure [ref=e1104]:
+                - img "Marriott Bonvoy Boundless Credit Card — Full Review [2026]" [ref=e1106]
+            - link "Marriott Bonvoy Boundless Credit Card — Full Review [2026]" [ref=e1107] [cursor=pointer]:
+              - /url: /credit-cards/reviews/marriott-bonvoy-boundless-credit-card/
+          - generic [ref=e1108]:
+            - link [ref=e1109] [cursor=pointer]:
+              - /url: /credit-cards/reviews/marriott-rewards-premier-credit-card/
+              - figure [ref=e1110]:
+                - img "Marriott Rewards® Premier Credit Card — Full Review [2026]" [ref=e1112]
+            - link "Marriott Rewards® Premier Credit Card — Full Review [2026]" [ref=e1113] [cursor=pointer]:
+              - /url: /credit-cards/reviews/marriott-rewards-premier-credit-card/
+              - text: Marriott Rewards
+              - superscript [ref=e1114]: ®
+              - text: Premier Credit Card — Full Review [2026]
+    - contentinfo [ref=e1115]:
+      - img [ref=e1116]
+      - img [ref=e1135]
+      - generic [ref=e1154]:
+        - generic [ref=e1155]:
+          - img [ref=e1157]
+          - generic [ref=e1162]:
+            - generic [ref=e1163]:
+              - paragraph [ref=e1164]: Upgrade your travel experience
+              - list [ref=e1165]:
+                - listitem [ref=e1166]:
+                  - link [ref=e1167] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1168]:
+                      - img "Facebook" [ref=e1169]
+                - listitem [ref=e1170]:
+                  - link [ref=e1171] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1172]:
+                      - img "Twitter" [ref=e1173]
+                - listitem [ref=e1174]:
+                  - link [ref=e1175] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1176]:
+                      - img "Instagram" [ref=e1177]
+                - listitem [ref=e1178]:
+                  - link [ref=e1179] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1180]:
+                      - img "Pinterest" [ref=e1181]
+                - listitem [ref=e1182]:
+                  - link [ref=e1183] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1184]:
+                      - img "Linkedin" [ref=e1185]
+                - listitem [ref=e1186]:
+                  - link [ref=e1187] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1188]:
+                      - img "Youtube" [ref=e1189]
+            - generic [ref=e1191]:
+              - list [ref=e1192]:
+                - listitem [ref=e1193]:
+                  - link "News" [ref=e1194] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1195]:
+                  - link "Credit Cards" [ref=e1196] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1197]:
+                  - link "Business" [ref=e1198] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1199]:
+                - listitem [ref=e1200]:
+                  - link "Finance" [ref=e1201] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1202]:
+                  - link "Travel Guides" [ref=e1203] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1204]:
+                  - link "Air Travel" [ref=e1205] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1206]:
+                - listitem [ref=e1207]:
+                  - link "Hotel Guides" [ref=e1208] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1209]:
+                  - link "Beginners" [ref=e1210] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1211]:
+                  - link "About" [ref=e1212] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1213]:
+                - listitem [ref=e1214]:
+                  - link "Podcast" [ref=e1215] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1216]:
+                  - link "Jobs & Careers" [ref=e1217] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1218]:
+                  - link "Contact Us" [ref=e1219] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1220]:
+          - paragraph [ref=e1221]:
+            - link "Privacy Policy" [ref=e1222] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1223] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1224] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1225] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1226] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1227] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1228] [cursor=pointer]
+          - paragraph [ref=e1229]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1230]:
+          - link "DMCA.com Protection Status" [ref=e1231] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1232]
+          - img "Comodo Secure Seal" [ref=e1234]
+        - generic [ref=e1235]:
+          - generic [ref=e1236]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1237]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1238]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1239]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1240]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1241] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1242]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1243]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1246]:
+    - generic [ref=e1247]:
+      - generic [ref=e1248]:
+        - button "close banner" [ref=e1249] [cursor=pointer]:
+          - img "close banner" [ref=e1250]
+        - img "company logo" [ref=e1252]
+      - generic [ref=e1253]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1255]
+        - generic [ref=e1256]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1257] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1258] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1260]:
+        - button "Manage" [ref=e1261] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1262] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1263] [cursor=pointer]
+    - generic [ref=e1265]:
+      - generic [ref=e1266]: "Powered by:"
+      - link "trustarc" [ref=e1267] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1268]

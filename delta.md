@@ -1,0 +1,1403 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "12 Best Ways To Redeem Delta SkyMiles for Max Value [2026]" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Stephen Au's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Stephen Au
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: January 19, 2026, 9:03pm CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Keri Stooksbury
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Kellie Jez
+          - figure [ref=e61]:
+            - img "12 Best Ways To Redeem Delta SkyMiles for Max Value [2026]" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e65]:
+            - generic "Jump to Section" [ref=e66] [cursor=pointer]
+          - paragraph [ref=e70]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e71] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e72]:
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - generic [ref=e76]:
+                  - heading "Key Takeaways" [level=2] [ref=e78]
+                  - list [ref=e80]:
+                    - listitem [ref=e81]: Delta SkyMiles can be redeemed for flights on Delta and its SkyTeam partners, with redemptions varying widely in value based on factors like route and timing.
+                    - listitem [ref=e82]: SkyMiles can be used to book business class flights with airlines such as Aerolíneas Argentina, Aeromexico, and Air France.
+                    - listitem [ref=e83]: Delta also partners with non-SkyTeam alliance airlines such as ITA, LATAM, and WestJet.
+                - paragraph [ref=e84]: Delta SkyMiles are often discounted because of their seemingly low value on many redemptions, but there are actually a bunch of great reward options possible!
+                - paragraph [ref=e85]:
+                  - text: Here is all the information you need about using SkyMiles with partner airlines, ways to earn miles through credit cards, and the best redemptions currently available to book award travel with the
+                  - link "Delta SkyMiles frequent flyer program" [ref=e86] [cursor=pointer]:
+                    - /url: /travel/airlines/delta-skymiles-loyalty-program/
+                  - text: .
+                - heading "Using Delta SkyMiles With Airline Partners" [level=2] [ref=e87]
+                - paragraph [ref=e88]:
+                  - text: Delta is part of the
+                  - link "SkyTeam alliance" [ref=e89] [cursor=pointer]:
+                    - /url: /travel/airlines/the-skyteam-alliance/
+                  - text: and is partnered with a few other airlines that are unaffiliated with an alliance. Virgin Atlantic and
+                  - link "LATAM" [ref=e90] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/latam-review/
+                  - text: are particularly popular for awards through Delta’s partnership with them.
+                - paragraph [ref=e91]: This alliance membership and partnership with other airlines opens up even more opportunities for redemption for you.
+                - paragraph [ref=e92]:
+                  - text: You can
+                  - link "search for SkyTeam award tickets" [ref=e93] [cursor=pointer]:
+                    - /url: /travel/airlines/searching-skyteam-award-availability/
+                  - text: and can easily redeem SkyMiles on flights with Delta Air Lines and partner carriers. Many airline partners (but not all) are available to search online. For some, you have to call Delta to confirm availability and book.
+                - paragraph [ref=e94]: When you’re searching for availability, simply elect to view the price in miles to see how many SkyMiles it will cost to take the award flight.
+                - paragraph [ref=e95]:
+                  - generic [ref=e96]:
+                    - strong [ref=e97]: "Hot Tip:"
+                    - text: Look through all options because even when sorting by lowest price,
+                    - strong [ref=e98]: cheaper options
+                    - text: on partner airlines may be placed
+                    - strong [ref=e99]: below
+                    - text: Delta options, if, for instance, the partner flight miles are cheaper but taxes and charges are higher.
+                - heading "Earning Delta SkyMiles With Partner Cards" [level=2] [ref=e100]
+                - paragraph [ref=e101]:
+                  - text: SkyMiles can be earned by signing up for various credit cards, including
+                  - link "co-branded Delta credit cards" [ref=e102] [cursor=pointer]:
+                    - /url: /credit-cards/american-express-delta-credit-cards/
+                  - text: offered by American Express.
+                - heading "American Express Delta SkyMiles Credit Cards" [level=3] [ref=e103]
+                - paragraph [ref=e104]:
+                  - text: With the following cards,
+                  - link "you can earn Delta SkyMiles" [ref=e105] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-delta-skymiles/
+                  - text: without needing to transfer your miles to SkyMiles. They also include great welcome bonus offers to help you quickly earn your first Delta award ticket.
+                - heading "Recommended Delta Cards." [level=4] [ref=e106]:
+                  - strong [ref=e107]: Recommended Delta Cards
+                  - text: .
+                - generic [ref=e109]:
+                  - generic [ref=e110]:
+                    - img [ref=e111]
+                    - generic [ref=e113]: NEW OFFER
+                  - generic [ref=e114]:
+                    - link "Delta SkyMiles® Gold American Express Card" [ref=e115] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/GoldDeltaSkyMiles_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Delta SkyMiles® Gold American Express Card" [ref=e116]
+                    - link "Terms Apply / Rates & Fees" [ref=e117] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/GoldDeltaSkyMilesTCCRF_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e118]: Terms Apply / Rates & Fees
+                    - generic [ref=e119]:
+                      - generic [ref=e120]:
+                        - img "Star rating icon" [ref=e123]
+                        - img "Star rating icon" [ref=e126]
+                        - img "Star rating icon" [ref=e129]
+                        - img "Star rating icon" [ref=e132]
+                        - generic [ref=e133]:
+                          - img "Star rating icon" [ref=e135]
+                          - img "Star rating icon" [ref=e136]
+                      - generic [ref=e137]:
+                        - generic [ref=e138]: U.P. Rating
+                        - img [ref=e141]:
+                          - img [ref=e142]
+                    - link "Apply Now" [ref=e145] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/GoldDeltaSkyMiles_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e146]
+                      - text: Apply Now
+                    - generic [ref=e149]: (at Amex's secure site)
+                    - generic [ref=e150]:
+                      - heading "Apply With Confidence" [level=4] [ref=e151]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e152]
+                      - paragraph [ref=e153]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e154]:
+                    - generic [ref=e156]:
+                      - link "Delta SkyMiles® Gold American Express Card" [ref=e158] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/gold-delta-skymiles-credit-card-american-express/
+                        - text: Delta SkyMiles
+                        - superscript [ref=e159]: ®
+                        - text: Gold American Express Card
+                      - text: This card provides bonus SkyMiles on all purchases, along with a free checked bag, priority boarding, and discounted award flights.
+                    - generic [ref=e160]:
+                      - generic [ref=e161]:
+                        - generic [ref=e162]:
+                          - generic [ref=e163]: Welcome Offer
+                          - img [ref=e166]:
+                            - img [ref=e167]
+                        - generic [ref=e170]: As High As 80,000 Miles. Find Out Your Offer.
+                      - generic [ref=e171]:
+                        - generic [ref=e173]: "UP's Offer Valuation*:"
+                        - generic [ref=e174]: Up to $960
+                    - generic [ref=e175]:
+                      - generic [ref=e176]:
+                        - generic [ref=e178]: Annual Fee
+                        - generic [ref=e179]: $0 introductory annual fee for the first year, then $150.
+                      - generic [ref=e180]:
+                        - generic [ref=e182]: APR
+                        - generic [ref=e183]: 19.49%-28.49% Variable
+                      - generic [ref=e184]:
+                        - generic [ref=e185]:
+                          - generic [ref=e186]: Credit Recommended
+                          - img [ref=e189]:
+                            - img [ref=e190]
+                        - generic [ref=e193]: Good to Excellent
+                    - generic [ref=e194]:
+                      - group [ref=e195]:
+                        - generic "Why We Like This Card" [ref=e196] [cursor=pointer]
+                      - group [ref=e197]:
+                        - generic "Pros & Cons" [ref=e198] [cursor=pointer]
+                      - group [ref=e199]:
+                        - generic "Card Highlights" [ref=e200] [cursor=pointer]
+                - generic [ref=e202]:
+                  - generic [ref=e203]:
+                    - img [ref=e204]
+                    - generic [ref=e206]: NEW OFFER
+                  - generic [ref=e207]:
+                    - link "Delta SkyMiles® Platinum American Express Card" [ref=e208] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumDelta_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Delta SkyMiles® Platinum American Express Card" [ref=e209]
+                    - link "Terms Apply / Rates & Fees" [ref=e210] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumDeltaTCCRF_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e211]: Terms Apply / Rates & Fees
+                    - generic [ref=e212]:
+                      - generic [ref=e213]:
+                        - img "Star rating icon" [ref=e216]
+                        - img "Star rating icon" [ref=e219]
+                        - img "Star rating icon" [ref=e222]
+                        - img "Star rating icon" [ref=e225]
+                        - generic [ref=e226]:
+                          - img "Star rating icon" [ref=e228]
+                          - img "Star rating icon" [ref=e229]
+                      - generic [ref=e230]:
+                        - generic [ref=e231]: U.P. Rating
+                        - img [ref=e234]:
+                          - img [ref=e235]
+                    - link "Apply Now" [ref=e238] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumDelta_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e239]
+                      - text: Apply Now
+                    - generic [ref=e242]: (at Amex's secure site)
+                    - generic [ref=e243]:
+                      - heading "Apply With Confidence" [level=4] [ref=e244]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e245]
+                      - paragraph [ref=e246]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e247]:
+                    - generic [ref=e249]:
+                      - link "Delta SkyMiles® Platinum American Express Card" [ref=e251] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/platinum-delta-skymiles-credit-card-american-express/
+                        - text: Delta SkyMiles
+                        - superscript [ref=e252]: ®
+                        - text: Platinum American Express Card
+                      - text: Frequent Delta travelers will enjoy this card's bonus categories, benefits, and ability to reach higher levels of elite status.
+                    - generic [ref=e253]:
+                      - generic [ref=e254]:
+                        - generic [ref=e255]:
+                          - generic [ref=e256]: Welcome Offer
+                          - img [ref=e259]:
+                            - img [ref=e260]
+                        - generic [ref=e263]: As High As 90,000 Miles. Find Out Your Offer.
+                      - generic [ref=e264]:
+                        - generic [ref=e266]: "UP's Offer Valuation*:"
+                        - generic [ref=e267]: Up to $1,080
+                    - generic [ref=e268]:
+                      - generic [ref=e269]:
+                        - generic [ref=e271]: Annual Fee
+                        - generic [ref=e272]: $350
+                      - generic [ref=e273]:
+                        - generic [ref=e275]: APR
+                        - generic [ref=e276]: 19.49%-28.49% Variable
+                      - generic [ref=e277]:
+                        - generic [ref=e278]:
+                          - generic [ref=e279]: Credit Recommended
+                          - img [ref=e282]:
+                            - img [ref=e283]
+                        - generic [ref=e286]: Good to Excellent
+                    - generic [ref=e287]:
+                      - group [ref=e288]:
+                        - generic "Why We Like This Card" [ref=e289] [cursor=pointer]
+                      - group [ref=e290]:
+                        - generic "Pros & Cons" [ref=e291] [cursor=pointer]
+                      - group [ref=e292]:
+                        - generic "Card Highlights" [ref=e293] [cursor=pointer]
+                - generic [ref=e295]:
+                  - generic [ref=e296]:
+                    - img [ref=e297]
+                    - generic [ref=e299]: NEW OFFER
+                  - generic [ref=e300]:
+                    - link "Delta SkyMiles® Reserve American Express Card" [ref=e301] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexDeltaReserve_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Delta SkyMiles® Reserve American Express Card" [ref=e302]
+                    - link "Terms Apply / Rates & Fees" [ref=e303] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexDeltaReserveTCCRF_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e304]: Terms Apply / Rates & Fees
+                    - generic [ref=e305]:
+                      - generic [ref=e306]:
+                        - img "Star rating icon" [ref=e309]
+                        - img "Star rating icon" [ref=e312]
+                        - img "Star rating icon" [ref=e315]
+                        - img "Star rating icon" [ref=e318]
+                        - generic [ref=e319]:
+                          - img "Star rating icon" [ref=e321]
+                          - img "Star rating icon" [ref=e323]
+                      - generic [ref=e324]:
+                        - generic [ref=e325]: U.P. Rating
+                        - img [ref=e328]:
+                          - img [ref=e329]
+                    - link "Apply Now" [ref=e332] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexDeltaReserve_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e333]
+                      - text: Apply Now
+                    - generic [ref=e336]: (at Amex's secure site)
+                    - generic [ref=e337]:
+                      - heading "Apply With Confidence" [level=4] [ref=e338]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e339]
+                      - paragraph [ref=e340]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e341]:
+                    - generic [ref=e343]:
+                      - link "Delta SkyMiles® Reserve American Express Card" [ref=e345] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/delta-reserve-credit-card-american-express/
+                        - text: Delta SkyMiles
+                        - superscript [ref=e346]: ®
+                        - text: Reserve American Express Card
+                      - text: Delta loyalists will love the fast track to Delta elite status, lounge access, baggage benefits, and upgrade priority with the Delta Reserve card.
+                    - generic [ref=e347]:
+                      - generic [ref=e348]:
+                        - generic [ref=e349]:
+                          - generic [ref=e350]: Welcome Offer
+                          - img [ref=e353]:
+                            - img [ref=e354]
+                        - generic [ref=e357]: As High As 100,000 Bonus Miles. Find Out Your Offer.
+                      - generic [ref=e358]:
+                        - generic [ref=e360]: "UP's Offer Valuation*:"
+                        - generic [ref=e361]: Up to $1,200
+                    - generic [ref=e362]:
+                      - generic [ref=e363]:
+                        - generic [ref=e365]: Annual Fee
+                        - generic [ref=e366]: $650
+                      - generic [ref=e367]:
+                        - generic [ref=e369]: APR
+                        - generic [ref=e370]: 19.49%-28.49% Variable
+                      - generic [ref=e371]:
+                        - generic [ref=e372]:
+                          - generic [ref=e373]: Credit Recommended
+                          - img [ref=e376]:
+                            - img [ref=e377]
+                        - generic [ref=e380]: Good to Excellent
+                    - generic [ref=e381]:
+                      - group [ref=e382]:
+                        - generic "Why We Like This Card" [ref=e383] [cursor=pointer]
+                      - group [ref=e384]:
+                        - generic "Pros & Cons" [ref=e385] [cursor=pointer]
+                      - group [ref=e386]:
+                        - generic "Card Highlights" [ref=e387] [cursor=pointer]
+                - paragraph [ref=e388]:
+                  - text: In addition to the Delta-specific cards, other
+                  - link "American Express cards" [ref=e389] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/american-express-card-levels/
+                  - text: and other issuer cards will earn points that you can transfer to Delta.
+                - heading "American Express Membership Rewards Credit Cards" [level=3] [ref=e390]
+                - paragraph [ref=e391]:
+                  - text: If you like
+                  - link "earning Amex Membership Rewards" [ref=e392] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-american-express-membership-rewards-points/
+                  - text: ", Delta is an"
+                  - link "Amex transfer partner" [ref=e393] [cursor=pointer]:
+                    - /url: /credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: at a 1:1 ratio. These cards also include great
+                  - link "welcome bonus offers" [ref=e394] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/sign-up-bonuses/
+                  - text: .
+                - heading "Recommended American Express Cards (Personal)" [level=4] [ref=e395]:
+                  - strong [ref=e396]: Recommended American Express Cards (Personal)
+                - generic [ref=e398]:
+                  - generic [ref=e399]:
+                    - img [ref=e400]
+                    - generic [ref=e402]: BEST LOUNGE CARD
+                  - generic [ref=e403]:
+                    - link "Platinum Card® from American Express" [ref=e404] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Platinum Card® from American Express" [ref=e405]
+                    - link "Terms Apply / Rates & Fees" [ref=e406] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e407]: Terms Apply / Rates & Fees
+                    - generic [ref=e408]:
+                      - generic [ref=e409]:
+                        - img "Star rating icon" [ref=e412]
+                        - img "Star rating icon" [ref=e415]
+                        - img "Star rating icon" [ref=e418]
+                        - img "Star rating icon" [ref=e421]
+                        - generic [ref=e422]:
+                          - img "Star rating icon" [ref=e424]
+                          - img "Star rating icon" [ref=e426]
+                      - generic [ref=e427]:
+                        - generic [ref=e428]: U.P. Rating
+                        - img [ref=e431]:
+                          - img [ref=e432]
+                    - link "Apply Now" [ref=e435] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e436]
+                      - text: Apply Now
+                    - generic [ref=e439]: (at Amex's secure site)
+                    - generic [ref=e440]:
+                      - heading "Apply With Confidence" [level=4] [ref=e441]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e442]
+                      - paragraph [ref=e443]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e444]:
+                    - generic [ref=e446]:
+                      - link "Platinum Card® from American Express" [ref=e448] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-platinum-card/
+                        - text: Platinum Card
+                        - superscript [ref=e449]: ®
+                        - text: from American Express
+                      - text: The Amex Platinum reigns supreme for luxury travel, offering the best airport lounge access plus generous statement credits, and complimentary elite status.
+                    - generic [ref=e450]:
+                      - generic [ref=e451]:
+                        - generic [ref=e452]:
+                          - generic [ref=e453]: Welcome Offer
+                          - img [ref=e456]:
+                            - img [ref=e457]
+                        - generic [ref=e460]: As High As 175,000 Points. Find Out Your Offer.
+                      - generic [ref=e461]:
+                        - generic [ref=e463]: "UP's Offer Valuation*:"
+                        - generic [ref=e464]: Up to $3,850
+                    - generic [ref=e465]:
+                      - generic [ref=e466]:
+                        - generic [ref=e468]: Annual Fee
+                        - generic [ref=e469]: $895
+                      - generic [ref=e470]:
+                        - generic [ref=e472]: APR
+                        - generic [ref=e473]: See Pay Over Time APR
+                      - generic [ref=e474]:
+                        - generic [ref=e475]:
+                          - generic [ref=e476]: Credit Recommended
+                          - img [ref=e479]:
+                            - img [ref=e480]
+                        - generic [ref=e483]: Good to Excellent
+                    - generic [ref=e484]:
+                      - group [ref=e485]:
+                        - generic "Why We Like This Card" [ref=e486] [cursor=pointer]
+                      - group [ref=e487]:
+                        - generic "Pros & Cons" [ref=e488] [cursor=pointer]
+                      - group [ref=e489]:
+                        - generic "Card Highlights" [ref=e490] [cursor=pointer]
+                - generic [ref=e492]:
+                  - generic [ref=e493]:
+                    - img [ref=e494]
+                    - generic [ref=e496]: BEST FOR DINING
+                  - generic [ref=e497]:
+                    - link "American Express® Gold Card" [ref=e498] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "American Express® Gold Card" [ref=e499]
+                    - link "Terms Apply / Rates & Fees" [ref=e500] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e501]: Terms Apply / Rates & Fees
+                    - generic [ref=e502]:
+                      - generic [ref=e503]:
+                        - img "Star rating icon" [ref=e506]
+                        - img "Star rating icon" [ref=e509]
+                        - img "Star rating icon" [ref=e512]
+                        - img "Star rating icon" [ref=e515]
+                        - generic [ref=e516]:
+                          - img "Star rating icon" [ref=e518]
+                          - img "Star rating icon" [ref=e520]
+                      - generic [ref=e521]:
+                        - generic [ref=e522]: U.P. Rating
+                        - img [ref=e525]:
+                          - img [ref=e526]
+                    - link "Apply Now" [ref=e529] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e530]
+                      - text: Apply Now
+                    - generic [ref=e533]: (at Amex's secure site)
+                    - generic [ref=e534]:
+                      - heading "Apply With Confidence" [level=4] [ref=e535]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e536]
+                      - paragraph [ref=e537]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e538]:
+                    - generic [ref=e540]:
+                      - link "American Express® Gold Card" [ref=e542] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-gold-card/
+                        - text: American Express
+                        - superscript [ref=e543]: ®
+                        - text: Gold Card
+                      - text: This is the best card for food lovers who dine out at restaurants (worldwide), order take-out and want big rewards at U.S. supermarkets!
+                    - generic [ref=e544]:
+                      - generic [ref=e545]:
+                        - generic [ref=e546]:
+                          - generic [ref=e547]: Welcome Offer
+                          - img [ref=e550]:
+                            - img [ref=e551]
+                        - generic [ref=e554]: As High As 100,000 Points. Find Out Your Offer.
+                      - generic [ref=e555]:
+                        - generic [ref=e557]: "UP's Offer Valuation*:"
+                        - generic [ref=e558]: Up to $2,200
+                    - generic [ref=e559]:
+                      - generic [ref=e560]:
+                        - generic [ref=e562]: Annual Fee
+                        - generic [ref=e563]: $325
+                      - generic [ref=e564]:
+                        - generic [ref=e566]: APR
+                        - generic [ref=e567]: See Pay Over Time APR
+                      - generic [ref=e568]:
+                        - generic [ref=e569]:
+                          - generic [ref=e570]: Credit Recommended
+                          - img [ref=e573]:
+                            - img [ref=e574]
+                        - generic [ref=e577]: Good to Excellent
+                    - generic [ref=e578]:
+                      - group [ref=e579]:
+                        - generic "Why We Like This Card" [ref=e580] [cursor=pointer]
+                      - group [ref=e581]:
+                        - generic "Pros & Cons" [ref=e582] [cursor=pointer]
+                      - group [ref=e583]:
+                        - generic "Card Highlights" [ref=e584] [cursor=pointer]
+                - paragraph [ref=e585]:
+                  - strong [ref=e586]: Business Owner?
+                  - text: Check out our article on the best
+                  - link "Amex business cards" [ref=e587] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-amex-business-credit-cards/
+                  - text: that earn Membership Rewards.
+                - heading "Marriott Bonvoy Credit Cards" [level=3] [ref=e588]
+                - paragraph [ref=e589]:
+                  - text: You can also
+                  - link "earn Marriott Bonvoy points" [ref=e590] [cursor=pointer]:
+                    - /url: /travel/hotels/how-to-earn-marriott-rewards-points/
+                  - text: and
+                  - link "transfer Marriott Bonvoy points" [ref=e591] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-transfer-partners/
+                  - text: to Delta at a transfer rate of 3:1. Check out our list of the
+                  - link "best Marriott credit cards" [ref=e592] [cursor=pointer]:
+                    - /url: /credit-cards/best-marriott-bonvoy-credit-cards/
+                  - text: in our detailed guide.
+                - paragraph [ref=e594]: Advertisement
+                - heading "The 12 Best Ways To Use Your Delta SkyMiles" [level=2] [ref=e597]
+                - paragraph [ref=e598]:
+                  - text: Since Delta
+                  - strong [ref=e599]: doesn’t publish an official award chart anymore
+                  - text: ", it can be tough to determine the lowest price available for a given flight you want to book."
+                - paragraph [ref=e600]:
+                  - generic [ref=e601]:
+                    - strong [ref=e602]: "Hot Tip:"
+                    - text: When you search for award availability, you should
+                    - strong [ref=e603]: select the 5-week flexible award option
+                    - text: to improve your chances of finding a low-level award.
+                - paragraph [ref=e604]: From a 5-week search, drill down to specific dates to verify availability since the calendar is not perfect. Some days may not show the cheapest option on the calendar.
+                - paragraph [ref=e605]: Even if you don’t have flexibility, finding the lowest price will at least tell you how much of a premium you’ll be paying to fly on your ideal date and might lead you to investigate booking with other airlines instead.
+                - paragraph [ref=e606]:
+                  - strong [ref=e607]: Delta has imposed much higher prices on most awards booked with 21 days of travel (known as close-in bookings).
+                  - text: Delta has also raised the lowest award prices on partners compared to travel on Delta.
+                - paragraph [ref=e608]:
+                  - text: For the below redemptions, the SkyMiles amount mentioned is generally accepted as the lowest level mileage price that Delta currently charges.
+                  - strong [ref=e609]: If you randomly search on any given day, you may see significantly higher prices.
+                  - text: However, the SkyMiles price for Delta partners will be pretty consistent.
+                - paragraph [ref=e610]:
+                  - text: When you search on specific dates, make sure to
+                  - strong [ref=e611]: sort by price
+                  - text: from the drop-down menu since that’s not the default sort option.
+                - heading "1. Delta One-way Awards Within the U.S. for as Low as 5,000 SkyMiles" [level=3] [ref=e612]
+                - 'figure "Delta Airbus A220 economy class. Image Credit: Greg Stone" [ref=e614]':
+                  - img "Delta Airbus A220 Economy Class Seat with Tray Table Down" [ref=e616]
+                  - generic [ref=e617]:
+                    - text: "Delta Airbus A220 economy class. Image Credit:"
+                    - link "Greg Stone" [ref=e618] [cursor=pointer]:
+                      - /url: /author/greg/
+                - paragraph [ref=e619]:
+                  - text: It is actually possible to find
+                  - strong [ref=e620]: Delta flights as low as 5,000 SkyMiles one-way
+                  - text: on select routes like San Francisco (SFO) to Seattle (SEA).
+                - paragraph [ref=e621]: Sometimes, these are announced as limited-time flash sales; other times, they pop up when cash ticket prices are cheap.
+                - paragraph [ref=e622]: These low-cost flights can be a great deal, especially last minute when Delta flight prices tend to be higher. However, if you’re searching a month out on this route, you will probably see one-way prices around $89, making the redemption mediocre.
+                - paragraph [ref=e623]:
+                  - text: When considering transferring your
+                  - link "American Express Membership Rewards" [ref=e624] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: "points to Delta, there is something else you need to think about:"
+                  - strong [ref=e625]: American Express charges a fee to transfer Membership Rewards to any U.S.-based program, including Delta SkyMiles
+                  - text: .
+                - paragraph [ref=e626]: "The fee is quite small: only 0.06 cents per point up to a maximum of $99. If Delta has award availability on a flight you want, this fee shouldn’t be enough to stop you from transferring your SkyMiles and booking the ticket, but it’s something to be aware of nonetheless."
+                - heading "2. Virgin Atlantic to London in Upper Class for 120,000 SkyMiles Each Way" [level=3] [ref=e627]
+                - 'figure "Virgin Atlantic A350 upper class. Image Credit: Greg Stone" [ref=e629]':
+                  - img "Virgin Atlantic Airbus A350 Upper Class Seat During the Morning" [ref=e631]
+                  - generic [ref=e632]: "Virgin Atlantic A350 upper class. Image Credit: Greg Stone"
+                - paragraph [ref=e633]:
+                  - text: Many people rave about
+                  - link "Virgin Atlantic’s Upper Class" [ref=e634] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-virgin-atlantic-upper-class/
+                  - text: (its business class) experience, especially on the ground at London-Heathrow. For flights across the Atlantic Ocean, you can really get the full experience of its lie-flat seats and great food.
+                - paragraph [ref=e635]:
+                  - text: There are a few different programs that will grant you access to book award travel on Virgin Atlantic.
+                  - strong [ref=e636]: One of the best redemptions available is to use Delta SkyMiles.
+                - paragraph [ref=e637]:
+                  - text: Tickets from the U.S. to London are available on both Delta and Virgin Atlantic, but you generally won’t find low-level availability for Delta’s own flights and should
+                  - link "look to fly on Virgin Atlantic" [ref=e638] [cursor=pointer]:
+                    - /url: /travel/airlines/virgin-atlantic-review/
+                  - text: .
+                - paragraph [ref=e639]:
+                  - text: When you do your search on
+                  - link "delta.com" [ref=e640] [cursor=pointer]:
+                    - /url: http://Delta.com
+                  - text: ", look for"
+                  - strong [ref=e641]: VS
+                  - text: in the corner of the box displaying the flight details. The
+                  - strong [ref=e642]: VS
+                  - text: indicates it’s a flight on Virgin Atlantic.
+                - 'figure "Image Credit: Delta" [ref=e644]':
+                  - img "Virgin Atlantic Delta SkyMiles" [ref=e646]
+                  - generic [ref=e647]: "Image Credit: Delta"
+                - paragraph [ref=e648]:
+                  - text: Your lowest fare from any major U.S. city to London one-way in economy class is 35,000 SkyMiles or 120,000 SkyMiles in Upper Class. That’s a
+                  - strong [ref=e649]: round-trip flight in economy for as low as 70,000 SkyMiles
+                  - text: ", even from the West Coast!"
+                - paragraph [ref=e650]: You can connect onward to anywhere else in Europe, provided there’s availability with either Virgin Atlantic or another Delta partner. Virgin Atlantic flies nonstop from Atlanta (ATL), Detroit (DTW), New York (JFK), San Francisco (SFO), and a handful of other U.S. cities.
+                - paragraph [ref=e651]: Get the greatest value out of the Upper Class experience by flying from the West Coast since your flight time will be 10.5 hours instead of 7 from the East Coast. The number of SkyMiles you’ll need to redeem your ticket is generally the same regardless of flight time.
+                - paragraph [ref=e652]: It’s even better to fly Virgin Atlantic back to the U.S. from Europe because you’ll have access to the wonderful Virgin Atlantic Clubhouse during your stay at London Heathrow. You’ll only want to book Europe to the U.S. as part of a round-trip flight starting in the U.S. because Delta sneakily adds a huge cash surcharge for awards originating in Europe.
+                - paragraph [ref=e653]: "The new Upper Class product can be found on:"
+                - list [ref=e654]:
+                  - listitem [ref=e655]:
+                    - strong [ref=e656]: London-Heathrow (LHR) – Atlanta (ATL)
+                  - listitem [ref=e657]:
+                    - strong [ref=e658]: London-Heathrow (LHR) – Los Angeles (LAX)
+                  - listitem [ref=e659]:
+                    - strong [ref=e660]: London-Heathrow (LHR) – New York (JFK)
+                  - listitem [ref=e661]:
+                    - strong [ref=e662]: London-Heathrow (LHR) – Orlando (MCO)
+                - paragraph [ref=e663]:
+                  - generic [ref=e664]:
+                    - strong [ref=e665]: "Hot Tip:"
+                    - text: Consider signing up for
+                    - link "Global Entry" [ref=e666] [cursor=pointer]:
+                      - /url: /travel/global-entry-program/
+                    - text: before making your journey to enjoy quickly passing through customs when you come back to the U.S. You can get the $100 fee
+                    - link "reimbursed with numerous cards" [ref=e667] [cursor=pointer]:
+                      - /url: /credit-cards/best-credit-cards-for-global-entry-credit/
+                    - text: ", including the"
+                    - link "Amex Platinum card" [ref=e668] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/reviews/american-express-platinum-card/
+                    - text: .
+                - heading "3. Book Air France Business Class for 120,000 SkyMiles Each Way" [level=3] [ref=e669]
+                - figure "Air France exudes French elegance and classic luxury. Image Credit Juan Ruiz" [ref=e671]:
+                  - img "Air France Business Class A350 New Business Class" [ref=e673]
+                  - generic [ref=e674]: Air France exudes French elegance and classic luxury. Image Credit Juan Ruiz
+                - paragraph [ref=e675]:
+                  - text: Air France business class space is released to Air France
+                  - link "Flying Blue members" [ref=e676] [cursor=pointer]:
+                    - /url: /travel/airlines/flying-blue-air-france-klm-loyalty-program/
+                  - text: 359 days ahead of time, and the same space is generally released to Delta SkyMiles members 331 days before the departure date. Still, if you have Delta SkyMiles, you can certainly use them on
+                  - link "Air France business class flights" [ref=e677] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-air-france-business-class/
+                  - text: .
+                - paragraph [ref=e678]: Even if Paris isn’t your final destination, you can connect onward to most other areas of Europe and beyond.
+                - paragraph [ref=e679]: Flights from the U.S. to Europe in economy can be booked for as low as 35,000 SkyMiles one-way, while one-way in business class will cost 120,000 SkyMiles. Just keep in mind that taxes and fees will be around $6 when departing the U.S. and $100 when returning to the U.S. from Europe.
+                - heading "4. Aerolíneas Argentina to Patagonia for 100,000 SkyMiles in Business Class Each Way" [level=3] [ref=e680]
+                - 'figure "Use your SkyMiles to fly to beautiful Patagonia in Aerolíneas Argentina economy class. Image Credit: Ryan Smith" [ref=e682]':
+                  - img "Aerolineas Argentinas B737 aisle back view" [ref=e684]
+                  - generic [ref=e685]: "Use your SkyMiles to fly to beautiful Patagonia in Aerolíneas Argentina economy class. Image Credit: Ryan Smith"
+                - paragraph [ref=e686]: There are limited flights directly from the U.S. (only New York (JFK) or Miami (MIA)), but the options within South America are numerous. Since LATAM is one of the only other airlines dominating the region, SkyMiles are very valuable for flights within South America on Aerolíneas Argentinas.
+                - paragraph [ref=e687]:
+                  - strong [ref=e688]: Patagonia is a very popular destination
+                  - text: ", especially for those inclined to spend time in the great outdoors. You can fly to El Calafate (FTE) in economy for 35,000 SkyMiles one-way or 100,000 SkyMiles in business class."
+                - paragraph [ref=e689]: This flight has a layover in Buenos Aires (EZE), so if you don’t want to go all the way to Patagonia, you can fly to Buenos Aires for the same number of SkyMiles.
+                - heading "5. Aeromexico to Mexico City and Madrid From 82,500 SkyMiles in Economy Round-trip" [level=3] [ref=e690]
+                - 'figure "Aeromexico business class. Image Credit: Nick Ellis" [ref=e692]':
+                  - img "Aeromexico B7879 Business Class Seat Reclined" [ref=e694]
+                  - generic [ref=e695]: "Aeromexico business class. Image Credit: Nick Ellis"
+                - paragraph [ref=e696]: Delta’s partnership with Aeromexico is one of the few that has been relatively unaffected by several recent devaluations in Delta SkyMiles.
+                - paragraph [ref=e697]:
+                  - text: You can fly to Mexico or (if you’re really feeling adventurous) do a multi-city tour to Mexico and then to Europe.
+                  - strong [ref=e698]: Mexico City (MEX) has great award availability on flights to London (LHR), Paris (CDG), and Madrid (MAD).
+                - paragraph [ref=e699]: When the option is available, choose to view the 5-week flexible dates calendar in your search. This will help you find the lowest SkyMiles award ticket prices.
+                - paragraph [ref=e700]: You’ll need to book your flight to Mexico, then to Europe, and finally back to the U.S. through Delta’s advanced multi-city search option. Multi-city will only let you search specific dates, and you may end up on a different airline than AeroMexico on your way back from Europe to the U.S. (e.g., Delta, Aeroflot, etc.)
+                - paragraph [ref=e701]: "If you were to put together a multi-city itinerary like this, you would pay:"
+                - list [ref=e702]:
+                  - listitem [ref=e703]: New York (JFK) – Mexico City (MEX) one-way in economy class for 20,000 SkyMiles or in business class for 35,000 SkyMiles
+                  - listitem [ref=e704]: New York (JFK) – Mexico City (MEX) – Madrid (MAD) – New York (JFK) in economy class for 90,000 SkyMiles or in business class for 170,000 SkyMiles
+                - paragraph [ref=e705]:
+                  - generic [ref=e706]:
+                    - strong [ref=e707]: "Hot Tip:"
+                    - text: When putting together a multi-city itinerary with Delta, it makes sense to
+                    - link "search both the entire itinerary as a multi-city search" [ref=e708] [cursor=pointer]:
+                      - /url: /travel/ita-matrix/
+                    - text: and each segment individually. In some cases, the price may be better booking one-way versus the other.
+                - heading "6. Fly Asian Airlines in Business Class for 120,000 SkyMiles Each Way" [level=3] [ref=e709]
+                - 'figure "China Airlines business class. Image Credit: Nick Ellis" [ref=e711]':
+                  - img "China Airlines A350 Business Class Cabin View" [ref=e713]
+                  - generic [ref=e714]:
+                    - text: "China Airlines business class. Image Credit:"
+                    - link "Nick Ellis" [ref=e715] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/nick/
+                - paragraph [ref=e716]:
+                  - text: China Airlines is consistently praised for its business class product.
+                  - strong [ref=e717]: China Airlines is generally thought to offer one of the best airline experiences.
+                - paragraph [ref=e718]: When using your Delta SkyMiles, you have the ability to book China Airlines (based in Taipei), China Eastern (based in Shanghai), and Xiamen Airlines (based in Xiamen) one-way in business class for only 120,000 SkyMiles or economy class for only 50,000 SkyMiles.
+                - paragraph [ref=e719]:
+                  - text: All of these airlines can be searched on
+                  - link "delta.com" [ref=e720] [cursor=pointer]:
+                    - /url: http://delta.com
+                  - text: for award availability. However, results for China Eastern frequently display award availability that isn’t there (it will have an error if you try to purchase), and connecting itineraries often incorrectly price each segment additively rather than as a single one-way.
+                - paragraph [ref=e721]: Calling Delta won’t help with availability, though sometimes the agents can fix incorrect pricing. Using another SkyTeam program like Air France/KLM Flying Blue or Korean Air SKYPASS is a backup to booking these airlines.
+                - paragraph [ref=e722]: With China Airlines and Xiamen Airlines, you usually won’t encounter these pricing and ticketing problems.
+                - heading "7. Fly From Japan to Australia or New Zealand in Business Class for 75,000 SkyMiles" [level=3] [ref=e723]
+                - 'figure "Korean Air business class Prestige Suites. Image Credit: Stella Shon" [ref=e725]':
+                  - img "Korean Air A321neo Prestige Class" [ref=e727]
+                  - generic [ref=e728]:
+                    - text: "Korean Air business class Prestige Suites. Image Credit:"
+                    - link "Stella Shon" [ref=e729] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/stella/
+                - paragraph [ref=e730]:
+                  - text: If you want to tack on an extra destination to your trip, flying from Japan to Australia or New Zealand with Korean Air in business class is a great way to
+                  - strong [ref=e731]: experience a taste of luxury for fewer SkyMiles
+                  - text: .
+                - paragraph [ref=e732]: Overall, you’ll end up with about 13 hours of flight time, plus a layover in Korean Air’s Seoul-Incheon hub with a great lounge to visit. It is possible to work in a longer layover and have time to head out into Seoul for a day of sightseeing as well.
+                - heading "8. Add a Side Trip to Vietnam for 45,000 SkyMiles in Business Class" [level=3] [ref=e733]
+                - 'figure "Vietnam Airlines 787-9 business class. Image Credit: Stephen Au" [ref=e735]':
+                  - link "Vietnam Airlines 787-9 business class seat" [ref=e736] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/05/Vietnam-Airlines-787-9-business-class-seat-e1557029563894.jpg?auto=webp&disable=upscale
+                    - img "Vietnam Airlines 787-9 business class seat" [ref=e738]
+                  - generic [ref=e739]: "Vietnam Airlines 787-9 business class. Image Credit: Stephen Au"
+                - paragraph [ref=e740]:
+                  - text: Vietnam Airlines is part of SkyTeam, which means you have the option to
+                  - strong [ref=e741]: redeem your Delta SkyMiles for flights to and
+                  - strong [ref=e742]: within Vietnam
+                  - text: .
+                - paragraph [ref=e743]: If you were already planning on flying to Japan, you can add a side trip to Vietnam from Japan for only 17,500 SkyMiles in economy or 45,000 SkyMiles in business class on Vietnam Airlines.
+                - heading "9. Head to Guam for 80,000 SkyMiles in Business Class" [level=3] [ref=e744]
+                - 'figure "Korean Air business class. Image Credit: Stella Shon" [ref=e746]':
+                  - img "Korean Air Business Class" [ref=e748]
+                  - generic [ref=e749]: "Korean Air business class. Image Credit: Stella Shon"
+                - paragraph [ref=e750]:
+                  - text: Availability might not be the easiest to find, but if you can get it, you surely won’t regret using your Delta SkyMiles to get to Guam,
+                  - strong [ref=e751]: one of the most unique Pacific Islands
+                  - text: .
+                - paragraph [ref=e752]: You’ll save a boatload of money by redeeming SkyMiles for your flights — economy class redemptions from the U.S. start at 35,000 SkyMiles and business class redemptions start at 80,000 SkyMiles.
+                - paragraph [ref=e753]: There’s a good chance you’ll end up flying Korean Air to Guam, and their business class will ensure that you hit the ground running.
+                - heading "10. Fly Garuda Indonesia from Indonesia to Amsterdam for 95,000 SkyMiles in Business Class" [level=3] [ref=e754]
+                - 'figure "Garuda Indonesia business class. Image Credit: Garuda Indonesia" [ref=e756]':
+                  - img "Garuda Indonesia business class flight attendant" [ref=e758]
+                  - generic [ref=e759]: "Garuda Indonesia business class. Image Credit: Garuda Indonesia"
+                - paragraph [ref=e760]: Garuda Indonesia’s long-haul footprint is shrinking. Known for its exceptional first class product, this airline also has a business class product worth trying.
+                - paragraph [ref=e761]: For 95,000 SkyMiles plus minimal taxes and fees, you can fly nearly 14 hours on Garuda’s only ultra-long-haul route from Jakarta (CGK) to Amsterdam (AMS).
+                - paragraph [ref=e762]: "You’ll pay around $30 in taxes and fees, which will definitely keep your out-of-pocket costs low. With generous business class award availability, you’ll be all set to try one of the world’s most underrated business class products in no time. This specific route is operated by a 777-300ER, and it is one of the only ones that has a 2-class cabin: business and economy."
+                - paragraph [ref=e763]: Garuda Indonesia’s business class seats are arranged in a staggered 1-2-1 configuration, which is similar to that of Asiana Airlines.
+                - heading "11. Access Extra Award Availability on Delta One Suites to Europe Far in Advance for 120,000 SkyMiles" [level=3] [ref=e764]
+                - 'figure "Delta One Suites A350-900. Image Credit: Stephen Au" [ref=e766]':
+                  - img "Delta One Suites A350-900 rear view" [ref=e768]
+                  - generic [ref=e769]: "Delta One Suites A350-900. Image Credit: Stephen Au"
+                - paragraph [ref=e770]:
+                  - text: Delta has a number of nonstop routes to Europe with
+                  - link "Delta One Suites" [ref=e771] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-delta-first-class/
+                  - text: ", but to find flights with loads of award availability fit for family travel in one of the hottest business class products on some of the most lucrative airline routes takes quite a bit of work."
+                - paragraph [ref=e772]: If your travel dates are flexible, there’s a good chance you’ll be able to take your entire family to Europe on Delta One Suites for as little as 120,000 SkyMiles per person. Keep in mind that these tickets are generally very difficult to find, but those who work diligently can redeem 120,000 SkyMiles instead of 320,000 SkyMiles per person.
+                - paragraph [ref=e773]: "Here are some routes to focus your search on:"
+                - list [ref=e774]:
+                  - listitem [ref=e775]:
+                    - strong [ref=e776]: Atlanta (ATL) – Paris (CDG)
+                  - listitem [ref=e777]:
+                    - strong [ref=e778]: Detroit (DTW) – Amsterdam (AMS)
+                  - listitem [ref=e779]:
+                    - strong [ref=e780]: Minneapolis (MSP) – London-Heathrow (LHR)
+                - heading "12. Fly From the U.S. to The Maldives in Business Class for 100,000 SkyMiles" [level=3] [ref=e781]
+                - 'figure "Saudia business class. Image Credit: Saudia" [ref=e783]':
+                  - img "Saudia business class" [ref=e785]
+                  - generic [ref=e786]: "Saudia business class. Image Credit: Saudia"
+                - paragraph [ref=e787]:
+                  - text: Another amazing use of SkyMiles is to fly to the Maldives in business class on a number of transpacific or transatlantic routes. For upwards of 20 to 24 hours in business class seats, it’s a hugely worthwhile redemption to consider — you just need to be creative about
+                  - link "finding routes to the Maldives" [ref=e788] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-and-stay-in-the-maldives/
+                  - text: "!"
+                - paragraph [ref=e789]: "Check out some great example redemptions:"
+                - list [ref=e790]:
+                  - listitem [ref=e791]:
+                    - strong [ref=e792]: Chicago (ORD) – Rome (FCO) – Malé (MLE)
+                    - text: on ITA business class
+                  - listitem [ref=e793]:
+                    - strong [ref=e794]: Los Angeles (LAX) – Paris (CDG) – Malé (MLE)
+                    - text: on Air France business class
+                  - listitem [ref=e795]:
+                    - strong [ref=e796]: Miami (MIA) – Moscow (SVO) – Malé (MLE)
+                    - text: on Aeroflot business class
+                  - listitem [ref=e797]:
+                    - strong [ref=e798]: New York (JFK) – Milan (MXP) – Malé (MLE)
+                    - text: on Delta One and ITA business class
+                  - listitem [ref=e799]:
+                    - strong [ref=e800]: San Francisco (SFO) – Shanghai (PVG) – Malé (MLE)
+                    - text: on China Eastern business class
+                  - listitem [ref=e801]:
+                    - strong [ref=e802]: Washington, D.C. (IAD) – Riyadh (RUH) – Malé (MLE)
+                    - text: on Saudia business class
+                - heading "List of SkyTeam Alliance Delta Air Lines Partners" [level=2] [ref=e803]
+                - 'figure "The Delta Air Lines partners include SkyTeam airlines as well as some non-alliance partners as well. Image Credit: SkyTeam" [ref=e805]':
+                  - link "Delta Air Lines SkyTeam airlines" [ref=e806] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/01/DeltaAirlinePartners.jpg?auto=webp&disable=upscale
+                    - img "Delta Air Lines SkyTeam airlines" [ref=e808]
+                  - generic [ref=e809]: "The Delta Air Lines partners include SkyTeam airlines as well as some non-alliance partners as well. Image Credit: SkyTeam"
+                - paragraph [ref=e810]: "Delta frequent flyer partners include SkyTeam and non-alliance partners. SkyTeam partners include:"
+                - table [ref=e814]:
+                  - rowgroup [ref=e815]:
+                    - row "SkyTeam Airline Partners" [ref=e816]:
+                      - cell "SkyTeam Airline Partners" [ref=e817]:
+                        - paragraph [ref=e819]:
+                          - strong [ref=e820]: SkyTeam Airline Partners
+                    - row "Aeroflot (temporarily suspended) KLM" [ref=e821]:
+                      - cell "Aeroflot (temporarily suspended)" [ref=e822]:
+                        - paragraph [ref=e823]: Aeroflot (temporarily suspended)
+                      - cell "KLM" [ref=e824]:
+                        - paragraph [ref=e825]:
+                          - link "KLM" [ref=e826] [cursor=pointer]:
+                            - /url: /travel/airlines/flying-blue-air-france-klm-loyalty-program/
+                    - row "Aeromexico Korean Air" [ref=e827]:
+                      - cell "Aeromexico" [ref=e828]:
+                        - paragraph [ref=e829]: Aeromexico
+                      - cell "Korean Air" [ref=e830]:
+                        - paragraph [ref=e831]:
+                          - link "Korean Air" [ref=e832] [cursor=pointer]:
+                            - /url: /travel/airlines/korean-air-skypass-loyalty-program/
+                          - link:
+                            - /url: /travel/airlines/flying-blue-air-france-klm-loyalty-program/
+                    - row "Air Europa Middle East Airlines (MEA)" [ref=e833]:
+                      - cell "Air Europa" [ref=e834]:
+                        - paragraph [ref=e835]: Air Europa
+                      - cell "Middle East Airlines (MEA)" [ref=e836]:
+                        - paragraph [ref=e837]: Middle East Airlines (MEA)
+                    - row "Air France Saudia Airlines" [ref=e838]:
+                      - cell "Air France" [ref=e839]:
+                        - paragraph [ref=e840]:
+                          - link "Air France" [ref=e841] [cursor=pointer]:
+                            - /url: /travel/airlines/flying-blue-air-france-klm-loyalty-program/
+                      - cell "Saudia Airlines" [ref=e842]:
+                        - paragraph [ref=e843]: Saudia Airlines
+                    - row "Delta Air Lines Scandinavian Airlines (SAS)" [ref=e844]:
+                      - cell "Delta Air Lines" [ref=e845]:
+                        - paragraph [ref=e846]:
+                          - link "Delta Air Lines" [ref=e847] [cursor=pointer]:
+                            - /url: /travel/airlines/delta-skymiles-loyalty-program/
+                      - cell "Scandinavian Airlines (SAS)" [ref=e848]:
+                        - paragraph [ref=e849]: Scandinavian Airlines (SAS)
+                    - row "China Airlines Tarom" [ref=e850]:
+                      - cell "China Airlines" [ref=e851]:
+                        - paragraph [ref=e852]: China Airlines
+                      - cell "Tarom" [ref=e853]:
+                        - paragraph [ref=e854]: Tarom
+                    - row "China Eastern Vietnam Airlines" [ref=e855]:
+                      - cell "China Eastern" [ref=e856]:
+                        - paragraph [ref=e857]: China Eastern
+                      - cell "Vietnam Airlines" [ref=e858]:
+                        - paragraph [ref=e859]: Vietnam Airlines
+                    - row "Czech Airlines Virgin Atlantic" [ref=e860]:
+                      - cell "Czech Airlines" [ref=e861]:
+                        - paragraph [ref=e862]: Czech Airlines
+                      - cell "Virgin Atlantic" [ref=e863]:
+                        - paragraph [ref=e864]:
+                          - link "Virgin Atlantic" [ref=e865] [cursor=pointer]:
+                            - /url: /travel/airlines/virgin-atlantic-flying-club-loyalty-program/
+                    - row "Garuda Indonesia Xiamen Airlines" [ref=e866]:
+                      - cell "Garuda Indonesia" [ref=e867]:
+                        - paragraph [ref=e868]: Garuda Indonesia
+                      - cell "Xiamen Airlines" [ref=e869]:
+                        - paragraph [ref=e870]: Xiamen Airlines
+                - heading "Non-Alliance Delta Air Lines Partners" [level=2] [ref=e871]
+                - paragraph [ref=e872]: "Non-alliance partners are some other great Delta partner airlines that aren’t a part of other alliances:"
+                - generic [ref=e873]:
+                  - paragraph
+                  - list [ref=e874]:
+                    - listitem [ref=e875]: AirBaltic
+                    - listitem [ref=e876]: Cape Air
+                    - listitem [ref=e877]: China Southern Airlines
+                    - listitem [ref=e878]: El Al
+                    - listitem [ref=e879]: LATAM
+                    - listitem [ref=e880]: WestJet
+                  - paragraph
+                - paragraph [ref=e881]: "Using Your Delta SkyMiles: The Delta Award Chart"
+                - paragraph [ref=e882]:
+                  - text: Delta currently has a
+                  - strong [ref=e883]: revenue-based award program
+                  - text: ", but it still has a somewhat zone-based award program for flight redemptions."
+                - paragraph [ref=e884]: The Delta award chart was removed at the beginning of 2015, so it is sometimes a challenge to determine which destinations are in what zone as well as the prices to various zones.
+                - paragraph [ref=e885]: Though overall Delta still has a zone-based program, some flight options don’t quite fit this mold, which makes it very difficult to make sure you are getting a good deal for your flights.
+                - paragraph [ref=e887]: Advertisement
+                - paragraph [ref=e890]:
+                  - strong [ref=e891]: As a general rule, Delta sticks pretty close to its old award chart for flights on Delta.
+                  - text: For partner airline flights, the prices have increased across the board. Some regions such as Southeast Asia have seen big increases on all business class awards.
+                - heading "Final Thoughts" [level=2] [ref=e892]
+                - paragraph [ref=e893]:
+                  - text: This article outlines the best ways to redeem your Delta SkyMiles for flights once you’ve
+                  - link "earned enough of them" [ref=e894] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-delta-skymiles/
+                  - text: . When you use your Delta SkyMiles and compare the pricing offered to the lowest cash price available, you can be confident that your SkyMiles can get you great value.
+                - paragraph [ref=e895]:
+                  - text: For further reading, check out our article on how to find
+                  - link "Delta SkyMiles deals" [ref=e896] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/delta-skymiles-deals/
+                  - text: .
+              - generic [ref=e897]:
+                - generic [ref=e898]:
+                  - separator [ref=e899]
+                  - text: "Featured Image Credit:"
+                  - link "Nick Ellis" [ref=e900] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/nick/
+                - generic [ref=e901]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e902]
+                  - group [ref=e903]:
+                    - generic "What are Delta SkyMiles?" [ref=e904] [cursor=pointer]
+                    - paragraph [ref=e906]: Delta’s frequent flyer loyalty program is called Delta SkyMiles. The points you earn, redeem, and transfer are SkyMiles.
+                  - group [ref=e907]:
+                    - generic "What credit cards offer Delta Air Lines SkyMiles?" [ref=e908] [cursor=pointer]
+                    - paragraph [ref=e910]:
+                      - link "You can earn SkyMiles" [ref=e911] [cursor=pointer]:
+                        - /url: /credit-cards/american-express-membership-rewards-review/
+                      - text: through
+                      - link "Delta-branded American Express cards" [ref=e912] [cursor=pointer]:
+                        - /url: /credit-cards/american-express-delta-credit-cards/
+                      - text: like the Delta Gold card and Delta Platinum card. You can also transfer points to SkyMiles from
+                      - link "American Express Membership Rewards" [ref=e913] [cursor=pointer]:
+                        - /url: /credit-cards/american-express-membership-rewards-review/
+                      - text: .
+                  - group [ref=e914]:
+                    - generic "What are Delta SkyMiles worth?" [ref=e915] [cursor=pointer]
+                    - paragraph [ref=e917]:
+                      - text: The value of
+                      - link "SkyMiles" [ref=e918] [cursor=pointer]:
+                        - /url: /travel/airlines/delta-skymiles-loyalty-program/
+                      - text: depends on what kind of ticket you are redeeming. Check out our
+                      - link "travel points and miles valuations" [ref=e919] [cursor=pointer]:
+                        - /url: /travel/points-and-miles-valuations/
+                      - text: for more info.
+                  - group [ref=e920]:
+                    - generic "What are MQM Delta miles?" [ref=e921] [cursor=pointer]
+                    - generic [ref=e922]:
+                      - paragraph [ref=e923]:
+                        - link "MQMs are Delta’s Medallion Qualifying Miles" [ref=e924] [cursor=pointer]:
+                          - /url: /travel/airlines/delta-skymiles-loyalty-program/
+                        - text: ", which help people reach elite status membership in Delta’s Medallion program."
+                      - paragraph [ref=e925]: As a Medallion member, you will receive special perks and benefits like fee waivers and additional SkyMiles earned on flights.
+                  - group [ref=e926]:
+                    - generic "How many Delta SkyMiles do I need for a free flight?" [ref=e927] [cursor=pointer]
+                    - generic [ref=e928]:
+                      - paragraph [ref=e929]: Within the U.S., you’ll need as few as 5,000 SkyMiles to fly one-way between U.S. cities.
+                      - paragraph [ref=e930]: For international flights, you can get to places like the Caribbean, Central America, and Mexico for as few as 17,500 SkyMiles one-way.
+                  - group [ref=e931]:
+                    - generic "How do I transfer Delta SkyMiles to a spouse?" [ref=e932] [cursor=pointer]
+                    - paragraph [ref=e934]:
+                      - text: Sign in to your Delta SkyMiles account and go
+                      - link "here" [ref=e935] [cursor=pointer]:
+                        - /url: https://www.delta.com/buygftxfer/displayTransferMiles.action
+                      - text: . Choose
+                      - strong [ref=e936]: Add recipient
+                      - text: and then you can transfer SkyMiles to up to 4 recipients at once. Fill out the requested info, including the recipient’s SkyMiles account number, name, and email. Select Add to Cart and continue through the prompts. Rates and fees apply.
+                  - group [ref=e937]:
+                    - generic "Who are Delta SkyMiles partners?" [ref=e938] [cursor=pointer]
+                    - generic [ref=e939]:
+                      - paragraph [ref=e940]:
+                        - text: Delta frequent flyer partners include
+                        - link "SkyTeam" [ref=e941] [cursor=pointer]:
+                          - /url: /travel/airlines/the-skyteam-alliance/
+                        - text: and non-alliance partners.
+                      - paragraph [ref=e942]: "Non-alliance partners are some other great Delta partner airlines that aren’t a part of other alliances:"
+                      - paragraph
+                      - generic [ref=e943]:
+                        - paragraph
+                        - list [ref=e944]:
+                          - listitem [ref=e945]: AirBaltic
+                          - listitem [ref=e946]: Cape Air
+                          - listitem [ref=e947]: China Southern Airlines
+                          - listitem [ref=e948]: El Al
+                          - listitem [ref=e949]: LATAM
+                          - listitem [ref=e950]: Virgin Atlantic
+                          - listitem [ref=e951]: WestJet
+                        - paragraph
+                      - paragraph
+                  - group [ref=e952]:
+                    - generic "When do Delta SkyMiles post in your account?" [ref=e953] [cursor=pointer]
+                    - generic [ref=e954]:
+                      - paragraph [ref=e955]: SkyMiles earned through credit cards should appear in your account after the billing cycle in which you have earned them. You can dispute missing SkyMiles you feel you should have earned by calling the number on the back of your credit card.
+                      - paragraph [ref=e956]: Delta says SkyMiles earned on flights operated by them should post within 24 hours. If earning SkyMiles via flights on partners, your account should show them within 7 days.
+                      - paragraph [ref=e957]: After this period, if your SkyMiles are still missing, consider requesting mileage credit. You will only need to enter your SkyMiles account number and your ticket number for your flight.
+                  - group [ref=e958]:
+                    - generic "Are Delta SkyMiles refundable?" [ref=e959] [cursor=pointer]
+                    - paragraph [ref=e961]:
+                      - text: Currently, SkyMiles doesn’t have an
+                      - link "award cancellation or change fee" [ref=e962] [cursor=pointer]:
+                        - /url: /travel/airlines/how-to-cancel-a-delta-flight/
+                      - text: . In the past, there was a $150 redeposit fee for award tickets as long as they were canceled 72 hours before departure. This fee was waived for Diamond and Platinum Medallion members, but now, award cancellation fees don’t exist.
+                  - group [ref=e963]:
+                    - generic "When do Delta SkyMiles expire?" [ref=e964] [cursor=pointer]
+                    - paragraph [ref=e966]: Delta SkyMiles do not expire. Hooray!
+                - complementary [ref=e967]:
+                  - paragraph [ref=e969]:
+                    - generic [ref=e971]:
+                      - text: For rates and fees of the Delta SkyMiles
+                      - superscript [ref=e972]: ®
+                      - text: Gold American Express Card, click
+                      - link "here" [ref=e973] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/GoldDeltaSkyMilesTCCRF_addSource/TE/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e975]:
+                      - text: For rates and fees of the Delta SkyMiles
+                      - superscript [ref=e976]: ®
+                      - text: Platinum American Express Card, click
+                      - link "here" [ref=e977] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumDeltaTCCRF_addSource/TE/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e979]:
+                      - text: For rates and fees of Delta SkyMiles
+                      - superscript [ref=e980]: ®
+                      - text: Reserve American Express Card, click
+                      - link "here" [ref=e981] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexDeltaReserveTCCRF_addSource/TE/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e983]:
+                      - text: For rates and fees of the Platinum Card
+                      - superscript [ref=e984]: ®
+                      - text: from American Express, click
+                      - link "here" [ref=e985] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e987]:
+                      - text: For rates and fees of the American Express
+                      - superscript [ref=e988]: ®
+                      - text: Gold Card, click
+                      - link "here" [ref=e989] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TE/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e991]:
+                      - text: For rates and fees of the Marriott Bonvoy Bevy
+                      - superscript [ref=e992]: ®
+                      - text: American Express
+                      - superscript [ref=e993]: ®
+                      - text: Card, click
+                      - link "here" [ref=e994] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TE/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                    - generic [ref=e996]:
+                      - text: For rates and fees of the Marriott Bonvoy Brilliant
+                      - superscript [ref=e997]: ®
+                      - text: American Express
+                      - superscript [ref=e998]: ®
+                      - text: card, click
+                      - link "here" [ref=e999] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TE/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - text: .
+                - group "Was this page helpful?" [ref=e1001]:
+                  - paragraph [ref=e1002]: Was this page helpful?
+                  - generic [ref=e1003]:
+                    - button "Yes" [ref=e1004] [cursor=pointer]
+                    - button "No" [ref=e1005] [cursor=pointer]
+                - generic [ref=e1006]:
+                  - figure [ref=e1008]:
+                    - img "Stephen Au's image" [ref=e1009]
+                  - generic [ref=e1010]:
+                    - heading "About Stephen Au" [level=2] [ref=e1011]:
+                      - text: About
+                      - link "Stephen Au" [ref=e1012] [cursor=pointer]:
+                        - /url: /author/stephen/
+                    - paragraph [ref=e1013]: Stephen is an established voice in the credit card space, with over 70 to his name. His work has been in publications like The Washington Post, and his Au Points and Awards Consulting Services is used by hundreds of clients.
+                    - list [ref=e1015]:
+                      - listitem [ref=e1016]:
+                        - link "Instagram icon" [ref=e1017] [cursor=pointer]:
+                          - /url: https://www.instagram.com/aupacs/
+                          - img "Instagram icon" [ref=e1018]
+                      - listitem [ref=e1019]:
+                        - link "LinkedIn icon" [ref=e1020] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/austephen/
+                          - img "LinkedIn icon" [ref=e1021]
+                      - listitem [ref=e1022]:
+                        - link "email icon" [ref=e1023] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1024]
+                - generic [ref=e1026]:
+                  - generic [ref=e1027]:
+                    - paragraph [ref=e1028]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1029]: ™
+                    - generic [ref=e1030]:
+                      - paragraph [ref=e1031]:
+                        - text: Get the
+                        - strong [ref=e1032]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1033]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1034]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1035]:
+                      - textbox "First Name" [ref=e1036]
+                      - textbox "Email" [ref=e1037]
+                      - button "Join Now" [disabled] [ref=e1038]
+                    - paragraph [ref=e1040]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1041] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1042] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1043] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1045]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1047]
+                - generic [ref=e1049]:
+                  - paragraph [ref=e1050]: We Recommend
+                  - generic [ref=e1051]:
+                    - generic [ref=e1052]:
+                      - link "Platinum Card® from American Express" [ref=e1053] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1054]
+                      - link "Terms Apply / Rates & Fees" [ref=e1055] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1056] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1057]
+                        - text: Apply Now
+                    - generic [ref=e1060]:
+                      - paragraph [ref=e1061]:
+                        - link "Platinum Card® from American Express" [ref=e1062] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1063]:
+                            - text: Platinum Card
+                            - superscript [ref=e1064]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1066]:
+                        - generic [ref=e1067]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1068] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1069]:
+                        - listitem [ref=e1070]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1071]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1072]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1073]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1074]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1075]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1076]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1077] [cursor=pointer]
+            - complementary [ref=e1079]:
+              - generic [ref=e1080]:
+                - generic [ref=e1082]:
+                  - paragraph [ref=e1083]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1084] [cursor=pointer]
+                  - generic [ref=e1085]:
+                    - generic [ref=e1088]:
+                      - generic [ref=e1089]:
+                        - generic [ref=e1090]:
+                          - img [ref=e1091]
+                          - generic [ref=e1093]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1094] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1095]
+                      - generic [ref=e1096]:
+                        - paragraph [ref=e1097]:
+                          - link "Platinum Card® from American Express" [ref=e1098] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1099]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1100] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1101]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1103] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1106]:
+                      - generic [ref=e1107]:
+                        - generic [ref=e1108]:
+                          - img [ref=e1109]
+                          - generic [ref=e1111]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1112] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1113]
+                      - generic [ref=e1114]:
+                        - paragraph [ref=e1115]:
+                          - link "American Express® Gold Card" [ref=e1116] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1117]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1118] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1119]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1121] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1124]:
+                      - generic [ref=e1125]:
+                        - generic [ref=e1126]:
+                          - img [ref=e1127]
+                          - generic [ref=e1129]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1130] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1131]
+                      - generic [ref=e1132]:
+                        - paragraph [ref=e1133]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1134] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1135]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1136] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1137]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1139] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/714/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1142]:
+                      - generic [ref=e1143]:
+                        - generic [ref=e1144]:
+                          - img [ref=e1145]
+                          - generic [ref=e1147]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1148] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/714/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1149]
+                      - generic [ref=e1150]:
+                        - paragraph [ref=e1151]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1152] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/714/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1153]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1154] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/714/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1155]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1157] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/714/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1159] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1162]: Advertisement
+      - generic [ref=e1166]:
+        - paragraph [ref=e1167]: Related Posts
+        - generic [ref=e1168]:
+          - generic [ref=e1169]:
+            - link [ref=e1170] [cursor=pointer]:
+              - /url: /travel/airlines/delta-skymiles-loyalty-program/
+              - figure [ref=e1171]:
+                - img "Delta Air Lines SkyMiles Loyalty Program Review" [ref=e1173]
+            - link "Delta Air Lines SkyMiles Loyalty Program Review" [ref=e1174] [cursor=pointer]:
+              - /url: /travel/airlines/delta-skymiles-loyalty-program/
+          - generic [ref=e1175]:
+            - link [ref=e1176] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-use-100000-delta-skymiles/
+              - figure [ref=e1177]:
+                - img "11 Best Ways To Redeem 150,000 Delta SkyMiles For Max Value" [ref=e1179]
+            - link "11 Best Ways To Redeem 150,000 Delta SkyMiles For Max Value" [ref=e1180] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-use-100000-delta-skymiles/
+          - generic [ref=e1181]:
+            - link [ref=e1182] [cursor=pointer]:
+              - /url: /travel/airlines/delta-skymiles-dining/
+              - figure [ref=e1183]:
+                - img "How To Use The Delta SkyMiles Dining Portal To Earn More Miles" [ref=e1185]
+            - link "How To Use The Delta SkyMiles Dining Portal To Earn More Miles" [ref=e1186] [cursor=pointer]:
+              - /url: /travel/airlines/delta-skymiles-dining/
+          - generic [ref=e1187]:
+            - link [ref=e1188] [cursor=pointer]:
+              - /url: /travel/airlines/delta-skymiles-shopping/
+              - figure [ref=e1189]:
+                - img "How to Use the Delta SkyMiles Shopping Portal to Earn More Miles [2025]" [ref=e1191]
+            - link "How to Use the Delta SkyMiles Shopping Portal to Earn More Miles [2025]" [ref=e1192] [cursor=pointer]:
+              - /url: /travel/airlines/delta-skymiles-shopping/
+    - contentinfo [ref=e1193]:
+      - img [ref=e1194]
+      - img [ref=e1213]
+      - generic [ref=e1232]:
+        - generic [ref=e1233]:
+          - img [ref=e1235]
+          - generic [ref=e1240]:
+            - generic [ref=e1241]:
+              - paragraph [ref=e1242]: Upgrade your travel experience
+              - list [ref=e1243]:
+                - listitem [ref=e1244]:
+                  - link [ref=e1245] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1246]:
+                      - img "Facebook" [ref=e1247]
+                - listitem [ref=e1248]:
+                  - link [ref=e1249] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1250]:
+                      - img "Twitter" [ref=e1251]
+                - listitem [ref=e1252]:
+                  - link [ref=e1253] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1254]:
+                      - img "Instagram" [ref=e1255]
+                - listitem [ref=e1256]:
+                  - link [ref=e1257] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1258]:
+                      - img "Pinterest" [ref=e1259]
+                - listitem [ref=e1260]:
+                  - link [ref=e1261] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1262]:
+                      - img "Linkedin" [ref=e1263]
+                - listitem [ref=e1264]:
+                  - link [ref=e1265] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1266]:
+                      - img "Youtube" [ref=e1267]
+            - generic [ref=e1269]:
+              - list [ref=e1270]:
+                - listitem [ref=e1271]:
+                  - link "News" [ref=e1272] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1273]:
+                  - link "Credit Cards" [ref=e1274] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1275]:
+                  - link "Business" [ref=e1276] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1277]:
+                - listitem [ref=e1278]:
+                  - link "Finance" [ref=e1279] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1280]:
+                  - link "Travel Guides" [ref=e1281] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1282]:
+                  - link "Air Travel" [ref=e1283] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1284]:
+                - listitem [ref=e1285]:
+                  - link "Hotel Guides" [ref=e1286] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1287]:
+                  - link "Beginners" [ref=e1288] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1289]:
+                  - link "About" [ref=e1290] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1291]:
+                - listitem [ref=e1292]:
+                  - link "Podcast" [ref=e1293] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1294]:
+                  - link "Jobs & Careers" [ref=e1295] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1296]:
+                  - link "Contact Us" [ref=e1297] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1298]:
+          - paragraph [ref=e1299]:
+            - link "Privacy Policy" [ref=e1300] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1301] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1302] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1303] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1304] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1305] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1306] [cursor=pointer]
+          - paragraph [ref=e1307]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1308]:
+          - link "DMCA.com Protection Status" [ref=e1309] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1310]
+          - img "Comodo Secure Seal" [ref=e1312]
+        - generic [ref=e1313]:
+          - generic [ref=e1314]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1315]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1316]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1317]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1318]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1319] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1320]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1321]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1323]:
+    - generic [ref=e1324]:
+      - generic [ref=e1325]:
+        - button "close banner" [ref=e1326] [cursor=pointer]:
+          - img "close banner" [ref=e1327]
+        - img "company logo" [ref=e1329]
+      - generic [ref=e1330]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1332]
+        - generic [ref=e1333]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1334] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1335] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1337]:
+        - button "Manage" [ref=e1338] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1339] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1340] [cursor=pointer]
+    - generic [ref=e1342]:
+      - generic [ref=e1343]: "Powered by:"
+      - link "trustarc" [ref=e1344] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1345]

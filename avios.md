@@ -1,0 +1,1954 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "28 Best Ways To Redeem British Airways Avios for Maximum Value [2026]" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Alex Miller's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e1819]: Alex Miller
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: February 8, 2026, 4:22pm CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Keri Stooksbury
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Michael Y. Park
+          - figure [ref=e61]:
+            - img "28 Best Ways To Redeem British Airways Avios for Maximum Value [2026]" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e1820]:
+            - generic "Jump to Section" [ref=e1821] [cursor=pointer]
+          - paragraph [ref=e68]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e69] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e70]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - heading "Key Takeaways" [level=2] [ref=e76]
+                  - list [ref=e78]:
+                    - listitem [ref=e79]: British Airways Avios can be redeemed for flights on British Airways and partner airlines, with the best value often found on short-haul flights.
+                    - listitem [ref=e80]: Some airlines will allow you to use a combination of Avios and cash to pay for flights.
+                    - listitem [ref=e81]: Using Avios for off-peak travel dates and being flexible with your travel plans can help maximize the value of your points.
+                - paragraph [ref=e82]: If you’ve ever been shopping for international flights, you may have noticed the exorbitant fees and fuel surcharges that accompany a British Airways ticket.
+                - paragraph [ref=e83]: You could end up spending hundreds — or even thousands — of dollars on these additional fees, not to mention any money you already spent on the ticket itself.
+                - paragraph [ref=e84]: Even if you use your British Airways Avios, these charges could negate any value you’d get from redeeming the miles in the first place.
+                - paragraph [ref=e85]:
+                  - text: Luckily,
+                  - strong [ref=e86]:
+                    - text: you can redeem Avios for reward travel
+                    - emphasis [ref=e87]: without
+                    - text: having to pay these ridiculously high fees
+                  - text: . You
+                  - link "avoid high taxes and fuel surcharges" [ref=e88] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-redeem-points-miles-with-low-taxes-fees-surcharges/
+                  - text: when you focus on flights operated by British Airways’ airline partners.
+                - paragraph [ref=e89]: Let’s explore the best ways to redeem your British Airways Avios for maximum value!
+                - heading "British Airways Credit Card and Airline Partners" [level=2] [ref=e90]
+                - paragraph [ref=e91]:
+                  - text: You can
+                  - link "earn Avios directly" [ref=e92] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-british-airways-avios/
+                  - text: with the
+                  - link "British Airways Visa Signature® Card" [ref=e93] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/british-airways-visa-card/
+                    - text: British Airways Visa Signature
+                    - superscript [ref=e94]: ®
+                    - text: Card
+                  - text: . You
+                  - strong [ref=e95]: earn 3x Avios
+                  - text: for all flight purchases through
+                  - link "British Airways" [ref=e96] [cursor=pointer]:
+                    - /url: /travel/airlines/british-airways-review/
+                  - text: ", Aer Lingus, Iberia, and Level, 2x Avios on hotel accommodations purchased directly with the hotel, and 1x Avios for everything else."
+                - generic [ref=e98]:
+                  - generic [ref=e99]:
+                    - link "British Airways Visa Signature® Card" [ref=e100] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/BritishAirwaysVisa/TRD/619/dissn.1775548838764.7073346957.1/
+                      - img "British Airways Visa Signature® Card" [ref=e101]
+                    - link "Terms Apply / Rates & Fees" [ref=e102] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/BritishAirwaysVisaTCCRF/TRD/619/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e103]: Terms Apply / Rates & Fees
+                    - generic [ref=e104]:
+                      - generic [ref=e105]:
+                        - img "Star rating icon" [ref=e108]
+                        - img "Star rating icon" [ref=e111]
+                        - img "Star rating icon" [ref=e114]
+                        - img "Star rating icon" [ref=e117]
+                        - generic [ref=e118]:
+                          - img "Star rating icon" [ref=e120]
+                          - img "Star rating icon" [ref=e121]
+                      - generic [ref=e122]:
+                        - generic [ref=e123]: U.P. Rating
+                        - img [ref=e126]:
+                          - img [ref=e127]
+                    - link "Apply Now" [ref=e130] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/BritishAirwaysVisa/TRD/619/dissn.1775548838764.7073346957.1/
+                      - img [ref=e131]
+                      - text: Apply Now
+                    - generic [ref=e134]: (at Chase's secure site)
+                  - generic [ref=e135]:
+                    - generic [ref=e137]:
+                      - link "British Airways Visa Signature® Card" [ref=e139] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/british-airways-visa-card/
+                        - text: British Airways Visa Signature
+                        - superscript [ref=e140]: ®
+                        - text: Card
+                      - text: This card is great for British Airways frequent flyers, and traveling couples will find great value in the Travel Together Ticket.
+                    - generic [ref=e141]:
+                      - generic [ref=e142]:
+                        - generic [ref=e143]:
+                          - generic [ref=e144]: Welcome Offer
+                          - img [ref=e147]:
+                            - img [ref=e148]
+                        - generic [ref=e151]: 75,000 Avios
+                      - generic [ref=e152]:
+                        - generic [ref=e154]: "UP's Offer Valuation*:"
+                        - generic [ref=e155]: $938
+                    - generic [ref=e156]:
+                      - generic [ref=e157]:
+                        - generic [ref=e159]: Annual Fee
+                        - generic [ref=e160]: $95
+                      - generic [ref=e161]:
+                        - generic [ref=e163]: APR
+                        - generic [ref=e164]: 19.24% - 27.24% Variable
+                      - generic [ref=e165]:
+                        - generic [ref=e166]:
+                          - generic [ref=e167]: Credit Recommended
+                          - img [ref=e170]:
+                            - img [ref=e171]
+                        - generic [ref=e174]: Good to Excellent
+                    - generic [ref=e175]:
+                      - group [ref=e176]:
+                        - generic "Pros & Cons" [ref=e177] [cursor=pointer]
+                      - group [ref=e178]:
+                        - generic "Card Highlights" [ref=e179] [cursor=pointer]
+                - paragraph [ref=e180]:
+                  - text: You can also
+                  - strong [ref=e181]:
+                    - text: transfer points to
+                    - link "The British Airways Club" [ref=e182] [cursor=pointer]:
+                      - /url: /travel/airlines/british-airways-executive-club-loyalty-program/
+                  - text: from
+                  - link "Amex Membership Rewards" [ref=e183] [cursor=pointer]:
+                    - /url: /credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: ","
+                  - link "Bilt Rewards" [ref=e184] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/bilt-rewards-program-review/
+                  - text: ","
+                  - link "Capital One Miles" [ref=e185] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/capital-one-miles-program-review/
+                  - text: ","
+                  - link "Chase Ultimate Rewards" [ref=e186] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/chase-ultimate-rewards-review/
+                  - text: ","
+                  - link "Citi ThankYou Rewards" [ref=e187] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/citi-thankyou-rewards-review/
+                  - text: ","
+                  - link "Marriott Bonvoy" [ref=e188] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-transfer-partners/
+                  - text: ", and"
+                  - link "Wells Fargo Rewards" [ref=e189] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/wells-fargo-rewards-review/
+                - paragraph [ref=e190]: Several frequent flyer programs use Avios as their currency, so you can transfer British Airways Avios to those programs to book flights, or you can keep them within The British Airways Club and book BA flights.
+                - paragraph [ref=e191]:
+                  - text: You achieve the greatest value when you transfer Avios or use them to book flights operated by partner airlines, including those in the
+                  - link "Oneworld alliance" [ref=e192] [cursor=pointer]:
+                    - /url: /travel/airlines/oneworld-alliance/
+                  - text: . And because British Airways is a member of Oneworld, you earn Avios (if you so choose) when you fly paid tickets with its alliance partners.
+                - heading "American Express Membership Rewards Cards" [level=3] [ref=e193]
+                - paragraph [ref=e194]:
+                  - text: You can also earn British Airways Avios, since the program is an
+                  - link "American Express transfer partner" [ref=e195] [cursor=pointer]:
+                    - /url: /credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: at a 1:1 ratio.
+                - paragraph [ref=e196]:
+                  - text: You can consider any of the cards mentioned below to start
+                  - link "earning Membership Rewards points" [ref=e197] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-american-express-membership-rewards-points/
+                  - text: and then transfer them.
+                - heading "Recommended American Express Cards (Personal)" [level=4] [ref=e198]
+                - generic [ref=e200]:
+                  - generic [ref=e201]:
+                    - img [ref=e202]
+                    - generic [ref=e204]: BEST LOUNGE CARD
+                  - generic [ref=e205]:
+                    - link "Platinum Card® from American Express" [ref=e206] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Platinum Card® from American Express" [ref=e207]
+                    - link "Terms Apply / Rates & Fees" [ref=e208] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TRD/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e209]: Terms Apply / Rates & Fees
+                    - generic [ref=e210]:
+                      - generic [ref=e211]:
+                        - img "Star rating icon" [ref=e214]
+                        - img "Star rating icon" [ref=e217]
+                        - img "Star rating icon" [ref=e220]
+                        - img "Star rating icon" [ref=e223]
+                        - generic [ref=e224]:
+                          - img "Star rating icon" [ref=e226]
+                          - img "Star rating icon" [ref=e228]
+                      - generic [ref=e229]:
+                        - generic [ref=e230]: U.P. Rating
+                        - img [ref=e233]:
+                          - img [ref=e234]
+                    - link "Apply Now" [ref=e237] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e238]
+                      - text: Apply Now
+                    - generic [ref=e241]: (at Amex's secure site)
+                    - generic [ref=e242]:
+                      - heading "Apply With Confidence" [level=4] [ref=e243]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e244]
+                      - paragraph [ref=e245]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e246]:
+                    - generic [ref=e248]:
+                      - link "Platinum Card® from American Express" [ref=e250] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-platinum-card/
+                        - text: Platinum Card
+                        - superscript [ref=e251]: ®
+                        - text: from American Express
+                      - text: The Amex Platinum reigns supreme for luxury travel, offering the best airport lounge access plus generous statement credits, and complimentary elite status.
+                    - generic [ref=e252]:
+                      - generic [ref=e253]:
+                        - generic [ref=e254]:
+                          - generic [ref=e255]: Welcome Offer
+                          - img [ref=e258]:
+                            - img [ref=e259]
+                        - generic [ref=e262]: As High As 175,000 Points. Find Out Your Offer.
+                      - generic [ref=e263]:
+                        - generic [ref=e265]: "UP's Offer Valuation*:"
+                        - generic [ref=e266]: Up to $3,850
+                    - generic [ref=e267]:
+                      - generic [ref=e268]:
+                        - generic [ref=e270]: Annual Fee
+                        - generic [ref=e271]: $895
+                      - generic [ref=e272]:
+                        - generic [ref=e274]: APR
+                        - generic [ref=e275]: See Pay Over Time APR
+                      - generic [ref=e276]:
+                        - generic [ref=e277]:
+                          - generic [ref=e278]: Credit Recommended
+                          - img [ref=e281]:
+                            - img [ref=e282]
+                        - generic [ref=e285]: Good to Excellent
+                    - generic [ref=e286]:
+                      - group [ref=e287]:
+                        - generic "Why We Like This Card" [ref=e288] [cursor=pointer]
+                      - group [ref=e289]:
+                        - generic "Pros & Cons" [ref=e290] [cursor=pointer]
+                      - group [ref=e291]:
+                        - generic "Card Highlights" [ref=e292] [cursor=pointer]
+                - generic [ref=e294]:
+                  - generic [ref=e295]:
+                    - img [ref=e296]
+                    - generic [ref=e298]: BEST FOR DINING
+                  - generic [ref=e299]:
+                    - link "American Express® Gold Card" [ref=e300] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "American Express® Gold Card" [ref=e301]
+                    - link "Terms Apply / Rates & Fees" [ref=e302] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TRD/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e303]: Terms Apply / Rates & Fees
+                    - generic [ref=e304]:
+                      - generic [ref=e305]:
+                        - img "Star rating icon" [ref=e308]
+                        - img "Star rating icon" [ref=e311]
+                        - img "Star rating icon" [ref=e314]
+                        - img "Star rating icon" [ref=e317]
+                        - generic [ref=e318]:
+                          - img "Star rating icon" [ref=e320]
+                          - img "Star rating icon" [ref=e322]
+                      - generic [ref=e323]:
+                        - generic [ref=e324]: U.P. Rating
+                        - img [ref=e327]:
+                          - img [ref=e328]
+                    - link "Apply Now" [ref=e331] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e332]
+                      - text: Apply Now
+                    - generic [ref=e335]: (at Amex's secure site)
+                    - generic [ref=e336]:
+                      - heading "Apply With Confidence" [level=4] [ref=e337]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e338]
+                      - paragraph [ref=e339]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e340]:
+                    - generic [ref=e342]:
+                      - link "American Express® Gold Card" [ref=e344] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-gold-card/
+                        - text: American Express
+                        - superscript [ref=e345]: ®
+                        - text: Gold Card
+                      - text: This is the best card for food lovers who dine out at restaurants (worldwide), order take-out and want big rewards at U.S. supermarkets!
+                    - generic [ref=e346]:
+                      - generic [ref=e347]:
+                        - generic [ref=e348]:
+                          - generic [ref=e349]: Welcome Offer
+                          - img [ref=e352]:
+                            - img [ref=e353]
+                        - generic [ref=e356]: As High As 100,000 Points. Find Out Your Offer.
+                      - generic [ref=e357]:
+                        - generic [ref=e359]: "UP's Offer Valuation*:"
+                        - generic [ref=e360]: Up to $2,200
+                    - generic [ref=e361]:
+                      - generic [ref=e362]:
+                        - generic [ref=e364]: Annual Fee
+                        - generic [ref=e365]: $325
+                      - generic [ref=e366]:
+                        - generic [ref=e368]: APR
+                        - generic [ref=e369]: See Pay Over Time APR
+                      - generic [ref=e370]:
+                        - generic [ref=e371]:
+                          - generic [ref=e372]: Credit Recommended
+                          - img [ref=e375]:
+                            - img [ref=e376]
+                        - generic [ref=e379]: Good to Excellent
+                    - generic [ref=e380]:
+                      - group [ref=e381]:
+                        - generic "Why We Like This Card" [ref=e382] [cursor=pointer]
+                      - group [ref=e383]:
+                        - generic "Pros & Cons" [ref=e384] [cursor=pointer]
+                      - group [ref=e385]:
+                        - generic "Card Highlights" [ref=e386] [cursor=pointer]
+                - paragraph [ref=e387]:
+                  - text: If you’re a business owner, see our list of the best
+                  - link "Amex business credit cards" [ref=e388] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-amex-business-credit-cards/
+                  - text: .
+                - heading "Bilt Credit Cards" [level=3] [ref=e389]
+                - paragraph [ref=e390]:
+                  - text: You can earn Bilt Points (offer terms) with the
+                  - link "Bilt Blue Card" [ref=e391] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/reviews/bilt-blue-card/
+                  - text: (
+                  - link "rates & fees" [ref=e392] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/BiltBlueCardTCCRF/TE/619/dissn.1775548838764.7073346957.1/
+                  - text: ), the
+                  - link "Bilt Obsidian Card" [ref=e393] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/reviews/bilt-obsidian-card/
+                  - text: (
+                  - link "rates & fees" [ref=e394] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/BiltObsidianCardTCCRF/TE/619/dissn.1775548838764.7073346957.1/
+                  - text: ), and the
+                  - link "Bilt Palladium Card" [ref=e395] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/reviews/bilt-palladium-card/
+                  - text: (
+                  - link "rates & fees" [ref=e396] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/BiltPalladiumCardTCCRF/TE/619/dissn.1775548838764.7073346957.1/
+                  - text: ). With these cards, you have the option to earn 4% back in Bilt Cash on everyday spend (up to $100 Bilt Cash earned rolls over to the next year;
+                  - link "offer terms" [ref=e397] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/BiltOfferTerms/TE/619/dissn.1775548838764.7073346957.1/
+                  - text: ). You can then use Bilt Cash to unlock point earnings on rent and mortgage payments with no transaction fee, up to 1x (
+                  - link "rates & fees" [ref=e398] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/go/BiltPalladiumCardTCCRF/TE/619/dissn.1775548838764.7073346957.1/
+                  - text: ), and this alone can help you rack up Avios quickly via 1:1 transfers.
+                - heading "Capital One Miles Credit Cards" [level=3] [ref=e399]
+                - paragraph [ref=e400]:
+                  - link "Miles earned with Capital One" [ref=e401] [cursor=pointer]:
+                    - /url: /credit-cards/best-ways-to-earn-capital-one-miles-and-rewards/
+                  - text: transfer to British Airways at a 1:1 ratio. See our list of the
+                  - link "best Capital One credit cards" [ref=e402] [cursor=pointer]:
+                    - /url: /credit-cards/best-capital-one-credit-cards/
+                  - text: in our guide.
+                - heading "Recommended Capital One Credit Cards (Personal)" [level=4] [ref=e403]
+                - generic [ref=e405]:
+                  - generic [ref=e406]:
+                    - img "Capital One Venture X Rewards Credit Card" [ref=e407]
+                    - generic [ref=e408]:
+                      - generic [ref=e409]:
+                        - img "Star rating icon" [ref=e412]
+                        - img "Star rating icon" [ref=e415]
+                        - img "Star rating icon" [ref=e418]
+                        - img "Star rating icon" [ref=e421]
+                        - generic [ref=e422]:
+                          - img "Star rating icon" [ref=e424]
+                          - img "Star rating icon" [ref=e426]
+                      - generic [ref=e427]:
+                        - generic [ref=e428]: U.P. Rating
+                        - img [ref=e431]:
+                          - img [ref=e432]
+                  - generic [ref=e435]:
+                    - generic [ref=e437]:
+                      - link "Capital One Venture X Rewards Credit Card" [ref=e439] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-x/
+                      - text: The Capital One Venture X card is an excellent option for travelers looking for an all-in-one premium credit card.
+                    - generic [ref=e440]:
+                      - generic [ref=e441]:
+                        - generic [ref=e442]:
+                          - generic [ref=e443]: Welcome Offer
+                          - img [ref=e446]:
+                            - img [ref=e447]
+                        - generic [ref=e450]: 75,000 miles
+                      - generic [ref=e451]:
+                        - generic [ref=e453]: "UP's Offer Valuation*:"
+                        - generic [ref=e454]: $1,350
+                    - generic [ref=e455]:
+                      - generic [ref=e456]:
+                        - generic [ref=e458]: Annual Fee
+                        - generic [ref=e459]: $395
+                      - generic [ref=e460]:
+                        - generic [ref=e462]: APR
+                        - generic [ref=e463]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e464]:
+                        - generic [ref=e465]:
+                          - generic [ref=e466]: Credit Recommended
+                          - img [ref=e469]:
+                            - img [ref=e470]
+                        - generic [ref=e473]: Excellent
+                    - generic [ref=e474]:
+                      - group [ref=e475]:
+                        - generic "Why We Like This Card" [ref=e476] [cursor=pointer]
+                      - group [ref=e477]:
+                        - generic "Pros & Cons" [ref=e478] [cursor=pointer]
+                      - group [ref=e479]:
+                        - generic "Card Highlights" [ref=e480] [cursor=pointer]
+                - generic [ref=e482]:
+                  - generic [ref=e483]:
+                    - img [ref=e484]
+                    - generic [ref=e486]: LIMITED-TIME ONLY
+                  - generic [ref=e487]:
+                    - img "Capital One Venture Rewards Credit Card" [ref=e488]
+                    - generic [ref=e489]:
+                      - generic [ref=e490]:
+                        - img "Star rating icon" [ref=e493]
+                        - img "Star rating icon" [ref=e496]
+                        - img "Star rating icon" [ref=e499]
+                        - img "Star rating icon" [ref=e502]
+                        - generic [ref=e503]:
+                          - img "Star rating icon" [ref=e505]
+                          - img "Star rating icon" [ref=e507]
+                      - generic [ref=e508]:
+                        - generic [ref=e509]: U.P. Rating
+                        - img [ref=e512]:
+                          - img [ref=e513]
+                  - generic [ref=e516]:
+                    - generic [ref=e518]:
+                      - link "Capital One Venture Rewards Credit Card" [ref=e520] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-rewards-credit-card/
+                      - text: Get 2x miles plus some of the most flexible redemptions offered by a travel credit card!
+                    - generic [ref=e521]:
+                      - generic [ref=e522]:
+                        - generic [ref=e523]:
+                          - generic [ref=e524]: Welcome Offer
+                          - img [ref=e527]:
+                            - img [ref=e528]
+                        - generic [ref=e531]: 75,000 miles + $250 Capital One Travel credit
+                      - generic [ref=e532]:
+                        - generic [ref=e534]: "UP's Offer Valuation*:"
+                        - generic [ref=e535]: $1,600
+                    - generic [ref=e536]:
+                      - generic [ref=e537]:
+                        - generic [ref=e539]: Annual Fee
+                        - generic [ref=e540]: $95
+                      - generic [ref=e541]:
+                        - generic [ref=e543]: APR
+                        - generic [ref=e544]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e545]:
+                        - generic [ref=e546]:
+                          - generic [ref=e547]: Credit Recommended
+                          - img [ref=e550]:
+                            - img [ref=e551]
+                        - generic [ref=e554]: Good to Excellent Credit
+                    - generic [ref=e555]:
+                      - group [ref=e556]:
+                        - generic "Why We Like This Card" [ref=e557] [cursor=pointer]
+                      - group [ref=e558]:
+                        - generic "Pros & Cons" [ref=e559] [cursor=pointer]
+                      - group [ref=e560]:
+                        - generic "Card Highlights" [ref=e561] [cursor=pointer]
+                - generic [ref=e563]:
+                  - generic [ref=e564]:
+                    - img "Capital One VentureOne Rewards Credit Card" [ref=e565]
+                    - generic [ref=e566]:
+                      - generic [ref=e567]:
+                        - img "Star rating icon" [ref=e570]
+                        - img "Star rating icon" [ref=e573]
+                        - img "Star rating icon" [ref=e576]
+                        - img "Star rating icon" [ref=e579]
+                        - generic [ref=e580]:
+                          - img "Star rating icon" [ref=e582]
+                          - img "Star rating icon" [ref=e583]
+                      - generic [ref=e584]:
+                        - generic [ref=e585]: U.P. Rating
+                        - img [ref=e588]:
+                          - img [ref=e589]
+                  - generic [ref=e592]:
+                    - generic [ref=e594]:
+                      - link "Capital One VentureOne Rewards Credit Card" [ref=e596] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-ventureone-rewards-credit-card/
+                      - text: The card offers unlimited miles at 1.25x per $1 and no annual fee. When you consider the flexible rewards, frequent travelers come out on top.
+                    - generic [ref=e597]:
+                      - generic [ref=e598]:
+                        - generic [ref=e599]:
+                          - generic [ref=e600]: Welcome Offer
+                          - img [ref=e603]:
+                            - img [ref=e604]
+                        - generic [ref=e607]: 20,000 miles
+                      - generic [ref=e608]:
+                        - generic [ref=e610]: "UP's Offer Valuation*:"
+                        - generic [ref=e611]: $200
+                    - generic [ref=e612]:
+                      - generic [ref=e613]:
+                        - generic [ref=e615]: Annual Fee
+                        - generic [ref=e616]: $0
+                      - generic [ref=e617]:
+                        - generic [ref=e619]: APR
+                        - generic [ref=e620]: "Purchases: 0% intro APR on purchases for 15 months; variable 18.49% - 28.49% thereafter"
+                      - generic [ref=e621]:
+                        - generic [ref=e622]:
+                          - generic [ref=e623]: Credit Recommended
+                          - img [ref=e626]:
+                            - img [ref=e627]
+                        - generic [ref=e630]: Good to Excellent (670-850)
+                    - generic [ref=e631]:
+                      - group [ref=e632]:
+                        - generic "Why We Like This Card" [ref=e633] [cursor=pointer]
+                      - group [ref=e634]:
+                        - generic "Pros & Cons" [ref=e635] [cursor=pointer]
+                      - group [ref=e636]:
+                        - generic "Card Highlights" [ref=e637] [cursor=pointer]
+                - heading "Chase Ultimate Rewards Credit Cards" [level=3] [ref=e638]
+                - paragraph [ref=e639]:
+                  - text: Collecting Ultimate Rewards points by using a Chase credit card is one of the
+                  - strong [ref=e640]: best ways to earn British Airways Avios
+                  - text: because
+                  - link "Chase Ultimate Rewards points are very easy to earn" [ref=e641] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-chase-ultimate-rewards-points/
+                  - text: and British Airways is a
+                  - link "Chase transfer partner" [ref=e642] [cursor=pointer]:
+                    - /url: /credit-cards/chase-ultimate-rewards-transfer-partners/
+                  - text: at a 1:1 ratio.
+                - heading "Recommended Chase Cards (Personal)" [level=4] [ref=e643]
+                - generic [ref=e645]:
+                  - generic [ref=e646]:
+                    - img [ref=e647]
+                    - generic [ref=e649]: NEW OFFER
+                  - generic [ref=e650]:
+                    - link "Chase Sapphire Preferred® Card" [ref=e651] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/619/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Preferred® Card" [ref=e652]
+                    - link "Terms Apply / Rates & Fees" [ref=e653] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/TRD/619/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e654]: Terms Apply / Rates & Fees
+                    - generic [ref=e655]:
+                      - generic [ref=e656]:
+                        - img "Star rating icon" [ref=e659]
+                        - img "Star rating icon" [ref=e662]
+                        - img "Star rating icon" [ref=e665]
+                        - img "Star rating icon" [ref=e668]
+                        - generic [ref=e669]:
+                          - img "Star rating icon" [ref=e671]
+                          - img "Star rating icon" [ref=e673]
+                      - generic [ref=e674]:
+                        - generic [ref=e675]: U.P. Rating
+                        - img [ref=e678]:
+                          - img [ref=e679]
+                    - link "Apply Now" [ref=e682] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/619/dissn.1775548838764.7073346957.1/
+                      - img [ref=e683]
+                      - text: Apply Now
+                    - generic [ref=e686]: (at Chase's secure site)
+                  - generic [ref=e687]:
+                    - generic [ref=e689]:
+                      - link "Chase Sapphire Preferred® Card" [ref=e691] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                        - text: Chase Sapphire Preferred
+                        - superscript [ref=e692]: ®
+                        - text: Card
+                      - text: A fantastic travel card with a great welcome offer, good benefits, and perks for a moderate annual fee.
+                    - generic [ref=e693]:
+                      - generic [ref=e694]:
+                        - generic [ref=e695]:
+                          - generic [ref=e696]: Welcome Offer
+                          - img [ref=e699]:
+                            - img [ref=e700]
+                        - generic [ref=e703]: 60,000 75,000 points
+                      - generic [ref=e704]:
+                        - generic [ref=e706]: "UP's Offer Valuation*:"
+                        - generic [ref=e707]: $1,500
+                    - generic [ref=e708]:
+                      - generic [ref=e709]:
+                        - generic [ref=e711]: Annual Fee
+                        - generic [ref=e712]: $95
+                      - generic [ref=e713]:
+                        - generic [ref=e715]: APR
+                        - generic [ref=e716]: 19.24% - 27.49% Variable
+                      - generic [ref=e717]:
+                        - generic [ref=e718]:
+                          - generic [ref=e719]: Credit Recommended
+                          - img [ref=e722]:
+                            - img [ref=e723]
+                        - generic [ref=e726]: Good to Excellent
+                    - generic [ref=e727]:
+                      - group [ref=e728]:
+                        - generic "Why We Like This Card" [ref=e729] [cursor=pointer]
+                      - group [ref=e730]:
+                        - generic "Pros & Cons" [ref=e731] [cursor=pointer]
+                      - group [ref=e732]:
+                        - generic "Card Highlights" [ref=e733] [cursor=pointer]
+                - generic [ref=e735]:
+                  - generic [ref=e736]:
+                    - img [ref=e737]
+                    - generic [ref=e739]: NEW OFFER
+                  - generic [ref=e740]:
+                    - link "Chase Sapphire Reserve®" [ref=e741] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/619/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Reserve®" [ref=e742]
+                    - link "Terms Apply / Rates & Fees" [ref=e743] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserveTCCRF/TRD/619/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e744]: Terms Apply / Rates & Fees
+                    - generic [ref=e745]:
+                      - generic [ref=e746]:
+                        - img "Star rating icon" [ref=e749]
+                        - img "Star rating icon" [ref=e752]
+                        - img "Star rating icon" [ref=e755]
+                        - img "Star rating icon" [ref=e758]
+                        - generic [ref=e759]:
+                          - img "Star rating icon" [ref=e761]
+                          - img "Star rating icon" [ref=e763]
+                      - generic [ref=e764]:
+                        - generic [ref=e765]: U.P. Rating
+                        - img [ref=e768]:
+                          - img [ref=e769]
+                    - link "Apply Now" [ref=e772] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/619/dissn.1775548838764.7073346957.1/
+                      - img [ref=e773]
+                      - text: Apply Now
+                    - generic [ref=e776]: (at Chase's secure site)
+                  - generic [ref=e777]:
+                    - generic [ref=e779]:
+                      - link "Chase Sapphire Reserve®" [ref=e781] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-reserve/
+                        - text: Chase Sapphire Reserve
+                        - superscript [ref=e782]: ®
+                      - text: A top player in the high-end premium travel credit card space that earns points on travel and dining while offering top luxury perks.
+                    - generic [ref=e783]:
+                      - generic [ref=e784]:
+                        - generic [ref=e785]:
+                          - generic [ref=e786]: Welcome Offer
+                          - img [ref=e789]:
+                            - img [ref=e790]
+                        - generic [ref=e793]: 125,000 points
+                      - generic [ref=e794]:
+                        - generic [ref=e796]: "UP's Offer Valuation*:"
+                        - generic [ref=e797]: $2,500
+                    - generic [ref=e798]:
+                      - generic [ref=e799]:
+                        - generic [ref=e801]: Annual Fee
+                        - generic [ref=e802]: $795
+                      - generic [ref=e803]:
+                        - generic [ref=e805]: APR
+                        - generic [ref=e806]: 19.49% - 27.99% Variable
+                      - generic [ref=e807]:
+                        - generic [ref=e808]:
+                          - generic [ref=e809]: Credit Recommended
+                          - img [ref=e812]:
+                            - img [ref=e813]
+                        - generic [ref=e816]: Excellent
+                    - generic [ref=e817]:
+                      - group [ref=e818]:
+                        - generic "Why We Like This Card" [ref=e819] [cursor=pointer]
+                      - group [ref=e820]:
+                        - generic "Pros & Cons" [ref=e821] [cursor=pointer]
+                      - group [ref=e822]:
+                        - generic "Card Highlights" [ref=e823] [cursor=pointer]
+                - paragraph [ref=e824]:
+                  - strong [ref=e825]: Business owner?
+                  - text: See our list of the best
+                  - link "Chase business credit cards" [ref=e826] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-chase-business-credit-cards/
+                  - text: .
+                - heading "Wells Fargo Credit Cards" [level=3] [ref=e827]
+                - paragraph [ref=e828]:
+                  - text: The
+                  - link "Wells Fargo Rewards" [ref=e829] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/wells-fargo-rewards-transfer-partners/
+                  - text: "program is a 1:1 transfer partner of The British Airways Club. Wells Fargo has 2 credit cards that earn transferable points: The"
+                  - link "Wells Fargo Autograph℠ Card" [ref=e830] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/reviews/wells-fargo-autograph-journey-card/
+                  - text: and the
+                  - link "Wells Fargo Autograph Journey℠ Card" [ref=e831] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/reviews/wells-fargo-autograph-journey-card/
+                  - text: .
+                - heading "Marriott Bonvoy Credit Cards" [level=3] [ref=e832]
+                - paragraph [ref=e833]:
+                  - text: You can also
+                  - link "earn Marriott Bonvoy points" [ref=e834] [cursor=pointer]:
+                    - /url: /travel/hotels/how-to-earn-marriott-rewards-points/
+                  - text: with its
+                  - link "co-branded credit cards" [ref=e835] [cursor=pointer]:
+                    - /url: /credit-cards/best-marriott-bonvoy-credit-cards/
+                  - text: and transfer those to British Airways at a 3:1 ratio. For every 60,000 Marriott Bonvoy points that you transfer, you receive a bonus of 5,000 additional Avios.
+                - paragraph [ref=e836]:
+                  - text: For more details, you can read our article on
+                  - link "transferring Marriott Bonvoy points" [ref=e837] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-transfer-partners/
+                  - text: to partners.
+                - heading "The 28 Best Ways To Redeem Your British Airways Avios" [level=2] [ref=e838]
+                - paragraph [ref=e839]: "Now it’s time for the fun part: looking at all the best ways to redeem your British Airways Avios for maximum value!"
+                - heading "1. U.S. Short-Haul Nonstop Flights for 13,500 Avios (American, Alaska)" [level=3] [ref=e840]
+                - 'figure "Use your British Airways Avios to fly short flights within the U.S.! Image Credit: Kunertus via Shutterstock" [ref=e842]':
+                  - link "American Airlines A319 Taxiing" [ref=e843] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/06/American-Airlines-A319-Taxiing-scaled.jpg?auto=webp&disable=upscale
+                    - img "American Airlines A319 Taxiing" [ref=e845]
+                  - generic [ref=e846]: "Use your British Airways Avios to fly short flights within the U.S.! Image Credit: Kunertus via Shutterstock"
+                - paragraph [ref=e847]: Nonstop domestic flights within the U.S. under 650 miles on American Airlines or Alaska Airlines cost 13,500 Avios. Even better, only a $5.60 tax is added to the flight — quite a bargain! Sample city pairs include Los Angeles (LAX) to San Francisco (SFO) and New York (JFK) to Washington D.C. (DCA).
+                - paragraph [ref=e848]: "Flying up to 1,150 miles costs 18,000 Avios and gets you halfway across the country. For example, you could fly between the following city pairs and stay within the 1,150-mile threshold:"
+                - list [ref=e849]:
+                  - listitem [ref=e850]: Miami (MIA) and Dallas (DFW)
+                  - listitem [ref=e851]: New York (JFK) and Chicago (ORD)
+                  - listitem [ref=e852]: Palm Springs (PSP) and Austin (AUS)
+                - paragraph [ref=e853]:
+                  - link "The American Airlines AAdvantage program" [ref=e854] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-american-airlines-aadvantage-miles/
+                  - text: has dynamic pricing, which means fares frequently fluctuate. In some cases, an American AAdvantage award may be less than 13,500 miles, and other times it may be more. So you definitely want to compare BA’s award pricing if you have AAdvantage miles or Alaska Atmos Rewards.
+                - paragraph [ref=e855]:
+                  - generic [ref=e856]:
+                    - strong [ref=e857]: "Hot Tip:"
+                    - text: To maximize U.S. domestic Avios awards, look for nonstop flights from American Airlines and Alaska Airlines hubs in Charlotte (CLT), Chicago (ORD), Dallas (DFW), Los Angeles (LAX), Miami (MIA), New York (JFK), Philadelphia (PHL), Phoenix (PHX), and Seattle (SEA).
+                - 'heading "2. Lie-Flat First: New York to San Francisco or Los Angeles for 88,000 Avios (American)" [level=3] [ref=e858]'
+                - 'figure "Cross the U.S. in style on American Airlines’ transcontinental service. Image Credit: Stephen Au" [ref=e860]':
+                  - img "American Airlines Flagship First Class" [ref=e862]
+                  - generic [ref=e863]: "Cross the U.S. in style on American Airlines’ transcontinental service. Image Credit: Stephen Au"
+                - paragraph [ref=e864]: American Airlines operates specially configured, 3-cabin Airbus A321 aircraft on its most premium domestic routes between New York (JFK) and Los Angeles (LAX) and between New York and San Francisco (SFO). If you can find availability, this celebrity-heavy route would cost you 88,000 Avios. Business class would cost you 55,000 Avios each way.
+                - paragraph [ref=e865]: Note that, when you fly in business or first class, you can access American’s priority check-in lanes, which are much quicker than using the self-service kiosks.
+                - paragraph [ref=e866]:
+                  - generic [ref=e867]:
+                    - strong [ref=e868]: "Hot Tip:"
+                    - text: Need help booking? See our step-by-step guide for
+                    - link "booking American Airlines first class" [ref=e869] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-american-airlines-first-class/
+                    - text: .
+                - heading "3. New York to Toronto or Montréal for 13,500 Avios (American)" [level=3] [ref=e870]
+                - paragraph [ref=e871]: Spending Avios for short-haul international flights is a steal! American Airlines offers multiple daily flights between New York (JFK) and Toronto (YYZ) and between New York and Montréal (YUL).
+                - paragraph [ref=e872]:
+                  - text: From the U.S., these are 13,500 Avios plus $5.60 in taxes. The
+                  - strong [ref=e873]: taxes are much higher flying from Canada
+                  - text: ", so compare the price of cash tickets."
+                - heading "4. Los Angeles to Vancouver for 18,000 Avios (American)" [level=3] [ref=e874]
+                - paragraph [ref=e875]: If you’re based on the West Coast, American Airlines offers nonstop flights between Los Angeles (LAX) and Vancouver (YVR). If you’re departing from the U.S., you can score a ticket for 18,000 Avios and $5.60 in taxes and fees.
+                - paragraph [ref=e876]:
+                  - generic [ref=e877]:
+                    - strong [ref=e878]: "Hot Tip:"
+                    - text: Avios award tickets on American give you Priority Access, which offers priority security and
+                    - link "boarding privileges" [ref=e879] [cursor=pointer]:
+                      - /url: /travel/airlines/british-airways-boarding-groups/
+                    - text: . You can also get these with credit cards like the
+                    - link "Citi® / AAdvantage® Business™ World Elite Mastercard®" [ref=e880] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/reviews/citi-aadvantage-business-world-elite-mastercard-review/
+                      - text: Citi
+                      - superscript [ref=e881]: ®
+                      - text: / AAdvantage
+                      - superscript [ref=e882]: ®
+                      - text: Business™ World Elite Mastercard
+                      - superscript [ref=e883]: ®
+                    - text: or the
+                    - link "Citi® / AAdvantage® Platinum Select® World Elite™ Mastercard®" [ref=e884] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/reviews/citi-aadvantage-business-world-elite-mastercard-review/
+                      - text: Citi
+                      - superscript [ref=e885]: ®
+                      - text: / AAdvantage
+                      - superscript [ref=e886]: ®
+                      - text: Platinum Select
+                      - superscript [ref=e887]: ®
+                      - text: World Elite™ Mastercard
+                      - superscript [ref=e888]: ®
+                    - text: .
+                - heading "5. Miami to the Caribbean From 13,500 Avios (American)" [level=3] [ref=e889]: 5. Miami to the Caribbean From 13,500 Avios (American)
+                - paragraph [ref=e890]: American Airlines operates a large hub in Miami, from which it serves many Caribbean islands. You can book a nonstop ticket to islands the airline serves that are 650 miles or less away from Miami for 13,500 Avios plus $5.60.
+                - paragraph [ref=e891]: "For example, you could fly between Miami and the following cities and stay within the 650-mile threshold:"
+                - list [ref=e892]:
+                  - listitem [ref=e893]: Nassau, Bahamas (NAS)
+                  - listitem [ref=e894]: Montego Bay, Jamaica (MBJ)
+                  - listitem [ref=e895]: Grand Cayman Island (GCM)
+                - paragraph [ref=e896]: Similar to flights departing Canada, flights departing from the Caribbean have higher taxes, so compare prices before you book anything.
+                - generic [ref=e897]:
+                  - strong [ref=e898]: »
+                  - strong [ref=e899]: "Related:"
+                  - link "The Best Ways To Fly to the Caribbean With Points and Miles" [ref=e900] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-the-caribbean-with-points/
+                - heading "6. Miami to Bogotá or Quito for 20,000 Avios (American)" [level=3] [ref=e901]
+                - paragraph [ref=e902]: For just 20,000 Avios, you can fly American Airlines from Miami (MIA) to Bogotá, Colombia (BOG), or Quito, Ecuador (UIO) — a pretty great deal, if you ask us! And, for just 3,000 additional Avios, you could get to Lima, Peru (LIM).
+                - heading "7. Dallas to Mexico City for 18,000 Avios (American)" [level=3] [ref=e903]
+                - paragraph [ref=e904]: You can spend 18,000 Avios to fly nonstop between Dallas (DFW) and Mexico City (MEX). Alternatively, you can spend 20,000 Avios to fly nonstop to Mexico City from Los Angeles (LAX) and Phoenix (PHX).
+                - paragraph [ref=e905]:
+                  - generic [ref=e906]:
+                    - strong [ref=e907]: "Hot Tip:"
+                    - text: Find out what you can do with
+                    - link "10,000 (or fewer) British Airways Avios" [ref=e908] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-use-10000-british-airways-avios/
+                    - text: "!"
+                - heading "8. U.S. West Coast to Hawaii for 22,000 Avios (American, Alaska)" [level=3] [ref=e909]: 8. U.S. West Coast to Hawaii for 22,000 Avios (American, Alaska)
+                - paragraph [ref=e910]:
+                  - text: Spending Avios on a one-way nonstop flight from the West Coast to
+                  - link "Hawaii" [ref=e911] [cursor=pointer]:
+                    - /url: /travel/ultimate-travel-guide-to-hawaii/
+                  - text: on American Airlines or Alaska Airlines is
+                  - strong [ref=e912]:
+                    - text: one of the
+                    - link "least expensive ways to get to Hawaii" [ref=e913] [cursor=pointer]:
+                      - /url: /travel/best-ways-to-fly-to-hawaii-with-points/
+                  - text: . Because these flights are typically between 2,001 and 3,000 miles in total distance, it only costs 22,000 Avios each way for a seat in economy.
+                - paragraph [ref=e914]: Most of these routes are operated by normally configured aircraft, so don’t expect a lie-flat seat up front. Consider splurging for business class to other destinations instead.
+                - heading "9. Los Angeles to Tokyo From 25,750 Avios (American, Japan Airlines)" [level=3] [ref=e915]
+                - 'figure "Japan Airlines offers a very nice first class experience, and you won’t need to pay excessive taxes and surcharges when you book with British Airways Avios! Image Credit: Cherag Dubash" [ref=e917]':
+                  - img "Japan Airlines Boeing 777 300ER First Class JAL Suite 2A" [ref=e919]
+                  - generic [ref=e920]:
+                    - text: "Japan Airlines offers a very nice first class experience, and you won’t need to pay excessive taxes and surcharges when you book with British Airways Avios! Image Credit:"
+                    - link "Cherag Dubash" [ref=e921] [cursor=pointer]:
+                      - /url: /author/cherag/
+                - paragraph [ref=e922]:
+                  - text: In general, booking with Avios isn’t the best value for long-haul flights, but the program provides pretty good value on the Los Angeles-to-Tokyo route. Plus,
+                  - link "Tokyo" [ref=e923] [cursor=pointer]:
+                    - /url: /travel/tokyo-travel-guide/
+                  - text: is a fantastic destination to cross off your bucket list.
+                - paragraph [ref=e924]: First class from LAX to NRT costs 103,000 Avios each way, with taxes and fees of around $334. The same route in business class is around 77,250 Avios, while economy is just 25,750 Avios each way.
+                - paragraph [ref=e925]:
+                  - text: While these aren’t the lowest rates around for first or business class (especially if you want to connect to a further destination because British Airways charges separately for each flight segment), it’s not a bad option if you want to experience
+                  - link "Japan Airlines first" [ref=e926] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-japan-airlines-first-class/
+                  - text: or
+                  - link "business class" [ref=e927] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-japan-airlines-business-class/
+                  - text: or
+                  - link "American Airlines first" [ref=e928] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-american-airlines-first-class/
+                  - text: or
+                  - link "business class" [ref=e929] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-american-airlines-business-class/
+                  - text: .
+                - paragraph [ref=e930]:
+                  - generic [ref=e931]:
+                    - strong [ref=e932]: "Hot Tip:"
+                    - text: Read our in-depth reviews of JAL’s Boeing 777 in
+                    - link "business class" [ref=e933] [cursor=pointer]:
+                      - /url: /travel/airlines/japan-airlines-777-business-class-review/
+                    - text: and
+                    - link "first class" [ref=e934] [cursor=pointer]:
+                      - /url: /travel/airlines/japan-airlines-777-first-class-review/
+                    - text: .
+                - heading "10. Off-Peak U.S. East Coast to Ireland for 15,500 Avios and No Fuel Surcharges (Aer Lingus)" [level=3] [ref=e935]:
+                  - generic [ref=e936]: 10. Off-Peak U.S. East Coast to Ireland for 15,500 Avios and No Fuel Surcharges (Aer Lingus)
+                - paragraph [ref=e937]:
+                  - text: British Airways employs
+                  - link "peak and off-peak" [ref=e938] [cursor=pointer]:
+                    - /url: /travel/airlines/airline-peak-and-off-peak-award-charts/
+                  - text: pricing for Aer Lingus awards. The award costs are the same as they are for British Airways flights, but the peak and off-peak dates are different. And, you save big on fees compared to British Airways flights.
+                - paragraph [ref=e939]: For example, you can fly in economy from the East Coast cities of Boston (BOS), New York (JFK), Philadelphia (PHL), or Washington, D.C. (IAD) to Dublin (DUB) for just 15,500 Avios and $123.70 in taxes and fees.
+                - paragraph [ref=e940]: You can search for Aer Lingus award availability directly on British Airways’s website, which is arguably the most user-friendly of the various different websites (including Qatar Airways, Iberia, and Aer Lingus).
+                - heading "11. Off-Peak Florida and U.S. West Coast to Ireland for 25,000 Avios and No Fuel Surcharges (Aer Lingus)" [level=3] [ref=e941]:
+                  - generic [ref=e942]: 11. Off-Peak Florida and U.S. West Coast to Ireland for 25,000 Avios and No Fuel Surcharges (Aer Lingus)
+                - paragraph [ref=e943]:
+                  - link "Aer Lingus has a U.S. network" [ref=e944] [cursor=pointer]:
+                    - /url: /travel/airlines/aer-lingus-us-routes-plane-types/
+                  - text: that extends to Los Angeles (LAX), Orlando (MCO), and San Francisco (SFO). Off-peak flights from all these cities to Dublin (DUB) cost 25,000 Avios in economy.
+                - heading "12. Off-Peak Boston, Chicago, or New York to Madrid from 16,000 Avios (Iberia)" [level=3] [ref=e945]
+                - paragraph [ref=e946]: For peak dates, you pay 19,500 Avios each way for economy flights between Boston (BOS), Chicago (ORD), or New York (JFK) to Madrid (MAD), but you can shave 3,500 Avios off that rate by booking in off-peak dates. Economy tickets add about $98 in total fees. Business class tickets cost 40,500 Avios each way off-peak, and you need to pay about $130 in taxes and fees.
+                - 'figure "Image Credit: Daniel Ross" [ref=e948]':
+                  - img "Iberia A350 business class seat 3L" [ref=e950]
+                  - generic [ref=e951]: "Image Credit: Daniel Ross"
+                - heading "13. Off-Peak Miami to Madrid for 20,000 Avios (Iberia)" [level=3] [ref=e952]
+                - paragraph [ref=e953]: You pay 24,250 Avios for one-way economy flights between Miami (MIA) and Madrid (MAD), plus around $98 in fees during peak dates. However, during off-peak dates, you can save 4,250 Avios each way. Business class is 50,500 Avios one-way, with taxes and fees of about $130.
+                - paragraph [ref=e954]:
+                  - text: You can
+                  - link "log in to your British Airways Club account" [ref=e955] [cursor=pointer]:
+                    - /url: https://www.britishairways.com/travel/offpeakdatesmodalfancybox/execclub/_gf/en_gb
+                  - text: to check for off-peak dates.
+                - heading "14. Intra-Caribbean Flights for as Few as 10,000 Avios (British Airways)" [level=3] [ref=e956]
+                - 'figure "Fly between Caribbean islands for just 10,000 British Airways Avios. Image Credit: Daniel Ross" [ref=e958]':
+                  - img "British Airways Boeing 777 200 Club World UVF boarding via steps" [ref=e960]
+                  - generic [ref=e961]:
+                    - text: "Fly between Caribbean islands for just 10,000 British Airways Avios. Image Credit:"
+                    - link "Daniel Ross" [ref=e962] [cursor=pointer]:
+                      - /url: /author/daniel/
+                - paragraph [ref=e963]:
+                  - text: Looking for an
+                  - strong [ref=e964]:
+                    - text: affordable way to explore multiple
+                    - link "Caribbean" [ref=e965] [cursor=pointer]:
+                      - /url: /travel/best-ways-to-fly-to-the-caribbean-with-points/
+                    - text: islands
+                  - text: "? British Airways’ short-haul award pricing is an excellent option."
+                - paragraph [ref=e966]: Fly from Nassau (NAS) to Grand Cayman (GCM) or Providenciales (PLS) on British Airways for as low as 10,000 Avios one-way on off-peak dates. If the available flight offers British Airways’ Reward Flight Saver option, you can also choose to spend more Avios in order to reduce your fees, taxes, and surcharges.
+                - paragraph [ref=e967]: You can also book other nonstop flights, such as those between St. Lucia (UVF) and Grenada (GND) or Tobago (TAB). BA also operates nonstop flights from Antigua (ANU) to Aruba (AUA) or St. Kitts (SKB).
+                - paragraph [ref=e968]: Better yet, all of these routes are flown on a wide-body aircraft that features lie-flat seats for those who want to spring for a business-class ticket.
+                - paragraph [ref=e969]:
+                  - generic [ref=e970]:
+                    - strong [ref=e971]: "Hot Tip:"
+                    - text: Check out our in-depth
+                    - link "review of British Airways’ Boeing 777-200 Club World" [ref=e972] [cursor=pointer]:
+                      - /url: /travel/airlines/british-airways-boeing-777-200-club-world-review-uvf-to-gnd/
+                    - text: from St. Lucia (UVF) to Grenada (GND).
+                - heading "15. Experience the British Airways Concorde Room at London Heathrow for 42,500 Avios (British Airways)" [level=3] [ref=e973]
+                - 'figure "Enjoy the Concorde Room at LHR. Image Credit: British Airways" [ref=e975]':
+                  - img "British Airways Concorde Room at LHR" [ref=e977]
+                  - generic [ref=e978]: "Enjoy the Concorde Room at LHR. Image Credit: British Airways"
+                - paragraph [ref=e979]:
+                  - text: British Airways’ most exclusive product on the ground is called the
+                  - link "Concorde Room" [ref=e980] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-access-british-airways-lounges/
+                  - text: ", a hush-hush space reserved for first class passengers offering the most serene airport lounge experience the airline offers, complete with white tablecloth dining and waiter service."
+                - paragraph [ref=e981]: Starting from 42,500 Avios during off-peak dates and 55,000 Avios during peak dates, you can book a regional first-class flight on British Airways, as long as the flight distance is not greater than 3,000 miles.
+                - paragraph [ref=e982]:
+                  - text: Even though British Airways first class is typically reserved only for long-haul flights, the airline
+                  - emphasis [ref=e983]: does
+                  - text: "offer a first class product on a couple of shorter routes, including:"
+                - list [ref=e984]:
+                  - listitem [ref=e985]: London Heathrow (LHR) – Abuja (ABV)
+                  - listitem [ref=e986]: London Heathrow (LHR) – Kuwait City (KWI)
+                - paragraph [ref=e987]: "If you’re willing to shell out more Avios for a long-haul flight in first class, here are some routes that range from 3,001 miles to 4,000 miles — meaning they’re bookable for 75,000 Avios during off-peak dates and 99,000 Avios during peak dates:"
+                - list [ref=e988]:
+                  - listitem [ref=e989]: London Heathrow (LHR) – Boston (BOS)
+                  - listitem [ref=e990]: London Heathrow (LHR) – Chicago (ORD)
+                  - listitem [ref=e991]: London Heathrow (LHR) – Dubai (DXB)
+                  - listitem [ref=e992]: London Heathrow (LHR) – Lagos (LOS)
+                  - listitem [ref=e993]: London Heathrow (LHR) – Newark (EWR)
+                  - listitem [ref=e994]: London Heathrow (LHR) – New York (JFK)
+                  - listitem [ref=e995]: London Heathrow (LHR) – Riyadh (RUH)
+                  - listitem [ref=e996]: London Heathrow (LHR) – Washington, D.C. (IAD)
+                - paragraph [ref=e997]: If you book one of these flights, be sure to show up at the airport early so you can savor the entirety of the Concorde Room experience!
+                - heading "16. Fly British Airways First Class and Use Travel Together To Save Even More! (British Airways)" [level=3] [ref=e998]
+                - 'figure "Fly British Airways first class with a companion without paying more miles using the Travel Together Ticket earned via spending on its co-branded credit card. Image Credit: Alex Miller" [ref=e1000]':
+                  - link "Fly British Airways First Class with a companion" [ref=e1001] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/09/BA-First-Class-787-9.jpg?auto=webp&disable=upscale
+                    - img "Fly British Airways First Class with a companion" [ref=e1003]
+                  - generic [ref=e1004]:
+                    - text: "Fly British Airways first class with a companion without paying more miles using the Travel Together Ticket earned via spending on its co-branded credit card. Image Credit:"
+                    - link "Alex Miller" [ref=e1005] [cursor=pointer]:
+                      - /url: /author/alexmiller/
+                - paragraph [ref=e1006]:
+                  - generic [ref=e1007]:
+                    - link "Fuel surcharges" [ref=e1008] [cursor=pointer]:
+                      - /url: /travel/airlines/airline-fuel-surcharges/
+                    - text: are significant if you want to fly British Airways in first class, but using your miles is still a great way to book a ticket that would otherwise cost $5,000 or more one-way.
+                - paragraph [ref=e1009]:
+                  - generic [ref=e1010]:
+                    - text: This is
+                    - emphasis [ref=e1011]: especially
+                    - text: "true"
+                    - strong [ref=e1012]:
+                      - text: if you can pair your redemption with a
+                      - link "Travel Together Ticket" [ref=e1013] [cursor=pointer]:
+                        - /url: /travel/europe-italy-trip-on-points/
+                    - text: ", which is earned by spending on a British Airways co-branded credit card."
+                - paragraph [ref=e1014]:
+                  - generic [ref=e1015]:
+                    - text: A one-way award ticket from London (LHR) to Chicago (ORD) costs between 75,000 and 99,000 Avios (depending on whether you travel on peak or off-peak dates). You can expect the fuel surcharges and taxes to be
+                    - strong [ref=e1016]: around $700 to $1,000 in each direction
+                    - text: .
+                - paragraph [ref=e1017]:
+                  - generic [ref=e1018]:
+                    - text: Now, about that companion ticket. You first need to get the
+                    - link "British Airways Visa card" [ref=e1019] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/british-airways-visa-card/
+                    - text: and spend $30,000 in a year to earn the Travel Together Ticket, which is good for 2 years.
+                - paragraph [ref=e1020]:
+                  - generic [ref=e1021]:
+                    - text: It’s not an upgrade voucher but rather a buy-one-get-one-free award ticket. Once earned, the Travel Together Ticket allows you to
+                    - strong [ref=e1022]: take a companion on any British Airways, Iberia, or Aer Lingus flight originating anywhere in the world
+                    - text: that you’ve booked with Avios. The companion is booked in the same class as the original ticket (yes, even first!) and will only need to pay taxes, fees, and carrier charges.
+                - paragraph [ref=e1023]: Don’t have a travel companion? You can also use the Travel Together Ticket as a solo traveler to pay 50% of the Avios fare!
+                - paragraph [ref=e1024]:
+                  - strong [ref=e1025]: Need help booking?
+                  - text: Read our in-depth guide on
+                  - link "booking British Airways first class" [ref=e1026] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-book-british-airways-first-class/
+                  - text: or
+                  - link "business class" [ref=e1027] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-british-airways-business-class/
+                  - text: using points.
+                - heading "17. Hop Around Europe From 6,500 Avios (Finnair)" [level=3] [ref=e1028]:
+                  - strong [ref=e1029]: 17. Hop Around Europe From 6,500 Avios (Finnair)
+                - paragraph [ref=e1030]: Short-haul, nonstop flights up to 650 miles on Finnair flights from Helsinki (HEL) cost 6,500 Avios each. Taxes and fees on Finnair flights are reasonable — for example, a nonstop flight from Helsinki (HEL) to Copenhagen (CPH) is 6,500 Avios plus $35.80. However, don’t forget to compare cash prices, as it may be better to save your Avios and pay cash on some routes.
+                - paragraph [ref=e1031]: Flights between 651 and 1,151 miles, which covers much of Europe, are 12,000 Avios.
+                - heading "18. Helsinki to Tokyo for 30,00 Avios (Finnair, Japan Airlines)" [level=3] [ref=e1032]
+                - paragraph [ref=e1033]:
+                  - text: Both Finnair and
+                  - link "Japan Airlines" [ref=e1034] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/japan-airlines-review/
+                  - text: fly between Helsinki (HEL) and Tokyo (HND, NRT), and you can book an economy ticket for 30,000 Avios each way. Taxes and fees are much lower if you can find Finnair availability — $175 on Finnair vs. $300 on Japan Airlines.
+                - heading "19. Off-Peak Madrid to Cairo for 10,500 Avios (Iberia)" [level=3] [ref=e1035]: 19. Off-Peak Madrid to Cairo for 10,500 Avios (Iberia)
+                - paragraph [ref=e1036]: You can fly between Madrid (MAD) and Cairo (CAI) on Iberia Express for 10,500 Avios off-peak or 12,000 Avios throughout the rest of the year.
+                - heading "20. Off-Peak Madrid to Dakar, Senegal, for 9,500 Avios (Iberia)" [level=3] [ref=e1037]:
+                  - text: 20. Off-Peak Madrid to Dakar, Senegal, for 9,500 Avios
+                  - text: (Iberia)
+                - paragraph [ref=e1038]:
+                  - text: A flight between Madrid (MAD) to Dakar (DSS) on Iberia costs 9,500 Avios off-peak and 18,750 Avios throughout the rest of the year.
+                  - link "Africa flights" [ref=e1039] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-africa-with-points-and-miles/
+                  - text: can be really expensive, so this can be a fantastic value.
+                - heading "21. Qsuites From the US to Doha for 70,000 Avios (Qatar)" [level=3] [ref=e1040]
+                - 'figure "Qatar Airways Qsuites. Image Credit: Alex Miller" [ref=e1042]':
+                  - img "Qatar Qsuites A350 Seat View" [ref=e1044]
+                  - generic [ref=e1045]: "Qatar Airways Qsuites. Image Credit: Alex Miller"
+                - paragraph [ref=e1046]:
+                  - strong [ref=e1047]: Qatar Airways’
+                  - strong [ref=e1048]: Qsuites is
+                  - strong [ref=e1049]: arguably the best business class around
+                  - text: ", with the experience even outshining some other airlines’ first class products. One-way flights between the U.S. and Doha can be booked for"
+                  - strong [ref=e1050]: 70,000 Avios and about $100 in taxes and fees.
+                - paragraph [ref=e1051]: If you’re looking for a simple nonstop flight to Doha in Qsuites, using British Airways is a great option. However, if you need to connect onward, the airline tacks on more miles and taxes and fees for a connection.
+                - heading "22. Experience the Qatar Airways Al Safwa First Lounge for 27,500 Avios (Qatar)" [level=3] [ref=e1052]
+                - 'figure "Qatar Airways Al Safwa First Lounge at DOH. Image Credit: Qatar Airways" [ref=e1054]':
+                  - img "Qatar Airways Al Safwa First Class Lounge at DOH" [ref=e1056]
+                  - generic [ref=e1057]: "Qatar Airways Al Safwa First Lounge at DOH. Image Credit: Qatar Airways"
+                - paragraph [ref=e1058]:
+                  - text: One of the many things we love about Qatar Airways is that short-haul flights are booked as first class tickets instead of business-class tickets,
+                  - strong [ref=e1059]: enabling you to access the Al Safwa First Lounge without booking a long-haul flight
+                  - text: .
+                - paragraph [ref=e1060]:
+                  - text: Note that Avios award tickets are not eligible for the 96-hour free Qatar transit program, since an eligible ticket must be issued directly by Qatar Airways. Regardless, many citizens of many countries are eligible for a Qatari
+                  - link "visa on arrival" [ref=e1061] [cursor=pointer]:
+                    - /url: /travel/4-basic-types-of-travel-visas/
+                  - text: if they want to visit Doha.
+                - heading "23. Hop Around the Middle East From 8,000 Avios (Royal Jordanian, Qatar)" [level=3] [ref=e1062]:
+                  - text: 23. Hop Around the Middle East From 8,000 Avios (
+                  - text: Royal Jordanian, Qatar)
+                - paragraph [ref=e1063]: Short-haul flights from Amman, Jordan, or Doha, Qatar, to many Middle East destinations start at 8,000 Avios in economy nonstop. Taxes and fees are usually around $100 or less.
+                - paragraph [ref=e1064]: "Here are some sample redemptions:"
+                - list [ref=e1065]:
+                  - listitem [ref=e1066]: Doha (DOH) to Dubai (DXB) for 8,000 Avios
+                  - listitem [ref=e1067]: Doha (DOH) to Muscat (MCT) for 8,000 Avios
+                  - listitem [ref=e1068]: Amman (AMM) to Kuwait City (KWI) for 10,000 Avios
+                - paragraph [ref=e1069]:
+                  - generic [ref=e1070]:
+                    - strong [ref=e1071]: "Hot Tip:"
+                    - text: Mixing Royal Jordanian and Qatar on the same ticket can be expensive because of multicarrier pricing. Instead, book separate Avios tickets for each.
+                - heading "24. Experience Cathay Pacific’s The Wing Business Class Lounge for 23,000 Avios (Cathay Pacific)" [level=3] [ref=e1072]: 24. Experience Cathay Pacific’s The Wing Business Class Lounge for 23,000 Avios (Cathay Pacific)
+                - paragraph [ref=e1073]: You can get a seat at the Noodle Bar in The Wing, Business Lounge in Hong Kong (HKG), by redeeming your Avios for a business class flight on Cathay Pacific.
+                - paragraph [ref=e1074]: One-way business class flights that are 650 miles or less, such as Hong Kong (HKG) to Taipei (TPE), cost 23,000 Avios.
+                - paragraph [ref=e1075]:
+                  - generic [ref=e1076]:
+                    - strong [ref=e1077]: "Hot Tip:"
+                    - text: Need help booking? See our step-by-step guide for booking Cathay Pacific
+                    - link "business class" [ref=e1078] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-cathay-pacific-business-class/
+                    - text: .
+                - heading "25. Hop Around Southeast Asia From 6,500 Avios (Malaysia Airlines)" [level=3] [ref=e1079]: 25. Hop Around Southeast Asia From 6,500 Avios (Malaysia Airlines)
+                - paragraph [ref=e1080]: Nonstops on Malaysia Airlines start at 6,500 Avios in economy, and taxes and fees are usually small. The cheapest flights are domestic flights within Malaysia.
+                - paragraph [ref=e1081]: Malaysia does not have the kind of fantastic lounges that are a destination in and of themselves, so business or first for short flights may not be worth the extra cost here.
+                - paragraph [ref=e1082]:
+                  - text: Flights in Southeast Asia are often so cheap that you
+                  - strong [ref=e1083]: always want to shop around
+                  - text: ", especially if there’s a nonstop flight you can take advantage of instead of connecting on Malaysia Airlines."
+                - paragraph [ref=e1084]: Once the flight crosses a distance threshold of 650 miles, the cost increases to 10,000 Avios. For example, a nonstop flight from Kuala Lumpur (KUL) to Jakarta (CGK) is 10,000 Avios.
+                - heading "26. Sri Lanka to the Maldives for 6,500 Avios (SriLankan)" [level=3] [ref=e1085]
+                - 'figure "St Regis Maldives. Image Credit: Marriott" [ref=e1087]':
+                  - img "St Regis Maldives" [ref=e1089]
+                  - generic [ref=e1090]: "St Regis Maldives. Image Credit: Marriott"
+                - paragraph [ref=e1091]: Flights between Colombo (CMB) and Malé (MLE) in the Maldives cost 6,500 Avios plus $160 in taxes and fees for economy class flights. There are plenty of cheap tickets from around the world to Colombo, and from there it’s just a short hop to the Maldives on Sri Lankan Airlines.
+                - paragraph [ref=e1092]: The lounge at Colombo is not fancy, but if you were to book business class, it’d cost 14,000 Avios and $160 in taxes and fees.
+                - heading "27. Experience Qantas Domestic Lounges and Business Class for 14,000 Avios (Qantas)" [level=3] [ref=e1093]
+                - 'figure "Qantas Business Lounge Sydney. Image Credit: Greg Stone" [ref=e1095]':
+                  - img "Qantas Business Lounge Sydney" [ref=e1097]
+                  - generic [ref=e1098]:
+                    - text: "Qantas Business Lounge Sydney. Image Credit:"
+                    - link "Greg Stone" [ref=e1099] [cursor=pointer]:
+                      - /url: /author/greg/
+                - paragraph [ref=e1100]:
+                  - text: Domestic business class on Qantas is among the best in the world, and you often get a full meal service even on relatively short flights! Additionally,
+                  - link "Qantas lounges" [ref=e1101] [cursor=pointer]:
+                    - /url: https://www.qantas.com/travel/airlines/airport-lounges/global/en
+                  - text: are in many Australian cities, and they rival the best international business lounges.
+                - paragraph [ref=e1102]: A business class flight between Sydney (SYD) and Melbourne (MEL) will cost you just 14,000 Avios and about $30 in taxes and fees.
+                - heading "28. Qantas Domestic Lie-Flat for 24,500 Avios (Qantas)" [level=3] [ref=e1103]
+                - paragraph [ref=e1104]:
+                  - text: Nonstop flights between Melbourne (MEL) and Perth (PER) on Qantas are around 4 hours in duration and often see Airbus A330 or Boeing 787-9 aircraft operating the route, meaning
+                  - strong [ref=e1105]: there are lie-flat seats in business class
+                  - text: .
+                - paragraph [ref=e1106]: You can book one of these seats for 24,500 Avios each way, while economy costs 12,500 Avios.
+                - paragraph [ref=e1107]: Be sure to select a flight with one of these plane types, as some flights are operated by Boeing 737s. Be aware that equipment swaps can happen to meet operational needs, and Qantas doesn’t have to put you on the plane type you booked, though it may help out if you contact customer service.
+                - paragraph [ref=e1109]: Advertisement
+                - heading "Guide to Spending Avios on British Airways and Partners" [level=2] [ref=e1110]
+                - paragraph [ref=e1111]:
+                  - text: Now that we’ve listed the best ways to use Avios, let’s talk about some other details.
+                  - link "The British Airways Club" [ref=e1112] [cursor=pointer]:
+                    - /url: /travel/airlines/british-airways-executive-club-loyalty-program/
+                  - text: is significantly different from other airline frequent flyer programs. By learning how spending Avios works, you can have fantastic travel experiences!
+                - paragraph [ref=e1113]: Traditional airline award charts priced by geographic region have become a rarity, as many airline loyalty programs have scrapped them in favor of dynamic pricing. With dynamic pricing, award rates can vary based on distance, peak or off-peak dates, and the flight’s cash price.
+                - paragraph [ref=e1114]: British Airways has long had distance- and segment-based award charts, however, they no longer publish award charts, which can make it difficult to determine the value you are getting from flight awards.
+                - paragraph [ref=e1115]:
+                  - text: Though the specific redemption rates are not published, each Avios award still is priced by distance for
+                  - strong [ref=e1116]: each segment
+                  - text: of a trip, so prices add up fast if you are not flying nonstop.
+                - generic [ref=e1117]:
+                  - strong [ref=e1118]: »
+                  - strong [ref=e1119]: "Related:"
+                  - 'link "Airline Peak and Off-Peak Award Charts: The Ultimate Guide [2026]" [ref=e1120] [cursor=pointer]':
+                    - /url: /travel/airlines/airline-peak-and-off-peak-award-charts/
+                - heading "List of Alliance and Other Airline Partners" [level=4] [ref=e1121]
+                - paragraph [ref=e1122]:
+                  - text: British Airways partners with many different airline frequent flyer programs — the following table details the members of the Oneworld alliance, and BA also has partner
+                  - link "Aer Lingus" [ref=e1123] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-aer-lingus-avios/
+                  - text: outside of any alliance.
+                - table [ref=e1127]:
+                  - rowgroup [ref=e1128]:
+                    - row "Oneworld Partners" [ref=e1129]:
+                      - cell "Oneworld Partners" [ref=e1130]:
+                        - paragraph [ref=e1132]:
+                          - strong [ref=e1133]: Oneworld Partners
+                    - row "Alaska Airlines Malaysia Airlines" [ref=e1134]:
+                      - cell "Alaska Airlines" [ref=e1135]:
+                        - paragraph [ref=e1136]:
+                          - link "Alaska Airlines" [ref=e1137] [cursor=pointer]:
+                            - /url: /travel/airlines/alaska-airlines-review/
+                      - cell "Malaysia Airlines" [ref=e1138]:
+                        - paragraph [ref=e1139]: Malaysia Airlines
+                    - row "American Airlines Oman Air" [ref=e1140]:
+                      - cell "American Airlines" [ref=e1141]:
+                        - paragraph [ref=e1142]:
+                          - link "American Airlines" [ref=e1143] [cursor=pointer]:
+                            - /url: /travel/airlines/american-airlines-aadvantage-loyalty-program/
+                      - cell "Oman Air" [ref=e1144]:
+                        - paragraph [ref=e1145]: Oman Air
+                    - row "British Airways Qantas" [ref=e1146]:
+                      - cell "British Airways" [ref=e1147]:
+                        - paragraph [ref=e1148]:
+                          - link "British Airways" [ref=e1149] [cursor=pointer]:
+                            - /url: /travel/airlines/british-airways-executive-club-loyalty-program/
+                      - cell "Qantas" [ref=e1150]:
+                        - paragraph [ref=e1151]:
+                          - link "Qantas" [ref=e1152] [cursor=pointer]:
+                            - /url: /travel/airlines/qantas-airways-frequent-flyer-loyalty-program/
+                    - row "Cathay Pacific Qatar Airways" [ref=e1153]:
+                      - cell "Cathay Pacific" [ref=e1154]:
+                        - paragraph [ref=e1155]:
+                          - link "Cathay Pacific" [ref=e1156] [cursor=pointer]:
+                            - /url: /travel/airlines/cathay-pacific-asia-miles-loyalty-program/
+                      - cell "Qatar Airways" [ref=e1157]:
+                        - paragraph [ref=e1158]:
+                          - link "Qatar Airways" [ref=e1159] [cursor=pointer]:
+                            - /url: /travel/airlines/qatar-airways-privilege-club-loyalty-program/
+                    - row "Fiji Airways Royal Air Maroc" [ref=e1160]:
+                      - cell "Fiji Airways" [ref=e1161]:
+                        - paragraph [ref=e1162]: Fiji Airways
+                      - cell "Royal Air Maroc" [ref=e1163]:
+                        - paragraph [ref=e1164]: Royal Air Maroc
+                    - row "Finnair Royal Jordanian" [ref=e1165]:
+                      - cell "Finnair" [ref=e1166]:
+                        - paragraph [ref=e1167]: Finnair
+                      - cell "Royal Jordanian" [ref=e1168]:
+                        - paragraph [ref=e1169]: Royal Jordanian
+                    - row "Iberia S7 Airlines (temporarily suspended)" [ref=e1170]:
+                      - cell "Iberia" [ref=e1171]:
+                        - paragraph [ref=e1172]:
+                          - link "Iberia" [ref=e1173] [cursor=pointer]:
+                            - /url: /travel/airlines/iberia-plus-loyalty-program/
+                      - cell "S7 Airlines (temporarily suspended)" [ref=e1174]:
+                        - paragraph [ref=e1175]: S7 Airlines (temporarily suspended)
+                    - row "Japan Airlines SriLankan Airlines" [ref=e1176]:
+                      - cell "Japan Airlines" [ref=e1177]:
+                        - paragraph [ref=e1178]:
+                          - link "Japan Airlines" [ref=e1179] [cursor=pointer]:
+                            - /url: /travel/airlines/japan-airlines-mileage-bank-loyalty-program/
+                      - cell "SriLankan Airlines" [ref=e1180]:
+                        - paragraph [ref=e1181]: SriLankan Airlines
+                - heading "First vs. Business Class" [level=3] [ref=e1182]
+                - paragraph [ref=e1183]: Not all airlines or flights have all classes of service.
+                - paragraph [ref=e1184]: Beware of domestic “first class” flights that are not worth the price! Compared to 13,500 Avios in economy, for example, 26,500 Avios for a short American Airlines flight in first class is certainly not worth it for a product that is mostly just marginally better.
+                - paragraph [ref=e1185]: In contrast, some of the coolest Avios awards are for short first or business class flights that grant you access to incredible airline lounges.
+                - paragraph [ref=e1186]: For example, this may be the cheapest way to experience Cathay Pacific’s The Wing in Hong Kong or the Qantas International First Lounge in Sydney.
+                - heading "Multicarrier Award Flights" [level=3] [ref=e1187]
+                - paragraph [ref=e1188]: “Multicarrier” means a combination of 2 or more Oneworld airlines besides British Airways on a single ticket. These awards have their own chart.
+                - paragraph [ref=e1189]:
+                  - text: These awards are
+                  - strong [ref=e1190]: expensive
+                  - text: ", and you’ll most likely do better by booking separate airlines on separate tickets. However, if you’re looking to put together an around-the-world itinerary, using the multicarrier award chart may save you Avios compared to separate bookings."
+                - paragraph [ref=e1191]:
+                  - text: "The multicarrier Avios price is the same regardless of connections, one-way or round-trip:"
+                  - strong [ref=e1192]: Only total distance matters
+                  - text: . However, taxes, fees, and carrier charges vary widely, so beware!
+                - table [ref=e1195]:
+                  - rowgroup [ref=e1196]:
+                    - row "BA Multicarrier Award Flights" [ref=e1197]:
+                      - cell "BA Multicarrier Award Flights" [ref=e1198]:
+                        - paragraph [ref=e1200]:
+                          - strong [ref=e1201]: BA Multicarrier Award Flights
+                    - row "Miles in Your Journey Avios for Economy" [ref=e1202]:
+                      - cell "Miles in Your Journey" [ref=e1203]:
+                        - paragraph [ref=e1204]:
+                          - strong [ref=e1205]: Miles in Your Journey
+                      - cell "Avios for Economy" [ref=e1206]:
+                        - paragraph [ref=e1207]:
+                          - strong [ref=e1208]: Avios for Economy
+                    - row "0 to 1,500 30,000 plus taxes, fees, and carrier charges" [ref=e1209]:
+                      - cell "0 to 1,500" [ref=e1210]:
+                        - paragraph [ref=e1211]: 0 to 1,500
+                      - cell "30,000 plus taxes, fees, and carrier charges" [ref=e1212]:
+                        - paragraph [ref=e1213]: 30,000 plus taxes, fees, and carrier charges
+                    - row "1,501 to 4,000 35,000 plus taxes, fees, and carrier charges" [ref=e1214]:
+                      - cell "1,501 to 4,000" [ref=e1215]:
+                        - paragraph [ref=e1216]: 1,501 to 4,000
+                      - cell "35,000 plus taxes, fees, and carrier charges" [ref=e1217]:
+                        - paragraph [ref=e1218]: 35,000 plus taxes, fees, and carrier charges
+                    - row "4,001 to 9,000 60,000 plus taxes, fees, and carrier charges" [ref=e1219]:
+                      - cell "4,001 to 9,000" [ref=e1220]:
+                        - paragraph [ref=e1221]: 4,001 to 9,000
+                      - cell "60,000 plus taxes, fees, and carrier charges" [ref=e1222]:
+                        - paragraph [ref=e1223]: 60,000 plus taxes, fees, and carrier charges
+                    - row "9,001 to 10,000 70,000 plus taxes, fees, and carrier charges" [ref=e1224]:
+                      - cell "9,001 to 10,000" [ref=e1225]:
+                        - paragraph [ref=e1226]: 9,001 to 10,000
+                      - cell "70,000 plus taxes, fees, and carrier charges" [ref=e1227]:
+                        - paragraph [ref=e1228]: 70,000 plus taxes, fees, and carrier charges
+                    - row "10,001 to 14,000 90,000 plus taxes, fees, and carrier charges" [ref=e1229]:
+                      - cell "10,001 to 14,000" [ref=e1230]:
+                        - paragraph [ref=e1231]: 10,001 to 14,000
+                      - cell "90,000 plus taxes, fees, and carrier charges" [ref=e1232]:
+                        - paragraph [ref=e1233]: 90,000 plus taxes, fees, and carrier charges
+                    - row "14,001 to 20,000 100,000 plus taxes, fees, and carrier charges" [ref=e1234]:
+                      - cell "14,001 to 20,000" [ref=e1235]:
+                        - paragraph [ref=e1236]: 14,001 to 20,000
+                      - cell "100,000 plus taxes, fees, and carrier charges" [ref=e1237]:
+                        - paragraph [ref=e1238]: 100,000 plus taxes, fees, and carrier charges
+                    - row "20,001 to 25,000 120,000 plus taxes, fees, and carrier charges" [ref=e1239]:
+                      - cell "20,001 to 25,000" [ref=e1240]:
+                        - paragraph [ref=e1241]: 20,001 to 25,000
+                      - cell "120,000 plus taxes, fees, and carrier charges" [ref=e1242]:
+                        - paragraph [ref=e1243]: 120,000 plus taxes, fees, and carrier charges
+                - paragraph [ref=e1244]: As a general rule, premium economy costs 1.5 times the economy price. Business costs 2 times economy, and first class costs 3 times economy.
+                - heading "What Is Reward Flight Saver?" [level=3] [ref=e1245]
+                - paragraph [ref=e1246]: The British Airways Reward Flight Saver can help you lower your out-of-pocket costs for Avios redemptions. With Reward Flight Saver, redemptions on British Airways-operated flights are reduced, flat fees instead of other taxes and surcharges. Your account must have earned Avios in the past 12 months to be eligible for Reward Flight Saver.
+                - paragraph [ref=e1247]: Qualifying itineraries show the Reward Flight Saver icon on the page that displays flight options when you’re booking.
+                - heading "What Is Avios and Cash?" [level=3] [ref=e1248]
+                - paragraph [ref=e1249]: British Airways and some partner flights may have several payment options that allow you to use a combination of Avios and cash.
+                - paragraph [ref=e1250]: If you want to use fewer Avios or don’t have enough, you can choose an option that includes more cash.
+                - paragraph [ref=e1251]: "Here are the Avios and cash options for a flight from Los Angeles (LAX) to London (LHR) for 2 passengers in British Airways first class as an example:"
+                - 'figure "British Airways Avios and cash gives you options to save Avios or save cash. Image Credit: British Airways" [ref=e1253]':
+                  - img "ba avios lax lhr first class pricing options" [ref=e1255]
+                  - generic [ref=e1256]: "British Airways Avios and cash gives you options to save Avios or save cash. Image Credit: British Airways"
+                - heading "Where To Search for British Airways Avios Award Flights" [level=3] [ref=e1257]
+                - paragraph [ref=e1258]:
+                  - text: You can search for British Airways flights and its many airline partners on
+                  - link "British Airways’ website" [ref=e1259] [cursor=pointer]:
+                    - /url: http://britishairways.com
+                  - text: . British Airways does not have a calendar view for partner awards, so it may be helpful to search the American Airlines website first for award availability using its calendar and then plug in your dates to BA.com to confirm availability with Avios.
+                - paragraph [ref=e1260]:
+                  - generic [ref=e1261]:
+                    - strong [ref=e1262]: "Hot Tip:"
+                    - text: Be cautious when searching for awards directly on partner airline websites. Some awards may only be available to their own members, not to partners. For American Airlines, you often can only use Avios to book what American shows as its lowest-level awards.
+                - heading "Start 355 Days in Advance" [level=4] [ref=e1263]
+                - paragraph [ref=e1264]:
+                  - text: Awards are available up to 355 days before departure, and there are no
+                  - link "award holds" [ref=e1265] [cursor=pointer]:
+                    - /url: /travel/airlines/airline-award-hold-policies-fees/
+                  - text: or waitlists. With British Airways, you can access awards 25 days before American Airlines members can!
+                - heading "How To Book a British Airways Reward Flight" [level=3] [ref=e1266]
+                - paragraph [ref=e1267]:
+                  - text: Log in to
+                  - link "your British Airways Club login" [ref=e1268] [cursor=pointer]:
+                    - /url: https://www.britishairways.com/travel/echome/public/en_us?source=MNVEXC3_my_executive_club
+                  - text: and search using
+                  - strong [ref=e1269]: Book a flight with Avios
+                  - text: .
+                - paragraph [ref=e1270]:
+                  - text: If the search screen says
+                  - strong [ref=e1271]: You can
+                  - link "break your journey with stopovers" [ref=e1272] [cursor=pointer]:
+                    - /url: /travel/airlines/stopovers-and-open-jaws/
+                    - strong [ref=e1273]: break your journey with stopovers
+                  - text: ", select"
+                  - strong [ref=e1274]: No, I want to continue without stopovers
+                  - text: .
+                - 'figure "When searching British Airways reward flights, opt for no stopover unless you want to visit London. Image Credit: British Airways" [ref=e1276]':
+                  - img "Stopovers BA" [ref=e1278]
+                  - generic [ref=e1279]: "When searching British Airways reward flights, opt for no stopover unless you want to visit London. Image Credit: British Airways"
+                - paragraph [ref=e1280]: This will search partner flights in addition to British Airways flights.
+                - paragraph [ref=e1281]: "Flights may not be displayed on British Airways’ website for various reasons:"
+                - list [ref=e1282]:
+                  - listitem [ref=e1283]:
+                    - strong [ref=e1284]: Route unavailable
+                    - text: means the website is not programmed for that route
+                  - listitem [ref=e1285]: Multiconnection flight options are not searched
+                - heading "Online Booking Problems? Call and Waive the Fee" [level=4] [ref=e1286]:
+                  - strong [ref=e1287]: Online Booking Problems? Call and Waive the Fee
+                - paragraph [ref=e1288]: Even if you can’t find an award on the website, you can call to have British Airways agents book it if it’s indeed available.
+                - paragraph [ref=e1289]: Ask the agent to waive the $25 phone booking fee since the flight is unavailable online. They will usually do so if you ask.
+                - paragraph [ref=e1290]:
+                  - generic [ref=e1291]:
+                    - strong [ref=e1292]: "Bottom Line:"
+                    - text: Many award flights are available online. If not, call to book and ask to waive the $25 booking fee since it is not available online!
+                - heading "How To Get a Free London Stopover" [level=4] [ref=e1293]:
+                  - strong [ref=e1294]: How To Get a Free London Stopover
+                - paragraph [ref=e1295]:
+                  - text: When flying British Airways, you have the option of a free stopover in
+                  - link "London" [ref=e1296] [cursor=pointer]:
+                    - /url: /travel/ultimate-travel-guide-to-london/
+                  - text: .
+                - paragraph [ref=e1297]:
+                  - text: When the award search screen says,
+                  - strong [ref=e1298]: You can break your journey with stopovers
+                  - text: ", select"
+                  - strong [ref=e1299]: I want to break my journey and choose my stopovers
+                  - text: .
+                - 'figure "Your London stopover can be a few days or even several months. Image Credit: British Airways" [ref=e1301]':
+                  - img "Stopovers BA" [ref=e1303]
+                  - generic [ref=e1304]: "Your London stopover can be a few days or even several months. Image Credit: British Airways"
+                - paragraph [ref=e1305]: Free stopover pricing is different from other Avios awards. The whole stopover trip is priced by the distance as if it were 1 flight rather than pricing each segment separately.
+                - paragraph [ref=e1306]:
+                  - generic [ref=e1307]:
+                    - strong [ref=e1308]: "Bottom Line:"
+                    - text: To minimize fees, the best London stopover value is between 2 U.K. or European cities near London rather than long-haul flights.
+                - heading "Beware of Surcharges on British Airways Flights" [level=4] [ref=e1309]:
+                  - strong [ref=e1310]: Beware of Surcharges on British Airways Flights
+                - paragraph [ref=e1311]: Extremely high fees are added to the Avios award price of many British Airways flights. Exceptions are flights within Europe that qualify for Reward Flight Saver.
+                - generic [ref=e1312]:
+                  - strong [ref=e1313]: »
+                  - strong [ref=e1314]: "Related:"
+                  - link "9 Ways to Use British Airways Avios Without Huge Fuel Surcharges" [ref=e1315] [cursor=pointer]:
+                    - /url: /travel/airlines/using-british-airways-avios-without-huge-fuel-surcharges/
+                - paragraph [ref=e1316]: It is not unheard of for the cash component of a British Airways award redemption to be as much as directly buying a cash ticket!
+                - paragraph [ref=e1317]:
+                  - text: The fees on transatlantic flights are especially shocking when you fly on British Airways. Consider Aer Lingus or transfer your Avios to
+                  - link "Club Iberia Plus" [ref=e1318] [cursor=pointer]:
+                    - /url: /travel/airlines/iberia-plus-loyalty-program/
+                  - text: and book Iberia flights.
+                - paragraph [ref=e1319]:
+                  - generic [ref=e1320]:
+                    - strong [ref=e1321]: "Bottom Line:"
+                    - text: As a general rule of thumb, short-distance, nonstop flights on partner airlines offer the best value for your Avios.
+                - heading "Use The British Airways Club Household Accounts To Pool Avios" [level=4] [ref=e1322]
+                - paragraph [ref=e1323]:
+                  - text: You can form a
+                  - link "British Airways Club household account" [ref=e1324] [cursor=pointer]:
+                    - /url: https://www.britishairways.com/en-us/executive-club/household-accounts
+                  - text: . This means you and up to 6 people at the same address can register with BA as a household to pool Avios.
+                - paragraph [ref=e1325]: Awards are deducted proportionally from the household common pool of Avios, and each household member earns Avios and British Airways status on their own.
+                - 'figure "A British Airways Club Household Account is useful for families to pool their Avios. Image Credit: British Airways" [ref=e1327]':
+                  - img "BA Household Accounts" [ref=e1329]
+                  - generic [ref=e1330]: "A British Airways Club Household Account is useful for families to pool their Avios. Image Credit: British Airways"
+                - paragraph [ref=e1331]: The key limitation is that once you are in a household, you can only redeem Avios for members of the household (same address) or up to 5 family and friends (different addresses).
+                - paragraph [ref=e1332]: Family and friends have their own Avios that are not pooled with the household. Any individual must stay on the family and friends list for at least 6 months.
+                - paragraph [ref=e1333]:
+                  - text: Without a household account, British Airways charges a
+                  - strong [ref=e1334]: flat fee of $50 per transaction to transfer Avios to another member
+                  - text: (Gold members can transfer for free). The maximum you can transfer in a year is 200,000 Avios, and it’s capped at 60,000 Avios per transaction.
+                - heading "Low Cancellation Fees Equals Flexibility" [level=4] [ref=e1335]
+                - paragraph [ref=e1336]:
+                  - text: Avios award tickets have
+                  - strong [ref=e1337]: some of the lowest booking fees among major airlines
+                  - text: .
+                - paragraph [ref=e1338]: There are no last-minute ticketing fees with The British Airways Club. In contrast, some frequent flyer programs like United MileagePlus and Delta SkyMiles charge higher redemption prices on last-minute tickets.
+                - paragraph [ref=e1339]:
+                  - text: Change or cancellation fees are relatively low at $55. If the cash portion of your Avios award ticket is less than $55, then you
+                  - strong [ref=e1340]: only forfeit the cash amount you paid
+                  - text: . You don’t pay the full $55 unless your ticket’s fees are $55 or more.
+                - paragraph [ref=e1341]: Note that if you don’t change or cancel online and do it with a phone agent instead, the phone fee is an extra $25.
+                - paragraph [ref=e1342]:
+                  - generic [ref=e1343]:
+                    - strong [ref=e1344]: "Hot Tip:"
+                    - text: A U.S. domestic nonstop flight on American Airlines comes with taxes and fees of just $5.60. If you cancel down the line, you only lose $5.60 — a small price to pay for flexibility!
+                - heading "Combine My Avios" [level=3] [ref=e1345]
+                - paragraph [ref=e1346]:
+                  - link "Iberia" [ref=e1347] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-iberia-plus-avios/
+                  - text: and
+                  - link "Qatar Airways" [ref=e1348] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-qatar-avios/
+                  - text: also use Avios as rewards currency, and the Avios from those airlines can be combined with the Avios from British Airways at a 1:1 ratio.
+                - paragraph [ref=e1349]:
+                  - text: For example, if you want to transfer Avios from BA to Iberia, sign up for a
+                  - link "Club Iberia Plus" [ref=e1350] [cursor=pointer]:
+                    - /url: https://www.iberia.com/us/all-iberiaplus/
+                  - text: account. Then submit your transfer request using the new
+                  - link "Avios transfer tool" [ref=e1351] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/news/new-avios-transfer-tool/
+                  - text: .
+                - paragraph [ref=e1352]:
+                  - text: If you’re short on Avios in your accounts, you can also transfer points from the flexible programs, such as
+                  - link "American Express Membership Rewards" [ref=e1353] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/american-express-membership-rewards-review/
+                  - text: or
+                  - link "Chase Ultimate Rewards" [ref=e1354] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/chase-ultimate-rewards-review/
+                  - text: ", to one airline and then combine them with your Avios from another airline."
+                - paragraph [ref=e1355]: Please note that redemption restrictions are subject to change. We’ll continue to update this article periodically to reflect changes to British Airways redemptions.
+                - heading "Final Thoughts" [level=2] [ref=e1356]
+                - paragraph [ref=e1357]: Now you know some of the best ways to use British Airways Avios. To get the best value out of British Airways Avios, look into redeeming them with British Airways’ partner airlines.
+                - paragraph [ref=e1358]: Short-haul flights in the U.S. on American and Alaska tend to be some of the best redemptions available.
+                - paragraph [ref=e1359]: Luxury travelers can experience the world’s premier airline lounges, such as Cathay Pacific and Qantas, for low prices.
+                - paragraph [ref=e1360]: Finally, another reason to book flights on partner airlines is to avoid the ridiculously high taxes and fuel surcharges British Airways charges on its own flights.
+              - generic [ref=e1361]:
+                - generic [ref=e1362]:
+                  - separator [ref=e1363]
+                  - text: "Featured Image Credit:"
+                  - link "Daniel Ross" [ref=e1364] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/daniel/
+                - generic [ref=e1365]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1366]
+                  - group [ref=e1367]:
+                    - generic "Where does British Airways fly?" [ref=e1368] [cursor=pointer]
+                    - paragraph [ref=e1370]:
+                      - text: British Airways and partner airlines fly all over the world. To explore specific locations, use the
+                      - link "interactive map" [ref=e1371] [cursor=pointer]:
+                        - /url: https://www.britishairways.com/en-us/information/flight-information/our-route-network
+                      - text: .
+                  - group [ref=e1372]:
+                    - generic "Does British Airways have a branded credit card?" [ref=e1373] [cursor=pointer]
+                    - generic [ref=e1374]:
+                      - paragraph [ref=e1375]:
+                        - text: You can get the
+                        - link "British Airways Visa card" [ref=e1376] [cursor=pointer]:
+                          - /url: /credit-cards/reviews/british-airways-visa-card/
+                        - text: to earn more Avios (3x per dollar on BA, Aer Lingus, Iberia, and Level flights) and some additional benefits to make your experience even better.
+                      - paragraph [ref=e1377]: "The British Airways Visa card has an especially great benefit: a companion ticket to be used for your significant other or friend to take a trip with you for free!"
+                  - group [ref=e1378]:
+                    - generic "What other credit cards can I use to earn Avios?" [ref=e1379] [cursor=pointer]
+                    - generic [ref=e1380]:
+                      - paragraph [ref=e1381]: "British Airways partners with several different reward points programs: American Express Membership Rewards, Bilt Rewards, Capital One Miles, Chase Ultimate Rewards, Wells Fargo Rewards, and Marriott Bonvoy."
+                      - paragraph [ref=e1382]:
+                        - text: Any of the travel rewards cards that
+                        - link "earn points in these programs" [ref=e1383] [cursor=pointer]:
+                          - /url: /credit-cards/travel-rewards-credit-cards/
+                        - text: will be able to transfer points to BA, although at different rates.
+                      - paragraph [ref=e1384]:
+                        - text: The recommended cards to use would be the
+                        - link "Chase Sapphire Preferred card" [ref=e1385] [cursor=pointer]:
+                          - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                        - text: or the
+                        - generic [ref=e1386]:
+                          - link "Amex Gold card" [ref=e1387] [cursor=pointer]:
+                            - /url: /credit-cards/reviews/american-express-gold-card/
+                          - text: .
+                      - paragraph [ref=e1388]:
+                        - text: Note that you need to have one of the
+                        - link "Chase travel rewards cards" [ref=e1389] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/travel/chase-ultimate-rewards-travel-portal/
+                        - text: (Chase Sapphire Preferred card,
+                        - link "Chase Sapphire Reserve card" [ref=e1390] [cursor=pointer]:
+                          - /url: /credit-cards/reviews/chase-sapphire-reserve/
+                        - text: ", or"
+                        - link "Ink Business Preferred® Credit Card" [ref=e1391] [cursor=pointer]:
+                          - /url: /credit-cards/reviews/chase-ink-business-preferred-credit-card/
+                        - text: ) in order to transfer points to BA.
+                  - group [ref=e1392]:
+                    - generic "How do I contact British Airways?" [ref=e1393] [cursor=pointer]
+                    - paragraph [ref=e1395]: You can contact British Airways by dialing 800-452-1201 from within the U.S. between 7:30 a.m. and 8 p.m. Eastern time.
+                  - group [ref=e1396]:
+                    - generic "What is British Airways' frequent flyer program?" [ref=e1397] [cursor=pointer]
+                    - paragraph [ref=e1399]:
+                      - text: British Airways’ frequent flyer program is called
+                      - link "The British Airways Club" [ref=e1400] [cursor=pointer]:
+                        - /url: /travel/airlines/british-airways-executive-club-loyalty-program/
+                      - text: ", which uses a currency called “Avios.”"
+                  - group [ref=e1401]:
+                    - generic "What are British Airways Tier points?" [ref=e1402] [cursor=pointer]
+                    - paragraph [ref=e1404]:
+                      - text: The British Airways Club
+                      - link "Tier points" [ref=e1405] [cursor=pointer]:
+                        - /url: https://www.britishairways.com/en-us/executive-club/tiers-and-benefits/about-tier-points
+                      - text: allow people to reach British Airways Club membership tiers that offer greater benefits. They are earned on British Airways flights, subsidiaries, and Oneworld airline partners.
+                  - group [ref=e1406]:
+                    - generic "What is British Airways World Traveller class?" [ref=e1407] [cursor=pointer]
+                    - generic [ref=e1408]:
+                      - paragraph [ref=e1409]: World Traveller class is the name for British Airways’ full-service economy class seats on flights outside Europe.
+                      - paragraph [ref=e1410]: World Traveller Plus is the airline’s premium economy service that offers a few extra bonuses like wider seats and more legroom.
+                  - group [ref=e1411]:
+                    - generic "Which alliance is British Airways a part of?" [ref=e1412] [cursor=pointer]
+                    - paragraph [ref=e1414]:
+                      - text: British Airways is a part of the
+                      - link "Oneworld alliance" [ref=e1415] [cursor=pointer]:
+                        - /url: https://www.oneworld.com/
+                      - text: .
+                  - group [ref=e1416]:
+                    - generic "Are British Airways and Qantas partners?" [ref=e1417] [cursor=pointer]
+                    - paragraph [ref=e1419]: Yes. Both British Airways and Qantas are part of the Oneworld alliance. Qantas is sometimes a great site to find award availability on Qantas or other partner airlines since the British Airways site does not always show partner award availability.
+                  - group [ref=e1420]:
+                    - generic "Are British Airways and American Airlines partners?" [ref=e1421] [cursor=pointer]
+                    - paragraph [ref=e1423]: Yes, American Airlines and British Airways are part of the Oneworld alliance. American Airlines is another option if you’re searching for award tickets to book with Avios.
+                  - group [ref=e1424]:
+                    - generic "Are British Airways and United Airlines partners?" [ref=e1425] [cursor=pointer]
+                    - paragraph [ref=e1427]:
+                      - text: No. United Airlines is a part of the
+                      - link "Star Alliance" [ref=e1428] [cursor=pointer]:
+                        - /url: https://www.staralliance.com/
+                      - text: ", and British Airways is a part of the Oneworld alliance."
+                  - group [ref=e1429]:
+                    - generic "Are British Airways flights refundable?" [ref=e1430] [cursor=pointer]
+                    - generic [ref=e1431]:
+                      - paragraph [ref=e1432]: "Reserved seats on British Airways flights are refundable for any of the following reasons:"
+                      - list [ref=e1433]:
+                        - listitem [ref=e1434]: The aircraft is changed, or the flight is disrupted, and British Airways cannot find you a seat on this new aircraft you’re happy with.
+                        - listitem [ref=e1435]: You cannot sit in an exit row because of safety regulations (you must contact British Airways and notify them about this at least 48 hours before your flight).
+                        - listitem [ref=e1436]: You pay to upgrade your seat but do not wish to pay for seat selection in the cabin to which you upgrade.
+                      - paragraph [ref=e1437]:
+                        - text: Refunds are
+                        - emphasis [ref=e1438]: not
+                        - text: given if you cancel your flight voluntarily, British Airways upgrades you, you select the exit row seat and are not eligible to sit there, you cannot find an equivalent seat on a flight to which you change, or you booked on another carrier and changed your flight.
+                - complementary [ref=e1439]:
+                  - generic [ref=e1440]:
+                    - paragraph [ref=e1441]:
+                      - generic [ref=e1442]: The information regarding the Capital One VentureOne Rewards Credit Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1444]:
+                        - text: The information regarding the Citi
+                        - superscript [ref=e1445]: ®
+                        - text: / AAdvantage
+                        - superscript [ref=e1446]: ®
+                        - text: Platinum Select
+                        - superscript [ref=e1447]: ®
+                        - text: World Elite™ Mastercard
+                        - superscript [ref=e1448]: ®
+                        - text: was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1450]:
+                        - text: The information regarding the
+                        - generic [ref=e1451]:
+                          - text: Citi
+                          - superscript [ref=e1452]: ®
+                          - text: / AAdvantage Business™ World Elite Mastercard
+                          - superscript [ref=e1453]: ®
+                        - text: was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1454]: The information regarding the Wells Fargo Autograph℠ Card was independently collected by Upgraded Points and not reviewed nor provided by the issuer.
+                      - generic [ref=e1455]: The information regarding the Wells Fargo Autograph Journey℠ Card was independently collected by Upgraded Points and not reviewed nor provided by the issuer.
+                      - generic [ref=e1456]: The information regarding the Bilt Blue Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.]
+                      - generic [ref=e1457]: The information regarding the Bilt Obsidian Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1458]: The information regarding the Bilt Palladium Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph [ref=e1459]:
+                      - generic [ref=e1461]:
+                        - text: For rates and fees of the Platinum Card
+                        - superscript [ref=e1462]: ®
+                        - text: from American Express, click
+                        - link "here" [ref=e1463] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1465]:
+                        - text: For rates and fees of the American Express
+                        - superscript [ref=e1466]: ®
+                        - text: Gold Card, click
+                        - link "here" [ref=e1467] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TE/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                - group "Was this page helpful?" [ref=e1469]:
+                  - paragraph [ref=e1470]: Was this page helpful?
+                  - generic [ref=e1471]:
+                    - button "Yes" [ref=e1472] [cursor=pointer]
+                    - button "No" [ref=e1473] [cursor=pointer]
+                - generic [ref=e1474]:
+                  - figure [ref=e1476]:
+                    - img "Alex Miller's image" [ref=e1477]
+                  - generic [ref=e1478]:
+                    - heading "About Alex Miller" [level=2] [ref=e1479]:
+                      - text: About
+                      - link "Alex Miller" [ref=e1480] [cursor=pointer]:
+                        - /url: /author/alexmiller/
+                    - paragraph [ref=e1481]: Founder and CEO of Upgraded Points, Alex is a leader in the industry and has earned and redeemed millions of points and miles. He frequently discusses the award travel industry with CNBC, Fox Business, The New York Times, and more.
+                    - list [ref=e1483]:
+                      - listitem [ref=e1484]:
+                        - link "Facebook icon" [ref=e1485] [cursor=pointer]:
+                          - /url: https://facebook.com/upgradedpoints
+                          - img "Facebook icon" [ref=e1486]
+                      - listitem [ref=e1487]:
+                        - link "Instagram icon" [ref=e1488] [cursor=pointer]:
+                          - /url: https://instagram.com/upgradedpoints/
+                          - img "Instagram icon" [ref=e1489]
+                      - listitem [ref=e1490]:
+                        - link "LinkedIn icon" [ref=e1491] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/alexmilleruk/
+                          - img "LinkedIn icon" [ref=e1492]
+                      - listitem [ref=e1493]:
+                        - link "Twitter icon" [ref=e1494] [cursor=pointer]:
+                          - /url: https://twitter.com/upgradedpoints
+                          - img "Twitter icon" [ref=e1495]
+                      - listitem [ref=e1496]:
+                        - link "email icon" [ref=e1497] [cursor=pointer]:
+                          - /url: mailto:alex@upgradedpoints.com
+                          - img "email icon" [ref=e1498]
+                - generic [ref=e1500]:
+                  - generic [ref=e1501]:
+                    - paragraph [ref=e1502]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1503]: ™
+                    - generic [ref=e1504]:
+                      - paragraph [ref=e1505]:
+                        - text: Get the
+                        - strong [ref=e1506]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1507]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1508]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1509]:
+                      - textbox "First Name" [ref=e1510]
+                      - textbox "Email" [ref=e1511]
+                      - button "Join Now" [disabled] [ref=e1512]
+                    - paragraph [ref=e1514]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1515] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1516] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1517] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1519]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1521]
+                - generic [ref=e1523]:
+                  - paragraph [ref=e1524]: We Recommend
+                  - generic [ref=e1525]:
+                    - generic [ref=e1526]:
+                      - link "Platinum Card® from American Express" [ref=e1527] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1528]
+                      - link "Terms Apply / Rates & Fees" [ref=e1529] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1530] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1531]
+                        - text: Apply Now
+                    - generic [ref=e1534]:
+                      - paragraph [ref=e1535]:
+                        - link "Platinum Card® from American Express" [ref=e1536] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1537]:
+                            - text: Platinum Card
+                            - superscript [ref=e1538]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1540]:
+                        - generic [ref=e1541]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1542] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1543]:
+                        - listitem [ref=e1544]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1545]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1546]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1547]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1548]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1549]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1550]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1551] [cursor=pointer]
+            - complementary [ref=e1553]:
+              - generic [ref=e1554]:
+                - generic [ref=e1556]:
+                  - paragraph [ref=e1557]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1558] [cursor=pointer]
+                  - generic [ref=e1559]:
+                    - generic [ref=e1562]:
+                      - generic [ref=e1563]:
+                        - generic [ref=e1564]:
+                          - img [ref=e1565]
+                          - generic [ref=e1567]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1568] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1569]
+                      - generic [ref=e1570]:
+                        - paragraph [ref=e1571]:
+                          - link "Platinum Card® from American Express" [ref=e1572] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1573]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1574] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1575]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1577] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1580]:
+                      - generic [ref=e1581]:
+                        - generic [ref=e1582]:
+                          - img [ref=e1583]
+                          - generic [ref=e1585]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1586] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1587]
+                      - generic [ref=e1588]:
+                        - paragraph [ref=e1589]:
+                          - link "American Express® Gold Card" [ref=e1590] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1591]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1592] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1593]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1595] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1598]:
+                      - generic [ref=e1599]:
+                        - generic [ref=e1600]:
+                          - img [ref=e1601]
+                          - generic [ref=e1603]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1604] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1605]
+                      - generic [ref=e1606]:
+                        - paragraph [ref=e1607]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1608] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1609]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1610] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1611]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1613] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/619/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1616]:
+                      - generic [ref=e1617]:
+                        - generic [ref=e1618]:
+                          - img [ref=e1619]
+                          - generic [ref=e1621]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1622] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/619/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1623]
+                      - generic [ref=e1624]:
+                        - paragraph [ref=e1625]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1626] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/619/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1627]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1628] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/619/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1629]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1631] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/619/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1633] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1636]: Advertisement
+      - generic [ref=e1638]:
+        - paragraph [ref=e1639]: Related Posts
+        - generic [ref=e1640]:
+          - generic [ref=e1641]:
+            - link [ref=e1642] [cursor=pointer]:
+              - /url: /travel/airlines/british-airways-executive-club-loyalty-program/
+              - figure [ref=e1643]:
+                - img "The British Airways Club Loyalty Program Review" [ref=e1645]
+            - link "The British Airways Club Loyalty Program Review" [ref=e1646] [cursor=pointer]:
+              - /url: /travel/airlines/british-airways-executive-club-loyalty-program/
+          - generic [ref=e1647]:
+            - link [ref=e1648] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-use-10000-british-airways-avios/
+              - figure [ref=e1649]:
+                - img "The Best Ways To Use 10,000 (or Fewer) British Airways Avios" [ref=e1651]
+            - link "The Best Ways To Use 10,000 (or Fewer) British Airways Avios" [ref=e1652] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-use-10000-british-airways-avios/
+          - generic [ref=e1653]:
+            - link [ref=e1654] [cursor=pointer]:
+              - /url: /credit-cards/reviews/british-airways-visa-card/
+              - figure [ref=e1655]:
+                - 'img "British Airways Visa Signature Card: Full Review [2026]" [ref=e1657]'
+            - 'link "British Airways Visa Signature Card: Full Review [2026]" [ref=e1658] [cursor=pointer]':
+              - /url: /credit-cards/reviews/british-airways-visa-card/
+          - generic [ref=e1659]:
+            - link [ref=e1660] [cursor=pointer]:
+              - /url: /travel/airlines/british-airways-avios-estore/
+              - figure [ref=e1661]:
+                - img "How to Use the British Airways Avios eStore to Earn More Avios" [ref=e1663]
+            - link "How to Use the British Airways Avios eStore to Earn More Avios" [ref=e1664] [cursor=pointer]:
+              - /url: /travel/airlines/british-airways-avios-estore/
+    - contentinfo [ref=e1665]:
+      - img [ref=e1666]
+      - img [ref=e1685]
+      - generic [ref=e1704]:
+        - generic [ref=e1705]:
+          - img [ref=e1707]
+          - generic [ref=e1712]:
+            - generic [ref=e1713]:
+              - paragraph [ref=e1714]: Upgrade your travel experience
+              - list [ref=e1715]:
+                - listitem [ref=e1716]:
+                  - link [ref=e1717] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1718]:
+                      - img "Facebook" [ref=e1719]
+                - listitem [ref=e1720]:
+                  - link [ref=e1721] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1722]:
+                      - img "Twitter" [ref=e1723]
+                - listitem [ref=e1724]:
+                  - link [ref=e1725] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1726]:
+                      - img "Instagram" [ref=e1727]
+                - listitem [ref=e1728]:
+                  - link [ref=e1729] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1730]:
+                      - img "Pinterest" [ref=e1731]
+                - listitem [ref=e1732]:
+                  - link [ref=e1733] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1734]:
+                      - img "Linkedin" [ref=e1735]
+                - listitem [ref=e1736]:
+                  - link [ref=e1737] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1738]:
+                      - img "Youtube" [ref=e1739]
+            - generic [ref=e1741]:
+              - list [ref=e1742]:
+                - listitem [ref=e1743]:
+                  - link "News" [ref=e1744] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1745]:
+                  - link "Credit Cards" [ref=e1746] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1747]:
+                  - link "Business" [ref=e1748] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1749]:
+                - listitem [ref=e1750]:
+                  - link "Finance" [ref=e1751] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1752]:
+                  - link "Travel Guides" [ref=e1753] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1754]:
+                  - link "Air Travel" [ref=e1755] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1756]:
+                - listitem [ref=e1757]:
+                  - link "Hotel Guides" [ref=e1758] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1759]:
+                  - link "Beginners" [ref=e1760] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1761]:
+                  - link "About" [ref=e1762] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1763]:
+                - listitem [ref=e1764]:
+                  - link "Podcast" [ref=e1765] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1766]:
+                  - link "Jobs & Careers" [ref=e1767] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1768]:
+                  - link "Contact Us" [ref=e1769] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1770]:
+          - paragraph [ref=e1771]:
+            - link "Privacy Policy" [ref=e1772] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1773] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1774] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1775] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1776] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1777] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1818] [cursor=pointer]
+          - paragraph [ref=e1778]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1779]:
+          - link "DMCA.com Protection Status" [ref=e1780] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1781]
+          - img "Comodo Secure Seal" [ref=e1783]
+        - generic [ref=e1784]:
+          - generic [ref=e1785]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1786]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1787]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1788]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1789]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1790] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1791]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1792]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1794]:
+    - generic [ref=e1795]:
+      - generic [ref=e1796]:
+        - button "close banner" [ref=e1797] [cursor=pointer]:
+          - img "close banner" [ref=e1798]
+        - img "company logo" [ref=e1800]
+      - generic [ref=e1801]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1803]
+        - generic [ref=e1804]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1805] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1806] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1808]:
+        - button "Manage" [ref=e1809] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1810] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1811] [cursor=pointer]
+    - generic [ref=e1813]:
+      - generic [ref=e1814]: "Powered by:"
+      - link "trustarc" [ref=e1815] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1816]

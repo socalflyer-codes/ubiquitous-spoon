@@ -1,0 +1,1743 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "10 Best Ways To Redeem Alaska Atmos Rewards Points for Max Value" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Ehsan Haque's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Ehsan Haque
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: February 8, 2026, 2:42pm CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Keri Stooksbury
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Kellie Jez
+          - figure [ref=e61]:
+            - img "10 Best Ways To Redeem Alaska Atmos Rewards Points for Max Value" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e65]:
+            - generic "Jump to Section" [ref=e66] [cursor=pointer]
+          - paragraph [ref=e70]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e71] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e72]:
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - generic [ref=e76]:
+                  - heading "Key Takeaways" [level=2] [ref=e78]
+                  - list [ref=e80]:
+                    - listitem [ref=e81]: Alaska Airlines Atmos Rewards points can be used to book flights with Oneworld partners such as American Airlines, Cathay Pacific, and Qantas.
+                    - listitem [ref=e82]: Alaska Airlines also has non-alliance partners such as Aer Lingus, Icelandair, and Korean Air.
+                    - listitem [ref=e83]: Some possible options for maximizing your Atmos Rewards points include short-haul flights with Alaska Airlines, business class flights to Europe, and flying Qatar Airways Qsuites to Doha.
+                - paragraph [ref=e84]:
+                  - text: Alaska Airlines Atmos Rewards has been
+                  - strong [ref=e85]: among the most valuable award programs over the last few years
+                  - text: . The program has largely offered fantastic redemption rates on partner airlines, allows for stopovers on one-way itineraries, and provides excellent benefits for those holding elite status.
+                - paragraph [ref=e86]: However, the loyalty program has begun rolling out its new distance-based award charts. The new award charts are a complete overhaul of the previous redemption rates, which were based on destination and operating carrier.
+                - paragraph [ref=e87]: Unfortunately, some of the best sweet spots in all of points and miles have now been eliminated. This isn’t to say that award prices are increasing on everything. However, a lot of our favorite award redemptions are doing just that.
+                - paragraph [ref=e88]: Below, you’ll see some of the best ways to use your Alaska points for award travel utilizing Alaska’s new award charts.
+                - heading "Redeeming Alaska Airlines Atmos Rewards" [level=2] [ref=e89]
+                - paragraph [ref=e90]:
+                  - link "Alaska Airlines" [ref=e91] [cursor=pointer]:
+                    - /url: /travel/airlines/alaska-airlines-review/
+                  - text: is part of the
+                  - link "Oneworld Alliance" [ref=e92] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/oneworld-alliance/
+                  - text: with other airlines such as American Airlines and
+                  - link "British Airways" [ref=e93] [cursor=pointer]:
+                    - /url: /travel/airlines/british-airways-review/
+                  - text: . Furthermore, Alaska also has a few non-alliance airlines it partners with.
+                - heading "List of Alaska Airlines Partners" [level=2] [ref=e94]
+                - paragraph [ref=e95]:
+                  - text: You can use your
+                  - link "Alaska Airlines Atmos Rewards" [ref=e96] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/alaska-airlines-atmos-rewards-loyalty-program/
+                  - text: "points to book with all of the following Oneworld carriers:"
+                - table [ref=e100]:
+                  - rowgroup [ref=e101]:
+                    - row "Oneworld Partners" [ref=e102]:
+                      - cell "Oneworld Partners" [ref=e103]:
+                        - paragraph [ref=e105]:
+                          - strong [ref=e106]: Oneworld Partners
+                    - row "Alaska Airlines Malaysia Airlines" [ref=e107]:
+                      - cell "Alaska Airlines" [ref=e108]:
+                        - paragraph [ref=e109]:
+                          - link "Alaska Airlines" [ref=e110] [cursor=pointer]:
+                            - /url: /travel/airlines/alaska-airlines-review/
+                      - cell "Malaysia Airlines" [ref=e111]:
+                        - paragraph [ref=e112]: Malaysia Airlines
+                    - row "American Airlines Oman Air" [ref=e113]:
+                      - cell "American Airlines" [ref=e114]:
+                        - paragraph [ref=e115]:
+                          - link "American Airlines" [ref=e116] [cursor=pointer]:
+                            - /url: /travel/airlines/american-airlines-aadvantage-loyalty-program/
+                      - cell "Oman Air" [ref=e117]:
+                        - paragraph [ref=e118]: Oman Air
+                    - row "British Airways Qantas" [ref=e119]:
+                      - cell "British Airways" [ref=e120]:
+                        - paragraph [ref=e121]:
+                          - link "British Airways" [ref=e122] [cursor=pointer]:
+                            - /url: /travel/airlines/british-airways-executive-club-loyalty-program/
+                      - cell "Qantas" [ref=e123]:
+                        - paragraph [ref=e124]:
+                          - link "Qantas" [ref=e125] [cursor=pointer]:
+                            - /url: /travel/airlines/qantas-airways-frequent-flyer-loyalty-program/
+                    - row "Cathay Pacific Qatar Airways" [ref=e126]:
+                      - cell "Cathay Pacific" [ref=e127]:
+                        - paragraph [ref=e128]:
+                          - link "Cathay Pacific" [ref=e129] [cursor=pointer]:
+                            - /url: /travel/airlines/cathay-pacific-asia-miles-loyalty-program/
+                      - cell "Qatar Airways" [ref=e130]:
+                        - paragraph [ref=e131]:
+                          - link "Qatar Airways" [ref=e132] [cursor=pointer]:
+                            - /url: /travel/airlines/qatar-airways-privilege-club-loyalty-program/
+                    - row "Fiji Airways Royal Air Maroc" [ref=e133]:
+                      - cell "Fiji Airways" [ref=e134]:
+                        - paragraph [ref=e135]: Fiji Airways
+                      - cell "Royal Air Maroc" [ref=e136]:
+                        - paragraph [ref=e137]: Royal Air Maroc
+                    - row "Finnair Royal Jordanian" [ref=e138]:
+                      - cell "Finnair" [ref=e139]:
+                        - paragraph [ref=e140]: Finnair
+                      - cell "Royal Jordanian" [ref=e141]:
+                        - paragraph [ref=e142]: Royal Jordanian
+                    - row "Iberia S7 Airlines (temporarily suspended)" [ref=e143]:
+                      - cell "Iberia" [ref=e144]:
+                        - paragraph [ref=e145]:
+                          - link "Iberia" [ref=e146] [cursor=pointer]:
+                            - /url: /travel/airlines/iberia-plus-loyalty-program/
+                      - cell "S7 Airlines (temporarily suspended)" [ref=e147]:
+                        - paragraph [ref=e148]: S7 Airlines (temporarily suspended)
+                    - row "Japan Airlines SriLankan Airlines" [ref=e149]:
+                      - cell "Japan Airlines" [ref=e150]:
+                        - paragraph [ref=e151]:
+                          - link "Japan Airlines" [ref=e152] [cursor=pointer]:
+                            - /url: /travel/airlines/japan-airlines-mileage-bank-loyalty-program/
+                      - cell "SriLankan Airlines" [ref=e153]:
+                        - paragraph [ref=e154]: SriLankan Airlines
+                - paragraph [ref=e155]: In addition, Alaska Airlines partners with these airlines on an individual basis.
+                - table [ref=e158]:
+                  - rowgroup [ref=e159]:
+                    - row "Alaska Partners via Non-Alliance Partnerships" [ref=e160]:
+                      - cell "Alaska Partners via Non-Alliance Partnerships" [ref=e161]:
+                        - paragraph [ref=e163]:
+                          - strong [ref=e164]: Alaska Partners via Non-Alliance Partnerships
+                    - row "Aer Lingus Korean Air" [ref=e165]:
+                      - cell "Aer Lingus" [ref=e166]:
+                        - paragraph [ref=e167]: Aer Lingus
+                      - cell "Korean Air" [ref=e168]:
+                        - paragraph [ref=e169]: Korean Air
+                    - row "Air Tahiti Nui Philippine Airlines" [ref=e170]:
+                      - cell "Air Tahiti Nui" [ref=e171]:
+                        - paragraph [ref=e172]: Air Tahiti Nui
+                      - cell "Philippine Airlines" [ref=e173]:
+                        - paragraph [ref=e174]: Philippine Airlines
+                    - row "Condor Porter Airlines" [ref=e175]:
+                      - cell "Condor" [ref=e176]:
+                        - paragraph [ref=e177]: Condor
+                      - cell "Porter Airlines" [ref=e178]:
+                        - paragraph [ref=e179]: Porter Airlines
+                    - row "Hainan Airlines STARLUX Airlines" [ref=e180]:
+                      - cell "Hainan Airlines" [ref=e181]:
+                        - paragraph [ref=e182]: Hainan Airlines
+                      - cell "STARLUX Airlines" [ref=e183]:
+                        - paragraph [ref=e184]: STARLUX Airlines
+                    - row "Icelandair" [ref=e185]:
+                      - cell "Icelandair" [ref=e186]:
+                        - paragraph [ref=e187]: Icelandair
+                      - cell [ref=e188]:
+                        - strong
+                - paragraph [ref=e189]:
+                  - text: Thanks to Alaska’s numerous partnerships, you can
+                  - strong [ref=e190]: use your Alaska points to fly on some of the best airlines in the world
+                  - text: ", including British Airways, Cathay Pacific,"
+                  - link "Japan Airlines" [ref=e191] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/japan-airlines-review/
+                  - text: ", and Qatar Airways, among others."
+                - paragraph [ref=e192]:
+                  - text: With the distance-based award charts,
+                  - strong [ref=e193]: the further you fly, the more points it will cost you
+                  - text: . Still, Alaska Airlines points can provide incredible value if redeemed correctly.
+                - paragraph [ref=e194]: Best of all, award redemptions are being opened up globally. Under the previous Mileage Plan award charts, you could only redeem for travel within and between select regions. This is a major step in the right direction.
+                - paragraph [ref=e196]: Advertisement
+                - heading "How To Boost Your Balance of Alaska Points" [level=2] [ref=e199]
+                - paragraph [ref=e200]:
+                  - link "Earning Alaska points" [ref=e201] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/how-to-earn-alaska-airlines-atmos-rewards-points/
+                  - text: "has been relatively difficult in the past, as the program only had 1 major transfer partner:"
+                  - link "Marriott Bonvoy" [ref=e202] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/hotels/how-to-earn-marriott-rewards-points/
+                  - text: . However, this has changed in 2024 when Alaska Airlines became a
+                  - link "Bilt Rewards" [ref=e203] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/bilt-rewards-program-review/
+                  - text: transfer partner. Bilt points transfer to Alaska Airlines Atmos Rewards at a 1:1 ratio.
+                - paragraph [ref=e204]:
+                  - link "Alaska Airlines also offers 3 co-branded credit cards" [ref=e205] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/news/alaska-airlines-new-credit-cards-welcome-bonus/
+                  - text: issued by Bank of America for those in the U.S. market.
+                - generic [ref=e207]:
+                  - generic [ref=e208]:
+                    - img "Atmos™ Rewards Ascent Visa Signature® card" [ref=e209]
+                    - generic [ref=e210]:
+                      - generic [ref=e211]:
+                        - img "Star rating icon" [ref=e214]
+                        - img "Star rating icon" [ref=e217]
+                        - img "Star rating icon" [ref=e220]
+                        - img "Star rating icon" [ref=e223]
+                        - generic [ref=e224]:
+                          - img "Star rating icon" [ref=e226]
+                          - img "Star rating icon" [ref=e228]
+                      - generic [ref=e229]:
+                        - generic [ref=e230]: U.P. Rating
+                        - img [ref=e233]:
+                          - img [ref=e234]
+                  - generic [ref=e237]:
+                    - generic [ref=e239]:
+                      - link "Atmos™ Rewards Ascent Visa Signature® card" [ref=e241] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/atmos-rewards-ascent-visa-card/
+                        - text: Atmos™ Rewards Ascent Visa Signature
+                        - superscript [ref=e242]: ®
+                        - text: card
+                      - text: Provides the potential to earn plenty of points to fly with Alaska Airlines and Hawaiian Airlines or over a dozen partners. Plus, get an annual companion fare from just $122 ($99 fare plus taxes and fees from $23) when you spend at least $6,000 a year on the card!
+                    - generic [ref=e243]:
+                      - generic [ref=e244]:
+                        - generic [ref=e245]:
+                          - generic [ref=e246]: Welcome Offer
+                          - img [ref=e249]:
+                            - img [ref=e250]
+                        - generic [ref=e253]: 80,000 points + 50% Flight Discount
+                      - generic [ref=e254]:
+                        - generic [ref=e256]: "UP's Offer Valuation*:"
+                        - generic [ref=e257]: $1,280
+                    - generic [ref=e258]:
+                      - generic [ref=e259]:
+                        - generic [ref=e261]: Annual Fee
+                        - generic [ref=e262]: $95
+                      - generic [ref=e263]:
+                        - generic [ref=e265]: APR
+                        - generic [ref=e266]: 19.49% to 27.49% Variable
+                      - generic [ref=e267]:
+                        - generic [ref=e268]:
+                          - generic [ref=e269]: Credit Recommended
+                          - img [ref=e272]:
+                            - img [ref=e273]
+                        - generic [ref=e276]: Good to Excellent (670-850)
+                    - generic [ref=e277]:
+                      - group [ref=e278]:
+                        - generic "Why We Like This Card" [ref=e279] [cursor=pointer]
+                      - group [ref=e280]:
+                        - generic "Pros & Cons" [ref=e281] [cursor=pointer]
+                      - group [ref=e282]:
+                        - generic "Card Highlights" [ref=e283] [cursor=pointer]
+                - generic [ref=e285]:
+                  - generic [ref=e286]:
+                    - img "Atmos™ Rewards Summit Visa Infinite® card" [ref=e287]
+                    - generic [ref=e288]:
+                      - generic [ref=e289]:
+                        - img "Star rating icon" [ref=e292]
+                        - img "Star rating icon" [ref=e295]
+                        - img "Star rating icon" [ref=e298]
+                        - generic [ref=e299]:
+                          - img "Star rating icon" [ref=e301]
+                          - img "Star rating icon" [ref=e303]
+                        - generic [ref=e304]:
+                          - img "Star rating icon" [ref=e306]
+                          - img "Star rating icon" [ref=e307]
+                      - generic [ref=e308]:
+                        - generic [ref=e309]: U.P. Rating
+                        - img [ref=e312]:
+                          - img [ref=e313]
+                  - generic [ref=e316]:
+                    - generic [ref=e318]:
+                      - link "Atmos™ Rewards Summit Visa Infinite® card" [ref=e320] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/atmos-rewards-summit-visa-infinite-card/
+                        - text: Atmos™ Rewards Summit Visa Infinite
+                        - superscript [ref=e321]: ®
+                        - text: card
+                      - text: The Atmos Rewards Summit card is the perfect companion for Alaska Airlines loyalists.
+                    - generic [ref=e322]:
+                      - generic [ref=e323]:
+                        - generic [ref=e324]:
+                          - generic [ref=e325]: Welcome Offer
+                          - img [ref=e328]:
+                            - img [ref=e329]
+                        - generic [ref=e332]: 100,000 points + 50% Flight Discount
+                      - generic [ref=e333]:
+                        - generic [ref=e335]: "UP's Offer Valuation*:"
+                        - generic [ref=e336]: $1,600
+                    - generic [ref=e337]:
+                      - generic [ref=e338]:
+                        - generic [ref=e340]: Annual Fee
+                        - generic [ref=e341]: $395
+                      - generic [ref=e342]:
+                        - generic [ref=e344]: APR
+                        - generic [ref=e345]: 19.49% to 27.49% Variable
+                    - generic [ref=e346]:
+                      - group [ref=e347]:
+                        - generic "Why We Like This Card" [ref=e348] [cursor=pointer]
+                      - group [ref=e349]:
+                        - generic "Pros & Cons" [ref=e350] [cursor=pointer]
+                      - group [ref=e351]:
+                        - generic "Card Highlights" [ref=e352] [cursor=pointer]
+                - generic [ref=e354]:
+                  - generic [ref=e355]:
+                    - img "Atmos™ Rewards Visa® Business Card" [ref=e356]
+                    - generic [ref=e357]:
+                      - generic [ref=e358]:
+                        - img "Star rating icon" [ref=e361]
+                        - img "Star rating icon" [ref=e364]
+                        - img "Star rating icon" [ref=e367]
+                        - generic [ref=e368]:
+                          - img "Star rating icon" [ref=e370]
+                          - img "Star rating icon" [ref=e372]
+                        - generic [ref=e373]:
+                          - img "Star rating icon" [ref=e375]
+                          - img "Star rating icon" [ref=e376]
+                      - generic [ref=e377]:
+                        - generic [ref=e378]: U.P. Rating
+                        - img [ref=e381]:
+                          - img [ref=e382]
+                  - generic [ref=e385]:
+                    - generic [ref=e387]:
+                      - link "Atmos™ Rewards Visa® Business Card" [ref=e389] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/atmos-rewards-visa-business-card/
+                        - text: Atmos™ Rewards Visa
+                        - superscript [ref=e390]: ®
+                        - text: Business Card
+                      - text: The Atmos Rewards Business card earns you extra points and benefits on Alaska and Hawaiian flights, plus it allows you to earn an annual companion certificate.
+                    - generic [ref=e391]:
+                      - generic [ref=e392]:
+                        - generic [ref=e393]:
+                          - generic [ref=e394]: Welcome Offer
+                          - img [ref=e397]:
+                            - img [ref=e398]
+                        - generic [ref=e401]: 80,000 points + $99 Companion Fare
+                      - generic [ref=e402]:
+                        - generic [ref=e404]: "UP's Offer Valuation*:"
+                        - generic [ref=e405]: $1,280
+                    - generic [ref=e406]:
+                      - generic [ref=e407]:
+                        - generic [ref=e409]: Annual Fee
+                        - generic [ref=e410]: $70 for the company, then $25 per card
+                      - generic [ref=e411]:
+                        - generic [ref=e413]: APR
+                        - generic [ref=e414]: 19.49% to 27.49% Variable
+                    - generic [ref=e415]:
+                      - group [ref=e416]:
+                        - generic "Why We Like This Card" [ref=e417] [cursor=pointer]
+                      - group [ref=e418]:
+                        - generic "Pros & Cons" [ref=e419] [cursor=pointer]
+                      - group [ref=e420]:
+                        - generic "Card Highlights" [ref=e421] [cursor=pointer]
+                - heading "Marriott Bonvoy Credit Cards" [level=3] [ref=e422]
+                - paragraph [ref=e423]:
+                  - text: Alaska Airlines is a transfer partner of
+                  - link "Marriott Bonvoy" [ref=e424] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/hotels/how-to-earn-marriott-rewards-points/
+                  - text: . Marriott Bonvoy points transfer to Alaska Airlines at a 3:1 ratio. Plus, for every 60,000 Marriott Bonvoy points that you transfer, you’ll receive an extra 5,000 Atmos Rewards points.
+                - heading "Recommended Marriott Bonvoy Cards" [level=4] [ref=e425]:
+                  - strong [ref=e426]: Recommended Marriott Bonvoy Cards
+                - generic [ref=e428]:
+                  - generic [ref=e429]:
+                    - img [ref=e430]
+                    - generic [ref=e432]: LIMITED TIME OFFER
+                  - generic [ref=e433]:
+                    - link "Marriott Bonvoy Brilliant® American Express® Card" [ref=e434] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliant_addSource/TRD/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Marriott Bonvoy Brilliant® American Express® Card" [ref=e435]
+                    - link "Terms Apply / Rates & Fees" [ref=e436] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TRD/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e437]: Terms Apply / Rates & Fees
+                    - generic [ref=e438]:
+                      - generic [ref=e439]:
+                        - img "Star rating icon" [ref=e442]
+                        - img "Star rating icon" [ref=e445]
+                        - img "Star rating icon" [ref=e448]
+                        - img "Star rating icon" [ref=e451]
+                        - generic [ref=e452]:
+                          - img "Star rating icon" [ref=e454]
+                          - img "Star rating icon" [ref=e455]
+                      - generic [ref=e456]:
+                        - generic [ref=e457]: U.P. Rating
+                        - img [ref=e460]:
+                          - img [ref=e461]
+                    - link "Apply Now" [ref=e464] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliant_addSource/TRD/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e465]
+                      - text: Apply Now
+                    - generic [ref=e468]: (at Amex's secure site)
+                    - generic [ref=e469]:
+                      - heading "Apply With Confidence" [level=4] [ref=e470]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e471]
+                      - paragraph [ref=e472]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e473]:
+                    - generic [ref=e475]:
+                      - link "Marriott Bonvoy Brilliant® American Express® Card" [ref=e477] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-brilliant-american-express-card/
+                        - text: Marriott Bonvoy Brilliant
+                        - superscript [ref=e478]: ®
+                        - text: American Express
+                        - superscript [ref=e479]: ®
+                        - text: Card
+                      - text: A premium card for Marriott fans who want perks like an annual statement credit and Free Night Award, plus a fast track to Marriott elite status.
+                    - generic [ref=e480]:
+                      - generic [ref=e481]:
+                        - generic [ref=e482]:
+                          - generic [ref=e483]: Welcome Offer
+                          - img [ref=e486]:
+                            - img [ref=e487]
+                        - generic [ref=e490]: 200,000 points
+                      - generic [ref=e491]:
+                        - generic [ref=e493]: "UP's Offer Valuation*:"
+                        - generic [ref=e494]: Up to $1,400
+                    - generic [ref=e495]:
+                      - generic [ref=e496]:
+                        - generic [ref=e498]: Annual Fee
+                        - generic [ref=e499]: $650
+                      - generic [ref=e500]:
+                        - generic [ref=e502]: APR
+                        - generic [ref=e503]: 19.49%-28.49% Variable
+                      - generic [ref=e504]:
+                        - generic [ref=e505]:
+                          - generic [ref=e506]: Credit Recommended
+                          - img [ref=e509]:
+                            - img [ref=e510]
+                        - generic [ref=e513]: Good to Excellent
+                    - generic [ref=e514]:
+                      - group [ref=e515]:
+                        - generic "Why We Like This Card" [ref=e516] [cursor=pointer]
+                      - group [ref=e517]:
+                        - generic "Pros & Cons" [ref=e518] [cursor=pointer]
+                      - group [ref=e519]:
+                        - generic "Card Highlights" [ref=e520] [cursor=pointer]
+                - generic [ref=e522]:
+                  - generic [ref=e523]:
+                    - img [ref=e524]
+                    - generic [ref=e526]: LIMITED TIME OFFER
+                  - generic [ref=e527]:
+                    - link "Marriott Bonvoy Bevy® American Express® Card" [ref=e528] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevy_addSource/TRD/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Marriott Bonvoy Bevy® American Express® Card" [ref=e529]
+                    - link "Terms Apply / Rates & Fees" [ref=e530] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TRD/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e531]: Terms Apply / Rates & Fees
+                    - generic [ref=e532]:
+                      - generic [ref=e533]:
+                        - img "Star rating icon" [ref=e536]
+                        - img "Star rating icon" [ref=e539]
+                        - img "Star rating icon" [ref=e542]
+                        - generic [ref=e543]:
+                          - img "Star rating icon" [ref=e545]
+                          - img "Star rating icon" [ref=e546]
+                        - generic [ref=e547]:
+                          - img "Star rating icon" [ref=e549]
+                          - img "Star rating icon" [ref=e550]
+                      - generic [ref=e551]:
+                        - generic [ref=e552]: U.P. Rating
+                        - img [ref=e555]:
+                          - img [ref=e556]
+                    - link "Apply Now" [ref=e559] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevy_addSource/TRD/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e560]
+                      - text: Apply Now
+                    - generic [ref=e563]: (at Amex's secure site)
+                    - generic [ref=e564]:
+                      - heading "Apply With Confidence" [level=4] [ref=e565]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e566]
+                      - paragraph [ref=e567]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e568]:
+                    - generic [ref=e570]:
+                      - link "Marriott Bonvoy Bevy® American Express® Card" [ref=e572] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-bevy-card/
+                        - text: Marriott Bonvoy Bevy
+                        - superscript [ref=e573]: ®
+                        - text: American Express
+                        - superscript [ref=e574]: ®
+                        - text: Card
+                      - text: The Marriott Bonvoy Bevy card gives you automatic Marriott elite status and helps you earn more Marriott Bonvoy points on your everyday purchases.
+                    - generic [ref=e575]:
+                      - generic [ref=e576]:
+                        - generic [ref=e577]:
+                          - generic [ref=e578]: Welcome Offer
+                          - img [ref=e581]:
+                            - img [ref=e582]
+                        - generic [ref=e585]: 175,000 points
+                      - generic [ref=e586]:
+                        - generic [ref=e588]: "UP's Offer Valuation*:"
+                        - generic [ref=e589]: Up to $1,225
+                    - generic [ref=e590]:
+                      - generic [ref=e591]:
+                        - generic [ref=e593]: Annual Fee
+                        - generic [ref=e594]: $250
+                      - generic [ref=e595]:
+                        - generic [ref=e597]: APR
+                        - generic [ref=e598]: 19.49%-28.49% Variable
+                      - generic [ref=e599]:
+                        - generic [ref=e600]:
+                          - generic [ref=e601]: Credit Recommended
+                          - img [ref=e604]:
+                            - img [ref=e605]
+                        - generic [ref=e608]: Good to Excellent
+                    - generic [ref=e609]:
+                      - group [ref=e610]:
+                        - generic "Why We Like This Card" [ref=e611] [cursor=pointer]
+                      - group [ref=e612]:
+                        - generic "Pros & Cons" [ref=e613] [cursor=pointer]
+                      - group [ref=e614]:
+                        - generic "Card Highlights" [ref=e615] [cursor=pointer]
+                - generic [ref=e617]:
+                  - generic [ref=e618]:
+                    - link "Marriott Bonvoy Boundless® Credit Card" [ref=e619] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundless/TRD/750/dissn.1775548838764.7073346957.1/
+                      - img "Marriott Bonvoy Boundless® Credit Card" [ref=e620]
+                    - link "Terms Apply / Rates & Fees" [ref=e621] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundlessTCCRF/TRD/750/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e622]: Terms Apply / Rates & Fees
+                    - generic [ref=e623]:
+                      - generic [ref=e624]:
+                        - img "Star rating icon" [ref=e627]
+                        - img "Star rating icon" [ref=e630]
+                        - img "Star rating icon" [ref=e633]
+                        - img "Star rating icon" [ref=e636]
+                        - generic [ref=e637]:
+                          - img "Star rating icon" [ref=e639]
+                          - img "Star rating icon" [ref=e641]
+                      - generic [ref=e642]:
+                        - generic [ref=e643]: U.P. Rating
+                        - img [ref=e646]:
+                          - img [ref=e647]
+                    - link "Apply Now" [ref=e650] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundless/TRD/750/dissn.1775548838764.7073346957.1/
+                      - img [ref=e651]
+                      - text: Apply Now
+                    - generic [ref=e654]: (at Chase's secure site)
+                  - generic [ref=e655]:
+                    - generic [ref=e657]:
+                      - link "Marriott Bonvoy Boundless® Credit Card" [ref=e659] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-boundless-credit-card/
+                        - text: Marriott Bonvoy Boundless
+                        - superscript [ref=e660]: ®
+                        - text: Credit Card
+                      - text: Marriott loyalists will love this card's annual Free Night Award, automatic elite status, and up to 17x points per $1 on Marriott hotel stays.
+                    - generic [ref=e661]:
+                      - generic [ref=e662]:
+                        - generic [ref=e663]:
+                          - generic [ref=e664]: Welcome Offer
+                          - img [ref=e667]:
+                            - img [ref=e668]
+                        - generic [ref=e671]: Earn up to 4 Free Night Awards
+                      - generic [ref=e672]:
+                        - generic [ref=e674]: "UP's Offer Valuation*:"
+                        - generic [ref=e675]: Up to $1,400
+                    - generic [ref=e676]:
+                      - generic [ref=e677]:
+                        - generic [ref=e679]: Annual Fee
+                        - generic [ref=e680]: $95
+                      - generic [ref=e681]:
+                        - generic [ref=e683]: APR
+                        - generic [ref=e684]: 19.24% - 27.74% Variable
+                      - generic [ref=e685]:
+                        - generic [ref=e686]:
+                          - generic [ref=e687]: Credit Recommended
+                          - img [ref=e690]:
+                            - img [ref=e691]
+                        - generic [ref=e694]: Good to Excellent
+                    - generic [ref=e695]:
+                      - group [ref=e696]:
+                        - generic "Why We Like This Card" [ref=e697] [cursor=pointer]
+                      - group [ref=e698]:
+                        - generic "Pros & Cons" [ref=e699] [cursor=pointer]
+                      - group [ref=e700]:
+                        - generic "Card Highlights" [ref=e701] [cursor=pointer]
+                - generic [ref=e703]:
+                  - generic [ref=e704]:
+                    - link "Marriott Bonvoy Bold® Credit Card" [ref=e705] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBold/TRD/750/dissn.1775548838764.7073346957.1/
+                      - img "Marriott Bonvoy Bold® Credit Card" [ref=e706]
+                    - link "Terms Apply / Rates & Fees" [ref=e707] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoldTCCRF/TRD/750/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e708]: Terms Apply / Rates & Fees
+                    - generic [ref=e709]:
+                      - generic [ref=e710]:
+                        - img "Star rating icon" [ref=e713]
+                        - img "Star rating icon" [ref=e716]
+                        - img "Star rating icon" [ref=e719]
+                        - generic [ref=e720]:
+                          - img "Star rating icon" [ref=e722]
+                          - img "Star rating icon" [ref=e724]
+                        - generic [ref=e725]:
+                          - img "Star rating icon" [ref=e727]
+                          - img "Star rating icon" [ref=e728]
+                      - generic [ref=e729]:
+                        - generic [ref=e730]: U.P. Rating
+                        - img [ref=e733]:
+                          - img [ref=e734]
+                    - link "Apply Now" [ref=e737] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBold/TRD/750/dissn.1775548838764.7073346957.1/
+                      - img [ref=e738]
+                      - text: Apply Now
+                    - generic [ref=e741]: (at Chase's secure site)
+                  - generic [ref=e742]:
+                    - generic [ref=e744]:
+                      - link "Marriott Bonvoy Bold® Credit Card" [ref=e746] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-bold-credit-card/
+                        - text: Marriott Bonvoy Bold
+                        - superscript [ref=e747]: ®
+                        - text: Credit Card
+                      - text: A great option for Marriott hotel fans who want a no annual fee card and automatic Marriott Bonvoy elite status.
+                    - generic [ref=e748]:
+                      - generic [ref=e749]:
+                        - generic [ref=e750]:
+                          - generic [ref=e751]: Welcome Offer
+                          - img [ref=e754]:
+                            - img [ref=e755]
+                        - generic [ref=e758]: 30,000 points
+                      - generic [ref=e759]:
+                        - generic [ref=e761]: "UP's Offer Valuation*:"
+                        - generic [ref=e762]: $210
+                    - generic [ref=e763]:
+                      - generic [ref=e764]:
+                        - generic [ref=e766]: Annual Fee
+                        - generic [ref=e767]: $0
+                      - generic [ref=e768]:
+                        - generic [ref=e770]: APR
+                        - generic [ref=e771]: 19.24% - 27.74% Variable
+                      - generic [ref=e772]:
+                        - generic [ref=e773]:
+                          - generic [ref=e774]: Credit Recommended
+                          - img [ref=e777]:
+                            - img [ref=e778]
+                        - generic [ref=e781]: Good to Excellent
+                    - generic [ref=e782]:
+                      - group [ref=e783]:
+                        - generic "Why We Like This Card" [ref=e784] [cursor=pointer]
+                      - group [ref=e785]:
+                        - generic "Pros & Cons" [ref=e786] [cursor=pointer]
+                      - group [ref=e787]:
+                        - generic "Card Highlights" [ref=e788] [cursor=pointer]
+                - generic [ref=e790]:
+                  - generic [ref=e791]:
+                    - link "Marriott Bonvoy Business® American Express® Card" [ref=e792] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBusinessAmex_addSource/TRD/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Marriott Bonvoy Business® American Express® Card" [ref=e793]
+                    - link "Terms Apply / Rates & Fees" [ref=e794] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBusinessAmexTCCRF_addSource/TRD/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e795]: Terms Apply / Rates & Fees
+                    - generic [ref=e796]:
+                      - generic [ref=e797]:
+                        - img "Star rating icon" [ref=e800]
+                        - img "Star rating icon" [ref=e803]
+                        - img "Star rating icon" [ref=e806]
+                        - img "Star rating icon" [ref=e809]
+                        - generic [ref=e810]:
+                          - img "Star rating icon" [ref=e812]
+                          - img "Star rating icon" [ref=e814]
+                      - generic [ref=e815]:
+                        - generic [ref=e816]: U.P. Rating
+                        - img [ref=e819]:
+                          - img [ref=e820]
+                    - link "Apply Now" [ref=e823] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBusinessAmex_addSource/TRD/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e824]
+                      - text: Apply Now
+                    - generic [ref=e827]: (at Amex's secure site)
+                  - generic [ref=e828]:
+                    - generic [ref=e830]:
+                      - link "Marriott Bonvoy Business® American Express® Card" [ref=e832] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-business-american-express-card/
+                        - text: Marriott Bonvoy Business
+                        - superscript [ref=e833]: ®
+                        - text: American Express
+                        - superscript [ref=e834]: ®
+                        - text: Card
+                      - text: A great option for business owners who stay in Marriott hotels and want automatic elite status.
+                    - generic [ref=e835]:
+                      - generic [ref=e836]:
+                        - generic [ref=e837]:
+                          - generic [ref=e838]: Welcome Offer
+                          - img [ref=e841]:
+                            - img [ref=e842]
+                        - generic [ref=e845]: Up to 5 Free Night Awards
+                      - generic [ref=e846]:
+                        - generic [ref=e848]: "UP's Offer Valuation*:"
+                        - generic [ref=e849]: Up to $1,750
+                    - generic [ref=e850]:
+                      - generic [ref=e851]:
+                        - generic [ref=e853]: Annual Fee
+                        - generic [ref=e854]: $125
+                      - generic [ref=e855]:
+                        - generic [ref=e857]: APR
+                        - generic [ref=e858]: 19.49% - 28.49% Variable
+                      - generic [ref=e859]:
+                        - generic [ref=e860]:
+                          - generic [ref=e861]: Credit Recommended
+                          - img [ref=e864]:
+                            - img [ref=e865]
+                        - generic [ref=e868]: Good to Excellent
+                    - generic [ref=e869]:
+                      - group [ref=e870]:
+                        - generic "Why We Like This Card" [ref=e871] [cursor=pointer]
+                      - group [ref=e872]:
+                        - generic "Pros & Cons" [ref=e873] [cursor=pointer]
+                      - group [ref=e874]:
+                        - generic "Card Highlights" [ref=e875] [cursor=pointer]
+                - heading "Alaska Airlines and Hawaiian Airlines Award Prices" [level=2] [ref=e876]
+                - paragraph [ref=e877]: "Alaska Airlines has a separate award chart for flights on its own metal as well as Hawaiian Airlines. Here are the award prices for Alaska and Hawaiian Airlines flights within North America:"
+                - table [ref=e880]:
+                  - rowgroup [ref=e881]:
+                    - row "From Contiguous US including Alaska and Canada to Economy starting at First starting at" [ref=e882]:
+                      - cell "From Contiguous US including Alaska and Canada to" [ref=e883]:
+                        - paragraph [ref=e884]:
+                          - strong [ref=e885]: From Contiguous US including Alaska and Canada to
+                      - cell "Economy starting at" [ref=e886]:
+                        - paragraph [ref=e887]:
+                          - strong [ref=e888]: Economy starting at
+                      - cell "First starting at" [ref=e889]:
+                        - paragraph [ref=e890]:
+                          - strong [ref=e891]: First starting at
+                    - row "Less than 700 miles 5,000 15,000" [ref=e892]:
+                      - cell "Less than 700 miles" [ref=e893]:
+                        - paragraph [ref=e894]: Less than 700 miles
+                      - cell "5,000" [ref=e895]:
+                        - paragraph [ref=e896]: 5,000
+                      - cell "15,000" [ref=e897]:
+                        - paragraph [ref=e898]: 15,000
+                    - row "701–1,400 miles 7,500 25,000" [ref=e899]:
+                      - cell "701–1,400 miles" [ref=e900]:
+                        - paragraph [ref=e901]: 701–1,400 miles
+                      - cell "7,500" [ref=e902]:
+                        - paragraph [ref=e903]: 7,500
+                      - cell "25,000" [ref=e904]:
+                        - paragraph [ref=e905]: 25,000
+                    - row "1,401–2,100 miles 10,000 25,000" [ref=e906]:
+                      - cell "1,401–2,100 miles" [ref=e907]:
+                        - paragraph [ref=e908]: 1,401–2,100 miles
+                      - cell "10,000" [ref=e909]:
+                        - paragraph [ref=e910]: 10,000
+                      - cell "25,000" [ref=e911]:
+                        - paragraph [ref=e912]: 25,000
+                    - row "2,101–4,000 miles 12,500 30,000" [ref=e913]:
+                      - cell "2,101–4,000 miles" [ref=e914]:
+                        - paragraph [ref=e915]: 2,101–4,000 miles
+                      - cell "12,500" [ref=e916]:
+                        - paragraph [ref=e917]: 12,500
+                      - cell "30,000" [ref=e918]:
+                        - paragraph [ref=e919]: 30,000
+                    - 'row "Hawaii: All distances 15,000 40,000" [ref=e920]':
+                      - 'cell "Hawaii: All distances" [ref=e921]':
+                        - paragraph [ref=e922]: "Hawaii: All distances"
+                      - cell "15,000" [ref=e923]:
+                        - paragraph [ref=e924]: 15,000
+                      - cell "40,000" [ref=e925]:
+                        - paragraph [ref=e926]: 40,000
+                    - 'row "Mexico, Central America and Caribbean: All distances 10,000 30,000" [ref=e927]':
+                      - 'cell "Mexico, Central America and Caribbean: All distances" [ref=e928]':
+                        - paragraph [ref=e929]: "Mexico, Central America and Caribbean: All distances"
+                      - cell "10,000" [ref=e930]:
+                        - paragraph [ref=e931]: 10,000
+                      - cell "30,000" [ref=e932]:
+                        - paragraph [ref=e933]: 30,000
+                - heading "Alaska Airlines Partner Award Prices" [level=2] [ref=e934]
+                - paragraph [ref=e935]:
+                  - text: "As mentioned, Alaska now has 3 separate partner award charts:"
+                  - strong [ref=e936]: One for redemptions in the Americas, one for Asia Pacific redemptions, and another for redemptions to Europe, the Middle East, and Africa.
+                - paragraph [ref=e937]:
+                  - text: Here is the partner award pricing for flights
+                  - strong [ref=e938]: within the Americas
+                  - text: ":"
+                - table [ref=e941]:
+                  - rowgroup [ref=e942]:
+                    - row "Distance (miles) Economy Starting at Premium Economy Starting at Business Starting at First Starting at" [ref=e943]:
+                      - cell "Distance (miles)" [ref=e944]:
+                        - paragraph [ref=e946]:
+                          - strong [ref=e947]: Distance (miles)
+                      - cell "Economy Starting at" [ref=e948]:
+                        - paragraph [ref=e950]:
+                          - strong [ref=e951]: Economy Starting at
+                      - cell "Premium Economy Starting at" [ref=e952]:
+                        - paragraph [ref=e954]:
+                          - strong [ref=e955]: Premium Economy Starting at
+                      - cell "Business Starting at" [ref=e956]:
+                        - paragraph [ref=e958]:
+                          - strong [ref=e959]: Business Starting at
+                      - cell "First Starting at" [ref=e960]:
+                        - paragraph [ref=e962]:
+                          - strong [ref=e963]: First Starting at
+                    - row "Less than 700 4,500 6,000 9,000 13,500" [ref=e964]:
+                      - cell "Less than 700" [ref=e965]:
+                        - paragraph [ref=e966]: Less than 700
+                      - cell "4,500" [ref=e967]:
+                        - paragraph [ref=e968]: 4,500
+                      - cell "6,000" [ref=e969]:
+                        - paragraph [ref=e970]: 6,000
+                      - cell "9,000" [ref=e971]:
+                        - paragraph [ref=e972]: 9,000
+                      - cell "13,500" [ref=e973]:
+                        - paragraph [ref=e974]: 13,500
+                    - row "701–1,400 7,500 10,000 15,000 25,000" [ref=e975]:
+                      - cell "701–1,400" [ref=e976]:
+                        - paragraph [ref=e977]: 701–1,400
+                      - cell "7,500" [ref=e978]:
+                        - paragraph [ref=e979]: 7,500
+                      - cell "10,000" [ref=e980]:
+                        - paragraph [ref=e981]: 10,000
+                      - cell "15,000" [ref=e982]:
+                        - paragraph [ref=e983]: 15,000
+                      - cell "25,000" [ref=e984]:
+                        - paragraph [ref=e985]: 25,000
+                    - row "1,401–2,100 12,500 17,500 25,000 40,000" [ref=e986]:
+                      - cell "1,401–2,100" [ref=e987]:
+                        - paragraph [ref=e988]: 1,401–2,100
+                      - cell "12,500" [ref=e989]:
+                        - paragraph [ref=e990]: 12,500
+                      - cell "17,500" [ref=e991]:
+                        - paragraph [ref=e992]: 17,500
+                      - cell "25,000" [ref=e993]:
+                        - paragraph [ref=e994]: 25,000
+                      - cell "40,000" [ref=e995]:
+                        - paragraph [ref=e996]: 40,000
+                    - row "2,101–4,000 17,500 22,500 35,000 52,500" [ref=e997]:
+                      - cell "2,101–4,000" [ref=e998]:
+                        - paragraph [ref=e999]: 2,101–4,000
+                      - cell "17,500" [ref=e1000]:
+                        - paragraph [ref=e1001]: 17,500
+                      - cell "22,500" [ref=e1002]:
+                        - paragraph [ref=e1003]: 22,500
+                      - cell "35,000" [ref=e1004]:
+                        - paragraph [ref=e1005]: 35,000
+                      - cell "52,500" [ref=e1006]:
+                        - paragraph [ref=e1007]: 52,500
+                    - row "4,001–6,000 25,000 32,500 50,000 75,000" [ref=e1008]:
+                      - cell "4,001–6,000" [ref=e1009]:
+                        - paragraph [ref=e1010]: 4,001–6,000
+                      - cell "25,000" [ref=e1011]:
+                        - paragraph [ref=e1012]: 25,000
+                      - cell "32,500" [ref=e1013]:
+                        - paragraph [ref=e1014]: 32,500
+                      - cell "50,000" [ref=e1015]:
+                        - paragraph [ref=e1016]: 50,000
+                      - cell "75,000" [ref=e1017]:
+                        - paragraph [ref=e1018]: 75,000
+                    - row "6,001 and above 30,000 40,000 60,000 90,000" [ref=e1019]:
+                      - cell "6,001 and above" [ref=e1020]:
+                        - paragraph [ref=e1021]: 6,001 and above
+                      - cell "30,000" [ref=e1022]:
+                        - paragraph [ref=e1023]: 30,000
+                      - cell "40,000" [ref=e1024]:
+                        - paragraph [ref=e1025]: 40,000
+                      - cell "60,000" [ref=e1026]:
+                        - paragraph [ref=e1027]: 60,000
+                      - cell "90,000" [ref=e1028]:
+                        - paragraph [ref=e1029]: 90,000
+                - paragraph [ref=e1030]:
+                  - text: Here is the award pricing for flights to
+                  - strong [ref=e1031]: Asia Pacific
+                  - text: ":"
+                - table [ref=e1034]:
+                  - rowgroup [ref=e1035]:
+                    - row "Distance (miles) Economy Starting at Premium Economy Starting at Business Starting at First Starting at" [ref=e1036]:
+                      - cell "Distance (miles)" [ref=e1037]:
+                        - paragraph [ref=e1039]:
+                          - strong [ref=e1040]: Distance (miles)
+                      - cell "Economy Starting at" [ref=e1041]:
+                        - paragraph [ref=e1043]:
+                          - strong [ref=e1044]: Economy Starting at
+                      - cell "Premium Economy Starting at" [ref=e1045]:
+                        - paragraph [ref=e1047]:
+                          - strong [ref=e1048]: Premium Economy Starting at
+                      - cell "Business Starting at" [ref=e1049]:
+                        - paragraph [ref=e1051]:
+                          - strong [ref=e1052]: Business Starting at
+                      - cell "First Starting at" [ref=e1053]:
+                        - paragraph [ref=e1055]:
+                          - strong [ref=e1056]: First Starting at
+                    - row "Less than 1,500 7,500 10,000 15,000 22,500" [ref=e1057]:
+                      - cell "Less than 1,500" [ref=e1058]:
+                        - paragraph [ref=e1059]: Less than 1,500
+                      - cell "7,500" [ref=e1060]:
+                        - paragraph [ref=e1061]: 7,500
+                      - cell "10,000" [ref=e1062]:
+                        - paragraph [ref=e1063]: 10,000
+                      - cell "15,000" [ref=e1064]:
+                        - paragraph [ref=e1065]: 15,000
+                      - cell "22,500" [ref=e1066]:
+                        - paragraph [ref=e1067]: 22,500
+                    - row "1,501–3,000 25,000 32,500 50,000 75,000" [ref=e1068]:
+                      - cell "1,501–3,000" [ref=e1069]:
+                        - paragraph [ref=e1070]: 1,501–3,000
+                      - cell "25,000" [ref=e1071]:
+                        - paragraph [ref=e1072]: 25,000
+                      - cell "32,500" [ref=e1073]:
+                        - paragraph [ref=e1074]: 32,500
+                      - cell "50,000" [ref=e1075]:
+                        - paragraph [ref=e1076]: 50,000
+                      - cell "75,000" [ref=e1077]:
+                        - paragraph [ref=e1078]: 75,000
+                    - row "3,001–5,000 30,000 40,000 60,000 90,000" [ref=e1079]:
+                      - cell "3,001–5,000" [ref=e1080]:
+                        - paragraph [ref=e1081]: 3,001–5,000
+                      - cell "30,000" [ref=e1082]:
+                        - paragraph [ref=e1083]: 30,000
+                      - cell "40,000" [ref=e1084]:
+                        - paragraph [ref=e1085]: 40,000
+                      - cell "60,000" [ref=e1086]:
+                        - paragraph [ref=e1087]: 60,000
+                      - cell "90,000" [ref=e1088]:
+                        - paragraph [ref=e1089]: 90,000
+                    - row "5,001–7,000 37,500 50,000 75,000 110,000" [ref=e1090]:
+                      - cell "5,001–7,000" [ref=e1091]:
+                        - paragraph [ref=e1092]: 5,001–7,000
+                      - cell "37,500" [ref=e1093]:
+                        - paragraph [ref=e1094]: 37,500
+                      - cell "50,000" [ref=e1095]:
+                        - paragraph [ref=e1096]: 50,000
+                      - cell "75,000" [ref=e1097]:
+                        - paragraph [ref=e1098]: 75,000
+                      - cell "110,000" [ref=e1099]:
+                        - paragraph [ref=e1100]: 110,000
+                    - row "7,001–10,000 42,500 55,000 85,000 130,000" [ref=e1101]:
+                      - cell "7,001–10,000" [ref=e1102]:
+                        - paragraph [ref=e1103]: 7,001–10,000
+                      - cell "42,500" [ref=e1104]:
+                        - paragraph [ref=e1105]: 42,500
+                      - cell "55,000" [ref=e1106]:
+                        - paragraph [ref=e1107]: 55,000
+                      - cell "85,000" [ref=e1108]:
+                        - paragraph [ref=e1109]: 85,000
+                      - cell "130,000" [ref=e1110]:
+                        - paragraph [ref=e1111]: 130,000
+                    - row "10,000 and above 65,000 85,000 130,000 195,000" [ref=e1112]:
+                      - cell "10,000 and above" [ref=e1113]:
+                        - paragraph [ref=e1114]: 10,000 and above
+                      - cell "65,000" [ref=e1115]:
+                        - paragraph [ref=e1116]: 65,000
+                      - cell "85,000" [ref=e1117]:
+                        - paragraph [ref=e1118]: 85,000
+                      - cell "130,000" [ref=e1119]:
+                        - paragraph [ref=e1120]: 130,000
+                      - cell "195,000" [ref=e1121]:
+                        - paragraph [ref=e1122]: 195,000
+                - paragraph [ref=e1123]:
+                  - text: Lastly, here is the new award pricing for flights to
+                  - strong [ref=e1124]: Europe, the Middle East, and Africa.
+                - table [ref=e1127]:
+                  - rowgroup [ref=e1128]:
+                    - row "Distance (miles) Economy Starting at Premium Economy Starting at Business Starting at First Starting at" [ref=e1129]:
+                      - cell "Distance (miles)" [ref=e1130]:
+                        - paragraph [ref=e1132]:
+                          - strong [ref=e1133]: Distance (miles)
+                      - cell "Economy Starting at" [ref=e1134]:
+                        - paragraph [ref=e1136]:
+                          - strong [ref=e1137]: Economy Starting at
+                      - cell "Premium Economy Starting at" [ref=e1138]:
+                        - paragraph [ref=e1140]:
+                          - strong [ref=e1141]: Premium Economy Starting at
+                      - cell "Business Starting at" [ref=e1142]:
+                        - paragraph [ref=e1144]:
+                          - strong [ref=e1145]: Business Starting at
+                      - cell "First Starting at" [ref=e1146]:
+                        - paragraph [ref=e1148]:
+                          - strong [ref=e1149]: First Starting at
+                    - row "Less than 1,500 7,500 10,000 15,000 22,500" [ref=e1150]:
+                      - cell "Less than 1,500" [ref=e1151]:
+                        - paragraph [ref=e1152]: Less than 1,500
+                      - cell "7,500" [ref=e1153]:
+                        - paragraph [ref=e1154]: 7,500
+                      - cell "10,000" [ref=e1155]:
+                        - paragraph [ref=e1156]: 10,000
+                      - cell "15,000" [ref=e1157]:
+                        - paragraph [ref=e1158]: 15,000
+                      - cell "22,500" [ref=e1159]:
+                        - paragraph [ref=e1160]: 22,500
+                    - row "1,501–3,500 22,500 30,000 45,000 67,500" [ref=e1161]:
+                      - cell "1,501–3,500" [ref=e1162]:
+                        - paragraph [ref=e1163]: 1,501–3,500
+                      - cell "22,500" [ref=e1164]:
+                        - paragraph [ref=e1165]: 22,500
+                      - cell "30,000" [ref=e1166]:
+                        - paragraph [ref=e1167]: 30,000
+                      - cell "45,000" [ref=e1168]:
+                        - paragraph [ref=e1169]: 45,000
+                      - cell "67,500" [ref=e1170]:
+                        - paragraph [ref=e1171]: 67,500
+                    - row "3,501–5,000 27,500 35,000 55,000 82,500" [ref=e1172]:
+                      - cell "3,501–5,000" [ref=e1173]:
+                        - paragraph [ref=e1174]: 3,501–5,000
+                      - cell "27,500" [ref=e1175]:
+                        - paragraph [ref=e1176]: 27,500
+                      - cell "35,000" [ref=e1177]:
+                        - paragraph [ref=e1178]: 35,000
+                      - cell "55,000" [ref=e1179]:
+                        - paragraph [ref=e1180]: 55,000
+                      - cell "82,500" [ref=e1181]:
+                        - paragraph [ref=e1182]: 82,500
+                    - row "5,001–7,000 35,000 45,000 70,000 105,000" [ref=e1183]:
+                      - cell "5,001–7,000" [ref=e1184]:
+                        - paragraph [ref=e1185]: 5,001–7,000
+                      - cell "35,000" [ref=e1186]:
+                        - paragraph [ref=e1187]: 35,000
+                      - cell "45,000" [ref=e1188]:
+                        - paragraph [ref=e1189]: 45,000
+                      - cell "70,000" [ref=e1190]:
+                        - paragraph [ref=e1191]: 70,000
+                      - cell "105,000" [ref=e1192]:
+                        - paragraph [ref=e1193]: 105,000
+                    - row "7,001–10,000 42,500 55,000 85,000 130,000" [ref=e1194]:
+                      - cell "7,001–10,000" [ref=e1195]:
+                        - paragraph [ref=e1196]: 7,001–10,000
+                      - cell "42,500" [ref=e1197]:
+                        - paragraph [ref=e1198]: 42,500
+                      - cell "55,000" [ref=e1199]:
+                        - paragraph [ref=e1200]: 55,000
+                      - cell "85,000" [ref=e1201]:
+                        - paragraph [ref=e1202]: 85,000
+                      - cell "130,000" [ref=e1203]:
+                        - paragraph [ref=e1204]: 130,000
+                    - row "10,000 and above 55,000 72,500 110,000 165,000" [ref=e1205]:
+                      - cell "10,000 and above" [ref=e1206]:
+                        - paragraph [ref=e1207]: 10,000 and above
+                      - cell "55,000" [ref=e1208]:
+                        - paragraph [ref=e1209]: 55,000
+                      - cell "72,500" [ref=e1210]:
+                        - paragraph [ref=e1211]: 72,500
+                      - cell "110,000" [ref=e1212]:
+                        - paragraph [ref=e1213]: 110,000
+                      - cell "165,000" [ref=e1214]:
+                        - paragraph [ref=e1215]: 165,000
+                - paragraph [ref=e1216]: Alaska is still using a “starting from” pricing method, so these rates aren’t what you will always see.
+                - paragraph [ref=e1217]:
+                  - text: These rates reflect the lowest-priced “saver” award availability. While the award chart may list a required number of points,
+                  - strong [ref=e1218]: you will likely see a higher rate
+                  - text: when you begin the award search.
+                - paragraph [ref=e1220]: Advertisement
+                - paragraph [ref=e1223]: However, this is not all bad news as now all partners have the same award pricing, assuming there’s saver award availability. This is a major improvement to Alaska’s old award charts, where different partners had different pricing.
+                - heading "The 10 Best Ways To Use Your Alaska Airlines Atmos Rewards Points" [level=2] [ref=e1224]:
+                  - strong [ref=e1225]: The 10 Best Ways To Use Your Alaska Airlines Atmos Rewards
+                  - text: Points
+                - paragraph [ref=e1226]:
+                  - text: The
+                  - link "Alaska Airlines Atmos Rewards" [ref=e1227] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/alaska-airlines-atmos-rewards-loyalty-program/
+                  - text: program offers excellent value for its points, particularly when redeeming on its many partner airlines.
+                - paragraph [ref=e1228]:
+                  - text: Alaska is
+                  - strong [ref=e1229]: keeping its
+                  - strong [ref=e1230]: incredibly generous stopover policy
+                  - text: ", which can effectively allow you to visit 2 destinations for the price of 1."
+                - paragraph [ref=e1231]:
+                  - text: When searching for reward availability for partner flights, simply search your dates with the
+                  - strong [ref=e1232]: Use Points
+                  - text: option checked. After you click to search, you may filter the results by airline using the sidebar that appears to the left of the search display.
+                - paragraph [ref=e1233]: Here are 10 suggestions to maximize the value of your points on Alaska Airlines and partner flights, especially for those who fly in business or first-class.
+                - heading "1. Short-Haul Awards Within the Americas" [level=3] [ref=e1234]
+                - 'figure "Image Credit: Daniel Ross" [ref=e1236]':
+                  - img "Alaska Airlines jets at New York JFK" [ref=e1238]
+                  - generic [ref=e1239]: "Image Credit: Daniel Ross"
+                - paragraph [ref=e1240]: As with any distance-based award program, there is immense value when redeeming points for short-haul flights on expensive routes.
+                - paragraph [ref=e1241]:
+                  - text: Flights in the Americas region will start at
+                  - strong [ref=e1242]: 4,500 Alaska points one-way for short-haul flights of 700 miles or less
+                  - text: ", down from the previous minimum of 7,500 Alaska points. While this new award pricing won’t amount to crazy savings, it will make shorter flights more affordable."
+                - paragraph [ref=e1243]: Best of all, this pricing is for flights within the Americas region, which includes Central and South America.
+                - paragraph [ref=e1244]: "Here are some great example routes you can take:"
+                - list [ref=e1245]:
+                  - listitem [ref=e1246]:
+                    - strong [ref=e1247]: Seattle (SEA) – San Francisco (SFO)
+                    - text: one-way for 4,500 Alaska points + taxes and fees.
+                  - listitem [ref=e1248]:
+                    - strong [ref=e1249]: Miami (MIA) – Cancun (CUN)
+                    - text: one-way for 4,500 Alaska points + taxes and fees.
+                - generic [ref=e1250]:
+                  - strong [ref=e1251]: "Hot Tip:"
+                  - paragraph [ref=e1253]: If you’re short on Alaska points, you can transfer points from Marriott Bonvoy or Bilt Rewards.
+                - heading "2. Longer Short-Haul Awards Within the Americas" [level=3] [ref=e1254]
+                - 'figure "Image Credit: James Larounis" [ref=e1256]':
+                  - img "Chicago ORD American Oneworld Livery H Gates" [ref=e1258]
+                  - generic [ref=e1259]: "Image Credit: James Larounis"
+                - paragraph [ref=e1260]:
+                  - text: Similar to the previous redemption, slightly longer flights between 701 and 1,400 miles can be
+                  - strong [ref=e1261]: booked for as little as 7,500 Alaska Airlines points one-way
+                  - text: on both Alaska and partner American Airlines.
+                - paragraph [ref=e1262]: "Here are some great example routes you can take:"
+                - list [ref=e1263]:
+                  - listitem [ref=e1264]:
+                    - strong [ref=e1265]: Dallas Fort Worth (DFW) – Mexico City (MEX)
+                    - text: one-way for 7,500 Alaska points + taxes and fees.
+                  - listitem [ref=e1266]:
+                    - strong [ref=e1267]: Miami (MIA) – Cartagena (CTG)
+                    - text: one-way for 7,500 Alaska points + taxes and fees.
+                - heading "3. Starlux Business Class for 75,000 Points" [level=3] [ref=e1268]
+                - 'figure "Image Credit: Daniel Ross" [ref=e1270]':
+                  - img "Starlux A359 Business Class seat zero G position" [ref=e1272]
+                  - generic [ref=e1273]: "Image Credit: Daniel Ross"
+                - paragraph [ref=e1274]:
+                  - text: An excellent way to get to Taipei is on Taiwan-based Starlux Airlines. Despite being a newer airline, Starlux Airlines has quickly become a favorite thanks to its
+                  - strong [ref=e1275]: premium service and luxurious offerings
+                  - text: . It has established itself as a major airline offering excellent customer service and modern amenities.
+                - paragraph [ref=e1276]: From the West Coast, you can fly nonstop to Taipei for 75,000 points, a redemption that remains unchanged from the previous Alaska Airlines award chart.
+                - paragraph [ref=e1277]: "Here are some great example routes you can take:"
+                - list [ref=e1278]:
+                  - listitem [ref=e1279]:
+                    - strong [ref=e1280]: San Francisco (SFO) – Taipei (TPE)
+                    - text: one-way for 75,000 Alaska points + taxes and fees.
+                  - listitem [ref=e1281]:
+                    - strong [ref=e1282]: Los Angeles (LAX) – Taipei (TPE)
+                    - text: one-way for 75,000 Alaska points + taxes and fees.
+                - generic [ref=e1283]:
+                  - strong [ref=e1284]: »
+                  - strong [ref=e1285]: "Related:"
+                  - link "Starlux Airlines Airbus A350 Business Class Review [TPE to MFM]" [ref=e1286] [cursor=pointer]:
+                    - /url: /travel/airlines/starlux-airlines-a350-business-class-review-tpe-mfm/
+                - heading "4. Northeast U.S. To Ireland or England for 45,000 Points in Business Class" [level=3] [ref=e1287]
+                - 'figure "Image Credit: Alex Miller" [ref=e1289]':
+                  - img "Ireland wouldn't be complete without exploring some old castles - Ballycarbery" [ref=e1291]
+                  - generic [ref=e1292]: "Image Credit: Alex Miller"
+                - paragraph [ref=e1293]:
+                  - text: Now, we have a great redemption option for those wanting to visit Ireland or England. If you’re based in the Northeast (or don’t mind flying from the area) you can book a
+                  - strong [ref=e1294]: one-way business class award ticket for as little as 45,000 points.
+                - paragraph [ref=e1295]:
+                  - text: Looking at the award pricing for flights to
+                  - strong [ref=e1296]: Europe, the Middle East, and Africa
+                  - text: ", flights less than 3,500 miles can be booked for just 45,000 points in business class."
+                - paragraph [ref=e1297]: "Here are some great example routes you can take:"
+                - list [ref=e1298]:
+                  - listitem [ref=e1299]:
+                    - strong [ref=e1300]: Boston (BOS) – Dublin (DUB)
+                    - text: one-way for 45,000 Alaska points + taxes and fees.
+                  - listitem [ref=e1301]:
+                    - strong [ref=e1302]: Newark (EWR) – London (LHR)
+                    - text: one-way for 45,000 Alaska points + taxes and fees.
+                  - listitem [ref=e1303]:
+                    - strong [ref=e1304]:
+                      - strong [ref=e1305]: New York (JFK) – Dublin (DUB)
+                    - text: one-way for 45,000 Alaska points + taxes and fees.
+                - heading "5. Business Class to Europe for 55,000 Points" [level=3] [ref=e1306]
+                - 'figure "Condor business class. Image Credit: Ryan Smith" [ref=e1308]':
+                  - img "Condor A330 900neo business class seats" [ref=e1310]
+                  - generic [ref=e1311]: "Condor business class. Image Credit: Ryan Smith"
+                - paragraph [ref=e1312]: Another excellent redemption is for those in the Eastern half of the U.S. wanting to visit destinations in Europe.
+                - paragraph [ref=e1313]:
+                  - text: Looking at the award pricing for flights to
+                  - strong [ref=e1314]: Europe, the Middle East, and Africa
+                  - text: ", flights between 3,501 and 5,000 miles can be booked for just 55,000 points one-way in business class"
+                - paragraph [ref=e1315]: "Here are some great example routes you can take:"
+                - list [ref=e1316]:
+                  - listitem [ref=e1317]:
+                    - strong [ref=e1318]:
+                      - strong [ref=e1319]: New York (JFK) –
+                      - text: Madrid (MAD)
+                    - text: one-way in Iberia business class for 55,000 Alaska points + taxes and fees.
+                  - listitem [ref=e1320]:
+                    - strong [ref=e1321]: Toronto (YYZ) – Frankfurt (FRA)
+                    - text: one-way in Condor business class for 55,000 Alaska points + taxes and fees.
+                  - listitem [ref=e1322]:
+                    - strong [ref=e1323]: Minneapolis-St. Paul (MSP) –
+                    - strong [ref=e1324]: Frankfurt (FRA)
+                    - text: one-way in Condor business class for 55,000 Alaska points + taxes and fees.
+                - heading "6. Fly Qatar Airways Qsuites to the Middle East" [level=3] [ref=e1325]
+                - figure "Image property of Upgraded Points" [ref=e1327]:
+                  - img "Qatar Q Suites, A350, DOH>MLE" [ref=e1329]
+                  - generic [ref=e1330]: Image property of Upgraded Points
+                - paragraph [ref=e1331]:
+                  - text: If you’ve ever wanted to enjoy a double bed on a flight, look no further than Qatar Airways Qsuites. Not only can you experience a comfortable flight to the Middle East starting at 70,000 Alaska points, but you can experience
+                  - strong [ref=e1332]: one of the absolute best business class products in the world
+                  - text: .
+                - paragraph [ref=e1333]: Most lights from the U.S. to Doha that fall in the 5,001-7,000 mile distance band can be booked for 70,000 points one-way in business class.
+                - paragraph [ref=e1334]: "Here are some flights you can consider booking:"
+                - list [ref=e1335]:
+                  - listitem [ref=e1336]:
+                    - strong [ref=e1337]: Washington, D.C. (IAD) – Doha (DOH)
+                    - text: one-way in Qatar Airways business class from 70,000 Alaska Airlines points + taxes and fees
+                  - listitem [ref=e1338]:
+                    - strong [ref=e1339]: New York (JFK) – Doha (DOH)
+                    - text: one-way in Qatar Airways business class from 70,000 Alaska Airlines points + taxes and fees
+                  - listitem [ref=e1340]:
+                    - strong [ref=e1341]: Philadelphia (PHL) – Doha (DOH)
+                    - text: one-way in Qatar Airways business class from 70,000 Alaska Airlines points + taxes and fees
+                - generic [ref=e1342]:
+                  - strong [ref=e1343]: "Hot Tip:"
+                  - paragraph [ref=e1345]:
+                    - text: Check out our guide on
+                    - link "The Best Ways To Book Qatar Airways Qsuites With Points and Miles" [ref=e1346] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-book-qatar-qsuites-with-points-and-miles/
+                    - text: .
+                - paragraph [ref=e1347]:
+                  - strong [ref=e1348]: Need help booking?
+                  - text: See our step-by-step guide to
+                  - link "booking Qatar Airways Qsuites" [ref=e1349] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-qatar-qsuites-with-points-and-miles/
+                  - text: .
+                - heading "7. Fly Japan Airlines Business Class" [level=3] [ref=e1350]
+                - 'figure "Japan Airlines business class. Image Credit: Ehsan Haque" [ref=e1352]':
+                  - img "Japan Airlines 777 300er business class seat with privacy divider up" [ref=e1354]
+                  - generic [ref=e1355]: "Japan Airlines business class. Image Credit: Ehsan Haque"
+                - paragraph [ref=e1356]:
+                  - text: Although flights between North America and Japan are quite long, there’s 1 particular sweet spot worth mentioning. Flights between Seattle (SEA) or Vancouver (YVR) and Tokyo clock in just under 5,000 miles, so
+                  - strong [ref=e1357]: these flights can be booked for
+                  - strong [ref=e1358]: just 60,000 points one-way in business class.
+                - paragraph [ref=e1359]: Almost all other flights between the U.S. and Japan are longer than 5,000 miles, so they will fall in the next distance band. Those flights can be booked starting at 75,000 points one-way in business class.
+                - paragraph [ref=e1360]: "Here are some great example routes you can take:"
+                - list [ref=e1361]:
+                  - listitem [ref=e1362]:
+                    - strong [ref=e1363]: Seattle (SEA) – Tokyo (NRT)
+                    - text: one-way in Japan Airlines business class for 60,000 Alaska Airlines points + taxes and fees
+                  - listitem [ref=e1364]:
+                    - strong [ref=e1365]: Vancouver (YVR) – Tokyo (HND)
+                    - text: one-way in Japan Airlines business class for 60,000 Alaska Airlines points+ taxes and fees
+                  - listitem [ref=e1366]:
+                    - strong [ref=e1367]: Chicago (ORD) – Tokyo (NRT)
+                    - text: one-way in Japan Airlines business class for 75,000 Alaska Airlines points + taxes and fees
+                - heading "8. Business Class on Partner Airlines in Asia" [level=3] [ref=e1368]
+                - 'figure "Image Credit: Chris Hassan" [ref=e1370]':
+                  - img "Japan Airlines A350-1000 Business Class [New York to Tokyo]" [ref=e1372]
+                  - generic [ref=e1373]: "Image Credit: Chris Hassan"
+                - paragraph [ref=e1374]:
+                  - text: A silver lining of the award charts changing is that
+                  - strong [ref=e1375]: certain routes will be priced for significantly fewer points compared to Alaska’s older award charts
+                  - text: .
+                - paragraph [ref=e1376]:
+                  - text: For example, a
+                  - link "Japan Airlines business class award ticket" [ref=e1377] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-book-japan-airlines-business-class/
+                  - text: between Tokyo and Shanghai is now priced starting at 15,000 points one-way. The same is true for a Malaysia Airlines business class award ticket between Kuala Lumpur and Bangkok.
+                - paragraph [ref=e1378]: Under the previous Alaska award charts, these redemptions would consistently price at 65,000 Alaska points one-way.
+                - heading "9. Fly on Fiji Airways to Fiji" [level=3] [ref=e1379]
+                - 'figure "Image Credit: Ryan Smith" [ref=e1381]':
+                  - img "Fiji Airways planes at NAN airport" [ref=e1383]
+                  - generic [ref=e1384]: "Image Credit: Ryan Smith"
+                - paragraph [ref=e1385]: Another excellent way to redeem your Alaska points is on Oneworld partner Fiji Airways.
+                - paragraph [ref=e1386]:
+                  - text: You can fly nonstop between
+                  - strong [ref=e1387]: Los Angeles (LAX) or San Francisco (SFO) and Nadi (NAN) for just 37,500 Alaska points one-way in economy
+                  - text: . This is because both West Coast cities are between 5,001 and 7,000 points away from Fiji’s capital city.
+                - paragraph [ref=e1388]: Under Alaska’s previous award chart, these flights would cost 40,000 Alaska points one-way — the new charts will save you 2,500 points.
+                - paragraph [ref=e1389]: If you wanted to fly in business class instead, the same flights would cost 75,000 points one-way.
+                - heading "10. Domestic Flights in Australia on Qantas" [level=3] [ref=e1390]
+                - 'figure "Not stepping over someone to reach the aisle is fantastic. Image Credit: Stella Shon" [ref=e1392]':
+                  - img "Qantas Business Class Stella Nick" [ref=e1394]
+                  - generic [ref=e1395]: "Not stepping over someone to reach the aisle is fantastic. Image Credit: Stella Shon"
+                - paragraph [ref=e1396]: Alaska Airlines’ Oneworld partner Qantas has an extensive domestic network in Australia.
+                - paragraph [ref=e1397]: Flights less than 1,500 miles can be booked for just 7,500 points one-way in economy or 15,000 points in business class.
+                - paragraph [ref=e1398]: "Here are some great example routes you can take:"
+                - list [ref=e1399]:
+                  - listitem [ref=e1400]:
+                    - strong [ref=e1401]: Melbourne (MEL) – Sydney (SYD)
+                    - text: one-way in Qantas economy for 7,500 points + taxes and fees
+                  - listitem [ref=e1402]:
+                    - strong [ref=e1403]: Sydney (SYD) – Brisbane (BNE)
+                    - text: one-way in Qantas economy for 7,500 points + taxes and fees
+                  - listitem [ref=e1404]:
+                    - strong [ref=e1405]: Adelaide (ADL) – Brisbane (BNE)
+                    - text: one-way in Qantas business class for 15,000 points + taxes and fees
+                - heading "Final Thoughts" [level=2] [ref=e1406]:
+                  - strong [ref=e1407]: Final Thoughts
+                - paragraph [ref=e1408]: With Alaska Airlines Atmos Rewards’ distance-based award charts in effect, the best ways to redeem Alaska points have changed significantly. While not all award prices increased, many sought-after redemption options have been eliminated.
+                - paragraph [ref=e1409]: Still, the Alaska Airlines Atmos Rewards program allows you to fly on some of the best airlines in the world, including Cathay Pacific, Japan Airlines, and Qantas. Best of all, Alaska has kept its stopover policy intact, including one-way award redemptions.
+              - generic [ref=e1410]:
+                - generic [ref=e1411]:
+                  - separator [ref=e1412]
+                  - text: "Featured Image Credit:"
+                  - link "Alex Miller" [ref=e1413] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/alexmiller/
+                - generic [ref=e1414]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1415]
+                  - group [ref=e1416]:
+                    - generic "What are Alaska Airlines points?" [ref=e1417] [cursor=pointer]
+                    - paragraph [ref=e1419]:
+                      - text: Alaska Airlines’ frequent flyer program is called
+                      - link "Alaska Airlines Atmos Rewards" [ref=e1420] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/travel/airlines/alaska-airlines-atmos-rewards-loyalty-program/
+                      - text: . The points you earn, redeem, and transfer are Atmos Rewards points.
+                  - group [ref=e1421]:
+                    - generic "Which credit cards earn Alaska points?" [ref=e1422] [cursor=pointer]
+                    - paragraph [ref=e1424]:
+                      - text: The
+                      - link "Atmos Rewards Ascent card" [ref=e1425] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-ascent-visa-card/
+                      - text: ","
+                      - link "Atmos Rewards Summit card" [ref=e1426] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-summit-visa-infinite-card/
+                      - text: ", and the"
+                      - link "Atmos Rewards Business card" [ref=e1427] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-visa-business-card/
+                      - text: can help you earn additional Alaska points. You can also transfer points from the Bilt Mastercard (
+                      - link "rates & fees" [ref=e1428] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/BiltMastercardTCCRF/TE/750/dissn.1775548838764.7073346957.1/
+                      - text: ) to Alaska Airlines Atmos Rewards.
+                  - group [ref=e1429]:
+                    - generic "Can I transfer points to Alaska Airlines?" [ref=e1430] [cursor=pointer]
+                    - generic [ref=e1431]:
+                      - paragraph [ref=e1432]: "Alaska Airlines is a transfer partner of 2 programs: Marriott Bonvoy and Bilt Rewards. Marriott Bonvoy points transfer to Alaska Airlines Atmos Rewards at a 3:1 ratio. For every 60,000 Bonvoy points you transfer in a single transaction, you get a 5,000-point bonus."
+                      - paragraph [ref=e1433]: Bilt Rewards points transfer to the Alaska Airlines Atmos Rewards loyalty program at a 1:1 ratio.
+                  - group [ref=e1434]:
+                    - generic "Can I use Alaska Airlines points to fly American Airlines?" [ref=e1435] [cursor=pointer]
+                    - paragraph [ref=e1437]: Yes, both airlines are a part of the Oneworld Alliance. This means you can use your Alaska points to fly on American Airlines-operated flights.
+                  - group [ref=e1438]:
+                    - generic "Can Alaska Airlines points be transferred?" [ref=e1439] [cursor=pointer]
+                    - paragraph [ref=e1441]: Alaska Airlines points cannot be transferred to other airlines. They can, however, be redeemed for flights on other carriers, hotel stays, car rentals, and more.
+                - complementary [ref=e1442]:
+                  - generic [ref=e1443]:
+                    - paragraph [ref=e1444]:
+                      - generic [ref=e1446]:
+                        - text: The information regarding the Atmos Rewards Ascent Visa Signature
+                        - superscript [ref=e1447]: ®
+                        - text: card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1448]:
+                        - text: The information regarding the Atmos™ Rewards Summit Visa Infinite
+                        - superscript [ref=e1449]: ®
+                        - text: card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1450]:
+                        - text: The information regarding the Atmos™ Rewards Visa
+                        - superscript [ref=e1451]: ®
+                        - text: Business Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph [ref=e1452]:
+                      - generic [ref=e1454]:
+                        - text: For rates and fees of the Marriott Bonvoy Bevy
+                        - superscript [ref=e1455]: ®
+                        - text: American Express
+                        - superscript [ref=e1456]: ®
+                        - text: Card, click
+                        - link "here" [ref=e1457] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TE/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1459]:
+                        - text: For rates and fees of the Marriott Bonvoy Brilliant
+                        - superscript [ref=e1460]: ®
+                        - text: American Express
+                        - superscript [ref=e1461]: ®
+                        - text: card, click
+                        - link "here" [ref=e1462] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TE/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1464]:
+                        - text: For rates and fees of the Marriott Bonvoy Business
+                        - superscript [ref=e1465]: ®
+                        - text: American Express
+                        - superscript [ref=e1466]: ®
+                        - text: Card, click
+                        - link "here" [ref=e1467] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBusinessAmexTCCRF_addSource/TE/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                - group "Was this page helpful?" [ref=e1469]:
+                  - paragraph [ref=e1470]: Was this page helpful?
+                  - generic [ref=e1471]:
+                    - button "Yes" [ref=e1472] [cursor=pointer]
+                    - button "No" [ref=e1473] [cursor=pointer]
+                - generic [ref=e1474]:
+                  - figure [ref=e1476]:
+                    - img "Ehsan Haque's image" [ref=e1477]
+                  - generic [ref=e1478]:
+                    - heading "About Ehsan Haque" [level=2] [ref=e1479]:
+                      - text: About
+                      - link "Ehsan Haque" [ref=e1480] [cursor=pointer]:
+                        - /url: /author/ehsanhaque/
+                    - paragraph [ref=e1481]: Ehsan is an avid traveler who has traveled to 100 countries, diligently using points and miles to fund his journeys. Currently, he holds 32 active credit cards and earns over a million points and miles annually, primarily using them for luxury hotels and long-haul premium cabins.
+                    - list [ref=e1483]:
+                      - listitem [ref=e1484]:
+                        - link "Instagram icon" [ref=e1485] [cursor=pointer]:
+                          - /url: https://www.instagram.com/itsehsanh
+                          - img "Instagram icon" [ref=e1486]
+                      - listitem [ref=e1487]:
+                        - link "email icon" [ref=e1488] [cursor=pointer]:
+                          - /url: mailto:ehsan@upgradedpoints.com
+                          - img "email icon" [ref=e1489]
+                - generic [ref=e1491]:
+                  - generic [ref=e1492]:
+                    - paragraph [ref=e1493]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1494]: ™
+                    - generic [ref=e1495]:
+                      - paragraph [ref=e1496]:
+                        - text: Get the
+                        - strong [ref=e1497]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1498]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1499]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1500]:
+                      - textbox "First Name" [ref=e1501]
+                      - textbox "Email" [ref=e1502]
+                      - button "Join Now" [disabled] [ref=e1503]
+                    - paragraph [ref=e1505]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1506] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1507] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1508] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1510]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1512]
+                - generic [ref=e1514]:
+                  - paragraph [ref=e1515]: We Recommend
+                  - generic [ref=e1516]:
+                    - generic [ref=e1517]:
+                      - link "Platinum Card® from American Express" [ref=e1518] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1519]
+                      - link "Terms Apply / Rates & Fees" [ref=e1520] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1521] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1522]
+                        - text: Apply Now
+                    - generic [ref=e1525]:
+                      - paragraph [ref=e1526]:
+                        - link "Platinum Card® from American Express" [ref=e1527] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1528]:
+                            - text: Platinum Card
+                            - superscript [ref=e1529]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1531]:
+                        - generic [ref=e1532]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1533] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1534]:
+                        - listitem [ref=e1535]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1536]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1537]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1538]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1539]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1540]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1541]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1542] [cursor=pointer]
+            - complementary [ref=e1544]:
+              - generic [ref=e1545]:
+                - generic [ref=e1547]:
+                  - paragraph [ref=e1548]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1549] [cursor=pointer]
+                  - generic [ref=e1550]:
+                    - generic [ref=e1553]:
+                      - generic [ref=e1554]:
+                        - generic [ref=e1555]:
+                          - img [ref=e1556]
+                          - generic [ref=e1558]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1559] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1560]
+                      - generic [ref=e1561]:
+                        - paragraph [ref=e1562]:
+                          - link "Platinum Card® from American Express" [ref=e1563] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1564]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1565] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1566]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1568] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1571]:
+                      - generic [ref=e1572]:
+                        - generic [ref=e1573]:
+                          - img [ref=e1574]
+                          - generic [ref=e1576]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1577] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1578]
+                      - generic [ref=e1579]:
+                        - paragraph [ref=e1580]:
+                          - link "American Express® Gold Card" [ref=e1581] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1582]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1583] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1584]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1586] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1589]:
+                      - generic [ref=e1590]:
+                        - generic [ref=e1591]:
+                          - img [ref=e1592]
+                          - generic [ref=e1594]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1595] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1596]
+                      - generic [ref=e1597]:
+                        - paragraph [ref=e1598]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1599] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1600]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1601] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1602]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1604] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/750/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1607]:
+                      - generic [ref=e1608]:
+                        - generic [ref=e1609]:
+                          - img [ref=e1610]
+                          - generic [ref=e1612]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1613] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/750/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1614]
+                      - generic [ref=e1615]:
+                        - paragraph [ref=e1616]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1617] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/750/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1618]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1619] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/750/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1620]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1622] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/750/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1624] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1627]: Advertisement
+      - generic [ref=e1631]:
+        - paragraph [ref=e1632]: Related Posts
+        - generic [ref=e1633]:
+          - generic [ref=e1634]:
+            - link [ref=e1635] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-citi-thankyou-points/
+              - figure [ref=e1636]:
+                - img "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [ref=e1638]
+            - link "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [ref=e1639] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-citi-thankyou-points/
+          - generic [ref=e1640]:
+            - link [ref=e1641] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+              - figure [ref=e1642]:
+                - img "14 Best Ways To Redeem Emirates Skywards Miles for Max Value" [ref=e1644]
+            - link "14 Best Ways To Redeem Emirates Skywards Miles for Max Value" [ref=e1645] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+          - generic [ref=e1646]:
+            - link [ref=e1647] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-amex-membership-rewards-points/
+              - figure [ref=e1648]:
+                - img "52 Best Ways To Redeem Amex Membership Rewards Points for Max Value" [ref=e1650]
+            - link "52 Best Ways To Redeem Amex Membership Rewards Points for Max Value" [ref=e1651] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-amex-membership-rewards-points/
+          - generic [ref=e1652]:
+            - link [ref=e1653] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/
+              - figure [ref=e1654]:
+                - img "14 Best Ways To Redeem Singapore KrisFlyer Miles for Max Value [2026]" [ref=e1656]
+            - link "14 Best Ways To Redeem Singapore KrisFlyer Miles for Max Value [2026]" [ref=e1657] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/
+    - contentinfo [ref=e1658]:
+      - img [ref=e1659]
+      - img [ref=e1678]
+      - generic [ref=e1697]:
+        - generic [ref=e1698]:
+          - img [ref=e1700]
+          - generic [ref=e1705]:
+            - generic [ref=e1706]:
+              - paragraph [ref=e1707]: Upgrade your travel experience
+              - list [ref=e1708]:
+                - listitem [ref=e1709]:
+                  - link [ref=e1710] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1711]:
+                      - img "Facebook" [ref=e1712]
+                - listitem [ref=e1713]:
+                  - link [ref=e1714] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1715]:
+                      - img "Twitter" [ref=e1716]
+                - listitem [ref=e1717]:
+                  - link [ref=e1718] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1719]:
+                      - img "Instagram" [ref=e1720]
+                - listitem [ref=e1721]:
+                  - link [ref=e1722] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1723]:
+                      - img "Pinterest" [ref=e1724]
+                - listitem [ref=e1725]:
+                  - link [ref=e1726] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1727]:
+                      - img "Linkedin" [ref=e1728]
+                - listitem [ref=e1729]:
+                  - link [ref=e1730] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1731]:
+                      - img "Youtube" [ref=e1732]
+            - generic [ref=e1734]:
+              - list [ref=e1735]:
+                - listitem [ref=e1736]:
+                  - link "News" [ref=e1737] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1738]:
+                  - link "Credit Cards" [ref=e1739] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1740]:
+                  - link "Business" [ref=e1741] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1742]:
+                - listitem [ref=e1743]:
+                  - link "Finance" [ref=e1744] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1745]:
+                  - link "Travel Guides" [ref=e1746] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1747]:
+                  - link "Air Travel" [ref=e1748] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1749]:
+                - listitem [ref=e1750]:
+                  - link "Hotel Guides" [ref=e1751] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1752]:
+                  - link "Beginners" [ref=e1753] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1754]:
+                  - link "About" [ref=e1755] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1756]:
+                - listitem [ref=e1757]:
+                  - link "Podcast" [ref=e1758] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1759]:
+                  - link "Jobs & Careers" [ref=e1760] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1761]:
+                  - link "Contact Us" [ref=e1762] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1763]:
+          - paragraph [ref=e1764]:
+            - link "Privacy Policy" [ref=e1765] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1766] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1767] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1768] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1769] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1770] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1771] [cursor=pointer]
+          - paragraph [ref=e1772]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1773]:
+          - link "DMCA.com Protection Status" [ref=e1774] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1775]
+          - img "Comodo Secure Seal" [ref=e1777]
+        - generic [ref=e1778]:
+          - generic [ref=e1779]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1780]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1781]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1782]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1783]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1784] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1785]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1786]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1788]:
+    - generic [ref=e1789]:
+      - generic [ref=e1790]:
+        - button "close banner" [ref=e1791] [cursor=pointer]:
+          - img "close banner" [ref=e1792]
+        - img "company logo" [ref=e1794]
+      - generic [ref=e1795]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1797]
+        - generic [ref=e1798]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1799] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1800] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1802]:
+        - button "Manage" [ref=e1803] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1804] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1805] [cursor=pointer]
+    - generic [ref=e1807]:
+      - generic [ref=e1808]: "Powered by:"
+      - link "trustarc" [ref=e1809] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1810]

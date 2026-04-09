@@ -1,0 +1,1523 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "15 Best Ways To Redeem United MileagePlus Miles [for Max Value]" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Spencer Howard's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Spencer Howard
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: January 31, 2026, 1:38pm CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Keri Stooksbury
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Michael Y. Park
+          - figure [ref=e61]:
+            - img "15 Best Ways To Redeem United MileagePlus Miles [for Max Value]" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e1363]:
+            - generic "Jump to Section" [ref=e1364] [cursor=pointer]
+          - paragraph [ref=e68]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e69] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e70]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - heading "Key Takeaways" [level=2] [ref=e76]
+                  - list [ref=e78]:
+                    - listitem [ref=e79]: United MileagePlus miles can be redeemed for award flights on United and Star Alliance partners, with better value often found on international business and first-class tickets.
+                    - listitem [ref=e80]: Saver Awards offer significant savings in miles but require flexibility with travel dates.
+                    - listitem [ref=e81]: The easiest way to earn United Miles is to spend on credit cards such as Chase and transfer the points at a 1:1 ratio to United.
+                - paragraph [ref=e82]:
+                  - text: The
+                  - link "United MileagePlus program" [ref=e83] [cursor=pointer]:
+                    - /url: /travel/airlines/united-airlines-mileageplus-loyalty-program/
+                  - text: "has a couple of good things going for it: It doesn’t pass on"
+                  - link "fuel surcharges" [ref=e84] [cursor=pointer]:
+                    - /url: /travel/airlines/airline-fuel-surcharges/
+                  - text: to award tickets, and you can use United miles to book award flights with its
+                  - link "Star Alliance partners" [ref=e85] [cursor=pointer]:
+                    - /url: /travel/airlines/the-star-alliance/
+                  - text: (the largest airline alliance in the world).
+                - paragraph [ref=e86]: To capitalize on what United offers for award tickets, you need to know the right strategies for booking flights, including its stopover and open-jaw rules.
+                - paragraph [ref=e87]: Remember to consider its Star Alliance members, as some have fantastic products in business and first class!
+                - paragraph [ref=e88]:
+                  - text: Some of the worst ways to use your United MileagePlus miles are for products through the
+                  - link "United shopping portal" [ref=e89] [cursor=pointer]:
+                    - /url: /travel/airlines/united-mileageplus-shopping/
+                  - text: or other forms of travel. Instead, stick to redeeming for award travel on airlines — these are the best ways to use United MileagePlus miles.
+                - heading "How To Earn United Miles" [level=2] [ref=e90]
+                - paragraph [ref=e91]:
+                  - text: There are
+                  - link "many ways to earn United miles" [ref=e92] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-united-mileageplus-miles/
+                  - text: ", but the quickest and easiest way is through spending on credit cards that earn transferrable rewards points or United miles."
+                - paragraph [ref=e93]:
+                  - text: Though miles can be earned with
+                  - link "United’s co-branded credit cards" [ref=e94] [cursor=pointer]:
+                    - /url: /credit-cards/best-chase-united-credit-cards/
+                  - text: ", like the"
+                  - link "United℠ Explorer Card" [ref=e95] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/chase-united-mileageplus-explorer-card/
+                  - text: ", the"
+                  - link "United Quest℠ Card" [ref=e96] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/united-quest-card-review/
+                  - text: ", or the"
+                  - link "United℠ Business Card" [ref=e97] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/the-chase-united-business-card/
+                  - text: ", and the"
+                  - link "MileagePlus® Debit Rewards Card" [ref=e98] [cursor=pointer]:
+                    - /url: /news/united-airlines-debit-card/
+                    - text: MileagePlus
+                    - superscript [ref=e99]: ®
+                    - text: Debit Rewards Card
+                  - text: ", issued by Sunrise Banks, N.A., you can also transfer miles to your United MileagePlus account from the"
+                  - link "Chase Ultimate Rewards program" [ref=e100] [cursor=pointer]:
+                    - /url: /credit-cards/chase-ultimate-rewards-review/
+                  - text: and
+                  - link "Bilt Rewards" [ref=e101] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/bilt-rewards-program-review/
+                  - text: at a 1:1 rate.
+                - paragraph [ref=e102]:
+                  - text: Once you have earned enough United miles, you can use your miles to book award tickets on
+                  - link "united.com" [ref=e103] [cursor=pointer]:
+                    - /url: http://united.com
+                  - text: .
+                - heading "Earn Points With Chase Credit Cards (Recommended Strategy)" [level=3] [ref=e104]
+                - paragraph [ref=e105]:
+                  - text: We really like collecting Chase Ultimate Rewards points. That’s because these points are flexible (making them extra useful) and can be transferred to
+                  - link "Chase’s travel partners" [ref=e106] [cursor=pointer]:
+                    - /url: /credit-cards/chase-ultimate-rewards-transfer-partners/
+                  - text: — and Chase has lots of partners,
+                  - strong [ref=e107]: including United
+                  - text: . (Chase points transfer at a 1:1 ratio to United.) Chase points are also
+                  - link "easy to earn" [ref=e108] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-chase-ultimate-rewards-points/
+                  - text: .
+                - paragraph [ref=e109]: This is far better than just collecting United miles — you simply don’t have as many options when it comes redeeming United miles for awards.
+                - generic [ref=e110]:
+                  - strong [ref=e111]: "Hot Tip:"
+                  - paragraph [ref=e113]:
+                    - text: Business owner? See our list of the
+                    - link "best Chase business credit cards" [ref=e114] [cursor=pointer]:
+                      - /url: /credit-cards/business/best-chase-business-credit-cards/
+                    - text: .
+                - heading "Recommended Chase Cards (Personal)" [level=4] [ref=e115]
+                - generic [ref=e117]:
+                  - generic [ref=e118]:
+                    - img [ref=e119]
+                    - generic [ref=e121]: NEW OFFER
+                  - generic [ref=e122]:
+                    - link "Chase Sapphire Preferred® Card" [ref=e123] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/695/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Preferred® Card" [ref=e124]
+                    - link "Terms Apply / Rates & Fees" [ref=e125] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/TRD/695/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e126]: Terms Apply / Rates & Fees
+                    - generic [ref=e127]:
+                      - generic [ref=e128]:
+                        - img "Star rating icon" [ref=e131]
+                        - img "Star rating icon" [ref=e134]
+                        - img "Star rating icon" [ref=e137]
+                        - img "Star rating icon" [ref=e140]
+                        - generic [ref=e141]:
+                          - img "Star rating icon" [ref=e143]
+                          - img "Star rating icon" [ref=e145]
+                      - generic [ref=e146]:
+                        - generic [ref=e147]: U.P. Rating
+                        - img [ref=e150]:
+                          - img [ref=e151]
+                    - link "Apply Now" [ref=e154] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/695/dissn.1775548838764.7073346957.1/
+                      - img [ref=e155]
+                      - text: Apply Now
+                    - generic [ref=e158]: (at Chase's secure site)
+                  - generic [ref=e159]:
+                    - generic [ref=e161]:
+                      - link "Chase Sapphire Preferred® Card" [ref=e163] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                        - text: Chase Sapphire Preferred
+                        - superscript [ref=e164]: ®
+                        - text: Card
+                      - text: A fantastic travel card with a great welcome offer, good benefits, and perks for a moderate annual fee.
+                    - generic [ref=e165]:
+                      - generic [ref=e166]:
+                        - generic [ref=e167]:
+                          - generic [ref=e168]: Welcome Offer
+                          - img [ref=e171]:
+                            - img [ref=e172]
+                        - generic [ref=e175]: 60,000 75,000 points
+                      - generic [ref=e176]:
+                        - generic [ref=e178]: "UP's Offer Valuation*:"
+                        - generic [ref=e179]: $1,500
+                    - generic [ref=e180]:
+                      - generic [ref=e181]:
+                        - generic [ref=e183]: Annual Fee
+                        - generic [ref=e184]: $95
+                      - generic [ref=e185]:
+                        - generic [ref=e187]: APR
+                        - generic [ref=e188]: 19.24% - 27.49% Variable
+                      - generic [ref=e189]:
+                        - generic [ref=e190]:
+                          - generic [ref=e191]: Credit Recommended
+                          - img [ref=e194]:
+                            - img [ref=e195]
+                        - generic [ref=e198]: Good to Excellent
+                    - generic [ref=e199]:
+                      - group [ref=e200]:
+                        - generic "Why We Like This Card" [ref=e201] [cursor=pointer]
+                      - group [ref=e202]:
+                        - generic "Pros & Cons" [ref=e203] [cursor=pointer]
+                      - group [ref=e204]:
+                        - generic "Card Highlights" [ref=e205] [cursor=pointer]
+                - generic [ref=e207]:
+                  - generic [ref=e208]:
+                    - img [ref=e209]
+                    - generic [ref=e211]: NEW OFFER
+                  - generic [ref=e212]:
+                    - link "Chase Sapphire Reserve®" [ref=e213] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/695/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Reserve®" [ref=e214]
+                    - link "Terms Apply / Rates & Fees" [ref=e215] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserveTCCRF/TRD/695/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e216]: Terms Apply / Rates & Fees
+                    - generic [ref=e217]:
+                      - generic [ref=e218]:
+                        - img "Star rating icon" [ref=e221]
+                        - img "Star rating icon" [ref=e224]
+                        - img "Star rating icon" [ref=e227]
+                        - img "Star rating icon" [ref=e230]
+                        - generic [ref=e231]:
+                          - img "Star rating icon" [ref=e233]
+                          - img "Star rating icon" [ref=e235]
+                      - generic [ref=e236]:
+                        - generic [ref=e237]: U.P. Rating
+                        - img [ref=e240]:
+                          - img [ref=e241]
+                    - link "Apply Now" [ref=e244] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/695/dissn.1775548838764.7073346957.1/
+                      - img [ref=e245]
+                      - text: Apply Now
+                    - generic [ref=e248]: (at Chase's secure site)
+                  - generic [ref=e249]:
+                    - generic [ref=e251]:
+                      - link "Chase Sapphire Reserve®" [ref=e253] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-reserve/
+                        - text: Chase Sapphire Reserve
+                        - superscript [ref=e254]: ®
+                      - text: A top player in the high-end premium travel credit card space that earns points on travel and dining while offering top luxury perks.
+                    - generic [ref=e255]:
+                      - generic [ref=e256]:
+                        - generic [ref=e257]:
+                          - generic [ref=e258]: Welcome Offer
+                          - img [ref=e261]:
+                            - img [ref=e262]
+                        - generic [ref=e265]: 125,000 points
+                      - generic [ref=e266]:
+                        - generic [ref=e268]: "UP's Offer Valuation*:"
+                        - generic [ref=e269]: $2,500
+                    - generic [ref=e270]:
+                      - generic [ref=e271]:
+                        - generic [ref=e273]: Annual Fee
+                        - generic [ref=e274]: $795
+                      - generic [ref=e275]:
+                        - generic [ref=e277]: APR
+                        - generic [ref=e278]: 19.49% - 27.99% Variable
+                      - generic [ref=e279]:
+                        - generic [ref=e280]:
+                          - generic [ref=e281]: Credit Recommended
+                          - img [ref=e284]:
+                            - img [ref=e285]
+                        - generic [ref=e288]: Excellent
+                    - generic [ref=e289]:
+                      - group [ref=e290]:
+                        - generic "Why We Like This Card" [ref=e291] [cursor=pointer]
+                      - group [ref=e292]:
+                        - generic "Pros & Cons" [ref=e293] [cursor=pointer]
+                      - group [ref=e294]:
+                        - generic "Card Highlights" [ref=e295] [cursor=pointer]
+                - paragraph [ref=e296]:
+                  - text: To transfer your Chase Ultimate Rewards to United, go into your Ultimate Rewards account, then click
+                  - strong [ref=e297]: Use Points > Transfer to Travel Partners
+                  - text: . That’s how you get the miles into your United MileagePlus account!
+                - 'figure "Transfer Chase points to United points at a 1:1 ratio through Ultimate Rewards. Image Credit: Chase" [ref=e299]':
+                  - link "United points" [ref=e300] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/02/TransferUnitedPoints.png?auto=webp&disable=upscale
+                    - img "United points" [ref=e302]
+                  - generic [ref=e303]: "Transfer Chase points to United points at a 1:1 ratio through Ultimate Rewards. Image Credit: Chase"
+                - generic [ref=e304]:
+                  - strong [ref=e305]: "Bottom Line:"
+                  - paragraph [ref=e307]: Collect Chase Ultimate Rewards points and then transfer them to United. Ultimate Rewards points offer you many transfer partners, whereas United MileagePlus miles are highly restrictive. Plus, Ultimate Rewards points are easy to earn.
+                - heading "Bilt Rewards" [level=3] [ref=e308]
+                - paragraph [ref=e309]:
+                  - text: Bilt Rewards allows you to earn points for paying your rent and by spending on
+                  - link "Bilt credit cards" [ref=e310] [cursor=pointer]:
+                    - /url: /news/bilt-new-credit-card-details/
+                  - text: . You can transfer your Bilt Points to a
+                  - link "number of partners" [ref=e311] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/bilt-rewards-transfer-partners/
+                  - text: ", including United. Bilt points transfer to United at a 1:1 ratio, and you need to transfer a minimum of 2,000 points at a time."
+                - heading "United MileagePlus Credit Cards" [level=3] [ref=e312]
+                - paragraph [ref=e313]:
+                  - text: There are several MileagePlus credit cards that help you to directly
+                  - link "earn United miles" [ref=e314] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-united-mileageplus-miles/
+                  - text: ". Here are some of our favorites:"
+                - generic [ref=e316]:
+                  - generic [ref=e317]:
+                    - img [ref=e318]
+                    - generic [ref=e320]: ELEVATED OFFER
+                  - generic [ref=e321]:
+                    - link "United℠ Explorer Card" [ref=e322] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/UnitedMileagePlusExplorer/TRD/695/dissn.1775548838764.7073346957.1/
+                      - img "United℠ Explorer Card" [ref=e323]
+                    - link "Terms Apply / Rates & Fees" [ref=e324] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/UnitedMileagePlusExplorerTCCRF/TRD/695/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e325]: Terms Apply / Rates & Fees
+                    - generic [ref=e326]:
+                      - generic [ref=e327]:
+                        - img "Star rating icon" [ref=e330]
+                        - img "Star rating icon" [ref=e333]
+                        - img "Star rating icon" [ref=e336]
+                        - img "Star rating icon" [ref=e339]
+                        - generic [ref=e340]:
+                          - img "Star rating icon" [ref=e342]
+                          - img "Star rating icon" [ref=e344]
+                      - generic [ref=e345]:
+                        - generic [ref=e346]: U.P. Rating
+                        - img [ref=e349]:
+                          - img [ref=e350]
+                    - link "Apply Now" [ref=e353] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/UnitedMileagePlusExplorer/TRD/695/dissn.1775548838764.7073346957.1/
+                      - img [ref=e354]
+                      - text: Apply Now
+                    - generic [ref=e357]: (at Chase's secure site)
+                  - generic [ref=e358]:
+                    - generic [ref=e360]:
+                      - link "United℠ Explorer Card" [ref=e362] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-united-mileageplus-explorer-card/
+                      - text: With priority boarding privileges, no foreign transaction fees and more, MileagePlus members will definitely enjoy their partnered card.
+                    - generic [ref=e363]:
+                      - generic [ref=e364]:
+                        - generic [ref=e365]:
+                          - generic [ref=e366]: Welcome Offer
+                          - img [ref=e369]:
+                            - img [ref=e370]
+                        - generic [ref=e373]: Up to 80,000 miles
+                      - generic [ref=e374]:
+                        - generic [ref=e376]: "UP's Offer Valuation*:"
+                        - generic [ref=e377]: $960
+                    - generic [ref=e378]:
+                      - generic [ref=e379]:
+                        - generic [ref=e381]: Annual Fee
+                        - generic [ref=e382]: $150
+                      - generic [ref=e383]:
+                        - generic [ref=e385]: APR
+                        - generic [ref=e386]: 19.74% - 28.24% Variable
+                      - generic [ref=e387]:
+                        - generic [ref=e388]:
+                          - generic [ref=e389]: Credit Recommended
+                          - img [ref=e392]:
+                            - img [ref=e393]
+                        - generic [ref=e396]: Good to Excellent
+                    - generic [ref=e397]:
+                      - group [ref=e398]:
+                        - generic "Why We Like This Card" [ref=e399] [cursor=pointer]
+                      - group [ref=e400]:
+                        - generic "Pros & Cons" [ref=e401] [cursor=pointer]
+                      - group [ref=e402]:
+                        - generic "Card Highlights" [ref=e403] [cursor=pointer]
+                - generic [ref=e405]:
+                  - generic [ref=e406]:
+                    - img [ref=e407]
+                    - generic [ref=e409]: ELEVATED OFFER
+                  - generic [ref=e410]:
+                    - link "United Club℠ Card" [ref=e411] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/UnitedClubInfinite/TRD/695/dissn.1775548838764.7073346957.1/
+                      - img "United Club℠ Card" [ref=e412]
+                    - link "Terms Apply / Rates & Fees" [ref=e413] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/UnitedClubInfiniteTCCRF/TRD/695/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e414]: Terms Apply / Rates & Fees
+                    - generic [ref=e415]:
+                      - generic [ref=e416]:
+                        - img "Star rating icon" [ref=e419]
+                        - img "Star rating icon" [ref=e422]
+                        - img "Star rating icon" [ref=e425]
+                        - img "Star rating icon" [ref=e428]
+                        - generic [ref=e429]:
+                          - img "Star rating icon" [ref=e431]
+                          - img "Star rating icon" [ref=e432]
+                      - generic [ref=e433]:
+                        - generic [ref=e434]: U.P. Rating
+                        - img [ref=e437]:
+                          - img [ref=e438]
+                    - link "Apply Now" [ref=e441] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/UnitedClubInfinite/TRD/695/dissn.1775548838764.7073346957.1/
+                      - img [ref=e442]
+                      - text: Apply Now
+                    - generic [ref=e445]: (at Chase's secure site)
+                  - generic [ref=e446]:
+                    - generic [ref=e448]:
+                      - link "United Club℠ Card" [ref=e450] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/united-club-infinite-card/
+                      - text: Perfect for frequent United flyers who want premium perks like United Club access and free baggage benefits.
+                    - generic [ref=e451]:
+                      - generic [ref=e452]:
+                        - generic [ref=e453]:
+                          - generic [ref=e454]: Welcome Offer
+                          - img [ref=e457]:
+                            - img [ref=e458]
+                        - generic [ref=e461]: Up to 110,000 miles
+                      - generic [ref=e462]:
+                        - generic [ref=e464]: "UP's Offer Valuation*:"
+                        - generic [ref=e465]: $1,320
+                    - generic [ref=e466]:
+                      - generic [ref=e467]:
+                        - generic [ref=e469]: Annual Fee
+                        - generic [ref=e470]: $695
+                      - generic [ref=e471]:
+                        - generic [ref=e473]: APR
+                        - generic [ref=e474]: 19.74% - 28.24% Variable
+                      - generic [ref=e475]:
+                        - generic [ref=e476]:
+                          - generic [ref=e477]: Credit Recommended
+                          - img [ref=e480]:
+                            - img [ref=e481]
+                        - generic [ref=e484]: Excellent
+                    - generic [ref=e485]:
+                      - group [ref=e486]:
+                        - generic "Why We Like This Card" [ref=e487] [cursor=pointer]
+                      - group [ref=e488]:
+                        - generic "Pros & Cons" [ref=e489] [cursor=pointer]
+                      - group [ref=e490]:
+                        - generic "Card Highlights" [ref=e491] [cursor=pointer]
+                - paragraph [ref=e492]:
+                  - text: These cards have other benefits besides earning points. For example, the
+                  - link "United Explorer card" [ref=e493] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/chase-united-mileageplus-explorer-card/
+                  - text: benefits include 1 free
+                  - link "checked bag on United flights" [ref=e494] [cursor=pointer]:
+                    - /url: /travel/airlines/united-airlines-baggage-fees/
+                  - text: ","
+                  - link "priority boarding" [ref=e495] [cursor=pointer]:
+                    - /url: /travel/airlines/united-airlines-boarding-groups/
+                  - text: ", and 2"
+                  - link "United Club passes" [ref=e496] [cursor=pointer]:
+                    - /url: /travel/airports/united-club-lounges/
+                  - text: .
+                - heading "The Best Ways To Use Your United MileagePlus Miles" [level=2] [ref=e497]:
+                  - strong [ref=e499]: The Best Ways To Use Your United MileagePlus Miles
+                - paragraph [ref=e500]: Grab your passport and travel the world! United has a bunch of great ways to redeem miles.
+                - paragraph [ref=e501]: "There are 2 types of award tickets: Saver and everyday. Saver tickets are the cheapest, so want to book these tickets as often as possible."
+                - paragraph [ref=e502]:
+                  - text: You’ll want to stick with the
+                  - strong [ref=e503]: Saver award level
+                  - text: to get the most value when redeeming your United miles.
+                - paragraph [ref=e504]: Saver award flights are available on flights operated by both United and its partner airlines, and these are the MileagePlus award types we’ll address in this post.
+                - paragraph [ref=e505]: Travel partners often max out the value you can obtain when redeeming for flights, particularly in business and first class. However, economy tickets will also get you where you want to go for far fewer miles across the board.
+                - heading "United Dynamic Award Pricing" [level=3] [ref=e506]
+                - paragraph [ref=e507]: In 2019, United got rid of its award chart and introduced dynamic pricing for award flights booked with United miles. That means that there are no longer fixed award prices between certain regions and that prices can vary based on a multitude of factors.
+                - paragraph [ref=e508]: The prices listed below are generally what you should expect to see when looking for saver level awards. You may sometimes spot Saver award pricing for more or less than what’s listed below.
+                - paragraph [ref=e509]: Additionally, United charges more for award flights that are booked within 30 days of departure. Normal Saver-level awards cost about 5% to 10% more if booked this close in, both on United and partner flights.
+                - heading "Using United MileagePlus Miles With Airline Partners" [level=3] [ref=e510]
+                - paragraph [ref=e511]:
+                  - text: You can redeem miles with United and its partner airlines through a normal search on United.com. Simply check the box next to
+                  - strong [ref=e512]: “Book with miles” when searching for your flight.
+                - paragraph [ref=e513]:
+                  - text: United isn’t just a part of the Star Alliance, as it also partners with other airlines outside of any alliances. This means you have lots of options for turning your United miles into award tickets on a variety of carriers, like Lufthansa and
+                  - link "Avianca" [ref=e514] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/avianca-review/
+                  - text: ", for flights all around the world."
+                - generic [ref=e515]:
+                  - strong [ref=e516]: "Hot Tip:"
+                  - paragraph [ref=e518]:
+                    - text: New to travel?
+                    - link "Make sure you grab your passport" [ref=e519] [cursor=pointer]:
+                      - /url: /travel/definitive-us-passport-application-guide/
+                    - text: if this is your first international trip, or
+                    - link "get it renewed before traveling" [ref=e520] [cursor=pointer]:
+                      - /url: /travel/us-passport-renewal-and-special-cases-guide/
+                    - text: "! You won’t be able to visit another country without it. If you want to save time and you think you’ll be traveling a lot, check out the"
+                    - link "Global Entry program" [ref=e521] [cursor=pointer]:
+                      - /url: /travel/global-entry-program/
+                    - text: ", as well."
+                - heading "1. Lufthansa First Class From the U.S." [level=3] [ref=e522]
+                - paragraph [ref=e523]: Lufthansa’s first-class product has long been one of the most sought-after seats in the sky. But let’s be honest, a one-way ticket for over $8,000 isn’t in everyone’s budget.
+                - paragraph [ref=e524]:
+                  - text: Fortunately, United miles provide an opportunity to take part in this amazing experience. From
+                  - strong [ref=e525]: 121,000 miles
+                  - text: ", you can book a one-way, first-class award flight on Lufthansa."
+                - paragraph [ref=e526]:
+                  - text: This is not the cheapest way
+                  - link "to get to Europe" [ref=e527] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-europe-with-points/
+                  - text: on miles or even to fly Lufthansa first class, but
+                  - strong [ref=e528]:
+                    - text: United does
+                    - emphasis [ref=e529]: not
+                    - text: pass on fuel surcharges
+                  - text: . If you booked this flight with Lufthansa’s frequent flyer program,
+                  - link "Miles & More" [ref=e530] [cursor=pointer]:
+                    - /url: /travel/airlines/lufthansa-miles-and-more-loyalty-program/
+                  - text: ", you’d expect to pay over $400 in fuel surcharges."
+                - generic [ref=e531]:
+                  - strong [ref=e532]: "Hot Tip:"
+                  - paragraph [ref=e534]:
+                    - text: Need help booking? See our step-by-step guide to
+                    - link "booking Lufthansa first class with points" [ref=e535] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-lufthansa-first-class/
+                    - text: .
+                - 'figure "Fly Lufthansa first class in the nose of the Queen of the Skies. Image Credit: Cherag Dubash" [ref=e537]':
+                  - link "Lufthansa B747-8 First Class Seat 1A and 1K" [ref=e538] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/10/Lufthansa_B747-8_First_Class_Seat_1A_1K_Cherag_Dubash.jpg?auto=webp&disable=upscale
+                    - img "Lufthansa B747-8 First Class Seat 1A and 1K" [ref=e540]
+                  - generic [ref=e541]:
+                    - text: "Fly Lufthansa first class in the nose of the Queen of the Skies. Image Credit:"
+                    - link "Cherag Dubash" [ref=e542] [cursor=pointer]:
+                      - /url: /author/cherag/
+                - paragraph [ref=e543]: An important point to remember when using United miles to book this flight is that Lufthansa only releases first-class award space to its Star Alliance partners 14 days before departure.
+                - paragraph [ref=e544]: Though this leaves booking until later than most of us are accustomed to, there is often open award space.
+                - generic [ref=e545]:
+                  - strong [ref=e546]: "Hot Tip:"
+                  - paragraph [ref=e548]: Keep in mind that although United has technically eliminated its close-in booking fee, it has also increased the number of miles you need for flights within 30 days. Unfortunately, this means anytime you want to redeem United miles for Lufthansa first class you’re subject to the “not-a-close-in-booking-fee” booking fee. Costs vary, but we’ve seen anywhere from 1,000 to 9,000 additional miles tacked on.
+                - paragraph [ref=e549]:
+                  - text: If you want to take your Lufthansa experience to the next level, make sure you have a connection in its hub, Frankfurt Am Main Airport (FRA). There you can visit the
+                  - link "First Class Terminal" [ref=e550] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/news/lufthansa-first-class-terminal-reopens/
+                  - text: ", considered one of the best airport lounges in the world. You can enjoy a relaxing bath or shower and take home perhaps the most famous collectible among frequent flyers, a"
+                  - strong [ref=e551]: Lufthansa rubber duck
+                  - text: .
+                - paragraph [ref=e552]: You can even take a nap in one of the relaxation rooms, complete with beds.
+                - paragraph [ref=e553]: Finally, when it’s time to head to the gate for your connecting flight, you won’t have to worry about rushing to boarding. Since the First Class Terminal is not connected to the gates, staff will drive you over in a Porsche.
+                - generic [ref=e554]:
+                  - strong [ref=e555]: "Bottom Line:"
+                  - paragraph [ref=e557]:
+                    - generic [ref=e558]: United miles can help you snag the elusive and sought-after Lufthansa first class, as long as you don’t mind waiting to book until 2 weeks before your flight.
+                - heading "2. Business Class on a Star Alliance Partner to Africa" [level=3] [ref=e559]:
+                  - strong [ref=e561]: 2. Business Class on a Star Alliance Partner to Africa
+                - paragraph [ref=e562]: Although United technically pulled its award chart in 2019, the price for Saver award flights doesn’t vary much — generally speaking, you can reliably find availability priced at fixed amounts.
+                - paragraph [ref=e563]:
+                  - text: For example,
+                  - link "flights from the U.S. to any African country" [ref=e564] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-africa-with-points-and-miles/
+                  - text: in business class on a Star Alliance partner price out at 88,000 miles one-way.
+                - paragraph [ref=e565]: This is true as long as you’re booking more than 30 days out, of course. If you’re booking an itinerary that mixes cabins, the price will also change.
+                - 'figure "Fly on Star Alliance partner SWISS in business class to several countries in Africa. Image Credit: Ehsan Haque" [ref=e567]':
+                  - img "Swiss 777 business class seats" [ref=e569]
+                  - generic [ref=e570]: "Fly on Star Alliance partner SWISS in business class to several countries in Africa. Image Credit: Ehsan Haque"
+                - paragraph [ref=e571]:
+                  - text: Many people immediately default to checking out partners
+                  - link "Ethiopian Airlines" [ref=e572] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/ethiopian-airlines-review/
+                  - text: or South African Airways. These might be solid choices for your needs, but
+                  - strong [ref=e573]: we suggest routing through Europe for an even better experience
+                  - text: .
+                - paragraph [ref=e574]: SWISS, for example, has a great business class that you can get by routing through Zurich (ZRH). Additionally, Austrian Airlines has a solid business class and fantastic catering service. If you’re a coffee drinker, you’ll definitely want to try a cup of Viennese coffee.
+                - paragraph [ref=e575]: While they might not be your first instincts, give SWISS and Austrian Airlines a try if you’re looking for a fun experience in the sky on your way to Africa.
+                - generic [ref=e576]:
+                  - strong [ref=e577]: "Bottom Line:"
+                  - paragraph [ref=e579]: Business class to Africa on a Star Alliance partner can be a good way to spend 88,000 United miles, especially if you choose to route via Europe.
+                - heading "3. Turkish Airlines in Business Class From the U.S." [level=3] [ref=e580]
+                - paragraph [ref=e581]:
+                  - strong [ref=e582]: Turkish Airlines flies to more destinations than almost any other airline in the world
+                  - text: (it’s third behind American and Delta), giving you ample opportunity to use MileagePlus award miles for a great business class product.
+                - paragraph [ref=e583]: Getting from the U.S. to Europe starts at 88,000 MileagePlus on Turkish. It’d cost the same to see Africa.
+                - paragraph [ref=e584]:
+                  - text: Alternatively, you could just fly to Istanbul and enjoy an amazing city! If your connection gap is long enough, you could get out of the airport for a few hours. If you have a short connection that doesn’t give you time to leave Istanbul Airport (IST), you can experience
+                  - link "Turkish Airlines’ amazing business class lounge" [ref=e585] [cursor=pointer]:
+                    - /url: /travel/airlines/turkish-airlines-787-business-class/#Turkish-Airlines-Business-Lounge
+                  - text: .
+                - 'figure "Enjoy the amazing Turkish Airlines Business Lounge in Istanbul. Image Credit: Greg Stone" [ref=e587]':
+                  - img "Turkish Airlines Business Lounge Self Playing Piano" [ref=e589]
+                  - generic [ref=e590]:
+                    - text: "Enjoy the amazing Turkish Airlines Business Lounge in Istanbul. Image Credit:"
+                    - link "Greg Stone" [ref=e591] [cursor=pointer]:
+                      - /url: /author/greg/
+                - generic [ref=e592]:
+                  - strong [ref=e593]: "Hot Tip:"
+                  - paragraph [ref=e595]:
+                    - text: Enjoy
+                    - link "hotel elite status" [ref=e596] [cursor=pointer]:
+                      - /url: /credit-cards/credit-cards-with-hotel-elite-status/
+                    - text: and
+                    - link "airport lounge perks" [ref=e597] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/lounge-access/
+                    - text: when traveling if you have the
+                    - link "Platinum Card® from American Express" [ref=e598] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/american-express-platinum-card/
+                      - text: Platinum Card
+                      - superscript [ref=e599]: ®
+                      - text: from American Express
+                    - text: (enrollment required).
+                - heading "4. United Polaris Business Class" [level=3] [ref=e600]
+                - paragraph [ref=e601]:
+                  - text: In 2017, United launched a revamped business class product called Polaris. United now has the new Polaris seat on all of its long-haul international flights and many of its wide-body aircraft that fly within the U.S., including the Boeing 777-300, 777-200,
+                  - link "767-300" [ref=e602] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/united-airlines-767-polaris-review-ewr-lhr/
+                  - text: ", 787-8, 787-9, and 787-10."
+                - paragraph [ref=e603]:
+                  - strong [ref=e604]: Every Polaris seat has aisle access
+                  - text: ", which is particularly nice for solo travelers who don’t want people climbing over them while they sleep."
+                - paragraph [ref=e605]:
+                  - text: If you’re looking for an excuse to redeem United miles, you can try the
+                  - link "new Polaris business class" [ref=e606] [cursor=pointer]:
+                    - /url: /travel/airlines/united-polaris/
+                  - text: on a trip from the U.S. to Europe from 80,000 miles one-way. If Asia is more your style, you have options starting at 100,000 United miles. However in our searches we found that it’s hard to come by that level of pricing, as most flights across the Pacific come in around 170,000 or more miles one-way.
+                - 'figure "Fly Polaris business class to Europe from just 80,000 miles one-way. Image Credit: Chris Hassan" [ref=e608]':
+                  - img "United Polaris Business Class Seat on Boeing 787 9 Dreamliner" [ref=e610]
+                  - generic [ref=e611]:
+                    - text: "Fly Polaris business class to Europe from just 80,000 miles one-way. Image Credit:"
+                    - link "Chris Hassan" [ref=e612] [cursor=pointer]:
+                      - /url: /author/chrishassan/
+                - paragraph [ref=e613]: "Here are some great routes you can take to Europe:"
+                - list [ref=e614]:
+                  - listitem [ref=e615]: Chicago (ORD) to Frankfurt (FRA)
+                  - listitem [ref=e616]: Newark (EWR) to Frankfurt (FRA)
+                  - listitem [ref=e617]: San Francisco (SFO) to London (LHR)
+                - paragraph [ref=e618]:
+                  - text: Not only has United revamped its business class to compete with airlines like
+                  - link "Delta" [ref=e619] [cursor=pointer]:
+                    - /url: /travel/airlines/delta-skymiles-loyalty-program/
+                  - text: and
+                  - link "American" [ref=e620] [cursor=pointer]:
+                    - /url: /travel/airlines/american-airlines-aadvantage-loyalty-program/
+                  - text: on international routes, but it’s also stepped up its lounge game, as well.
+                - paragraph [ref=e621]:
+                  - text: With Polaris lounges at United’s hub airports, you can experience a new level of flying with United. So far, there are Polaris lounges in
+                  - link "Houston (IAH)" [ref=e622] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airports/george-bush-intercontinental-iah-airport/
+                  - text: ","
+                  - link "San Francisco (SFO)" [ref=e623] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airports/san-francisco-international-sfo-airport/
+                  - text: ","
+                  - link "Newark (EWR)" [ref=e624] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airports/newark-liberty-airport-ewr/
+                  - text: ","
+                  - link "Los Angeles (LAX)" [ref=e625] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airports/los-angeles-lax-airport/
+                  - text: ","
+                  - link "Washington Dulles (IAD)" [ref=e626] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airports/washington-dulles-international-iad-airport/
+                  - text: ", and"
+                  - link "Chicago (ORD)" [ref=e627] [cursor=pointer]:
+                    - /url: /travel/airports/united-polaris-lounge-chicago-ord-review/
+                  - text: .
+                - generic [ref=e628]:
+                  - strong [ref=e629]: "Bottom Line:"
+                  - paragraph [ref=e631]: United’s amazing new Polaris business class is a great way to spend your miles if you can find availability on one of the planes featuring its new seats.
+                - heading "5. Fly The Room on ANA to Japan" [level=3] [ref=e632]
+                - paragraph [ref=e633]: In 2019, ANA gave its business class a massive upgrade. The airline rolled out a new seat dubbed The Room, which features significantly more space than many other carrier’s business seats — in fact, the seat’s comparable to some first-class suites.
+                - paragraph [ref=e634]:
+                  - text: What really puts ANA on the map, though, is its
+                  - strong [ref=e635]: amazing flight attendants
+                  - text: . They have a well-deserved reputation for great service that helps set ANA apart.
+                - 'figure "ANA’s new business class features very spacious seats. Image Credit: Stella Shon" [ref=e637]':
+                  - img "ANA The Room First Look" [ref=e639]
+                  - generic [ref=e640]:
+                    - text: "ANA’s new business class features very spacious seats. Image Credit:"
+                    - link "Stella Shon" [ref=e641] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/stella/
+                - paragraph [ref=e642]:
+                  - text: You can
+                  - link "book ANA business class" [ref=e643] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-ana-business-class/
+                  - text: from the U.S. to Japan starting from 110,000 United miles. Note that The Room is only installed on certain aircraft right now, like the Boeing 777-300ER. Make sure the flight you book features the new seats.
+                - paragraph [ref=e644]:
+                  - text: However you look at it,
+                  - strong [ref=e645]: experiencing an ANA premium cabin should be on your must-fly list
+                  - text: . Whether or not it’s on ANA, you should check out our guide to the best ways to
+                  - link "fly to Japan using points and miles" [ref=e646] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-japan-with-points/
+                  - text: .
+                - generic [ref=e647]:
+                  - strong [ref=e648]: "Bottom Line:"
+                  - paragraph [ref=e650]: Business class flights from the U.S. to Japan on ANA start at 110,000 United miles. With superior service and seats, ANA beats United’s business class to Japan.
+                - heading "6. Flights Within Oceania in Economy Class" [level=3] [ref=e651]
+                - paragraph [ref=e652]:
+                  - text: Once you’ve flown to the other side of the world, you might want to spend some time visiting different islands. United operates its famous
+                  - link "Island Hopper" [ref=e653] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/united-b737-800-island-hopper-economy-class-review-hnl-pni/
+                  - text: route among these islands, which is an
+                  - strong [ref=e654]: AvGeek bucket-list item
+                  - text: . The problem is that many of these intraregion flights are pretty pricey.
+                - 'figure "Image Credit: Redgeographics via Wikipedia" [ref=e656]':
+                  - img "United Island Hopper" [ref=e658]
+                  - generic [ref=e659]: "Image Credit: Redgeographics via Wikipedia"
+                - paragraph [ref=e660]: A one-way flight in economy class can be booked from 20,000 United miles for flights under 800 miles. Flights over 800 miles start at 30,000 miles. Though this might seem like a lot of miles to redeem for a short flight, keep in mind that the cash rates can also be quite high.
+                - paragraph [ref=e661]: Alternatively, business Saver award tickets are 50,000 miles for flights under 800 miles and 85,000 miles for flights over 800 miles in this region.
+                - heading "7. Cheap Flights to Europe in Economy Class" [level=3] [ref=e662]
+                - paragraph [ref=e663]: If you’re concerned about the cost of travel to Europe, United miles can be an easy way to keep costs low.
+                - paragraph [ref=e664]: Starting from 30,000 United miles, you can fly one-way in economy class on United. If you’d prefer a Star Alliance partner airline, such as Turkish or Lufthansa, you can book a flight from 43,900 miles.
+                - paragraph [ref=e665]:
+                  - text: Since
+                  - strong [ref=e666]: award flights booked with United miles do not incur fuel surcharges
+                  - text: ", this can be a great way to keep your out-of-pocket costs down."
+                - 'figure "Flying Turkish Airlines is the secret recipe for booking convenient nonstop flights to smaller cities in Europe. Image Credit: Keri Stooksbury" [ref=e668]':
+                  - img "Turkish Airlines IST ATL 787 9 economy center window seat" [ref=e670]
+                  - generic [ref=e671]:
+                    - text: "Flying Turkish Airlines is the secret recipe for booking convenient nonstop flights to smaller cities in Europe. Image Credit:"
+                    - link "Keri Stooksbury" [ref=e672] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/keri/
+                - generic [ref=e673]:
+                  - strong [ref=e674]: "Hot Tip:"
+                  - paragraph [ref=e676]:
+                    - text: Make stopovers even better with the
+                    - link "Amex Platinum card" [ref=e677] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/reviews/american-express-platinum-card/
+                    - text: and get
+                    - link "access to airline lounges around the world" [ref=e678] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/american-express-platinum-card/airport-lounge-access/
+                    - text: ", as well as up to"
+                    - link "$200 in airline fee credits" [ref=e679] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/american-express-platinum-card/incidental-airline-credit/
+                    - text: you can use on United!
+                - heading "8. Travel Throughout Central and Southern Africa in Business Class" [level=3] [ref=e680]
+                - paragraph [ref=e681]: Thanks to Star Alliance partners Ethiopian Airlines and South African Airways, United miles are a fantastic way to travel in central and southern Africa.
+                - paragraph [ref=e682]:
+                  - text: Beginning at 33,000 United miles, you can fly one-way in business class throughout the region. Having 2 major airline partners in the region means
+                  - strong [ref=e683]: you can go almost anywhere there you can imagine
+                  - text: "!"
+                - 'figure "South African Airways A330-300 business class. Image Credit: South African Airways" [ref=e685]':
+                  - link "South African Airways" [ref=e686] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/08/South-African-Airways.jpg?auto=webp&disable=upscale
+                    - img "South African Airways" [ref=e688]
+                  - generic [ref=e689]: "South African Airways A330-300 business class. Image Credit: South African Airways"
+                - heading "9. See the Caribbean in Economy Class" [level=3] [ref=e690]
+                - paragraph [ref=e691]:
+                  - text: If you want to check out the Caribbean, you can sometimes book a round-trip ticket in economy class from the U.S. to the
+                  - link "Caribbean" [ref=e692] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-the-caribbean-with-points/
+                  - text: for as low as 13,200 miles (or 6,600 miles one-way).
+                - paragraph [ref=e693]:
+                  - text: Prices on these routes vary significantly, so it’s hard to pinpoint
+                  - emphasis [ref=e694]: exactly
+                  - text: what a traditional Saver award costs these days. If you want to find the lowest price, take advantage of United’s flexible date search function to find the best deal.
+                - 'figure "United Airlines economy. Image Credit: Ryan Smith" [ref=e696]':
+                  - img "United Airlines B737 MAX9 view up the aisle in economy" [ref=e698]
+                  - generic [ref=e699]: "United Airlines economy. Image Credit: Ryan Smith"
+                - heading "10. Fly to the Galápagos on Avianca" [level=3] [ref=e700]
+                - paragraph [ref=e701]: "The Galápagos are notoriously expensive to reach. Fortunately, one of United’s partners, Avianca, operates nonstop flights to both Galápagos airports, Baltra Island (GPS) and San Cristóbal Island (SCY):"
+                - list [ref=e702]:
+                  - listitem [ref=e703]: Guayaquil (GYE) to Baltra Island (GPS)
+                  - listitem [ref=e704]: Guayaquil (GYE) to San Cristóbal Island (SCY)
+                  - listitem [ref=e705]: Quito (UIO) to Baltra Island (GPS)
+                  - listitem [ref=e706]: Quito (UIO) to San Cristóbal Island (SCY)
+                - paragraph [ref=e707]: Clocking in at just under 2 hours, one-way Galápagos economy flights start at 8,800 United miles.
+                - 'figure "Avianca A320 economy class. Image Credit: Ryan Smith" [ref=e709]':
+                  - img "Avianca economy A320 LAX SAL seat spacing" [ref=e711]
+                  - generic [ref=e712]:
+                    - text: "Avianca A320 economy class. Image Credit:"
+                    - link "Ryan Smith" [ref=e713] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/ryansmith/
+                - heading "11. Fly From the U.S. to Northern South America" [level=3] [ref=e714]
+                - paragraph [ref=e715]: United breaks South America down into 2 separate regions, meaning you can save miles by choosing to land in the northern half rather than the southern.
+                - paragraph [ref=e716]: From 28,300 miles, you can fly in economy on United from the U.S. to the northern part of the continent. Flying with its Star Alliance partners starts at 33,000 miles in economy.
+                - paragraph [ref=e717]: If you’d prefer a more comfortable flight, you can book from 55,000 United miles to fly in business class on United metal, or 60,500 miles on a partner airline.
+                - 'figure "Connect to South America via Star Alliance partner Avianca’s hub in Bogotá (BOG). Image Credit: Daniel Ross" [ref=e719]':
+                  - img "Avianca Boeing 787 Business Class small rear cabin middle" [ref=e721]
+                  - generic [ref=e722]: "Connect to South America via Star Alliance partner Avianca’s hub in Bogotá (BOG). Image Credit: Daniel Ross"
+                - paragraph [ref=e723]: "Here are some great example routes you can take:"
+                - list [ref=e724]:
+                  - listitem [ref=e725]: Houston (IAH) to Lima (LIM)
+                  - listitem [ref=e726]: Houston (IAH) to Panama City (PTY) or Georgetown (GEO)
+                  - listitem [ref=e727]: Houston (IAH) to Quito (UIO)
+                  - listitem [ref=e728]: Los Angeles (LAX) to Bogotá (BOG)
+                - heading "12. Fly Business Class From Europe to Central Asia" [level=3] [ref=e729]
+                - paragraph [ref=e730]: American travelers don’t often visit Central Asia from Europe, but United miles provide a great way to do it.
+                - paragraph [ref=e731]:
+                  - text: Beginning at 60,500 United miles, you can fly business class one-way on a Star Alliance partner such as
+                  - link "Lufthansa" [ref=e732] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-lufthansa-business-class/
+                  - text: or
+                  - link "Austrian" [ref=e733] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-austrian-airlines-business-class/
+                  - text: . You can also fly economy class one-way from 33,000 miles.
+                - paragraph [ref=e734]: This gives you access to amazing destinations including India, the Maldives, and Nepal. So, if you’re looking for ways to create an exciting adventure around the world, don’t forget to check out how United can help you make it happen.
+                - 'figure "Enjoy the amazing dining service in business class on Austrian Airlines. Image Credit: Austrian Airlines" [ref=e736]':
+                  - img "Austrian Airlines business class cabin" [ref=e738]
+                  - generic [ref=e739]: "Enjoy the amazing dining service in business class on Austrian Airlines. Image Credit: Austrian Airlines"
+                - paragraph [ref=e740]: "Here are some great route ideas to inspire you:"
+                - list [ref=e741]:
+                  - listitem [ref=e742]:
+                    - strong [ref=e743]: Vienna (VIE) to Male (MLE)
+                  - listitem [ref=e744]:
+                    - strong [ref=e745]: Zurich (ZRH) to Delhi (DEL)
+                - heading "13. Fly on United to Africa" [level=3] [ref=e746]
+                - paragraph [ref=e747]: In recent years, United has launched a number of direct flights to Africa. Currently, the airline flies to Cape Town (CPT) and Johannesburg (JNB), South Africa; Accra, Ghana (ACC); and Lagos, Nigeria (LOS).
+                - paragraph [ref=e748]: You can find United’s Polaris seats on these routes, but prices aren’t cheap — you have to shell out 190,000 United miles for a one-way business-class ticket. Otherwise, you can fly in economy from 45,000 miles.
+                - 'figure "United’s Polaris class is one of the best ways to get to Africa. Image Credit: Chris Hassan" [ref=e750]':
+                  - img "United Polaris cabin at night" [ref=e752]
+                  - generic [ref=e753]:
+                    - text: "United’s Polaris class is one of the best ways to get to Africa. Image Credit:"
+                    - link "Chris Hassan" [ref=e754] [cursor=pointer]:
+                      - /url: /author/chrishassan/
+                - heading "14. Fly to Any of the 48 Continental States, Alaska, or Canada" [level=3] [ref=e755]
+                - paragraph [ref=e756]: Sometimes, domestic flight costs are simply unbearable, so it can be useful to redeem United miles for these flights. Since ditching its award chart, United has shown fluctuations in pricing for domestic flights.
+                - paragraph [ref=e757]: It used to be that, for 12,500 miles, you could get anywhere in the continental U.S. in economy class. If your flight were less than 700 miles, you only needed to use 10,000 United miles.
+                - paragraph [ref=e758]: Now, however, you can now find flights as low as 5,000 miles, though more desirable flights, such as nonstops, can cost more than that with stopovers.
+                - 'figure "Image Credit: Alberto Riva" [ref=e760]':
+                  - img "United Airlines A319 taxiing SLC control tower" [ref=e762]
+                  - generic [ref=e763]: "Image Credit: Alberto Riva"
+                - paragraph [ref=e764]: Starting at 13,000 United miles, you can fly in economy class to Alaska or Canada for a quick adventure to colder climates.
+                - paragraph [ref=e765]: While these redemptions don’t bring the glamour of Lufthansa first class, they are quite useful when traveling domestically and can still provide above-average value for your miles.
+                - generic [ref=e766]:
+                  - strong [ref=e767]: "Bottom Line:"
+                  - paragraph [ref=e769]: United’s dynamic pricing is most visible on domestic U.S. flights, where you can now score flights for as few as 5,000 miles.
+                - heading "15. Flights Under 800 Miles Outside of the U.S." [level=3] [ref=e770]
+                - paragraph [ref=e771]:
+                  - text: Points and miles travelers love to talk about using
+                  - link "British Airways Avios" [ref=e772] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-british-airways-avios/
+                  - text: to take short flights while abroad. The thing is, Star Alliance carriers may actually be more convenient for your itinerary. United MileagePlus allows you to book flights under 800 miles in economy from 8,800 United miles.
+                - paragraph [ref=e773]: This means you can book one-way awards between cities, such as from Johannesburg to Cape Town or between a number of European cities. Keep in mind these awards are only good on nonstop routes when traveling within a region.
+                - generic [ref=e774]:
+                  - strong [ref=e775]: "Bottom Line:"
+                  - paragraph [ref=e777]:
+                    - generic [ref=e778]: Redeeming your miles for short-haul flights overseas is a cheap, easy way to get around.
+                - paragraph [ref=e780]: Advertisement
+                - heading "List of Star Alliance Airline Partners" [level=2] [ref=e781]
+                - table [ref=e785]:
+                  - rowgroup [ref=e786]:
+                    - row "Star Alliance Partners" [ref=e787]:
+                      - cell "Star Alliance Partners" [ref=e788]:
+                        - paragraph [ref=e790]:
+                          - strong [ref=e791]: Star Alliance Partners
+                    - row "Aegean Airlines Ethiopian Airlines" [ref=e792]:
+                      - cell "Aegean Airlines" [ref=e793]:
+                        - paragraph [ref=e794]: Aegean Airlines
+                      - cell "Ethiopian Airlines" [ref=e795]:
+                        - paragraph [ref=e796]: Ethiopian Airlines
+                    - row "Air Canada EVA Air" [ref=e797]:
+                      - cell "Air Canada" [ref=e798]:
+                        - paragraph [ref=e799]:
+                          - link "Air Canada" [ref=e800] [cursor=pointer]:
+                            - /url: /travel/airlines/air-canada-aeroplan-loyalty-program/
+                      - cell "EVA Air" [ref=e801]:
+                        - paragraph [ref=e802]: EVA Air
+                    - row "Air China ITA Airways (in 2026)" [ref=e803]:
+                      - cell "Air China" [ref=e804]:
+                        - paragraph [ref=e805]:
+                          - link "Air China" [ref=e806] [cursor=pointer]:
+                            - /url: /travel/airlines/air-china-phoenixmiles-loyalty-program/
+                      - cell "ITA Airways (in 2026)" [ref=e807]:
+                        - paragraph [ref=e808]: ITA Airways (in 2026)
+                    - row "Air India LOT Polish Airlines" [ref=e809]:
+                      - cell "Air India" [ref=e810]:
+                        - paragraph [ref=e811]: Air India
+                      - cell "LOT Polish Airlines" [ref=e812]:
+                        - paragraph [ref=e813]: LOT Polish Airlines
+                    - row "Air New Zealand Lufthansa" [ref=e814]:
+                      - cell "Air New Zealand" [ref=e815]:
+                        - paragraph [ref=e816]:
+                          - link "Air New Zealand" [ref=e817] [cursor=pointer]:
+                            - /url: /travel/airlines/air-new-zealand-airpoints-loyalty-program/
+                      - cell "Lufthansa" [ref=e818]:
+                        - paragraph [ref=e819]:
+                          - link "Lufthansa" [ref=e820] [cursor=pointer]:
+                            - /url: /travel/airlines/lufthansa-miles-and-more-loyalty-program/
+                    - row "ANA Shenzhen Airlines" [ref=e821]:
+                      - cell "ANA" [ref=e822]:
+                        - paragraph [ref=e823]:
+                          - link "ANA" [ref=e824] [cursor=pointer]:
+                            - /url: /travel/airlines/ana-mileage-club-loyalty-program/
+                      - cell "Shenzhen Airlines" [ref=e825]:
+                        - paragraph [ref=e826]: Shenzhen Airlines
+                    - row "Asiana Airlines Singapore Airlines" [ref=e827]:
+                      - cell "Asiana Airlines" [ref=e828]:
+                        - paragraph [ref=e829]:
+                          - link "Asiana Airlines" [ref=e830] [cursor=pointer]:
+                            - /url: /travel/airlines/asiana-airlines-asiana-club-loyalty-program/
+                      - cell "Singapore Airlines" [ref=e831]:
+                        - paragraph [ref=e832]:
+                          - link "Singapore Airlines" [ref=e833] [cursor=pointer]:
+                            - /url: /travel/airlines/singapore-airlines-krisflyer-loyalty-program/
+                    - row "Austrian South African Airways" [ref=e834]:
+                      - cell "Austrian" [ref=e835]:
+                        - paragraph [ref=e836]: Austrian
+                      - cell "South African Airways" [ref=e837]:
+                        - paragraph [ref=e838]: South African Airways
+                    - row "Avianca SWISS" [ref=e839]:
+                      - cell "Avianca" [ref=e840]:
+                        - paragraph [ref=e841]:
+                          - link "Avianca" [ref=e842] [cursor=pointer]:
+                            - /url: /travel/airlines/avianca-lifemiles-loyalty-program/
+                      - cell "SWISS" [ref=e843]:
+                        - paragraph [ref=e844]: SWISS
+                    - row "Brussels Airlines TAP Air Portugal" [ref=e845]:
+                      - cell "Brussels Airlines" [ref=e846]:
+                        - paragraph [ref=e847]: Brussels Airlines
+                      - cell "TAP Air Portugal" [ref=e848]:
+                        - paragraph [ref=e849]:
+                          - link "TAP Air Portugal" [ref=e850] [cursor=pointer]:
+                            - /url: /travel/airlines/tap-air-portugal-loyalty-program/
+                    - row "Copa Airlines Thai Airways" [ref=e851]:
+                      - cell "Copa Airlines" [ref=e852]:
+                        - paragraph [ref=e853]: Copa Airlines
+                      - cell "Thai Airways" [ref=e854]:
+                        - paragraph [ref=e855]:
+                          - link "Thai Airways" [ref=e856] [cursor=pointer]:
+                            - /url: /travel/airlines/thai-airways-royal-orchid-plus-loyalty-program/
+                    - row "Croatia Airlines Turkish Airlines" [ref=e857]:
+                      - cell "Croatia Airlines" [ref=e858]:
+                        - paragraph [ref=e859]: Croatia Airlines
+                      - cell "Turkish Airlines" [ref=e860]:
+                        - paragraph [ref=e861]:
+                          - link "Turkish Airlines" [ref=e862] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/turkish-airlines-review/
+                    - row "Egypt Air United Airlines" [ref=e863]:
+                      - cell "Egypt Air" [ref=e864]:
+                        - paragraph [ref=e865]: Egypt Air
+                      - cell "United Airlines" [ref=e866]:
+                        - paragraph [ref=e867]:
+                          - link "United Airlines" [ref=e868] [cursor=pointer]:
+                            - /url: /travel/airlines/united-airlines-mileageplus-loyalty-program/
+                - heading "United Airline Partners Outside an Alliance" [level=2] [ref=e869]
+                - table [ref=e872]:
+                  - rowgroup [ref=e873]:
+                    - row "Other Partners" [ref=e874]:
+                      - cell "Other Partners" [ref=e875]:
+                        - paragraph [ref=e877]:
+                          - strong [ref=e878]: Other Partners
+                    - row "Aer Lingus Emirates" [ref=e879]:
+                      - cell "Aer Lingus" [ref=e880]:
+                        - paragraph [ref=e881]: Aer Lingus
+                      - cell "Emirates" [ref=e882]:
+                        - paragraph [ref=e883]: Emirates
+                    - row "Air Dolomiti Eurowings" [ref=e884]:
+                      - cell "Air Dolomiti" [ref=e885]:
+                        - paragraph [ref=e886]: Air Dolomiti
+                      - cell "Eurowings" [ref=e887]:
+                        - paragraph [ref=e888]: Eurowings
+                    - row "Airlink Flydubai" [ref=e889]:
+                      - cell "Airlink" [ref=e890]:
+                        - paragraph [ref=e891]: Airlink
+                      - cell "Flydubai" [ref=e892]:
+                        - paragraph [ref=e893]: Flydubai
+                    - row "Azul JSX" [ref=e894]:
+                      - cell "Azul" [ref=e895]:
+                        - paragraph [ref=e896]: Azul
+                      - cell "JSX" [ref=e897]:
+                        - paragraph [ref=e898]:
+                          - link "JSX" [ref=e899] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/jsx-semi-private-flights/
+                    - row "Cape Air Lufthansa City Airlines" [ref=e900]:
+                      - cell "Cape Air" [ref=e901]:
+                        - paragraph [ref=e902]: Cape Air
+                      - cell "Lufthansa City Airlines" [ref=e903]:
+                        - paragraph [ref=e904]: Lufthansa City Airlines
+                    - row "Discover Airlines Olympic Air" [ref=e905]:
+                      - cell "Discover Airlines" [ref=e906]:
+                        - paragraph [ref=e907]: Discover Airlines
+                      - cell "Olympic Air" [ref=e908]:
+                        - paragraph [ref=e909]: Olympic Air
+                    - row "Edelweiss Virgin Australia" [ref=e910]:
+                      - cell "Edelweiss" [ref=e911]:
+                        - paragraph [ref=e912]: Edelweiss
+                      - cell "Virgin Australia" [ref=e913]:
+                        - paragraph [ref=e914]: Virgin Australia
+                - heading "Final Thoughts" [level=2] [ref=e915]
+                - paragraph [ref=e916]: We’ve talked about a good number of great premium cabin redemptions on both United and its partner airlines to get you around the world. These are some of the best ways to use United miles right now.
+                - paragraph [ref=e917]:
+                  - text: Additionally, you can use your United MileagePlus miles for solid redemptions and amazing experiences in first class and business class on partner airlines (with
+                  - link "low fuel surcharges" [ref=e918] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-redeem-points-miles-with-low-taxes-fees-surcharges/
+                  - text: ", of course)."
+                - paragraph [ref=e919]:
+                  - text: Before you go, you probably want to check out the
+                  - link "baggage rules on United" [ref=e920] [cursor=pointer]:
+                    - /url: /travel/airlines/united-airlines-baggage-fees/
+                  - text: .
+                - paragraph [ref=e921]: Happy redeeming!
+              - generic [ref=e922]:
+                - generic [ref=e923]:
+                  - separator [ref=e924]
+                  - text: "Featured Image Credit:"
+                  - link "Cherag Dubash" [ref=e925] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/cherag/
+                - generic [ref=e926]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e927]
+                  - group [ref=e928]:
+                    - generic "What are United Airlines miles?" [ref=e929] [cursor=pointer]
+                    - paragraph [ref=e931]:
+                      - text: United MileagePlus is the
+                      - link "United Airlines frequent flyer program" [ref=e932] [cursor=pointer]:
+                        - /url: /travel/airlines/united-airlines-mileageplus-loyalty-program/
+                      - text: . The miles you earn and redeem are MileagePlus miles, commonly referred to as United miles.
+                  - group [ref=e933]:
+                    - generic "What are your United miles worth?" [ref=e934] [cursor=pointer]
+                    - generic [ref=e935]:
+                      - paragraph [ref=e936]:
+                        - link "We value" [ref=e937] [cursor=pointer]:
+                          - /url: /travel/points-and-miles-valuations/
+                        - text: United miles at 1.2 cents per mile, though the true value depends on where and how you are redeeming your points.
+                      - paragraph [ref=e938]: At 1.2 cents per mile, that’s like getting a $100 ticket for the equivalent of about 8,350 United miles.
+                  - group [ref=e939]:
+                    - generic "Can United miles be transferred to partner airlines?" [ref=e940] [cursor=pointer]
+                    - paragraph [ref=e942]: United miles cannot be transferred to other airlines, but they can be redeemed to book flights on partner airlines.
+                  - group [ref=e943]:
+                    - generic "Can United miles be transferred to another person?" [ref=e944] [cursor=pointer]
+                    - generic [ref=e945]:
+                      - paragraph [ref=e946]:
+                        - text: Sign into your account at
+                        - link "united.com" [ref=e947] [cursor=pointer]:
+                          - /url: http://united.com
+                        - text: and hover over MileagePlus in the navigation at the top. Choose
+                        - strong [ref=e948]: Buy, Transfer, and Give Miles
+                        - text: and then select the
+                        - strong [ref=e949]: Transfer Miles
+                        - text: button.
+                      - paragraph [ref=e950]:
+                        - text: Enter your account number and password again. Then fill out the information on the loaded page to transfer United miles to anyone who also has a
+                        - link "MileagePlus account" [ref=e951] [cursor=pointer]:
+                          - /url: /travel/airlines/united-airlines-mileageplus-loyalty-program/
+                        - text: .
+                      - paragraph [ref=e952]: You will be charged $7.50 per 500 United miles (1.5 cents per mile) that you transfer, plus a processing fee of $30. Generally, it’s a better deal to book an award flight for someone than to transfer them the miles.
+                  - group [ref=e953]:
+                    - generic "Are United miles refundable?" [ref=e954] [cursor=pointer]
+                    - generic [ref=e955]:
+                      - paragraph [ref=e956]: If you redeemed United miles for an award ticket but need to cancel your trip, you can get the miles refunded to your frequent flyer account.
+                      - paragraph [ref=e957]:
+                        - text: You can do so online via the
+                        - strong [ref=e958]: Reservations
+                        - text: tab. United eliminated award change and redeposit fees in 2022.
+                  - group [ref=e959]:
+                    - generic "How much are United miles worth?" [ref=e960] [cursor=pointer]
+                    - paragraph [ref=e962]: MileagePlus program miles are commonly valued at around 1.2 cents per mile. That can change depending on the redemption.
+                  - group [ref=e963]:
+                    - generic "When do United MileagePlus miles post in your account?" [ref=e964] [cursor=pointer]
+                    - generic [ref=e965]:
+                      - paragraph [ref=e966]: United miles should post to your account within 48 hours after your travel is completed.
+                      - paragraph [ref=e967]:
+                        - text: If miles still aren’t showing after 48 hours has elapsed, consider
+                        - link "requesting missing miles" [ref=e968] [cursor=pointer]:
+                          - /url: https://www.united.com/ual/en/us/mileageplus/mileagecredit/
+                        - text: .
+                  - group [ref=e969]:
+                    - generic "How can I earn more United miles?" [ref=e970] [cursor=pointer]
+                    - generic [ref=e971]:
+                      - paragraph [ref=e972]:
+                        - text: You can earn more United miles with
+                        - link "cobranded credit cards" [ref=e973] [cursor=pointer]:
+                          - /url: /credit-cards/best-chase-united-credit-cards/
+                        - text: such as the
+                        - link "United Club card" [ref=e974] [cursor=pointer]:
+                          - /url: /credit-cards/reviews/united-club-infinite-card/
+                        - text: or
+                        - link "United Business card" [ref=e975] [cursor=pointer]:
+                          - /url: /credit-cards/reviews/the-chase-united-business-card/
+                        - text: .
+                      - paragraph [ref=e976]:
+                        - text: You can also transfer points to United from credit cards that earn Chase Ultimate Rewards, including the
+                        - link "Chase Sapphire Preferred card" [ref=e977] [cursor=pointer]:
+                          - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                        - text: or
+                        - emphasis [ref=e978]
+                        - link "Ink Business Preferred® Card" [ref=e979] [cursor=pointer]:
+                          - /url: /credit-cards/reviews/chase-ink-business-preferred-credit-card/
+                        - text: (you must have one of these cards in order to transfer points to partners). Bilt Rewards points also transfer to United.
+                      - paragraph [ref=e980]:
+                        - text: You can also earn miles through the
+                        - link "United MileagePlus Dining program" [ref=e981] [cursor=pointer]:
+                          - /url: /travel/airlines/united-dining/
+                        - text: and the
+                        - link "United MileagePlus Shopping portal" [ref=e982] [cursor=pointer]:
+                          - /url: /travel/airlines/united-mileageplus-shopping/
+                        - text: . Every bonus mile counts!
+                  - group [ref=e983]:
+                    - generic "Who are United Airlines' partners?" [ref=e984] [cursor=pointer]
+                    - generic [ref=e985]:
+                      - paragraph [ref=e986]: "As a member of the Star Alliance, United partners with all other members of the Star Alliance, including:"
+                      - paragraph [ref=e987]: "[table id=183/]"
+                      - paragraph [ref=e988]: "United’s non-Star Alliance partners are:"
+                      - paragraph
+                      - generic [ref=e989]:
+                        - paragraph
+                        - list [ref=e990]:
+                          - listitem [ref=e991]: Aer Lingus
+                          - listitem [ref=e992]: Air Dolomiti
+                          - listitem [ref=e993]: Airlink
+                          - listitem [ref=e994]: Azul
+                          - listitem [ref=e995]: Cape Air
+                          - listitem [ref=e996]: Discover Airlines
+                          - listitem [ref=e997]: Edelweiss
+                          - listitem [ref=e998]: Emirates
+                          - listitem [ref=e999]: Eurowings
+                          - listitem [ref=e1000]: Flydubai
+                          - listitem [ref=e1001]: Hawaiian Airlines
+                          - listitem [ref=e1002]: JSX
+                          - listitem [ref=e1003]: Lufthansa City Airlines
+                          - listitem [ref=e1004]: Olympic Air
+                          - listitem [ref=e1005]: Virgin Australia
+                        - paragraph
+                      - paragraph
+                      - paragraph [ref=e1006]: "United also has several hotel partners, including:"
+                      - paragraph
+                      - generic [ref=e1007]:
+                        - paragraph
+                        - list [ref=e1008]:
+                          - listitem [ref=e1009]: ALL Accor Live Limitless
+                          - listitem [ref=e1010]: Choice Privileges
+                          - listitem [ref=e1011]: Golden Circle
+                          - listitem [ref=e1012]: Hilton Honors
+                          - listitem [ref=e1013]: IHG Rewards
+                          - listitem [ref=e1014]: Marriott Bonvoy
+                          - listitem [ref=e1015]: Radisson Rewards
+                          - listitem [ref=e1016]: World of Hyatt
+                          - listitem [ref=e1017]: Wyndham Rewards
+                        - paragraph
+                      - paragraph
+                  - group [ref=e1018]:
+                    - generic "When do United miles expire?" [ref=e1019] [cursor=pointer]
+                    - paragraph [ref=e1021]: United MileagePlus miles do not expire.
+                  - group [ref=e1022]:
+                    - generic "What is my MileagePlus number?" [ref=e1023] [cursor=pointer]
+                    - paragraph [ref=e1025]: Your MileagePlus number is the frequent flyer account number United assigns you when you sign up for the reward program. You should receive an email containing your number, or you can call customer service to get it.
+                - complementary [ref=e1026]:
+                  - generic [ref=e1027]:
+                    - paragraph [ref=e1028]:
+                      - generic [ref=e1029]:
+                        - text: The information regarding the MileagePlus
+                        - superscript [ref=e1030]: ®
+                        - text: Debit Rewards Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph [ref=e1031]:
+                      - generic [ref=e1033]:
+                        - text: For rates and fees of the Platinum Card
+                        - superscript [ref=e1034]: ®
+                        - text: from American Express, click
+                        - link "here" [ref=e1035] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                - group "Was this page helpful?" [ref=e1037]:
+                  - paragraph [ref=e1038]: Was this page helpful?
+                  - generic [ref=e1039]:
+                    - button "Yes" [ref=e1040] [cursor=pointer]
+                    - button "No" [ref=e1041] [cursor=pointer]
+                - generic [ref=e1042]:
+                  - figure [ref=e1044]:
+                    - img "Spencer Howard's image" [ref=e1045]
+                  - generic [ref=e1046]:
+                    - heading "About Spencer Howard" [level=2] [ref=e1047]:
+                      - text: About
+                      - link "Spencer Howard" [ref=e1048] [cursor=pointer]:
+                        - /url: /author/spencer/
+                    - paragraph [ref=e1049]: Always a fan of flying, it was only natural that Spencer was drawn to finding a way to improve the travel experience.
+                    - paragraph [ref=e1050]: Like many, he started this journey searching for cheap flights to take him around the world. This was fun for a while, but Spencer was intrigued by the idea of flying in business and first class!
+                    - paragraph [ref=e1051]: Throwing himself into what became an extensive research project, Spencer spent 3-4 hours per night learning everything he could about frequent flyer miles over the course of several months (he thinks this is normal). He runs Straight to the Points, an award-seat alert platform.
+                    - list [ref=e1053]:
+                      - listitem [ref=e1054]:
+                        - link "Instagram icon" [ref=e1055] [cursor=pointer]:
+                          - /url: https://www.instagram.com/straighttothepoints/
+                          - img "Instagram icon" [ref=e1056]
+                      - listitem [ref=e1057]:
+                        - link "LinkedIn icon" [ref=e1058] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/spencer-howard-82072710
+                          - img "LinkedIn icon" [ref=e1059]
+                      - listitem [ref=e1060]:
+                        - link "Twitter icon" [ref=e1061] [cursor=pointer]:
+                          - /url: https://twitter.com/spencerformiles
+                          - img "Twitter icon" [ref=e1062]
+                      - listitem [ref=e1063]:
+                        - link "email icon" [ref=e1064] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1065]
+                - generic [ref=e1067]:
+                  - generic [ref=e1068]:
+                    - paragraph [ref=e1069]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1070]: ™
+                    - generic [ref=e1071]:
+                      - paragraph [ref=e1072]:
+                        - text: Get the
+                        - strong [ref=e1073]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1074]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1075]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1076]:
+                      - textbox "First Name" [ref=e1077]
+                      - textbox "Email" [ref=e1078]
+                      - button "Join Now" [disabled] [ref=e1079]
+                    - paragraph [ref=e1081]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1082] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1083] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1084] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1086]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1088]
+                - generic [ref=e1090]:
+                  - paragraph [ref=e1091]: We Recommend
+                  - generic [ref=e1092]:
+                    - generic [ref=e1093]:
+                      - link "Platinum Card® from American Express" [ref=e1094] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1095]
+                      - link "Terms Apply / Rates & Fees" [ref=e1096] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1097] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1098]
+                        - text: Apply Now
+                    - generic [ref=e1101]:
+                      - paragraph [ref=e1102]:
+                        - link "Platinum Card® from American Express" [ref=e1103] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1104]:
+                            - text: Platinum Card
+                            - superscript [ref=e1105]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1107]:
+                        - generic [ref=e1108]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1109] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1110]:
+                        - listitem [ref=e1111]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1112]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1113]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1114]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1115]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1116]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1117]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1118] [cursor=pointer]
+            - complementary [ref=e1120]:
+              - generic [ref=e1121]:
+                - generic [ref=e1123]:
+                  - paragraph [ref=e1124]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1125] [cursor=pointer]
+                  - generic [ref=e1126]:
+                    - generic [ref=e1129]:
+                      - generic [ref=e1130]:
+                        - generic [ref=e1131]:
+                          - img [ref=e1132]
+                          - generic [ref=e1134]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1135] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1136]
+                      - generic [ref=e1137]:
+                        - paragraph [ref=e1138]:
+                          - link "Platinum Card® from American Express" [ref=e1139] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1140]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1141] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1142]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1144] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1147]:
+                      - generic [ref=e1148]:
+                        - generic [ref=e1149]:
+                          - img [ref=e1150]
+                          - generic [ref=e1152]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1153] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1154]
+                      - generic [ref=e1155]:
+                        - paragraph [ref=e1156]:
+                          - link "American Express® Gold Card" [ref=e1157] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1158]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1159] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1160]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1162] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1165]:
+                      - generic [ref=e1166]:
+                        - generic [ref=e1167]:
+                          - img [ref=e1168]
+                          - generic [ref=e1170]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1171] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1172]
+                      - generic [ref=e1173]:
+                        - paragraph [ref=e1174]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1175] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1176]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1177] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1178]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1180] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/695/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1183]:
+                      - generic [ref=e1184]:
+                        - generic [ref=e1185]:
+                          - img [ref=e1186]
+                          - generic [ref=e1188]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1189] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/695/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1190]
+                      - generic [ref=e1191]:
+                        - paragraph [ref=e1192]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1193] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/695/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1194]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1195] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/695/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1196]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1198] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/695/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1200] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1203]: Advertisement
+      - generic [ref=e1205]:
+        - paragraph [ref=e1206]: Related Posts
+        - generic [ref=e1207]:
+          - generic [ref=e1208]:
+            - link [ref=e1209] [cursor=pointer]:
+              - /url: /travel/airlines/united-dining/
+              - figure [ref=e1210]:
+                - img "How to Use United MileagePlus Dining to Earn More Miles [2026]" [ref=e1212]
+            - link "How to Use United MileagePlus Dining to Earn More Miles [2026]" [ref=e1213] [cursor=pointer]:
+              - /url: /travel/airlines/united-dining/
+          - generic [ref=e1214]:
+            - link [ref=e1215] [cursor=pointer]:
+              - /url: /travel/airlines/united-mileageplus-shopping/
+              - figure [ref=e1216]:
+                - img "How To Use the United MileagePlus Shopping Portal To Earn More Miles [2025]" [ref=e1218]
+            - link "How To Use the United MileagePlus Shopping Portal To Earn More Miles [2025]" [ref=e1219] [cursor=pointer]:
+              - /url: /travel/airlines/united-mileageplus-shopping/
+          - generic [ref=e1220]:
+            - link [ref=e1221] [cursor=pointer]:
+              - /url: /travel/airlines/earn-100k-united-mileageplus-miles/
+              - figure [ref=e1222]:
+                - img "How To Earn 100k+ United MileagePlus Miles [in 90 Days]" [ref=e1224]
+            - link "How To Earn 100k+ United MileagePlus Miles [in 90 Days]" [ref=e1225] [cursor=pointer]:
+              - /url: /travel/airlines/earn-100k-united-mileageplus-miles/
+          - generic [ref=e1226]:
+            - link [ref=e1227] [cursor=pointer]:
+              - /url: /travel/airlines/united-airlines-mileageplus-loyalty-program/
+              - figure [ref=e1228]:
+                - img "United Airlines MileagePlus Loyalty Program Review" [ref=e1230]
+            - link "United Airlines MileagePlus Loyalty Program Review" [ref=e1231] [cursor=pointer]:
+              - /url: /travel/airlines/united-airlines-mileageplus-loyalty-program/
+    - contentinfo [ref=e1232]:
+      - img [ref=e1233]
+      - img [ref=e1252]
+      - generic [ref=e1271]:
+        - generic [ref=e1272]:
+          - img [ref=e1274]
+          - generic [ref=e1279]:
+            - generic [ref=e1280]:
+              - paragraph [ref=e1281]: Upgrade your travel experience
+              - list [ref=e1282]:
+                - listitem [ref=e1283]:
+                  - link [ref=e1284] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1285]:
+                      - img "Facebook" [ref=e1286]
+                - listitem [ref=e1287]:
+                  - link [ref=e1288] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1289]:
+                      - img "Twitter" [ref=e1290]
+                - listitem [ref=e1291]:
+                  - link [ref=e1292] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1293]:
+                      - img "Instagram" [ref=e1294]
+                - listitem [ref=e1295]:
+                  - link [ref=e1296] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1297]:
+                      - img "Pinterest" [ref=e1298]
+                - listitem [ref=e1299]:
+                  - link [ref=e1300] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1301]:
+                      - img "Linkedin" [ref=e1302]
+                - listitem [ref=e1303]:
+                  - link [ref=e1304] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1305]:
+                      - img "Youtube" [ref=e1306]
+            - generic [ref=e1308]:
+              - list [ref=e1309]:
+                - listitem [ref=e1310]:
+                  - link "News" [ref=e1311] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1312]:
+                  - link "Credit Cards" [ref=e1313] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1314]:
+                  - link "Business" [ref=e1315] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1316]:
+                - listitem [ref=e1317]:
+                  - link "Finance" [ref=e1318] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1319]:
+                  - link "Travel Guides" [ref=e1320] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1321]:
+                  - link "Air Travel" [ref=e1322] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1323]:
+                - listitem [ref=e1324]:
+                  - link "Hotel Guides" [ref=e1325] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1326]:
+                  - link "Beginners" [ref=e1327] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1328]:
+                  - link "About" [ref=e1329] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1330]:
+                - listitem [ref=e1331]:
+                  - link "Podcast" [ref=e1332] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1333]:
+                  - link "Jobs & Careers" [ref=e1334] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1335]:
+                  - link "Contact Us" [ref=e1336] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1337]:
+          - paragraph [ref=e1338]:
+            - link "Privacy Policy" [ref=e1339] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1340] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1341] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1342] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1343] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1344] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1362] [cursor=pointer]
+          - paragraph [ref=e1345]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1346]:
+          - link "DMCA.com Protection Status" [ref=e1347] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1348]
+          - img "Comodo Secure Seal" [ref=e1350]
+        - generic [ref=e1351]:
+          - generic [ref=e1352]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1353]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1354]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1355]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1356]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1357] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1358]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1359]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1369]:
+    - generic [ref=e1370]:
+      - generic [ref=e1371]:
+        - button "close banner" [ref=e1372] [cursor=pointer]:
+          - img "close banner" [ref=e1373]
+        - img "company logo" [ref=e1375]
+      - generic [ref=e1376]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1378]
+        - generic [ref=e1379]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1380] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1381] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1383]:
+        - button "Manage" [ref=e1384] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1385] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1386] [cursor=pointer]
+    - generic [ref=e1388]:
+      - generic [ref=e1389]: "Powered by:"
+      - link "trustarc" [ref=e1390] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1391]

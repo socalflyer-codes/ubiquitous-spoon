@@ -1,0 +1,1597 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "11 Best Ways To Redeem Qantas Points for Maximum Value [2026]" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Caroline Lupini's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Caroline Lupini
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: February 8, 2026, 4:28pm CST
+                - generic [ref=e57]:
+                  - text: "Edited by:"
+                  - generic [ref=e58]: Kellie Jez
+          - figure [ref=e59]:
+            - img "11 Best Ways To Redeem Qantas Points for Maximum Value [2026]" [ref=e61]
+        - generic [ref=e62]:
+          - group [ref=e1614]:
+            - generic "Jump to Section" [ref=e1615] [cursor=pointer]
+          - paragraph [ref=e66]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e67] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e68]:
+            - generic [ref=e70]:
+              - generic [ref=e71]:
+                - generic [ref=e72]:
+                  - heading "Key Takeaways" [level=2] [ref=e74]
+                  - list [ref=e76]:
+                    - listitem [ref=e77]: Qantas Points can be redeemed for flights on Qantas, Oneworld partners, and select non-alliance partners, with better value often found on long-haul international routes.
+                    - listitem [ref=e78]:
+                      - textbox "List text" [ref=e79]
+                    - listitem [ref=e80]: Qantas is one of the few airlines that offers an around-the-world flight redemption, which can cost as little as 132,400 points.
+                - paragraph [ref=e81]:
+                  - text: Based in Australia, Qantas is a member of
+                  - link "Oneworld alliance" [ref=e82] [cursor=pointer]:
+                    - /url: /travel/airlines/oneworld-alliance/
+                  - text: and has a large number of partner airlines that can be utilized for redemptions.
+                - paragraph [ref=e83]:
+                  - text: It’s easy to put together unforgettable trips with Qantas and its partners; all you need to do first is learn a little bit about the
+                  - link "Qantas Frequent Flyer program" [ref=e84] [cursor=pointer]:
+                    - /url: /travel/airlines/qantas-airways-frequent-flyer-loyalty-program/
+                  - text: and some of its best redemptions!
+                - heading "The Best Ways To Boost Your Qantas Points" [level=2] [ref=e85]:
+                  - generic [ref=e86]: The Best Ways To Boost Your Qantas Points
+                - paragraph [ref=e87]:
+                  - text: Qantas is an
+                  - link "Amex transfer partner" [ref=e88] [cursor=pointer]:
+                    - /url: /credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: ","
+                  - link "Citi transfer partner" [ref=e89] [cursor=pointer]:
+                    - /url: /credit-cards/citi-thankyou-points-transfer-partners/
+                  - text: ", and"
+                  - link "Capital One transfer partner" [ref=e90] [cursor=pointer]:
+                    - /url: /credit-cards/capital-one-transfer-partners/
+                  - text: at a 1:1 rate. Points can be transferred from
+                  - link "Marriott Bonvoy" [ref=e91] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-transfer-partners/
+                  - text: at a transfer rate of 3:1. Plus, for every 60,000 Marriott points that you transfer, you’ll receive an extra 5,000 Qantas Points bonus.
+                - heading "Recommended American Express Cards (Personal)" [level=4] [ref=e92]
+                - generic [ref=e94]:
+                  - generic [ref=e95]:
+                    - img [ref=e96]
+                    - generic [ref=e98]: BEST LOUNGE CARD
+                  - generic [ref=e99]:
+                    - link "Platinum Card® from American Express" [ref=e100] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Platinum Card® from American Express" [ref=e101]
+                    - link "Terms Apply / Rates & Fees" [ref=e102] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TRD/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e103]: Terms Apply / Rates & Fees
+                    - generic [ref=e104]:
+                      - generic [ref=e105]:
+                        - img "Star rating icon" [ref=e108]
+                        - img "Star rating icon" [ref=e111]
+                        - img "Star rating icon" [ref=e114]
+                        - img "Star rating icon" [ref=e117]
+                        - generic [ref=e118]:
+                          - img "Star rating icon" [ref=e120]
+                          - img "Star rating icon" [ref=e122]
+                      - generic [ref=e123]:
+                        - generic [ref=e124]: U.P. Rating
+                        - img [ref=e127]:
+                          - img [ref=e128]
+                    - link "Apply Now" [ref=e131] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e132]
+                      - text: Apply Now
+                    - generic [ref=e135]: (at Amex's secure site)
+                    - generic [ref=e136]:
+                      - heading "Apply With Confidence" [level=4] [ref=e137]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e138]
+                      - paragraph [ref=e139]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e140]:
+                    - generic [ref=e142]:
+                      - link "Platinum Card® from American Express" [ref=e144] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-platinum-card/
+                        - text: Platinum Card
+                        - superscript [ref=e145]: ®
+                        - text: from American Express
+                      - text: The Amex Platinum reigns supreme for luxury travel, offering the best airport lounge access plus generous statement credits, and complimentary elite status.
+                    - generic [ref=e146]:
+                      - generic [ref=e147]:
+                        - generic [ref=e148]:
+                          - generic [ref=e149]: Welcome Offer
+                          - img [ref=e152]:
+                            - img [ref=e153]
+                        - generic [ref=e156]: As High As 175,000 Points. Find Out Your Offer.
+                      - generic [ref=e157]:
+                        - generic [ref=e159]: "UP's Offer Valuation*:"
+                        - generic [ref=e160]: Up to $3,850
+                    - generic [ref=e161]:
+                      - generic [ref=e162]:
+                        - generic [ref=e164]: Annual Fee
+                        - generic [ref=e165]: $895
+                      - generic [ref=e166]:
+                        - generic [ref=e168]: APR
+                        - generic [ref=e169]: See Pay Over Time APR
+                      - generic [ref=e170]:
+                        - generic [ref=e171]:
+                          - generic [ref=e172]: Credit Recommended
+                          - img [ref=e175]:
+                            - img [ref=e176]
+                        - generic [ref=e179]: Good to Excellent
+                    - generic [ref=e180]:
+                      - group [ref=e181]:
+                        - generic "Why We Like This Card" [ref=e182] [cursor=pointer]
+                      - group [ref=e183]:
+                        - generic "Pros & Cons" [ref=e184] [cursor=pointer]
+                      - group [ref=e185]:
+                        - generic "Card Highlights" [ref=e186] [cursor=pointer]
+                - generic [ref=e188]:
+                  - generic [ref=e189]:
+                    - img [ref=e190]
+                    - generic [ref=e192]: BEST FOR DINING
+                  - generic [ref=e193]:
+                    - link "American Express® Gold Card" [ref=e194] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "American Express® Gold Card" [ref=e195]
+                    - link "Terms Apply / Rates & Fees" [ref=e196] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TRD/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e197]: Terms Apply / Rates & Fees
+                    - generic [ref=e198]:
+                      - generic [ref=e199]:
+                        - img "Star rating icon" [ref=e202]
+                        - img "Star rating icon" [ref=e205]
+                        - img "Star rating icon" [ref=e208]
+                        - img "Star rating icon" [ref=e211]
+                        - generic [ref=e212]:
+                          - img "Star rating icon" [ref=e214]
+                          - img "Star rating icon" [ref=e216]
+                      - generic [ref=e217]:
+                        - generic [ref=e218]: U.P. Rating
+                        - img [ref=e221]:
+                          - img [ref=e222]
+                    - link "Apply Now" [ref=e225] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e226]
+                      - text: Apply Now
+                    - generic [ref=e229]: (at Amex's secure site)
+                    - generic [ref=e230]:
+                      - heading "Apply With Confidence" [level=4] [ref=e231]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e232]
+                      - paragraph [ref=e233]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e234]:
+                    - generic [ref=e236]:
+                      - link "American Express® Gold Card" [ref=e238] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-gold-card/
+                        - text: American Express
+                        - superscript [ref=e239]: ®
+                        - text: Gold Card
+                      - text: This is the best card for food lovers who dine out at restaurants (worldwide), order take-out and want big rewards at U.S. supermarkets!
+                    - generic [ref=e240]:
+                      - generic [ref=e241]:
+                        - generic [ref=e242]:
+                          - generic [ref=e243]: Welcome Offer
+                          - img [ref=e246]:
+                            - img [ref=e247]
+                        - generic [ref=e250]: As High As 100,000 Points. Find Out Your Offer.
+                      - generic [ref=e251]:
+                        - generic [ref=e253]: "UP's Offer Valuation*:"
+                        - generic [ref=e254]: Up to $2,200
+                    - generic [ref=e255]:
+                      - generic [ref=e256]:
+                        - generic [ref=e258]: Annual Fee
+                        - generic [ref=e259]: $325
+                      - generic [ref=e260]:
+                        - generic [ref=e262]: APR
+                        - generic [ref=e263]: See Pay Over Time APR
+                      - generic [ref=e264]:
+                        - generic [ref=e265]:
+                          - generic [ref=e266]: Credit Recommended
+                          - img [ref=e269]:
+                            - img [ref=e270]
+                        - generic [ref=e273]: Good to Excellent
+                    - generic [ref=e274]:
+                      - group [ref=e275]:
+                        - generic "Why We Like This Card" [ref=e276] [cursor=pointer]
+                      - group [ref=e277]:
+                        - generic "Pros & Cons" [ref=e278] [cursor=pointer]
+                      - group [ref=e279]:
+                        - generic "Card Highlights" [ref=e280] [cursor=pointer]
+                - paragraph [ref=e281]:
+                  - text: If you’re a business owner, there are several
+                  - link "Amex business cards" [ref=e282] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-amex-business-credit-cards/
+                  - text: too.
+                - heading "Recommended Capital One Cards That Earn Miles (Personal)" [level=4] [ref=e283]
+                - generic [ref=e285]:
+                  - generic [ref=e286]:
+                    - img "Capital One Venture X Rewards Credit Card" [ref=e287]
+                    - generic [ref=e288]:
+                      - generic [ref=e289]:
+                        - img "Star rating icon" [ref=e292]
+                        - img "Star rating icon" [ref=e295]
+                        - img "Star rating icon" [ref=e298]
+                        - img "Star rating icon" [ref=e301]
+                        - generic [ref=e302]:
+                          - img "Star rating icon" [ref=e304]
+                          - img "Star rating icon" [ref=e306]
+                      - generic [ref=e307]:
+                        - generic [ref=e308]: U.P. Rating
+                        - img [ref=e311]:
+                          - img [ref=e312]
+                  - generic [ref=e315]:
+                    - generic [ref=e317]:
+                      - link "Capital One Venture X Rewards Credit Card" [ref=e319] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-x/
+                      - text: The Capital One Venture X card is an excellent option for travelers looking for an all-in-one premium credit card.
+                    - generic [ref=e320]:
+                      - generic [ref=e321]:
+                        - generic [ref=e322]:
+                          - generic [ref=e323]: Welcome Offer
+                          - img [ref=e326]:
+                            - img [ref=e327]
+                        - generic [ref=e330]: 75,000 miles
+                      - generic [ref=e331]:
+                        - generic [ref=e333]: "UP's Offer Valuation*:"
+                        - generic [ref=e334]: $1,350
+                    - generic [ref=e335]:
+                      - generic [ref=e336]:
+                        - generic [ref=e338]: Annual Fee
+                        - generic [ref=e339]: $395
+                      - generic [ref=e340]:
+                        - generic [ref=e342]: APR
+                        - generic [ref=e343]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e344]:
+                        - generic [ref=e345]:
+                          - generic [ref=e346]: Credit Recommended
+                          - img [ref=e349]:
+                            - img [ref=e350]
+                        - generic [ref=e353]: Excellent
+                    - generic [ref=e354]:
+                      - group [ref=e355]:
+                        - generic "Why We Like This Card" [ref=e356] [cursor=pointer]
+                      - group [ref=e357]:
+                        - generic "Pros & Cons" [ref=e358] [cursor=pointer]
+                      - group [ref=e359]:
+                        - generic "Card Highlights" [ref=e360] [cursor=pointer]
+                - generic [ref=e362]:
+                  - generic [ref=e363]:
+                    - img [ref=e364]
+                    - generic [ref=e366]: LIMITED-TIME ONLY
+                  - generic [ref=e367]:
+                    - img "Capital One Venture Rewards Credit Card" [ref=e368]
+                    - generic [ref=e369]:
+                      - generic [ref=e370]:
+                        - img "Star rating icon" [ref=e373]
+                        - img "Star rating icon" [ref=e376]
+                        - img "Star rating icon" [ref=e379]
+                        - img "Star rating icon" [ref=e382]
+                        - generic [ref=e383]:
+                          - img "Star rating icon" [ref=e385]
+                          - img "Star rating icon" [ref=e387]
+                      - generic [ref=e388]:
+                        - generic [ref=e389]: U.P. Rating
+                        - img [ref=e392]:
+                          - img [ref=e393]
+                  - generic [ref=e396]:
+                    - generic [ref=e398]:
+                      - link "Capital One Venture Rewards Credit Card" [ref=e400] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-rewards-credit-card/
+                      - text: Get 2x miles plus some of the most flexible redemptions offered by a travel credit card!
+                    - generic [ref=e401]:
+                      - generic [ref=e402]:
+                        - generic [ref=e403]:
+                          - generic [ref=e404]: Welcome Offer
+                          - img [ref=e407]:
+                            - img [ref=e408]
+                        - generic [ref=e411]: 75,000 miles + $250 Capital One Travel credit
+                      - generic [ref=e412]:
+                        - generic [ref=e414]: "UP's Offer Valuation*:"
+                        - generic [ref=e415]: $1,600
+                    - generic [ref=e416]:
+                      - generic [ref=e417]:
+                        - generic [ref=e419]: Annual Fee
+                        - generic [ref=e420]: $95
+                      - generic [ref=e421]:
+                        - generic [ref=e423]: APR
+                        - generic [ref=e424]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e425]:
+                        - generic [ref=e426]:
+                          - generic [ref=e427]: Credit Recommended
+                          - img [ref=e430]:
+                            - img [ref=e431]
+                        - generic [ref=e434]: Good to Excellent Credit
+                    - generic [ref=e435]:
+                      - group [ref=e436]:
+                        - generic "Why We Like This Card" [ref=e437] [cursor=pointer]
+                      - group [ref=e438]:
+                        - generic "Pros & Cons" [ref=e439] [cursor=pointer]
+                      - group [ref=e440]:
+                        - generic "Card Highlights" [ref=e441] [cursor=pointer]
+                - generic [ref=e443]:
+                  - generic [ref=e444]:
+                    - img "Capital One VentureOne Rewards Credit Card" [ref=e445]
+                    - generic [ref=e446]:
+                      - generic [ref=e447]:
+                        - img "Star rating icon" [ref=e450]
+                        - img "Star rating icon" [ref=e453]
+                        - img "Star rating icon" [ref=e456]
+                        - img "Star rating icon" [ref=e459]
+                        - generic [ref=e460]:
+                          - img "Star rating icon" [ref=e462]
+                          - img "Star rating icon" [ref=e463]
+                      - generic [ref=e464]:
+                        - generic [ref=e465]: U.P. Rating
+                        - img [ref=e468]:
+                          - img [ref=e469]
+                  - generic [ref=e472]:
+                    - generic [ref=e474]:
+                      - link "Capital One VentureOne Rewards Credit Card" [ref=e476] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-ventureone-rewards-credit-card/
+                      - text: The card offers unlimited miles at 1.25x per $1 and no annual fee. When you consider the flexible rewards, frequent travelers come out on top.
+                    - generic [ref=e477]:
+                      - generic [ref=e478]:
+                        - generic [ref=e479]:
+                          - generic [ref=e480]: Welcome Offer
+                          - img [ref=e483]:
+                            - img [ref=e484]
+                        - generic [ref=e487]: 20,000 miles
+                      - generic [ref=e488]:
+                        - generic [ref=e490]: "UP's Offer Valuation*:"
+                        - generic [ref=e491]: $200
+                    - generic [ref=e492]:
+                      - generic [ref=e493]:
+                        - generic [ref=e495]: Annual Fee
+                        - generic [ref=e496]: $0
+                      - generic [ref=e497]:
+                        - generic [ref=e499]: APR
+                        - generic [ref=e500]: "Purchases: 0% intro APR on purchases for 15 months; variable 18.49% - 28.49% thereafter"
+                      - generic [ref=e501]:
+                        - generic [ref=e502]:
+                          - generic [ref=e503]: Credit Recommended
+                          - img [ref=e506]:
+                            - img [ref=e507]
+                        - generic [ref=e510]: Good to Excellent (670-850)
+                    - generic [ref=e511]:
+                      - group [ref=e512]:
+                        - generic "Why We Like This Card" [ref=e513] [cursor=pointer]
+                      - group [ref=e514]:
+                        - generic "Pros & Cons" [ref=e515] [cursor=pointer]
+                      - group [ref=e516]:
+                        - generic "Card Highlights" [ref=e517] [cursor=pointer]
+                - heading "Recommended Citi Cards (Personal)" [level=4] [ref=e518]:
+                  - strong [ref=e520]: Recommended Citi Cards (Personal)
+                - generic [ref=e522]:
+                  - generic [ref=e523]:
+                    - img "Citi Strata Premier℠ Card" [ref=e524]
+                    - generic [ref=e525]:
+                      - generic [ref=e526]:
+                        - img "Star rating icon" [ref=e529]
+                        - img "Star rating icon" [ref=e532]
+                        - img "Star rating icon" [ref=e535]
+                        - img "Star rating icon" [ref=e538]
+                        - generic [ref=e539]:
+                          - img "Star rating icon" [ref=e541]
+                          - img "Star rating icon" [ref=e542]
+                      - generic [ref=e543]:
+                        - generic [ref=e544]: U.P. Rating
+                        - img [ref=e547]:
+                          - img [ref=e548]
+                  - generic [ref=e551]:
+                    - link "Citi Strata Premier℠ Card" [ref=e555] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/citi-strata-premier-card/
+                    - generic [ref=e556]:
+                      - generic [ref=e557]:
+                        - generic [ref=e558]:
+                          - generic [ref=e559]: Welcome Offer
+                          - img [ref=e562]:
+                            - img [ref=e563]
+                        - generic [ref=e566]: 60,000 points
+                      - generic [ref=e567]:
+                        - generic [ref=e569]: "UP's Offer Valuation*:"
+                        - generic [ref=e570]: $960
+                    - generic [ref=e571]:
+                      - generic [ref=e572]:
+                        - generic [ref=e574]: Annual Fee
+                        - generic [ref=e575]: $95
+                      - generic [ref=e576]:
+                        - generic [ref=e578]: APR
+                        - generic [ref=e579]: 19.49% to 27.49% Variable
+                    - generic [ref=e580]:
+                      - group [ref=e581]:
+                        - generic "Why We Like This Card" [ref=e582] [cursor=pointer]
+                      - group [ref=e583]:
+                        - generic "Pros & Cons" [ref=e584] [cursor=pointer]
+                      - group [ref=e585]:
+                        - generic "Card Highlights" [ref=e586] [cursor=pointer]
+                - generic [ref=e588]:
+                  - generic [ref=e589]:
+                    - img "Citi Strata Elite℠ Card" [ref=e590]
+                    - generic [ref=e591]:
+                      - generic [ref=e592]:
+                        - img "Star rating icon" [ref=e595]
+                        - img "Star rating icon" [ref=e598]
+                        - img "Star rating icon" [ref=e601]
+                        - generic [ref=e602]:
+                          - img "Star rating icon" [ref=e604]
+                          - img "Star rating icon" [ref=e606]
+                        - generic [ref=e607]:
+                          - img "Star rating icon" [ref=e609]
+                          - img "Star rating icon" [ref=e610]
+                      - generic [ref=e611]:
+                        - generic [ref=e612]: U.P. Rating
+                        - img [ref=e615]:
+                          - img [ref=e616]
+                  - generic [ref=e619]:
+                    - generic [ref=e621]:
+                      - link "Citi Strata Elite℠ Card" [ref=e623] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/citi-strata-elite-card/
+                      - text: The Citi Strata Elite card is Citi's most premium card built for frequent travelers and foodies.
+                    - generic [ref=e624]:
+                      - generic [ref=e625]:
+                        - generic [ref=e626]:
+                          - generic [ref=e627]: Welcome Offer
+                          - img [ref=e630]:
+                            - img [ref=e631]
+                        - generic [ref=e634]: 75,000 points
+                      - generic [ref=e635]:
+                        - generic [ref=e637]: "UP's Offer Valuation*:"
+                        - generic [ref=e638]: Up to $1,200
+                    - generic [ref=e639]:
+                      - generic [ref=e640]:
+                        - generic [ref=e642]: Annual Fee
+                        - generic [ref=e643]: $595
+                      - generic [ref=e644]:
+                        - generic [ref=e646]: APR
+                        - generic [ref=e647]: 20.49% to 28.49% Variable
+                    - generic [ref=e648]:
+                      - group [ref=e649]:
+                        - generic "Why We Like This Card" [ref=e650] [cursor=pointer]
+                      - group [ref=e651]:
+                        - generic "Pros & Cons" [ref=e652] [cursor=pointer]
+                      - group [ref=e653]:
+                        - generic "Card Highlights" [ref=e654] [cursor=pointer]
+                - heading "List of Oneworld Alliance Qantas Airline Partners" [level=3] [ref=e655]
+                - paragraph [ref=e656]:
+                  - text: Qantas Frequent Flyer points
+                  - link "aren’t necessarily the easiest to earn" [ref=e657] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-qantas-frequent-flyer-points/
+                  - text: ", but it is possible to earn points by flying Qantas and its Oneworld partner airlines."
+                - paragraph [ref=e658]: "Awards are distance-based and have different award charts depending on the type of partner you are flying. Airline partners include:"
+                - table [ref=e662]:
+                  - rowgroup [ref=e663]:
+                    - row "Oneworld Partners" [ref=e664]:
+                      - cell "Oneworld Partners" [ref=e665]:
+                        - paragraph [ref=e667]:
+                          - strong [ref=e668]: Oneworld Partners
+                    - row "Alaska Airlines Malaysia Airlines" [ref=e669]:
+                      - cell "Alaska Airlines" [ref=e670]:
+                        - paragraph [ref=e671]:
+                          - link "Alaska Airlines" [ref=e672] [cursor=pointer]:
+                            - /url: /travel/airlines/alaska-airlines-review/
+                      - cell "Malaysia Airlines" [ref=e673]:
+                        - paragraph [ref=e674]: Malaysia Airlines
+                    - row "American Airlines Oman Air" [ref=e675]:
+                      - cell "American Airlines" [ref=e676]:
+                        - paragraph [ref=e677]:
+                          - link "American Airlines" [ref=e678] [cursor=pointer]:
+                            - /url: /travel/airlines/american-airlines-aadvantage-loyalty-program/
+                      - cell "Oman Air" [ref=e679]:
+                        - paragraph [ref=e680]: Oman Air
+                    - row "British Airways Qantas" [ref=e681]:
+                      - cell "British Airways" [ref=e682]:
+                        - paragraph [ref=e683]:
+                          - link "British Airways" [ref=e684] [cursor=pointer]:
+                            - /url: /travel/airlines/british-airways-executive-club-loyalty-program/
+                      - cell "Qantas" [ref=e685]:
+                        - paragraph [ref=e686]:
+                          - link "Qantas" [ref=e687] [cursor=pointer]:
+                            - /url: /travel/airlines/qantas-airways-frequent-flyer-loyalty-program/
+                    - row "Cathay Pacific Qatar Airways" [ref=e688]:
+                      - cell "Cathay Pacific" [ref=e689]:
+                        - paragraph [ref=e690]:
+                          - link "Cathay Pacific" [ref=e691] [cursor=pointer]:
+                            - /url: /travel/airlines/cathay-pacific-asia-miles-loyalty-program/
+                      - cell "Qatar Airways" [ref=e692]:
+                        - paragraph [ref=e693]:
+                          - link "Qatar Airways" [ref=e694] [cursor=pointer]:
+                            - /url: /travel/airlines/qatar-airways-privilege-club-loyalty-program/
+                    - row "Fiji Airways Royal Air Maroc" [ref=e695]:
+                      - cell "Fiji Airways" [ref=e696]:
+                        - paragraph [ref=e697]: Fiji Airways
+                      - cell "Royal Air Maroc" [ref=e698]:
+                        - paragraph [ref=e699]: Royal Air Maroc
+                    - row "Finnair Royal Jordanian" [ref=e700]:
+                      - cell "Finnair" [ref=e701]:
+                        - paragraph [ref=e702]: Finnair
+                      - cell "Royal Jordanian" [ref=e703]:
+                        - paragraph [ref=e704]: Royal Jordanian
+                    - row "Iberia S7 Airlines (temporarily suspended)" [ref=e705]:
+                      - cell "Iberia" [ref=e706]:
+                        - paragraph [ref=e707]:
+                          - link "Iberia" [ref=e708] [cursor=pointer]:
+                            - /url: /travel/airlines/iberia-plus-loyalty-program/
+                      - cell "S7 Airlines (temporarily suspended)" [ref=e709]:
+                        - paragraph [ref=e710]: S7 Airlines (temporarily suspended)
+                    - row "Japan Airlines SriLankan Airlines" [ref=e711]:
+                      - cell "Japan Airlines" [ref=e712]:
+                        - paragraph [ref=e713]:
+                          - link "Japan Airlines" [ref=e714] [cursor=pointer]:
+                            - /url: /travel/airlines/japan-airlines-mileage-bank-loyalty-program/
+                      - cell "SriLankan Airlines" [ref=e715]:
+                        - paragraph [ref=e716]: SriLankan Airlines
+                - paragraph [ref=e717]:
+                  - generic [ref=e718]:
+                    - strong [ref=e719]: "Hot Tip:"
+                    - text: For more information about finding award space with these partners, check out our
+                    - link "guide to searching Oneworld alliance partners for award availability" [ref=e720] [cursor=pointer]:
+                      - /url: /travel/airlines/searching-oneworld-award-availability/
+                    - text: .
+                - heading "List of Nonalliance Qantas Airline Partners" [level=3] [ref=e721]
+                - paragraph [ref=e722]: "In addition to the Oneworld alliance partners listed above, Qantas also has a handful of partners that are not part of Oneworld alliance. Those partners include:"
+                - table [ref=e725]:
+                  - rowgroup [ref=e726]:
+                    - row "Non-Oneworld Alliance Partners" [ref=e727]:
+                      - cell "Non-Oneworld Alliance Partners" [ref=e728]:
+                        - paragraph [ref=e730]:
+                          - strong [ref=e731]: Non-Oneworld Alliance Partners
+                    - row "Aer Lingus Air Niugini" [ref=e732]:
+                      - cell "Aer Lingus" [ref=e733]:
+                        - paragraph [ref=e734]: Aer Lingus
+                      - cell "Air Niugini" [ref=e735]:
+                        - paragraph [ref=e736]: Air Niugini
+                    - row "Air Vanuatu Airnorth" [ref=e737]:
+                      - cell "Air Vanuatu" [ref=e738]:
+                        - paragraph [ref=e739]: Air Vanuatu
+                      - cell "Airnorth" [ref=e740]:
+                        - paragraph [ref=e741]: Airnorth
+                    - row "Alaska Airlines China Eastern" [ref=e742]:
+                      - cell "Alaska Airlines" [ref=e743]:
+                        - paragraph [ref=e744]: Alaska Airlines
+                      - cell "China Eastern" [ref=e745]:
+                        - paragraph [ref=e746]: China Eastern
+                    - row "EL AL Emirates" [ref=e747]:
+                      - cell "EL AL" [ref=e748]:
+                        - paragraph [ref=e749]: EL AL
+                      - cell "Emirates" [ref=e750]:
+                        - paragraph [ref=e751]: Emirates
+                    - row "Fiji Airways Jet Airways" [ref=e752]:
+                      - cell "Fiji Airways" [ref=e753]:
+                        - paragraph [ref=e754]: Fiji Airways
+                      - cell "Jet Airways" [ref=e755]:
+                        - paragraph [ref=e756]: Jet Airways
+                    - row "Jetstar WestJet" [ref=e757]:
+                      - cell "Jetstar" [ref=e758]:
+                        - paragraph [ref=e759]: Jetstar
+                      - cell "WestJet" [ref=e760]:
+                        - paragraph [ref=e761]:
+                          - text: WestJet
+                          - strong [ref=e762]
+                - heading "The 10 Best Ways To Use Qantas Points" [level=2] [ref=e763]:
+                  - strong [ref=e764]: The 10 Best Ways To Use Qantas Points
+                - paragraph [ref=e765]: Redeeming Qantas Frequent Flyer points can be a little tricky! Here are some hotspots that we found to maximize your value.
+                - paragraph [ref=e766]: The award redemptions below will reference award charts that are shown at the end of this article. Please reference those to fully understand the redemptions!
+                - heading "1. Qantas First Class With the Best Award Availability (From 102,600 Points)" [level=3] [ref=e767]
+                - 'figure "Qantas first class receives raving reviews across the board! Image Credit: Qantas" [ref=e769]':
+                  - link "Qantas First Class" [ref=e770] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/01/Qantas-First-Class.jpg?auto=webp&disable=upscale
+                    - img "Qantas First Class" [ref=e772]
+                  - generic [ref=e773]: "Qantas first class receives raving reviews across the board! Image Credit: Qantas"
+                - paragraph [ref=e774]: One huge advantage that using Qantas Points for Qantas flights is the head start to award availability. What does this mean?
+                - paragraph [ref=e775]:
+                  - text: Let’s first talk about Qantas’ award availability. Simply put, it’s nearly impossible to book with points and miles. There are only a few routes that offer first class, and all of these routes are aboard the
+                  - link "A380" [ref=e776] [cursor=pointer]:
+                    - /url: /travel/airbus-380/
+                  - text: .
+                - paragraph [ref=e777]:
+                  - generic [ref=e778]:
+                    - strong [ref=e779]: "Hot Tip:"
+                    - text: Find out more about Qantas’ U.S. route network in our
+                    - link "definitive guide to Qantas U.S. routes" [ref=e780] [cursor=pointer]:
+                      - /url: /travel/airlines/qantas-us-routes-plane-types/
+                    - text: "!"
+                - paragraph [ref=e781]: To put this in perspective, if you look at the entire calendar of a U.S. route, you may only see 1 day available with a single first class award seat — 1 seat out of all flights for ~11 months doesn’t seem very probable.
+                - paragraph [ref=e782]:
+                  - text: Qantas releases first class award space available for Qantas members 353 days in advance, compared to American Airlines, which opens up 331 days in advance. This 22-day difference could mean the difference between getting a first class seat and not getting a seat.
+                  - strong [ref=e783]: On top of this, you’ll often see Qantas first class award space limited to Qantas Frequent Flyer members only.
+                - paragraph [ref=e784]:
+                  - text: In fact, booking Qantas with AA miles is likely tremendously difficult because of this simple fact that Qantas members snag all of the limited first class award availability early in the calendar.
+                  - link "Redeeming Alaska Airlines miles" [ref=e785] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/how-to-redeem-alaska-airlines-atmos-rewards-points/
+                  - text: or
+                  - link "American AAdvantage miles" [ref=e786] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-redeem-american-airlines-aadvantage-miles/
+                  - text: for Qantas first class is great in theory, but difficult in practice.
+                - paragraph [ref=e787]:
+                  - generic [ref=e788]:
+                    - strong [ref=e789]: "Hot Tip:"
+                    - text: If you are fine with not having the best award availability but want to use as few miles as possible, check out some of the other
+                    - link "best ways to book Qantas’ amazing first class." [ref=e790] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-qantas-first-class/
+                - paragraph [ref=e791]: "Here’s a chart that summarizes mileage costs for one-way first class routes to/from the U.S.:"
+                - table [ref=e794]:
+                  - rowgroup [ref=e795]:
+                    - row "Qantas Points Cost for Qantas First Class" [ref=e796]:
+                      - cell "Qantas Points Cost for Qantas First Class" [ref=e797]:
+                        - paragraph [ref=e799]:
+                          - strong [ref=e800]: Qantas Points Cost for Qantas First Class
+                    - row "Los Angeles (LAX) – Sydney (SYD) 162,800" [ref=e801]:
+                      - cell "Los Angeles (LAX) – Sydney (SYD)" [ref=e802]:
+                        - paragraph [ref=e803]: Los Angeles (LAX) – Sydney (SYD)
+                      - cell "162,800" [ref=e804]:
+                        - paragraph [ref=e805]: 162,800
+                    - row "Los Angeles (LAX) – Melbourne (MEL) 162,800" [ref=e806]:
+                      - cell "Los Angeles (LAX) – Melbourne (MEL)" [ref=e807]:
+                        - paragraph [ref=e808]: Los Angeles (LAX) – Melbourne (MEL)
+                      - cell "162,800" [ref=e809]:
+                        - paragraph [ref=e810]: 162,800
+                    - row "Dallas Fort Worth (DFW) – Sydney (SYD) 189,800" [ref=e811]:
+                      - cell "Dallas Fort Worth (DFW) – Sydney (SYD)" [ref=e812]:
+                        - paragraph [ref=e813]: Dallas Fort Worth (DFW) – Sydney (SYD)
+                      - cell "189,800" [ref=e814]:
+                        - paragraph [ref=e815]: 189,800
+                    - row "Singapore (SIN) – Sydney (SYD) 102,600" [ref=e816]:
+                      - cell "Singapore (SIN) – Sydney (SYD)" [ref=e817]:
+                        - paragraph [ref=e818]: Singapore (SIN) – Sydney (SYD)
+                      - cell "102,600" [ref=e819]:
+                        - paragraph [ref=e820]: 102,600
+                    - row "Singapore (SIN) – Melbourne (MEL) 102,600" [ref=e821]:
+                      - cell "Singapore (SIN) – Melbourne (MEL)" [ref=e822]:
+                        - paragraph [ref=e823]: Singapore (SIN) – Melbourne (MEL)
+                      - cell "102,600" [ref=e824]:
+                        - paragraph [ref=e825]: 102,600
+                    - row "London-Heathrow (LHR) – Singapore (SIN) 142,300" [ref=e826]:
+                      - cell "London-Heathrow (LHR) – Singapore (SIN)" [ref=e827]:
+                        - paragraph [ref=e828]: London-Heathrow (LHR) – Singapore (SIN)
+                      - cell "142,300" [ref=e829]:
+                        - paragraph [ref=e830]: 142,300
+                    - row "Hong Kong (HKG) – Sydney (SYD) 102,600" [ref=e831]:
+                      - cell "Hong Kong (HKG) – Sydney (SYD)" [ref=e832]:
+                        - paragraph [ref=e833]: Hong Kong (HKG) – Sydney (SYD)
+                      - cell "102,600" [ref=e834]:
+                        - paragraph [ref=e835]: 102,600
+                - paragraph [ref=e836]:
+                  - generic [ref=e837]:
+                    - strong [ref=e838]: "Bottom Line:"
+                    - text: If you don’t mind paying a mileage/points premium in return for higher odds at Qantas first class, consider this option. The 22-day advantage that you have when booking directly with Qantas is significant, and it could go a long way in confirming a first class seat.
+                - heading "2. Fly to or From Israel on El Al in Business Class (From 90,000 Points)" [level=3] [ref=e839]
+                - 'figure "El Al business class. Image Credit: El Al" [ref=e841]':
+                  - img "EL AL business class" [ref=e843]
+                  - generic [ref=e844]: "El Al business class. Image Credit: El Al"
+                - paragraph [ref=e845]: One of Qantas’ unique airline partners is El Al, the flag carrier of Israel. Considering El Al doesn’t have many straightforward ways to redeem points and miles for business class travel, it should be at the top of this list for that reason.
+                - paragraph [ref=e846]: Israel is one of the world’s top tourist destinations, with immense religious importance and a rich culture to boot. Furthermore, Qantas is, in almost all cases, the most cost-effective option to fly on El Al in business class.
+                - paragraph [ref=e847]:
+                  - text: Furthermore, fuel surcharges are
+                  - strong [ref=e848]: not
+                  - text: passed on when booking with Qantas, which just increases the appeal of this scenario.
+                - paragraph [ref=e849]: "As we already mentioned, the distance-based award chart means that the mileage cost will vary depending on your route. Here’s a chart that lists the mileage costs between various U.S. cities to Tel Aviv (TLV):"
+                - table [ref=e852]:
+                  - rowgroup [ref=e853]:
+                    - row "EL AL Route Economy Cost Premium Economy Cost Business Cost" [ref=e854]:
+                      - cell "EL AL Route" [ref=e855]:
+                        - paragraph [ref=e856]:
+                          - strong [ref=e857]: EL AL Route
+                      - cell "Economy Cost" [ref=e858]:
+                        - paragraph [ref=e859]:
+                          - strong [ref=e860]: Economy Cost
+                      - cell "Premium Economy Cost" [ref=e861]:
+                        - paragraph [ref=e862]:
+                          - strong [ref=e863]: Premium Economy Cost
+                      - cell "Business Cost" [ref=e864]:
+                        - paragraph [ref=e865]:
+                          - strong [ref=e866]: Business Cost
+                    - row "4,801 to 5,800 miles 37,800 70,800 90,000" [ref=e867]:
+                      - cell "4,801 to 5,800 miles" [ref=e868]:
+                        - paragraph [ref=e869]:
+                          - strong [ref=e870]: 4,801 to 5,800 miles
+                      - cell "37,800" [ref=e871]:
+                        - paragraph [ref=e872]: 37,800
+                      - cell "70,800" [ref=e873]:
+                        - paragraph [ref=e874]: 70,800
+                      - cell "90,000" [ref=e875]:
+                        - paragraph [ref=e876]: 90,000
+                    - row "Boston (BOS) – Tel Aviv (TLV) 37,800 70,800 90,000" [ref=e877]:
+                      - cell "Boston (BOS) – Tel Aviv (TLV)" [ref=e878]:
+                        - paragraph [ref=e879]: Boston (BOS) – Tel Aviv (TLV)
+                      - cell "37,800" [ref=e880]:
+                        - paragraph [ref=e881]: 37,800
+                      - cell "70,800" [ref=e882]:
+                        - paragraph [ref=e883]: 70,800
+                      - cell "90,000" [ref=e884]:
+                        - paragraph [ref=e885]: 90,000
+                    - row "New York City (JFK) – Tel Aviv (TLV) 37,800 70,800 90,000" [ref=e886]:
+                      - cell "New York City (JFK) – Tel Aviv (TLV)" [ref=e887]:
+                        - paragraph [ref=e888]: New York City (JFK) – Tel Aviv (TLV)
+                      - cell "37,800" [ref=e889]:
+                        - paragraph [ref=e890]: 37,800
+                      - cell "70,800" [ref=e891]:
+                        - paragraph [ref=e892]: 70,800
+                      - cell "90,000" [ref=e893]:
+                        - paragraph [ref=e894]: 90,000
+                    - row "Newark (EWR) – Tel Aviv (TLV) 37,800 70,800 90,000" [ref=e895]:
+                      - cell "Newark (EWR) – Tel Aviv (TLV)" [ref=e896]:
+                        - paragraph [ref=e897]: Newark (EWR) – Tel Aviv (TLV)
+                      - cell "37,800" [ref=e898]:
+                        - paragraph [ref=e899]: 37,800
+                      - cell "70,800" [ref=e900]:
+                        - paragraph [ref=e901]: 70,800
+                      - cell "90,000" [ref=e902]:
+                        - paragraph [ref=e903]: 90,000
+                    - row "5,801 to 7,000 miles 45,000 81,800 104,500" [ref=e904]:
+                      - cell "5,801 to 7,000 miles" [ref=e905]:
+                        - paragraph [ref=e906]:
+                          - strong [ref=e907]: 5,801 to 7,000 miles
+                      - cell "45,000" [ref=e908]:
+                        - paragraph [ref=e909]: 45,000
+                      - cell "81,800" [ref=e910]:
+                        - paragraph [ref=e911]: 81,800
+                      - cell "104,500" [ref=e912]:
+                        - paragraph [ref=e913]: 104,500
+                    - row "Chicago (ORD) – Tel Aviv (TLV) 45,000 81,800 104,500" [ref=e914]:
+                      - cell "Chicago (ORD) – Tel Aviv (TLV)" [ref=e915]:
+                        - paragraph [ref=e916]: Chicago (ORD) – Tel Aviv (TLV)
+                      - cell "45,000" [ref=e917]:
+                        - paragraph [ref=e918]: 45,000
+                      - cell "81,800" [ref=e919]:
+                        - paragraph [ref=e920]: 81,800
+                      - cell "104,500" [ref=e921]:
+                        - paragraph [ref=e922]: 104,500
+                    - row "Orlando (MCO) – Tel Aviv (TLV) 45,000 81,800 104,500" [ref=e923]:
+                      - cell "Orlando (MCO) – Tel Aviv (TLV)" [ref=e924]:
+                        - paragraph [ref=e925]: Orlando (MCO) – Tel Aviv (TLV)
+                      - cell "45,000" [ref=e926]:
+                        - paragraph [ref=e927]: 45,000
+                      - cell "81,800" [ref=e928]:
+                        - paragraph [ref=e929]: 81,800
+                      - cell "104,500" [ref=e930]:
+                        - paragraph [ref=e931]: 104,500
+                    - row "Miami (MIA) – Tel Aviv (TLV) 45,000 81,800 104,500" [ref=e932]:
+                      - cell "Miami (MIA) – Tel Aviv (TLV)" [ref=e933]:
+                        - paragraph [ref=e934]: Miami (MIA) – Tel Aviv (TLV)
+                      - cell "45,000" [ref=e935]:
+                        - paragraph [ref=e936]: 45,000
+                      - cell "81,800" [ref=e937]:
+                        - paragraph [ref=e938]: 81,800
+                      - cell "104,500" [ref=e939]:
+                        - paragraph [ref=e940]: 104,500
+                    - row "7,001 to 8,400 miles 50,300 93,500 119,200" [ref=e941]:
+                      - cell "7,001 to 8,400 miles" [ref=e942]:
+                        - paragraph [ref=e943]:
+                          - strong [ref=e944]: 7,001 to 8,400 miles
+                      - cell "50,300" [ref=e945]:
+                        - paragraph [ref=e946]: 50,300
+                      - cell "93,500" [ref=e947]:
+                        - paragraph [ref=e948]: 93,500
+                      - cell "119,200" [ref=e949]:
+                        - paragraph [ref=e950]: 119,200
+                    - row "Las Vegas (LAS) – Tel Aviv (TLV) 50,300 93,500 119,200" [ref=e951]:
+                      - cell "Las Vegas (LAS) – Tel Aviv (TLV)" [ref=e952]:
+                        - paragraph [ref=e953]: Las Vegas (LAS) – Tel Aviv (TLV)
+                      - cell "50,300" [ref=e954]:
+                        - paragraph [ref=e955]: 50,300
+                      - cell "93,500" [ref=e956]:
+                        - paragraph [ref=e957]: 93,500
+                      - cell "119,200" [ref=e958]:
+                        - paragraph [ref=e959]: 119,200
+                    - row "San Francisco (SFO) – Tel Aviv (TLV) 50,300 93,500 119,200" [ref=e960]:
+                      - cell "San Francisco (SFO) – Tel Aviv (TLV)" [ref=e961]:
+                        - paragraph [ref=e962]: San Francisco (SFO) – Tel Aviv (TLV)
+                      - cell "50,300" [ref=e963]:
+                        - paragraph [ref=e964]: 50,300
+                      - cell "93,500" [ref=e965]:
+                        - paragraph [ref=e966]: 93,500
+                      - cell "119,200" [ref=e967]:
+                        - paragraph [ref=e968]: 119,200
+                    - row "Los Angeles (LAX) – Tel Aviv (TLV) 50,300 93,500 119,200" [ref=e969]:
+                      - cell "Los Angeles (LAX) – Tel Aviv (TLV)" [ref=e970]:
+                        - paragraph [ref=e971]: Los Angeles (LAX) – Tel Aviv (TLV)
+                      - cell "50,300" [ref=e972]:
+                        - paragraph [ref=e973]: 50,300
+                      - cell "93,500" [ref=e974]:
+                        - paragraph [ref=e975]: 93,500
+                      - cell "119,200" [ref=e976]:
+                        - paragraph [ref=e977]: 119,200
+                - paragraph [ref=e978]: Overall, the economy and premium economy redemptions don’t make much sense due to the high cost, but the business class price is somewhat reasonable, considering El Al charges more than this.
+                - paragraph [ref=e979]:
+                  - text: The
+                  - link "best way to search is with ExpertFlyer" [ref=e980] [cursor=pointer]:
+                    - /url: /travel/expertflyer/
+                  - text: ", a paid service. If you don’t feel like paying for ExpertFlyer, you can search on Qantas’ website. The challenge is that there’s no way to search for nonstop availability on Qantas, and it’ll display all connecting flights. As a result, there’s no way on Qantas to filter out partner airline availability."
+                - heading "3. East Coast to Dubai Round-Trip on Emirates (From 90,000 Points)" [level=3] [ref=e981]
+                - 'figure "Emirates business class. Image Credit: Cherag Dubash" [ref=e983]':
+                  - img "Emirates Inaugural World's Shortest A380 Flight Business Class Seat 23A - Cherag Dubash" [ref=e985]
+                  - generic [ref=e986]:
+                    - text: "Emirates business class. Image Credit:"
+                    - link "Cherag Dubash" [ref=e987] [cursor=pointer]:
+                      - /url: /author/cherag/
+                - paragraph [ref=e988]:
+                  - link "Emirates" [ref=e989] [cursor=pointer]:
+                    - /url: /travel/airlines/emirates-review/
+                  - text: is known to have one of the best economy products and a
+                  - link "fantastic business class" [ref=e990] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-emirates-business-class/
+                  - text: . It is currently not in an alliance and only partner with a handful of airlines, which makes these award redemptions a little tougher to snag.
+                - paragraph [ref=e991]:
+                  - text: Additionally, you can redeem Qantas Points for Emirates flights according to the
+                  - strong [ref=e992]: Partner Classic Flight Reward
+                  - text: table. The Partner Classic Flight Reward table has round-trip flights in economy for 90,000 points, business for 209,000 points, and first for 299,600 points (though first class awards may only be available for a limited time).
+                - paragraph [ref=e993]:
+                  - text: There are several East Coast cities in this points range that
+                  - link "fly direct to Dubai" [ref=e994] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-dubai-with-points/
+                  - text: including Boston (BOS), New York (JFK), and Toronto (YYZ). For Emirates award flights, you should reference the first award chart; since the one-way distance is less than 7,000 flown miles, Zone 7 pricing applies.
+                - paragraph [ref=e995]:
+                  - text: Need help booking? Read our guide on
+                  - link "how to book Emirates business class using points" [ref=e996] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-emirates-business-class/
+                  - text: .
+                - heading "4. Short Round-Trip Economy Hops on American Airlines (16,000 Points)" [level=3] [ref=e997]:
+                  - strong [ref=e998]: 4. Short
+                  - strong [ref=e999]: Round-Trip Economy
+                  - strong [ref=e1000]: Hops on American Airlines (
+                  - strong [ref=e1001]: 16,000 Points)
+                - 'figure "Book short-haul American Airlines flights using Qantas Points! Image Credit: American Airlines" [ref=e1003]':
+                  - img "American Airlines Main Cabin" [ref=e1005]
+                  - generic [ref=e1006]: "Book short-haul American Airlines flights using Qantas Points! Image Credit: American Airlines"
+                - paragraph [ref=e1007]:
+                  - text: If you are taking a short round-trip flight that is less than 600 miles flown one-way on
+                  - link "American Airlines" [ref=e1008] [cursor=pointer]:
+                    - /url: /travel/airlines/american-airlines-review/
+                  - text: ", you will only have to pay 16,000 Qantas Points for a round-trip flight according to the first award chart."
+                - paragraph [ref=e1009]:
+                  - text: This is especially good for flights from Miami because some
+                  - link "Caribbean destinations" [ref=e1010] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-the-caribbean-with-points/
+                  - text: fall within this range. Many other airlines price Caribbean destinations in a different award zone category, which makes award redemptions much higher on these competitors.
+                - paragraph [ref=e1011]: For this reason, Qantas Points costs can become very competitive for short-haul flights.
+                - heading "5. East Coast to Western Europe Round-Trip on American Airlines (From 40,600 Points)" [level=3] [ref=e1012]:
+                  - strong [ref=e1013]: 5. East Coast to Western Europe Round-Trip on American Airlines (From 40,600 Points)
+                - 'figure "American Airlines still has multiple different business class products in service, and its B777 business class is one of the best to fly! Image Credit: Image Credit: Chris Hassan" [ref=e1015]':
+                  - img "American Airlines 777 Flagship Business Class GIG MIA" [ref=e1017]
+                  - generic [ref=e1018]: "American Airlines still has multiple different business class products in service, and its B777 business class is one of the best to fly! Image Credit: Image Credit: Chris Hassan"
+                - paragraph [ref=e1019]: To get this award redemption at this price, you must fly American Airlines, which allows you to use the first award chart. Flights between 2,401 and 3,600 flown miles will put you in Zone 4, meaning they only cost 40,600 points in economy or 114,000 points in business.
+                - paragraph [ref=e1020]: A few city pairs that fall within Zone 4 range and have flights operated by American Airlines include New York (JFK) to London (LHR), JFK to Dublin (DUB), and Boston (BOS) to Paris (CDG).
+                - paragraph [ref=e1021]:
+                  - generic [ref=e1022]:
+                    - strong [ref=e1023]: "Hot Tip:"
+                    - text: If you have a layover, owning a card like the
+                    - link "Platinum Card® from American Express" [ref=e1024] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/american-express-platinum-card/
+                      - text: Platinum Card
+                      - superscript [ref=e1025]: ®
+                      - text: from American Express
+                    - strong [ref=e1026]
+                    - text: can be useful for getting
+                    - link "lounge access" [ref=e1027] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/american-express-platinum-card/airport-lounge-access/
+                    - text: while you wait for your flight!
+                - heading "6. East Coast to Fiji Round-Trip on Fiji Airways (From 75,600 Points)" [level=3] [ref=e1028]
+                - 'figure "Fiji Airways Airbus A350 business class. Image Credit: Greg Stone" [ref=e1030]':
+                  - link "Fiji Airways Airbus A350 business class cabin from front" [ref=e1031] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/12/65-Fiji-Airways-Airbus-A350-Business-Class-Cabin-from-Front.jpg?auto=webp&disable=upscale
+                    - img "Fiji Airways Airbus A350 business class cabin from front" [ref=e1033]
+                  - generic [ref=e1034]:
+                    - text: "Fiji Airways Airbus A350 business class. Image Credit:"
+                    - link "Greg Stone" [ref=e1035] [cursor=pointer]:
+                      - /url: /author/greg/
+                - paragraph [ref=e1036]: If you are dreaming of a trip to the islands of Fiji, then you can use this award redemption to get there for a pretty reasonable price. Since Fiji Airways is a partner of Qantas and flies from Los Angeles (LAX) to Nadi (NAN), you can be there in almost no time.
+                - paragraph [ref=e1037]: Fiji award flights require the use of the first award chart below. Since the one-way distance between these 2 city pairs is between 4,8o1 to 5,800 flown miles, Zone 6 applies and the award will only cost you 75,600 points in economy or 180,000 points in business.
+                - paragraph [ref=e1038]:
+                  - generic [ref=e1039]:
+                    - strong [ref=e1040]: "Hot Tip:"
+                    - text: Our review of Fiji Airways’ A350 in
+                    - link "economy class" [ref=e1041] [cursor=pointer]:
+                      - /url: /travel/airlines/fiji-airways-a350-economy-class-review/
+                    - text: and
+                    - link "business class" [ref=e1042] [cursor=pointer]:
+                      - /url: /travel/airlines/fiji-airways-a350-business-class-review/
+                    - text: includes a full overview of the seats, meal, and service on your trip to and from paradise.
+                - heading "7. East Coast to Australia Round-Trip on Qantas (From 93,800 Points)" [level=3] [ref=e1043]
+                - 'figure "Qantas Boeing 747 business class. Image Credit: Greg Stone" [ref=e1045]':
+                  - link "Qantas Boeing 747 Business Class Seat without Mattress Pad" [ref=e1046] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/12/86-Qantas-Boeing-747-Business-Class-Seat-without-Mattress-Pad.jpg?auto=webp&disable=upscale
+                    - img "Qantas Boeing 747 Business Class Seat without Mattress Pad" [ref=e1048]
+                  - generic [ref=e1049]: "Qantas Boeing 747 business class. Image Credit: Greg Stone"
+                - paragraph [ref=e1050]: To book this redemption, you would need to find city pairs that fall into award Zone 8 on the first chart. Zone 8 includes any flights that are less than 8,400 flown miles one-way.
+                - paragraph [ref=e1051]: Some examples of flights that fall into this range include Los Angeles (LAX) to Melbourne (MEL), Los Angeles (LAX) to Sydney (SYD), Los Angeles (LAX) to Brisbane (BNE), San Francisco (SFO) to Sydney (SYD), and Vancouver (YVR) to (Sydney) SYD (seasonal flight).
+                - paragraph [ref=e1052]: Qantas business class availability for these direct flights is notoriously difficult to find, but it can be obtained with constant checking!
+                - paragraph [ref=e1053]:
+                  - generic [ref=e1054]:
+                    - strong [ref=e1055]: "Hot Tip:"
+                    - text: Check out our
+                    - link "reviews of Qantas business class on the Boeing 747" [ref=e1056] [cursor=pointer]:
+                      - /url: /travel/airlines/qantas-747-business-class-review/
+                    - text: and
+                    - link "A330" [ref=e1057] [cursor=pointer]:
+                      - /url: /travel/airlines/qantas-a330-business-class-review/
+                    - text: ", as well as our guide to the"
+                    - link "best ways to book Qantas business class" [ref=e1058] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-qantas-business-class/
+                    - text: .
+                - heading "8. Australia to Hong Kong Round-Trip on Cathay Pacific (From 60,400 Points)" [level=3] [ref=e1059]:
+                  - strong [ref=e1060]: 8. Australia to Hong Kong Round-Trip on Cathay Pacific (From 60,400 Points)
+                - 'figure "Cathay Pacific Airbus A350 business class. Image Credit: Greg Stone" [ref=e1062]':
+                  - link "Cathay Pacific Airbus A350 Business Class Window Seat" [ref=e1063] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/07/45-Cathay-Pacific-Airbus-A350-Business-Class-Window-Seat.jpg?auto=webp&disable=upscale
+                    - img "Cathay Pacific Airbus A350 Business Class Window Seat" [ref=e1065]
+                  - generic [ref=e1066]: "Cathay Pacific Airbus A350 business class. Image Credit: Greg Stone"
+                - paragraph [ref=e1067]:
+                  - text: If you would like to fly anywhere on
+                  - link "Cathay Pacific" [ref=e1068] [cursor=pointer]:
+                    - /url: /travel/airlines/cathay-pacific-review/
+                  - text: using Qantas Points, you need to use the third award chart. Several Australian cities have direct flights to Hong Kong (HKG), including Sydney (SYD), Melbourne (MEL), and Brisbane (BNE).
+                - paragraph [ref=e1069]: These flights are less than 4,800 flown miles, so Zone 5 applies, meaning these awards cost 60,400 points in economy and 150,000 in business.
+                - generic [ref=e1070]:
+                  - strong [ref=e1071]: »
+                  - strong [ref=e1072]: "Related:"
+                  - link "The Best Ways To Fly to Australia With Points and Miles [Step by Step]" [ref=e1073] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-australia-with-points/
+                - heading "9. Australia to Singapore Round-Trip on Emirates (From 60,400 Points)" [level=3] [ref=e1074]:
+                  - strong [ref=e1075]: 9. Australia to Singapore Round-Trip on Emirates (From 60,400 Points)
+                - 'figure "Emirates A380 business class. Image Credit: Cherag Dubash" [ref=e1077]':
+                  - img "Emirates A380 Forward Business Class Cabin" [ref=e1079]
+                  - generic [ref=e1080]:
+                    - text: "Emirates A380 business class. Image Credit:"
+                    - link "Cherag Dubash" [ref=e1081] [cursor=pointer]:
+                      - /url: /author/cherag/
+                - paragraph [ref=e1082]: As stated before, the ability to redeem Qantas frequent flyer points on Emirates is a huge benefit to using its miles! To redeem this award, use the first chart and find flights with one-way flight distances less than 4,800 miles (falling into Zone 5).
+                - paragraph [ref=e1083]: The city pairs that fall within this range on Emirates flights are Sydney (SYD) to Singapore (SIN), and Melbourne (MEL) to Singapore (SIN).
+                - paragraph [ref=e1084]: This itinerary will cost 60,400 points in economy and 150,000 points in business.
+                - paragraph [ref=e1085]:
+                  - generic [ref=e1086]:
+                    - strong [ref=e1087]: "Hot Tip:"
+                    - text: If you really want to fly Emirates but aren’t interested in flying between Australia and Singapore, read about some of the
+                    - link "best ways you can use your Emirates points." [ref=e1088] [cursor=pointer]:
+                      - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+                - heading "10. Middle East to South Africa Round-Trip on Qatar Airways (From 70,000 Points)" [level=3] [ref=e1089]:
+                  - strong [ref=e1090]: 10. Middle East to South Africa Round-Trip on Qatar Airways (From 70,000 Points)
+                - 'figure "Booking the coveted QSuites is possible with Qantas Points. Image Credit: Alex Miller" [ref=e1092]':
+                  - link "Qatar QSuites A350 1J, Alex Miller of Upgraded Points" [ref=e1093] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/05/Qatar-QSuites-A350-1J-Alex-Miller-of-Upgraded-Points.jpg?auto=webp&disable=upscale
+                    - img "Qatar QSuites A350 1J, Alex Miller of Upgraded Points" [ref=e1095]
+                  - generic [ref=e1096]:
+                    - text: "Booking the coveted QSuites is possible with Qantas Points. Image Credit:"
+                    - link "Alex Miller" [ref=e1097] [cursor=pointer]:
+                      - /url: /author/alexmiller/
+                - paragraph [ref=e1098]:
+                  - link "Qatar Airways" [ref=e1099] [cursor=pointer]:
+                    - /url: /travel/airlines/qatar-airways-review/
+                  - text: is another airline with a great product (especially in business class), and its reviews highlight its consistently awesome service.
+                - paragraph [ref=e1100]: To redeem this flight award, you must use the third award chart and calculate a one-way flight distance less than 4,800 miles to be within Zone 5. Doha (DOH) to Johannesburg (JNB) is a great flight option within this range, so you’ll be able to redeem 60,400 points for economy or 150,000 points for business class.
+                - paragraph [ref=e1101]:
+                  - generic [ref=e1102]:
+                    - strong [ref=e1103]: "Hot Tip:"
+                    - text: Grab a
+                    - link "Global Entry account" [ref=e1104] [cursor=pointer]:
+                      - /url: /travel/global-entry-program/
+                    - text: before making your journey to enjoy quickly passing through customs when you come back to the U.S. You can get the $120 fee reimbursed with numerous cards, including
+                    - link "The Amex Platinum" [ref=e1105] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/american-express-platinum-card/
+                    - text: .
+                - heading "11. Round-the-World Flight on Oneworld Alliance (From 132,400 Points)" [level=3] [ref=e1106]:
+                  - strong [ref=e1107]: 11. Round-the-World Flight on Oneworld Alliance (From 132,400 Points)
+                - 'figure "Image Credit: Oneworld" [ref=e1109]':
+                  - img "Oneworld Round the World" [ref=e1111]
+                  - generic [ref=e1112]: "Image Credit: Oneworld"
+                - paragraph [ref=e1113]: Qantas is one of the few airlines left that still offer an around the world flight redemption option. Following the redemption rules and using the Oneworld Classic Flights Rewards redemption, you can use this award to see much of what the world has to offer!
+                - paragraph [ref=e1114]:
+                  - text: Here’s another
+                  - strong [ref=e1115]: amazing
+                  - text: "example itinerary you can book provided you find award availability using the Oneworld Classic Flight Rewards:"
+                - list [ref=e1116]:
+                  - listitem [ref=e1117]:
+                    - strong [ref=e1118]: Los Angeles (LAX) – Melbourne (MEL)
+                    - text: on Qantas business class
+                  - listitem [ref=e1119]:
+                    - strong [ref=e1120]: Melbourne (MEL) – Tokyo-Narita (NRT)
+                    - text: on Japan Airlines business class
+                  - listitem [ref=e1121]:
+                    - strong [ref=e1122]: Tokyo-Narita (NRT) – Doha (DOH)
+                    - text: on Qatar Airways QSuites
+                  - listitem [ref=e1123]:
+                    - strong [ref=e1124]: Doha (DOH) – Johannesburg (JNB)
+                    - text: on Qatar Airways business class
+                  - listitem [ref=e1125]:
+                    - strong [ref=e1126]: Johannesburg (JNB) – London-Heathrow (LHR)
+                    - text: on British Airways business class
+                  - listitem [ref=e1127]:
+                    - strong [ref=e1128]: London-Heathrow (LHR) – Los Angeles (LAX)
+                    - text: on American Airlines Flagship Business class
+                - paragraph [ref=e1129]: "This itinerary is well below the 35,000 flown miles limit, so it would be possible to add even more flight segments if you wanted. However, the restrictions are:"
+                - list [ref=e1130]:
+                  - listitem [ref=e1131]: Only 5 free stopovers are allowed
+                  - listitem [ref=e1132]: Only 1 stopover is allowed in any one city in the itinerary
+                  - listitem [ref=e1133]: Only 2 transfers (layovers) can be taken at any one city in the itinerary
+                - paragraph [ref=e1134]: You can be extremely creative when coming up with your itinerary given the generous routing rules and a full year to complete travel!
+                - paragraph [ref=e1135]:
+                  - text: This entire flight is 33,086 miles in distance, which is just
+                  - strong [ref=e1136]: under the maximum limit of 35,000 flown miles
+                  - text: . This itinerary would only cost 318,000 Qantas Points and would include ~70 hours in business class, 6 distinct business class products on 5 different airlines, and travel to 5 different countries.
+                - paragraph [ref=e1137]:
+                  - generic [ref=e1138]:
+                    - strong [ref=e1139]: "Hot Tip:"
+                    - text: Don’t pay extra foreign transaction fees during your international trip. Take
+                    - link "credit cards with no foreign transaction fees" [ref=e1140] [cursor=pointer]:
+                      - /url: /credit-cards/best-no-foreign-transaction-fee-credit-cards/
+                    - text: like the
+                    - link "Chase Sapphire Preferred® card" [ref=e1141] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                      - text: Chase Sapphire Preferred
+                      - superscript [ref=e1142]: ®
+                      - text: card
+                    - text: or
+                    - link "Delta SkyMiles® Gold American Express Card" [ref=e1143] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/gold-delta-skymiles-credit-card-american-express/
+                      - text: Delta SkyMiles
+                      - superscript [ref=e1144]: ®
+                      - text: Gold American Express Card
+                    - text: .
+                - paragraph [ref=e1146]: Advertisement
+                - heading "Using Your Qantas Frequent Flyer Points" [level=2] [ref=e1147]
+                - paragraph [ref=e1148]: Qantas is the Australia-based member of Oneworld alliance. It offers some great redemptions, but you’ll want to be careful about which award chart you are using! When determining award prices, remember Qantas has different charts for different redemptions.
+                - heading "Qantas Frequent Flyer Award Chart" [level=3] [ref=e1149]
+                - paragraph [ref=e1150]: Below are the different charts for award redemptions with Qantas Points.
+                - 'figure "Qantas Classic Flight Award chart for bookings made on Qantas, Airnorth, Fiji Airways, Air Vanuatu, American Airlines, Emirates, Jetstar, and QantasLink. Image Credit: Qantas" [ref=e1152]':
+                  - img "Qantas Classic Flight Award Chart" [ref=e1154]
+                  - generic [ref=e1155]: "Qantas Classic Flight Award chart for bookings made on Qantas, Airnorth, Fiji Airways, Air Vanuatu, American Airlines, Emirates, Jetstar, and QantasLink. Image Credit: Qantas"
+                - 'figure "Jetstar Classic Flight Award Chart for flights on Jetstar (JQ), Jetstar Asia (3K), Jetstar Japan (GK), and Jetstar Pacific (BL). This must be used for the same trip and cannot be mixed with any airlines from the classic flight award chart above. Image Credit: Qantas" [ref=e1157]':
+                  - img "Qantas Jetstar Classic Flight Award Chart" [ref=e1159]
+                  - generic [ref=e1160]: "Jetstar Classic Flight Award Chart for flights on Jetstar (JQ), Jetstar Asia (3K), Jetstar Japan (GK), and Jetstar Pacific (BL). This must be used for the same trip and cannot be mixed with any airlines from the classic flight award chart above. Image Credit: Qantas"
+                - 'figure "Partner Classic Flight Award Chart for flights on Aer Lingus, Air Niugini, Alaska Airlines, British Airways, Cathay Pacific, China Eastern, El Al, Emirates, Finnair, Iberia, Japan Airlines, Jet Airways, LAN, Malaysia Airlines, Qatar Airways, Royal Jordanian, S7 Airlines, SriLankan Airlines, and TAM. Image Credit: Qantas" [ref=e1162]':
+                  - img "Qantas Partner Classic Flight Award Chart" [ref=e1164]
+                  - generic [ref=e1165]:
+                    - text: Partner Classic Flight Award Chart for flights on Aer Lingus, Air Niugini, Alaska Airlines, British Airways, Cathay Pacific, China Eastern, El Al, Emirates, Finnair, Iberia,
+                    - link "Japan Airlines" [ref=e1166] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/japan-airlines-review/
+                    - text: ", Jet Airways, LAN, Malaysia Airlines, Qatar Airways, Royal Jordanian, S7 Airlines, SriLankan Airlines, and TAM. Image Credit: Qantas"
+                - 'figure "Oneworld Classic Flight Awards. To use this chart, travel must include at least 2 Oneworld alliance airlines other than Qantas or 3 or more Oneworld alliance airlines including Qantas. Image Credit: Qantas" [ref=e1168]':
+                  - img "Qantas Oneworld Classic Flight Awards" [ref=e1170]
+                  - generic [ref=e1171]: "Oneworld Classic Flight Awards. To use this chart, travel must include at least 2 Oneworld alliance airlines other than Qantas or 3 or more Oneworld alliance airlines including Qantas. Image Credit: Qantas"
+                - heading "Booking Awards With Qantas Points" [level=3] [ref=e1172]:
+                  - generic [ref=e1173]: Booking Awards With Qantas Points
+                - paragraph [ref=e1174]: Qantas’ website allows you to book with most of its partners online, and flights can be booked 353 days in advance. The British Airways website is also a great resource for searching out award availability on Oneworld airlines.
+                - paragraph [ref=e1175]: For complicated itineraries, it is best to call Qantas’ U.S. service center at 800-227-4500 and give the booking agent the flight information for your desired itinerary. An award booking fee applies when done by phone.
+                - paragraph [ref=e1176]:
+                  - generic [ref=e1177]:
+                    - strong [ref=e1178]: "Hot Tip:"
+                    - text: When determining the approximate distance between airports to check the price of your award, the
+                    - link "Great Circle Mapper" [ref=e1179] [cursor=pointer]:
+                      - /url: https://gcmap.com
+                    - text: is a helpful tool.
+                - heading "Award Redemption Rules" [level=3] [ref=e1180]:
+                  - generic [ref=e1181]: Award Redemption Rules
+                - paragraph [ref=e1182]:
+                  - text: The following are additional terms and conditions for award redemptions
+                  - link "per Qantas" [ref=e1183] [cursor=pointer]:
+                    - /url: https://www.qantas.com/us/en/frequent-flyer/discover-and-join/terms-and-conditions.html
+                  - text: ":"
+                - heading "Classic Flight Awards" [level=4] [ref=e1184]
+                - list [ref=e1185]:
+                  - listitem [ref=e1186]: Must contain no more than 1 departure from the city or country of first departure on that itinerary (meaning you can’t leave a city/country, travel somewhere else, come back to the same place, and leave from there again)
+                  - listitem [ref=e1187]: Total points required will be calculated by considering each segment as a one-way trip or series of one-way trips and then taking the sum of the points required for each trip on that itinerary
+                  - listitem [ref=e1188]: Any 1 trip cannot be more than 15,000 miles; longer flights must be separated into different trips
+                  - listitem [ref=e1189]:
+                    - text: "Where mixed-class travel is booked on a trip, the points required for that trip will be calculated using the lowest quoted points level of either:"
+                    - list [ref=e1190]:
+                      - listitem [ref=e1191]: The points level for the highest class of travel flown on that trip
+                      - listitem [ref=e1192]: The sum of points, breaking the trip into multiple trips wherever the class of travel changes between sectors within a trip
+                - heading "Oneworld Classic Flight Awards" [level=4] [ref=e1193]
+                - list [ref=e1194]:
+                  - listitem [ref=e1195]:
+                    - generic [ref=e1196]:
+                      - text: Can only include
+                      - link "Oneworld alliance" [ref=e1197] [cursor=pointer]:
+                        - /url: /travel/airlines/oneworld-alliance/
+                      - text: airlines and not partners
+                  - listitem [ref=e1198]: Must be booked with 2 or more Oneworld alliance airlines other than Qantas
+                  - listitem [ref=e1199]: Maximum flight distance is 35,000 miles; longer flights must be booked on a separate itinerary
+                  - listitem [ref=e1200]: One-way flights are charged as a round-trip itinerary
+                  - listitem [ref=e1201]: 5 free stopovers (stops more than 24 hours) are allowed
+                  - listitem [ref=e1202]: Only 1 stopover (stop more than 24 hours) is allowed in any single city on the itinerary
+                  - listitem [ref=e1203]: Only 2 transfers (connections less than 24 hours) are allowed in any single city on the itinerary
+                  - listitem [ref=e1204]: Open jaws are allowed, but the distance is still included in the reward point zone calculation for that itinerary
+                  - listitem [ref=e1205]: If mixed-class travel is booked, the whole itinerary will be calculated using the highest class booked
+                - generic [ref=e1206]:
+                  - strong [ref=e1207]: »
+                  - strong [ref=e1208]: "Related:"
+                  - link "How To Maximize Stopovers and Open-Jaws [Ultimate Guide]" [ref=e1209] [cursor=pointer]:
+                    - /url: /travel/airlines/stopovers-and-open-jaws/
+                - heading "Fuel Surcharges and Taxes" [level=3] [ref=e1210]:
+                  - generic [ref=e1211]: Fuel Surcharges and Taxes
+                - paragraph [ref=e1212]:
+                  - generic [ref=e1213]:
+                    - text: Some partner airlines require fuel charges in addition to the Qantas award cost, and they can be quite significant. Partners that impose
+                    - link "high fuel surcharges" [ref=e1214] [cursor=pointer]:
+                      - /url: /travel/airlines/airline-fuel-surcharges/
+                    - text: include
+                    - link "British Airways" [ref=e1215] [cursor=pointer]:
+                      - /url: /travel/airlines/using-british-airways-avios-without-huge-fuel-surcharges/
+                    - text: and Iberia Airlines. Qantas imposes its own taxes and fees as well.
+                - paragraph [ref=e1216]:
+                  - generic [ref=e1217]:
+                    - strong [ref=e1218]: "Hot Tip:"
+                    - text: Some airports in Europe also charge much higher taxes than others, especially if you are traveling in a premium cabin. If you want to lower the taxes on your ticket, try different airport and airline combinations.
+                - heading "Final Thoughts" [level=2] [ref=e1219]
+                - paragraph [ref=e1220]: Qantas’ frequent flyer program isn’t one of the simplest out there, especially considering that it has 4 separate award charts! Nevertheless, there is some great value to be had in making strategic redemptions with your Qantas Points.
+                - paragraph [ref=e1221]:
+                  - text: It’s easy to
+                  - link "earn Qantas Points" [ref=e1222] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-qantas-frequent-flyer-points/
+                  - text: via
+                  - link "American Express Membership Rewards" [ref=e1223] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: ", Citi ThankYou Points, or Capital One miles if you’re also a frequent flyer member. This program is worth paying attention to, especially if you want to fly great business class products like Qatar, Emirates, and Cathay Pacific!"
+              - generic [ref=e1224]:
+                - generic [ref=e1225]:
+                  - separator [ref=e1226]
+                  - text: "Featured Image Credit:"
+                  - link "Daniel Ross" [ref=e1227] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/daniel/
+                - generic [ref=e1228]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1229]
+                  - group [ref=e1230]:
+                    - generic "What are Qantas Points?" [ref=e1231] [cursor=pointer]
+                    - paragraph [ref=e1233]: Qantas Points are the points earned through Qantas’ frequent flyer program.
+                  - group [ref=e1234]:
+                    - generic "What are Qantas Points worth?" [ref=e1235] [cursor=pointer]
+                    - paragraph [ref=e1237]: You should be able to get around 1.4 cents per point in value for economy class redemptions with your Qantas Points. Redeeming Qantas Points for business class will increase the value of your miles dramatically, often offering more than 3 cents per point in value.
+                  - group [ref=e1238]:
+                    - generic "Are Qantas award tickets refundable?" [ref=e1239] [cursor=pointer]
+                    - paragraph [ref=e1241]: Yes, but canceling a Qantas award ticket costs 6,000 Qantas Points.
+                  - group [ref=e1242]:
+                    - generic "Can I change my Qantas award flight?" [ref=e1243] [cursor=pointer]
+                    - paragraph [ref=e1245]: Yes. Changing your Qantas award flight requires availability on the flight you would like to change to and costs 5,000 Qantas Points.
+                  - group [ref=e1246]:
+                    - generic "Do Qantas Points expire?" [ref=e1247] [cursor=pointer]
+                    - generic [ref=e1248]:
+                      - paragraph [ref=e1249]: Yes, Qantas Points will expire if you do not have activity on your account in an 18-month period.
+                      - paragraph [ref=e1250]: Activity that will renew the expiration date of your points includes earning miles through flying, redeeming miles, transferring miles into your account, or earning points with a Qantas partner.
+                  - group [ref=e1251]:
+                    - generic "Can I transfer my Qantas Points to American Airlines miles?" [ref=e1252] [cursor=pointer]
+                    - paragraph [ref=e1254]: No, you can’t transfer your Qantas Points to American Airlines AAdvantage miles or the miles of any other partner. However, you can use your Qantas miles to book flights on American Airlines and other partners.
+                - complementary [ref=e1255]:
+                  - generic [ref=e1256]:
+                    - paragraph [ref=e1257]:
+                      - generic [ref=e1258]: The information regarding the Capital One VentureOne Rewards Credit Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1259]: The information regarding the Citi Strata Premier℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1260]: The information regarding the Citi Strata Elite℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph [ref=e1261]:
+                      - generic [ref=e1263]:
+                        - text: For rates and fees of the Platinum Card
+                        - superscript [ref=e1264]: ®
+                        - text: from American Express, click
+                        - link "here" [ref=e1265] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1267]:
+                        - text: For rates and fees of the American Express
+                        - superscript [ref=e1268]: ®
+                        - text: Gold Card, click
+                        - link "here" [ref=e1269] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TE/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1271]:
+                        - text: For rates and fees of the Delta SkyMiles
+                        - superscript [ref=e1272]: ®
+                        - text: Gold American Express Card, click
+                        - link "here" [ref=e1273] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/GoldDeltaSkyMilesTCCRF_addSource/TE/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                - group "Was this page helpful?" [ref=e1275]:
+                  - paragraph [ref=e1276]: Was this page helpful?
+                  - generic [ref=e1277]:
+                    - button "Yes" [ref=e1278] [cursor=pointer]
+                    - button "No" [ref=e1279] [cursor=pointer]
+                - generic [ref=e1280]:
+                  - figure [ref=e1282]:
+                    - img "Caroline Lupini's image" [ref=e1283]
+                  - generic [ref=e1284]:
+                    - heading "About Caroline Lupini" [level=2] [ref=e1285]:
+                      - text: About
+                      - link "Caroline Lupini" [ref=e1286] [cursor=pointer]:
+                        - /url: /author/caroline/
+                    - paragraph [ref=e1287]: Caroline Lupini always enjoyed traveling, but it became her goal to do as much as possible after a 3-week trip around Europe in 2011. In March 2014, Caroline left her job and embarked on nearly full-time travels.
+                    - paragraph [ref=e1288]: As a frequent traveler, frequent flyer miles have played a large role in planning her trips. Caroline has enjoyed discovering the ins and outs of how to maximize different types of miles, hotel points, and transferable points currencies.
+                    - list [ref=e1290]:
+                      - listitem [ref=e1291]:
+                        - link "email icon" [ref=e1292] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1293]
+                - generic [ref=e1295]:
+                  - generic [ref=e1296]:
+                    - paragraph [ref=e1297]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1298]: ™
+                    - generic [ref=e1299]:
+                      - paragraph [ref=e1300]:
+                        - text: Get the
+                        - strong [ref=e1301]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1302]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1303]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1304]:
+                      - textbox "First Name" [ref=e1305]
+                      - textbox "Email" [ref=e1306]
+                      - button "Join Now" [disabled] [ref=e1307]
+                    - paragraph [ref=e1309]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1310] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1311] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1312] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1314]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1316]
+                - generic [ref=e1318]:
+                  - paragraph [ref=e1319]: We Recommend
+                  - generic [ref=e1320]:
+                    - generic [ref=e1321]:
+                      - link "Platinum Card® from American Express" [ref=e1322] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1323]
+                      - link "Terms Apply / Rates & Fees" [ref=e1324] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1325] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1326]
+                        - text: Apply Now
+                    - generic [ref=e1329]:
+                      - paragraph [ref=e1330]:
+                        - link "Platinum Card® from American Express" [ref=e1331] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1332]:
+                            - text: Platinum Card
+                            - superscript [ref=e1333]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1335]:
+                        - generic [ref=e1336]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1337] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1338]:
+                        - listitem [ref=e1339]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1340]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1341]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1342]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1343]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1344]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1345]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1346] [cursor=pointer]
+            - complementary [ref=e1348]:
+              - generic [ref=e1349]:
+                - generic [ref=e1351]:
+                  - paragraph [ref=e1352]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1353] [cursor=pointer]
+                  - generic [ref=e1354]:
+                    - generic [ref=e1357]:
+                      - generic [ref=e1358]:
+                        - generic [ref=e1359]:
+                          - img [ref=e1360]
+                          - generic [ref=e1362]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1363] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1364]
+                      - generic [ref=e1365]:
+                        - paragraph [ref=e1366]:
+                          - link "Platinum Card® from American Express" [ref=e1367] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1368]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1369] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1370]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1372] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1375]:
+                      - generic [ref=e1376]:
+                        - generic [ref=e1377]:
+                          - img [ref=e1378]
+                          - generic [ref=e1380]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1381] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1382]
+                      - generic [ref=e1383]:
+                        - paragraph [ref=e1384]:
+                          - link "American Express® Gold Card" [ref=e1385] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1386]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1387] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1388]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1390] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1393]:
+                      - generic [ref=e1394]:
+                        - generic [ref=e1395]:
+                          - img [ref=e1396]
+                          - generic [ref=e1398]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1399] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1400]
+                      - generic [ref=e1401]:
+                        - paragraph [ref=e1402]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1403] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1404]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1405] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1406]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1408] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/4482/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1411]:
+                      - generic [ref=e1412]:
+                        - generic [ref=e1413]:
+                          - img [ref=e1414]
+                          - generic [ref=e1416]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1417] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/4482/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1418]
+                      - generic [ref=e1419]:
+                        - paragraph [ref=e1420]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1421] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/4482/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1422]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1423] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/4482/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1424]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1426] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/4482/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1428] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1431]: Advertisement
+      - generic [ref=e1433]:
+        - paragraph [ref=e1434]: Related Posts
+        - generic [ref=e1435]:
+          - generic [ref=e1436]:
+            - link [ref=e1437] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-citi-thankyou-points/
+              - figure [ref=e1438]:
+                - img "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [ref=e1440]
+            - link "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [ref=e1441] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-citi-thankyou-points/
+          - generic [ref=e1442]:
+            - link [ref=e1443] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-alaska-airlines-atmos-rewards-points/
+              - figure [ref=e1444]:
+                - img "10 Best Ways To Redeem Alaska Atmos Rewards Points for Max Value" [ref=e1446]
+            - link "10 Best Ways To Redeem Alaska Atmos Rewards Points for Max Value" [ref=e1447] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-alaska-airlines-atmos-rewards-points/
+          - generic [ref=e1448]:
+            - link [ref=e1449] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+              - figure [ref=e1450]:
+                - img "14 Best Ways To Redeem Emirates Skywards Miles for Max Value" [ref=e1452]
+            - link "14 Best Ways To Redeem Emirates Skywards Miles for Max Value" [ref=e1453] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+          - generic [ref=e1454]:
+            - link [ref=e1455] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-amex-membership-rewards-points/
+              - figure [ref=e1456]:
+                - img "52 Best Ways To Redeem Amex Membership Rewards Points for Max Value" [ref=e1458]
+            - link "52 Best Ways To Redeem Amex Membership Rewards Points for Max Value" [ref=e1459] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-amex-membership-rewards-points/
+    - contentinfo [ref=e1460]:
+      - img [ref=e1461]
+      - img [ref=e1480]
+      - generic [ref=e1499]:
+        - generic [ref=e1500]:
+          - img [ref=e1502]
+          - generic [ref=e1507]:
+            - generic [ref=e1508]:
+              - paragraph [ref=e1509]: Upgrade your travel experience
+              - list [ref=e1510]:
+                - listitem [ref=e1511]:
+                  - link [ref=e1512] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1513]:
+                      - img "Facebook" [ref=e1514]
+                - listitem [ref=e1515]:
+                  - link [ref=e1516] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1517]:
+                      - img "Twitter" [ref=e1518]
+                - listitem [ref=e1519]:
+                  - link [ref=e1520] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1521]:
+                      - img "Instagram" [ref=e1522]
+                - listitem [ref=e1523]:
+                  - link [ref=e1524] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1525]:
+                      - img "Pinterest" [ref=e1526]
+                - listitem [ref=e1527]:
+                  - link [ref=e1528] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1529]:
+                      - img "Linkedin" [ref=e1530]
+                - listitem [ref=e1531]:
+                  - link [ref=e1532] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1533]:
+                      - img "Youtube" [ref=e1534]
+            - generic [ref=e1536]:
+              - list [ref=e1537]:
+                - listitem [ref=e1538]:
+                  - link "News" [ref=e1539] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1540]:
+                  - link "Credit Cards" [ref=e1541] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1542]:
+                  - link "Business" [ref=e1543] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1544]:
+                - listitem [ref=e1545]:
+                  - link "Finance" [ref=e1546] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1547]:
+                  - link "Travel Guides" [ref=e1548] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1549]:
+                  - link "Air Travel" [ref=e1550] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1551]:
+                - listitem [ref=e1552]:
+                  - link "Hotel Guides" [ref=e1553] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1554]:
+                  - link "Beginners" [ref=e1555] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1556]:
+                  - link "About" [ref=e1557] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1558]:
+                - listitem [ref=e1559]:
+                  - link "Podcast" [ref=e1560] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1561]:
+                  - link "Jobs & Careers" [ref=e1562] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1563]:
+                  - link "Contact Us" [ref=e1564] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1565]:
+          - paragraph [ref=e1566]:
+            - link "Privacy Policy" [ref=e1567] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1568] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1569] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1570] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1571] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1572] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1613] [cursor=pointer]
+          - paragraph [ref=e1573]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1574]:
+          - link "DMCA.com Protection Status" [ref=e1575] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1576]
+          - img "Comodo Secure Seal" [ref=e1578]
+        - generic [ref=e1579]:
+          - generic [ref=e1580]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1581]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1582]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1583]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1584]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1585] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1586]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1587]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1589]:
+    - generic [ref=e1590]:
+      - generic [ref=e1591]:
+        - button "close banner" [ref=e1592] [cursor=pointer]:
+          - img "close banner" [ref=e1593]
+        - img "company logo" [ref=e1595]
+      - generic [ref=e1596]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1598]
+        - generic [ref=e1599]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1600] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1601] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1603]:
+        - button "Manage" [ref=e1604] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1605] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1606] [cursor=pointer]
+    - generic [ref=e1608]:
+      - generic [ref=e1609]: "Powered by:"
+      - link "trustarc" [ref=e1610] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1611]

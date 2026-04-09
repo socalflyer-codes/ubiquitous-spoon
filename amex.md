@@ -1,0 +1,1955 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Credit Cards" [ref=e42] [cursor=pointer]:
+                  - /url: /credit-cards/
+            - heading "52 Best Ways To Redeem Amex Membership Rewards Points for Max Value" [level=1] [ref=e43]
+            - generic [ref=e44]:
+              - figure [ref=e45]:
+                - img "Caroline Lupini's image" [ref=e46]
+              - generic [ref=e47]:
+                - generic "Open Tooltip" [ref=e51]: Caroline Lupini
+                - generic [ref=e52]:
+                  - text: "Updated:"
+                  - time [ref=e53]: March 6, 2026, 4:15pm CST
+                - generic [ref=e54]:
+                  - generic [ref=e55]:
+                    - text: "Edited by:"
+                    - generic [ref=e56]: Keri Stooksbury
+                  - generic [ref=e57]:
+                    - text: "&"
+                    - generic [ref=e58]: Michael Y. Park
+          - figure [ref=e59]:
+            - img "52 Best Ways To Redeem Amex Membership Rewards Points for Max Value" [ref=e61]
+        - generic [ref=e62]:
+          - group [ref=e63]:
+            - generic "Jump to Section" [ref=e64] [cursor=pointer]
+          - paragraph [ref=e68]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e69] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e70]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - heading "Key Takeaways" [level=2] [ref=e76]
+                  - list [ref=e78]:
+                    - listitem [ref=e79]: Amex Membership Rewards points are most valuable when transferred to airline partners like Lufthansa Life Miles or Singapore Airlines KrisFlyer, offering high-value redemptions for flights, especially in premium cabins.
+                    - listitem [ref=e80]: Points can also be used for hotel stays through partners like Hilton Honors or Marriott Bonvoy, though the value may vary.
+                    - listitem [ref=e81]: Another option is using points for statement credits or shopping, but these redemptions often provide lower value compared to travel rewards.
+                - paragraph [ref=e82]:
+                  - text: The
+                  - link "American Express Membership Rewards program" [ref=e83] [cursor=pointer]:
+                    - /url: /credit-cards/american-express-membership-rewards-review/
+                  - text: provides amazing redemptions, thanks to its many airline transfer partners. From hops to Hawaii to once-in-a-lifetime trips around the world, dream vacations are often just a matter of finding the right award-flight sweet spot for you.
+                - paragraph [ref=e84]:
+                  - text: You can
+                  - link "transfer Amex Membership Rewards points" [ref=e85] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: to several hotel partners, but transferring to airline partners is often the best use of your Amex points.
+                - paragraph [ref=e86]: Ready for a trip after earning Membership Rewards points? Let’s take a look at how to redeem your Amex points to get the most bang for your buck!
+                - heading "Earn Amex Membership Rewards Points" [level=2] [ref=e87]
+                - paragraph [ref=e88]: If you want to start earning Membership Rewards or boost your current earnings, American Express has several credit cards that could fit your needs.
+                - paragraph [ref=e89]:
+                  - text: Here are the American Express credit cards you can use to
+                  - link "earn Membership Rewards points" [ref=e90] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-earn-american-express-membership-rewards-points/
+                  - text: "for your trip:"
+                - heading "Recommended American Express Cards (Personal)" [level=3] [ref=e91]
+                - generic [ref=e93]:
+                  - generic [ref=e94]:
+                    - img [ref=e95]
+                    - generic [ref=e97]: BEST LOUNGE CARD
+                  - generic [ref=e98]:
+                    - link "Platinum Card® from American Express" [ref=e99] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Platinum Card® from American Express" [ref=e100]
+                    - link "Terms Apply / Rates & Fees" [ref=e101] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TRD/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e102]: Terms Apply / Rates & Fees
+                    - generic [ref=e103]:
+                      - generic [ref=e104]:
+                        - img "Star rating icon" [ref=e107]
+                        - img "Star rating icon" [ref=e110]
+                        - img "Star rating icon" [ref=e113]
+                        - img "Star rating icon" [ref=e116]
+                        - generic [ref=e117]:
+                          - img "Star rating icon" [ref=e119]
+                          - img "Star rating icon" [ref=e121]
+                      - generic [ref=e122]:
+                        - generic [ref=e123]: U.P. Rating
+                        - img [ref=e126]:
+                          - img [ref=e127]
+                    - link "Apply Now" [ref=e130] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e131]
+                      - text: Apply Now
+                    - generic [ref=e134]: (at Amex's secure site)
+                    - generic [ref=e135]:
+                      - heading "Apply With Confidence" [level=4] [ref=e136]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e137]
+                      - paragraph [ref=e138]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e139]:
+                    - generic [ref=e141]:
+                      - link "Platinum Card® from American Express" [ref=e143] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-platinum-card/
+                        - text: Platinum Card
+                        - superscript [ref=e144]: ®
+                        - text: from American Express
+                      - text: The Amex Platinum reigns supreme for luxury travel, offering the best airport lounge access plus generous statement credits, and complimentary elite status.
+                    - generic [ref=e145]:
+                      - generic [ref=e146]:
+                        - generic [ref=e147]:
+                          - generic [ref=e148]: Welcome Offer
+                          - img [ref=e151]:
+                            - img [ref=e152]
+                        - generic [ref=e155]: As High As 175,000 Points. Find Out Your Offer.
+                      - generic [ref=e156]:
+                        - generic [ref=e158]: "UP's Offer Valuation*:"
+                        - generic [ref=e159]: Up to $3,850
+                    - generic [ref=e160]:
+                      - generic [ref=e161]:
+                        - generic [ref=e163]: Annual Fee
+                        - generic [ref=e164]: $895
+                      - generic [ref=e165]:
+                        - generic [ref=e167]: APR
+                        - generic [ref=e168]: See Pay Over Time APR
+                      - generic [ref=e169]:
+                        - generic [ref=e170]:
+                          - generic [ref=e171]: Credit Recommended
+                          - img [ref=e174]:
+                            - img [ref=e175]
+                        - generic [ref=e178]: Good to Excellent
+                    - generic [ref=e179]:
+                      - group [ref=e180]:
+                        - generic "Why We Like This Card" [ref=e181] [cursor=pointer]
+                      - group [ref=e182]:
+                        - generic "Pros & Cons" [ref=e183] [cursor=pointer]
+                      - group [ref=e184]:
+                        - generic "Card Highlights" [ref=e185] [cursor=pointer]
+                - generic [ref=e187]:
+                  - generic [ref=e188]:
+                    - img [ref=e189]
+                    - generic [ref=e191]: BEST FOR DINING
+                  - generic [ref=e192]:
+                    - link "American Express® Gold Card" [ref=e193] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "American Express® Gold Card" [ref=e194]
+                    - link "Terms Apply / Rates & Fees" [ref=e195] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TRD/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e196]: Terms Apply / Rates & Fees
+                    - generic [ref=e197]:
+                      - generic [ref=e198]:
+                        - img "Star rating icon" [ref=e201]
+                        - img "Star rating icon" [ref=e204]
+                        - img "Star rating icon" [ref=e207]
+                        - img "Star rating icon" [ref=e210]
+                        - generic [ref=e211]:
+                          - img "Star rating icon" [ref=e213]
+                          - img "Star rating icon" [ref=e215]
+                      - generic [ref=e216]:
+                        - generic [ref=e217]: U.P. Rating
+                        - img [ref=e220]:
+                          - img [ref=e221]
+                    - link "Apply Now" [ref=e224] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e225]
+                      - text: Apply Now
+                    - generic [ref=e228]: (at Amex's secure site)
+                    - generic [ref=e229]:
+                      - heading "Apply With Confidence" [level=4] [ref=e230]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e231]
+                      - paragraph [ref=e232]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e233]:
+                    - generic [ref=e235]:
+                      - link "American Express® Gold Card" [ref=e237] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-gold-card/
+                        - text: American Express
+                        - superscript [ref=e238]: ®
+                        - text: Gold Card
+                      - text: This is the best card for food lovers who dine out at restaurants (worldwide), order take-out and want big rewards at U.S. supermarkets!
+                    - generic [ref=e239]:
+                      - generic [ref=e240]:
+                        - generic [ref=e241]:
+                          - generic [ref=e242]: Welcome Offer
+                          - img [ref=e245]:
+                            - img [ref=e246]
+                        - generic [ref=e249]: As High As 100,000 Points. Find Out Your Offer.
+                      - generic [ref=e250]:
+                        - generic [ref=e252]: "UP's Offer Valuation*:"
+                        - generic [ref=e253]: Up to $2,200
+                    - generic [ref=e254]:
+                      - generic [ref=e255]:
+                        - generic [ref=e257]: Annual Fee
+                        - generic [ref=e258]: $325
+                      - generic [ref=e259]:
+                        - generic [ref=e261]: APR
+                        - generic [ref=e262]: See Pay Over Time APR
+                      - generic [ref=e263]:
+                        - generic [ref=e264]:
+                          - generic [ref=e265]: Credit Recommended
+                          - img [ref=e268]:
+                            - img [ref=e269]
+                        - generic [ref=e272]: Good to Excellent
+                    - generic [ref=e273]:
+                      - group [ref=e274]:
+                        - generic "Why We Like This Card" [ref=e275] [cursor=pointer]
+                      - group [ref=e276]:
+                        - generic "Pros & Cons" [ref=e277] [cursor=pointer]
+                      - group [ref=e278]:
+                        - generic "Card Highlights" [ref=e279] [cursor=pointer]
+                - paragraph [ref=e280]: Depending on the benefits of the card, you may pay a high annual fee — but high-fee cards generally offer generous rewards and valuable benefits.
+                - generic [ref=e281]:
+                  - strong [ref=e282]: »
+                  - strong [ref=e283]: "Related:"
+                  - link "The 7 Best American Express Business Cards in 2026" [ref=e284] [cursor=pointer]:
+                    - /url: /credit-cards/business/best-amex-business-credit-cards/
+                - heading "Transfer Amex Membership Rewards Points To Travel Partners" [level=2] [ref=e285]
+                - paragraph [ref=e286]:
+                  - text: There are several ways to use your Amex Membership Rewards points, including
+                  - link "flight upgrades" [ref=e287] [cursor=pointer]:
+                    - /url: /credit-cards/upgrade-flights-using-amex-points/
+                  - text: ", redemptions on"
+                  - link "AmexTravel.com" [ref=e288] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/american-express-travel/
+                  - text: ", statement credits, gift cards, merchandise, purchases on Amazon or Ticketmaster, and"
+                  - link "charitable points donations" [ref=e289] [cursor=pointer]:
+                    - /url: /credit-cards/how-to-donate-miles-points-credit-card-rewards-to-charity/
+                  - text: . Our favorite way to redeem points is for luxury travel leveraging
+                  - link "Amex transfer partners" [ref=e290] [cursor=pointer]:
+                    - /url: /credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: .
+                - paragraph [ref=e291]:
+                  - text: Additionally, American Express often runs
+                  - link "transfer bonus promotions" [ref=e292] [cursor=pointer]:
+                    - /url: /news/current-credit-card-transfer-bonuses/
+                  - text: with individual transfer partners, which can be great if you need to book an award flight.
+                - paragraph [ref=e293]:
+                  - text: Transfers to partners usually complete almost instantly, but check the table below to see estimated transfer times.
+                  - strong [ref=e294]: "Remember: Once you transfer points, you can’t undo the transfer."
+                - heading "Amex Airline Transfer Partners" [level=3] [ref=e295]
+                - paragraph [ref=e296]:
+                  - text: With the 17 Amex airline transfer partners, you have access to award flights with members of
+                  - link "Oneworld" [ref=e297] [cursor=pointer]:
+                    - /url: /travel/airlines/oneworld-alliance/
+                  - text: ","
+                  - link "Star Alliance" [ref=e298] [cursor=pointer]:
+                    - /url: /travel/airlines/the-star-alliance/
+                  - text: ", and"
+                  - link "SkyTeam" [ref=e299] [cursor=pointer]:
+                    - /url: /travel/airlines/the-skyteam-alliance/
+                  - text: . You even have access to partners that operate outside the major airline alliances, such as
+                  - link "Etihad Airways" [ref=e300] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-etihad-guest-miles/
+                  - text: and
+                  - link "Virgin Atlantic" [ref=e301] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-virgin-atlantic-miles/
+                  - text: .
+                - table [ref=e305]:
+                  - rowgroup [ref=e306]:
+                    - row "Amex Airline Partner Minimum Transfer Transfer Ratio (Amex > Partner) Transfer Time" [ref=e307]:
+                      - cell "Amex Airline Partner" [ref=e308]:
+                        - paragraph [ref=e309]:
+                          - strong [ref=e310]: Amex Airline Partner
+                      - cell "Minimum Transfer" [ref=e311]:
+                        - paragraph [ref=e312]:
+                          - strong [ref=e313]: Minimum Transfer
+                      - cell "Transfer Ratio (Amex > Partner)" [ref=e314]:
+                        - paragraph [ref=e315]:
+                          - strong [ref=e316]: Transfer Ratio
+                          - strong [ref=e317]: (Amex > Partner)
+                      - cell "Transfer Time" [ref=e318]:
+                        - paragraph [ref=e319]:
+                          - strong [ref=e320]: Transfer Time
+                    - row "Aer Lingus AerClub 1,000 1:1 Almost Instant" [ref=e321]:
+                      - cell "Aer Lingus AerClub" [ref=e322]:
+                        - paragraph [ref=e323]:
+                          - link "Aer Lingus AerClub" [ref=e324] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-aer-lingus-avios/
+                      - cell "1,000" [ref=e325]:
+                        - paragraph [ref=e326]: 1,000
+                      - cell "1:1" [ref=e327]:
+                        - paragraph [ref=e328]: 1:1
+                      - cell "Almost Instant" [ref=e329]:
+                        - paragraph [ref=e330]: Almost Instant
+                    - row "Aeromexico Rewards 1,000 1:1.6 2-12 days" [ref=e331]:
+                      - cell "Aeromexico Rewards" [ref=e332]:
+                        - paragraph [ref=e333]:
+                          - link "Aeromexico Rewards" [ref=e334] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-redeem-aeromexico-rewards-points/
+                      - cell "1,000" [ref=e335]:
+                        - paragraph [ref=e336]: 1,000
+                      - cell "1:1.6" [ref=e337]:
+                        - paragraph [ref=e338]: 1:1.6
+                      - cell "2-12 days" [ref=e339]:
+                        - paragraph [ref=e340]: 2-12 days
+                    - row "Air Canada Aeroplan 1,000 1:1 Almost Instant" [ref=e341]:
+                      - cell "Air Canada Aeroplan" [ref=e342]:
+                        - paragraph [ref=e343]:
+                          - link "Air Canada Aeroplan" [ref=e344] [cursor=pointer]:
+                            - /url: /travel/airlines/best-ways-to-use-aeroplan-miles/
+                      - cell "1,000" [ref=e345]:
+                        - paragraph [ref=e346]: 1,000
+                      - cell "1:1" [ref=e347]:
+                        - paragraph [ref=e348]: 1:1
+                      - cell "Almost Instant" [ref=e349]:
+                        - paragraph [ref=e350]: Almost Instant
+                    - row "Air France-KLM Flying Blue 1,000 1:1 Almost Instant" [ref=e351]:
+                      - cell "Air France-KLM Flying Blue" [ref=e352]:
+                        - paragraph [ref=e353]:
+                          - link "Air France-KLM Flying Blue" [ref=e354] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-air-france-klm-flying-blue-miles/
+                      - cell "1,000" [ref=e355]:
+                        - paragraph [ref=e356]: 1,000
+                      - cell "1:1" [ref=e357]:
+                        - paragraph [ref=e358]: 1:1
+                      - cell "Almost Instant" [ref=e359]:
+                        - paragraph [ref=e360]: Almost Instant
+                    - row "ANA Mileage Club 1,000 1:1 3 days" [ref=e361]:
+                      - cell "ANA Mileage Club" [ref=e362]:
+                        - paragraph [ref=e363]:
+                          - link "ANA Mileage Club" [ref=e364] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-ana-miles/
+                      - cell "1,000" [ref=e365]:
+                        - paragraph [ref=e366]: 1,000
+                      - cell "1:1" [ref=e367]:
+                        - paragraph [ref=e368]: 1:1
+                      - cell "3 days" [ref=e369]:
+                        - paragraph [ref=e370]: 3 days
+                    - row "Avianca LifeMiles 1,000 1:1 Almost Instant" [ref=e371]:
+                      - cell "Avianca LifeMiles" [ref=e372]:
+                        - paragraph [ref=e373]:
+                          - link "Avianca LifeMiles" [ref=e374] [cursor=pointer]:
+                            - /url: /travel/airlines/best-ways-to-redeem-avianca-vuela-lifemiles/
+                      - cell "1,000" [ref=e375]:
+                        - paragraph [ref=e376]: 1,000
+                      - cell "1:1" [ref=e377]:
+                        - paragraph [ref=e378]: 1:1
+                      - cell "Almost Instant" [ref=e379]:
+                        - paragraph [ref=e380]: Almost Instant
+                    - row "The British Airways Club 1,000 1:1 Almost Instant" [ref=e381]:
+                      - cell "The British Airways Club" [ref=e382]:
+                        - paragraph [ref=e383]:
+                          - link "The British Airways Club" [ref=e384] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-british-airways-avios/
+                      - cell "1,000" [ref=e385]:
+                        - paragraph [ref=e386]: 1,000
+                      - cell "1:1" [ref=e387]:
+                        - paragraph [ref=e388]: 1:1
+                      - cell "Almost Instant" [ref=e389]:
+                        - paragraph [ref=e390]: Almost Instant
+                    - row "Cathay Pacific Cathay 1,000 5:4 Up to 1 Week" [ref=e391]:
+                      - cell "Cathay Pacific Cathay" [ref=e392]:
+                        - paragraph [ref=e393]:
+                          - link "Cathay Pacific Cathay" [ref=e394] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-cathay-pacific-asia-miles/
+                      - cell "1,000" [ref=e395]:
+                        - paragraph [ref=e396]: 1,000
+                      - cell "5:4" [ref=e397]:
+                        - paragraph [ref=e398]: 5:4
+                      - cell "Up to 1 Week" [ref=e399]:
+                        - paragraph [ref=e400]: Up to 1 Week
+                    - row "Delta Air Lines SkyMiles 1,000 1:1 Almost Instant" [ref=e401]:
+                      - cell "Delta Air Lines SkyMiles" [ref=e402]:
+                        - paragraph [ref=e403]:
+                          - link "Delta Air Lines SkyMiles" [ref=e404] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-delta-skymiles/
+                      - cell "1,000" [ref=e405]:
+                        - paragraph [ref=e406]: 1,000
+                      - cell "1:1" [ref=e407]:
+                        - paragraph [ref=e408]: 1:1
+                      - cell "Almost Instant" [ref=e409]:
+                        - paragraph [ref=e410]: Almost Instant
+                    - row "Emirates Skywards 1,000 5:4 Almost Instant" [ref=e411]:
+                      - cell "Emirates Skywards" [ref=e412]:
+                        - paragraph [ref=e413]:
+                          - link "Emirates Skywards" [ref=e414] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+                      - cell "1,000" [ref=e415]:
+                        - paragraph [ref=e416]: 1,000
+                      - cell "5:4" [ref=e417]:
+                        - paragraph [ref=e418]: 5:4
+                      - cell "Almost Instant" [ref=e419]:
+                        - paragraph [ref=e420]: Almost Instant
+                    - row "Etihad Guest 1,000 1:1 Almost Instant" [ref=e421]:
+                      - cell "Etihad Guest" [ref=e422]:
+                        - paragraph [ref=e423]:
+                          - link "Etihad Guest" [ref=e424] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-etihad-guest-miles/
+                      - cell "1,000" [ref=e425]:
+                        - paragraph [ref=e426]: 1,000
+                      - cell "1:1" [ref=e427]:
+                        - paragraph [ref=e428]: 1:1
+                      - cell "Almost Instant" [ref=e429]:
+                        - paragraph [ref=e430]: Almost Instant
+                    - row "Club Iberia Plus 1,000 1:1 1-3 days" [ref=e431]:
+                      - cell "Club Iberia Plus" [ref=e432]:
+                        - paragraph [ref=e433]:
+                          - link "Club Iberia Plus" [ref=e434] [cursor=pointer]:
+                            - /url: /travel/airlines/best-ways-to-redeem-iberia-plus-avios/
+                      - cell "1,000" [ref=e435]:
+                        - paragraph [ref=e436]: 1,000
+                      - cell "1:1" [ref=e437]:
+                        - paragraph [ref=e438]: 1:1
+                      - cell "1-3 days" [ref=e439]:
+                        - paragraph [ref=e440]: 1-3 days
+                    - row "JetBlue TrueBlue 250 1:0.8 Almost Instant" [ref=e441]:
+                      - cell "JetBlue TrueBlue" [ref=e442]:
+                        - paragraph [ref=e443]:
+                          - link "JetBlue TrueBlue" [ref=e444] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-jetblue-trueblue-points/
+                      - cell "250" [ref=e445]:
+                        - paragraph [ref=e446]: "250"
+                      - cell "1:0.8" [ref=e447]:
+                        - paragraph [ref=e448]: 1:0.8
+                      - cell "Almost Instant" [ref=e449]:
+                        - paragraph [ref=e450]: Almost Instant
+                    - row "Qantas Frequent Flyer 500 1:1 Almost Instant" [ref=e451]:
+                      - cell "Qantas Frequent Flyer" [ref=e452]:
+                        - paragraph [ref=e453]:
+                          - link "Qantas Frequent Flyer" [ref=e454] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-qantas-points/
+                      - cell "500" [ref=e455]:
+                        - paragraph [ref=e456]: "500"
+                      - cell "1:1" [ref=e457]:
+                        - paragraph [ref=e458]: 1:1
+                      - cell "Almost Instant" [ref=e459]:
+                        - paragraph [ref=e460]: Almost Instant
+                    - row "Qatar Airways Privilege Club 1,000 1:1 Almost Instant" [ref=e461]:
+                      - cell "Qatar Airways Privilege Club" [ref=e462]:
+                        - paragraph [ref=e463]:
+                          - link "Qatar Airways Privilege Club" [ref=e464] [cursor=pointer]:
+                            - /url: /travel/airlines/best-ways-to-redeem-qatar-avios/
+                      - cell "1,000" [ref=e465]:
+                        - paragraph [ref=e466]: 1,000
+                      - cell "1:1" [ref=e467]:
+                        - paragraph [ref=e468]: 1:1
+                      - cell "Almost Instant" [ref=e469]:
+                        - paragraph [ref=e470]: Almost Instant
+                    - row "Singapore Airlines KrisFlyer 1,000 1:1 1-2 days" [ref=e471]:
+                      - cell "Singapore Airlines KrisFlyer" [ref=e472]:
+                        - paragraph [ref=e473]:
+                          - link "Singapore Airlines KrisFlyer" [ref=e474] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/
+                      - cell "1,000" [ref=e475]:
+                        - paragraph [ref=e476]: 1,000
+                      - cell "1:1" [ref=e477]:
+                        - paragraph [ref=e478]: 1:1
+                      - cell "1-2 days" [ref=e479]:
+                        - paragraph [ref=e480]: 1-2 days
+                    - row "Virgin Atlantic Flying Club 1,000 1:1 1-2 days" [ref=e481]:
+                      - cell "Virgin Atlantic Flying Club" [ref=e482]:
+                        - paragraph [ref=e483]:
+                          - link "Virgin Atlantic Flying Club" [ref=e484] [cursor=pointer]:
+                            - /url: /travel/airlines/how-to-redeem-virgin-atlantic-miles/
+                      - cell "1,000" [ref=e485]:
+                        - paragraph [ref=e486]: 1,000
+                      - cell "1:1" [ref=e487]:
+                        - paragraph [ref=e488]: 1:1
+                      - cell "1-2 days" [ref=e489]:
+                        - paragraph [ref=e490]: 1-2 days
+                - generic [ref=e491]:
+                  - strong [ref=e492]: "Hot Tip:"
+                  - paragraph [ref=e494]: "American Express charges a small fee to transfer Membership Rewards to any U.S. domestic airline rewards program, which in this case means Delta and JetBlue. The fee isn’t huge: 0.06 cents per point, up to a maximum of $99."
+                - heading "Amex Hotel Transfer Partners" [level=3] [ref=e495]
+                - paragraph [ref=e496]:
+                  - text: "Amex lets you transfer to 3 hotel loyalty programs: Hilton Honors, Marriott Bonvoy, and Radisson Rewards. That said,"
+                  - strong [ref=e497]: hotel points transfers are not the best way to use your points.
+                  - text: You can get much more value by transferring to airline partners.
+                - paragraph [ref=e498]: In a pinch, though, the Amex hotel partnerships can be helpful.
+                - table [ref=e502]:
+                  - rowgroup [ref=e503]:
+                    - row "Amex Hotel Partner Minimum Transfer Transfer Ratio(Amex > Partner) Transfer Time" [ref=e504]:
+                      - cell "Amex Hotel Partner" [ref=e505]:
+                        - paragraph [ref=e506]:
+                          - strong [ref=e507]: Amex Hotel Partner
+                      - cell "Minimum Transfer" [ref=e508]:
+                        - paragraph [ref=e509]:
+                          - strong [ref=e510]: Minimum Transfer
+                      - cell "Transfer Ratio(Amex > Partner)" [ref=e511]:
+                        - paragraph [ref=e512]:
+                          - strong [ref=e513]: Transfer Ratio(Amex > Partner)
+                      - cell "Transfer Time" [ref=e514]:
+                        - paragraph [ref=e515]:
+                          - strong [ref=e516]: Transfer Time
+                    - row "Choice Privileges 1,000 1:1 Almost Instant" [ref=e517]:
+                      - cell "Choice Privileges" [ref=e518]:
+                        - paragraph [ref=e519]:
+                          - link "Choice Privileges" [ref=e520] [cursor=pointer]:
+                            - /url: /travel/hotels/best-ways-to-redeem-choice-privileges-hotel-rewards-points/
+                      - cell "1,000" [ref=e521]:
+                        - paragraph [ref=e522]: 1,000
+                      - cell "1:1" [ref=e523]:
+                        - paragraph [ref=e524]: 1:1
+                      - cell "Almost Instant" [ref=e525]:
+                        - paragraph [ref=e526]: Almost Instant
+                    - row "Hilton Honors 1,000 1:2 Almost Instant" [ref=e527]:
+                      - cell "Hilton Honors" [ref=e528]:
+                        - paragraph [ref=e529]:
+                          - link "Hilton Honors" [ref=e530] [cursor=pointer]:
+                            - /url: /travel/hotels/best-ways-to-redeem-hilton-points/
+                      - cell "1,000" [ref=e531]:
+                        - paragraph [ref=e532]: 1,000
+                      - cell "1:2" [ref=e533]:
+                        - paragraph [ref=e534]: 1:2
+                      - cell "Almost Instant" [ref=e535]:
+                        - paragraph [ref=e536]: Almost Instant
+                    - row "Marriott Bonvoy 1,000 1:1 Almost Instant" [ref=e537]:
+                      - cell "Marriott Bonvoy" [ref=e538]:
+                        - paragraph [ref=e539]:
+                          - link "Marriott Bonvoy" [ref=e540] [cursor=pointer]:
+                            - /url: /travel/hotels/best-ways-to-redeem-marriott-points/
+                      - cell "1,000" [ref=e541]:
+                        - paragraph [ref=e542]: 1,000
+                      - cell "1:1" [ref=e543]:
+                        - paragraph [ref=e544]: 1:1
+                      - cell "Almost Instant" [ref=e545]:
+                        - paragraph [ref=e546]: Almost Instant
+                - paragraph [ref=e548]: Advertisement
+                - heading "The 52 Best Ways To Use Your Amex Membership Rewards Points" [level=2] [ref=e551]
+                - paragraph [ref=e552]: Transferring your points to airline partners is how you can get the most value out of your points.
+                - paragraph [ref=e553]: The award flights described below are typically centered around North America. You’ll find first class, business class, and economy class from the U.S., as well as great deals between other regions.
+                - paragraph [ref=e554]: Of course, there may be other great award redemptions available, and everyone has different opinions on travel destinations. If you’ve found a good one we haven’t listed here, please feel
+                - heading "1. Fly Singapore Suites in an A380 (KrisFlyer Miles)" [level=3] [ref=e555]
+                - paragraph [ref=e556]:
+                  - text: Most people transfer points to the
+                  - link "Singapore KrisFlyer miles program" [ref=e557] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/
+                  - text: because they’re after the Singapore Suites, the luxury first-class experience that Singapore Airlines is famous for. If you book 2 tickets with a loved one,
+                  - strong [ref=e558]: you can even experience a double bed in the sky!
+                - paragraph [ref=e559]: Awards for the suites cost 156,000 miles one-way from New York (JFK) to Singapore (SIN). These suites are only available on the Airbus A380, so be sure to check the destinations when planning.
+                - 'figure "The new A380 Singapore Suites feature a double bed and separate lounge chair. Image Credit: Greg Stone" [ref=e561]':
+                  - 'link "Singapore Airlines new A380 First Suite Double Bed. Credit: Singapore Airlines" [ref=e562] [cursor=pointer]':
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/11/33-Singapore-Airlines-new-A380-First-Suite-Double-Bed.jpg?auto=webp&disable=upscale
+                    - 'img "Singapore Airlines new A380 First Suite Double Bed. Credit: Singapore Airlines" [ref=e564]'
+                  - generic [ref=e565]:
+                    - text: "The new A380 Singapore Suites feature a double bed and separate lounge chair. Image Credit:"
+                    - link "Greg Stone" [ref=e566] [cursor=pointer]:
+                      - /url: /author/greg/
+                - paragraph [ref=e567]: The A380 flies between Singapore and a number of other cities, too, including London (LHR), Sydney (SYD), Melbourne (MEL), Frankfurt (FRA), Paris (CDG), Tokyo (NRT), Mumbai (BOM), Delhi (DEL), and Hong Kong (HKG).
+                - paragraph [ref=e568]:
+                  - text: Singapore Airlines is known for having one of the best (if not
+                  - emphasis [ref=e569]: the
+                  - text: best) first class/suites experiences. So, if you can, definitely book award travel in Singapore Suites with your Amex points.
+                - paragraph [ref=e570]:
+                  - text: "Another great thing about the Singapore Airlines program is that it’s a transfer partner of all the major points currencies: American Express Membership Rewards,"
+                  - link "Capital One Miles" [ref=e571] [cursor=pointer]:
+                    - /url: /credit-cards/capital-one-transfer-partners/
+                  - text: ","
+                  - link "Chase Ultimate Rewards" [ref=e572] [cursor=pointer]:
+                    - /url: /credit-cards/chase-ultimate-rewards-transfer-partners/
+                  - text: ","
+                  - link "Citi ThankYou Rewards" [ref=e573] [cursor=pointer]:
+                    - /url: /credit-cards/citi-thankyou-points-transfer-partners/
+                  - text: ", and"
+                  - link "Marriott Bonvoy" [ref=e574] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-transfer-partners/
+                  - text: . That means that if you don’t have quite enough Membership Rewards points, you can top off your Singapore Airlines account with other currencies.
+                - paragraph [ref=e575]:
+                  - text: It’s tough to find more than 1 Singapore Suite at the saver level, but you might be able to waitlist a second seat, book business class, and cross your fingers and hope you clear the waitlist. Plus,
+                  - link "Singapore KrisFlyer offers dynamic Access Awards" [ref=e576] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/news/singapore-krisflyer-devaluation-2025/
+                  - text: ", which are more widely available, though the cost might also be significantly higher."
+                - generic [ref=e577]:
+                  - strong [ref=e578]: "Hot Tip:"
+                  - paragraph [ref=e580]:
+                    - text: Need help booking? See our step-by-step guide for
+                    - link "booking Singapore Suites or first class" [ref=e581] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-singapore-airlines-first-class/
+                    - text: .
+                - heading "2. Book Lufthansa First Class to Europe (Lifemiles)" [level=3] [ref=e582]
+                - paragraph [ref=e583]:
+                  - text: Arguably, one of the classiest ways to fly to Europe in style is on
+                  - strong [ref=e584]: Lufthansa first class
+                  - text: . Don’t forget about the First Class Terminal (Frankfurt only) and the First Class Lounges! These take an already amazing experience to another level.
+                - paragraph [ref=e585]: Avianca Lifemiles charges 87,000 miles to fly one-way. Best of all? Taxes and fees are just $41 per person!
+                - paragraph [ref=e586]: This is a stunning redemption, and flying Lufthansa without reasonable surcharges is often difficult. Lufthansa award flights in first class are almost never available more than 15 days in advance to partners, so you’ll have to book pretty close to departure.
+                - paragraph [ref=e587]:
+                  - text: Luckily,
+                  - link "Avianca Lifemiles" [ref=e588] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-redeem-avianca-vuela-lifemiles/
+                  - text: doesn’t assess any close-in booking fees! Avianca Lifemiles provides the most affordable way to fly on Lufthansa first class from the U.S. to Europe without paying about $600 in fuel surcharges each way.
+                - 'figure "Lufthansa first class in the nose of the 747-8 is like your own private jet, but with even better service. Image Credit: Cherag Dubash" [ref=e590]':
+                  - 'img "Lufthansa B747-8 First Class Seat 1A and 1K. Credit: Cherag Dubash" [ref=e592]'
+                  - generic [ref=e593]:
+                    - text: "Lufthansa first class in the nose of the 747-8 is like your own private jet, but with even better service. Image Credit:"
+                    - link "Cherag Dubash" [ref=e594] [cursor=pointer]:
+                      - /url: /author/cherag/
+                - paragraph [ref=e595]:
+                  - strong [ref=e596]: First class from the U.S. to Europe costs 87,000 Lifemiles plus $41
+                  - text: "in taxes and fees. Here are great example routes:"
+                - list [ref=e597]:
+                  - listitem [ref=e598]:
+                    - strong [ref=e599]: Los Angeles (LAX) to Frankfurt (FRA)
+                    - text: —
+                    - emphasis [ref=e600]: availability is tough
+                  - listitem [ref=e601]:
+                    - strong [ref=e602]: Houston (IAH) to Frankfurt (FRA)
+                    - text: —
+                    - emphasis [ref=e603]: availability is tough
+                  - listitem [ref=e604]:
+                    - strong [ref=e605]: San Francisco (SFO) to Munich (MUC)
+                    - text: —
+                    - emphasis [ref=e606]: availability is sporadic
+                  - listitem [ref=e607]:
+                    - strong [ref=e608]: Dallas Fort Worth (DFW) to Frankfurt (FRA)
+                    - text: —
+                    - emphasis [ref=e609]: usually good availability
+                  - listitem [ref=e610]:
+                    - strong [ref=e611]: Washington, D.C. (IAD) to Frankfurt (FRA)
+                    - text: —
+                    - emphasis [ref=e612]: usually good availability
+                  - listitem [ref=e613]:
+                    - strong [ref=e614]: New York (JFK) to Frankfurt (FRA)
+                    - text: —
+                    - emphasis [ref=e615]: usually
+                    - emphasis [ref=e616]: good availability
+                - paragraph [ref=e617]:
+                  - text: Is Europe on your bucket list? We’ve written an extensive guide on
+                  - link "flying to Europe with points and miles" [ref=e618] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-europe-with-points/
+                  - text: .
+                - paragraph [ref=e619]:
+                  - strong [ref=e620]: Need help booking?
+                  - text: Check out our step-by-step guide to
+                  - link "booking first class on Lufthansa" [ref=e621] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-lufthansa-first-class/
+                  - text: .
+                - generic [ref=e622]:
+                  - strong [ref=e623]: "Hot Tip:"
+                  - paragraph [ref=e625]:
+                    - text: Enjoy your trip home from Frankfurt even more if you have the
+                    - link "Platinum Card® from American Express" [ref=e626] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/american-express-platinum-card/
+                      - text: Platinum Card
+                      - superscript [ref=e627]: ®
+                      - text: from American Express
+                    - text: . You’ll get access to the
+                    - link "Priority Pass program" [ref=e628] [cursor=pointer]:
+                      - /url: /travel/airports/priority-pass-guide/
+                    - text: upon enrollment, which allows you to use lounges in the airport, including the LuxxLounge and the Primeclass Lounge in Frankfurt.
+                - heading "3. Fly Virgin Atlantic Upper Class to Europe (Flying Blue)" [level=3] [ref=e629]
+                - paragraph [ref=e630]:
+                  - link "Air France-KLM Flying Blue" [ref=e631] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-air-france-klm-flying-blue-miles/
+                  - text: is one of the few loyalty programs that can bypass the majority of fuel surcharges that Virgin Atlantic levies on its flights.
+                - paragraph [ref=e632]: For example, if you used Flying Blue points, you could expect to pay about $200 per person in surcharges to fly one-way from the U.S. to Europe in Virgin Atlantic Upper Class. That’s in addition to your points cost of about 74,000 to 106,500 miles. In contrast, if you book with Virgin Atlantic’s own points, you’d pay about $975 per person in surcharges tacked onto the base points redemption.
+                - paragraph [ref=e633]: Availability on Virgin Atlantic in Upper Class tends to be quite good, so you shouldn’t have many issues booking this flight, especially far in advance.
+                - 'figure "Enjoy Virgin’s Upper Class with Flying Blue miles. Image Credit: Daniel Ross" [ref=e635]':
+                  - img "Virgin Atlantic A350 Upper Suite in the seat" [ref=e637]
+                  - generic [ref=e638]:
+                    - text: "Enjoy Virgin’s Upper Class with Flying Blue miles. Image Credit:"
+                    - link "Daniel Ross" [ref=e639] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/daniel/
+                - generic [ref=e640]:
+                  - strong [ref=e641]: "Hot Tip:"
+                  - paragraph [ref=e643]:
+                    - text: Virgin Atlantic used to charge about 74,000 points for flights from the U.S. to Europe, but that’s dropped dramatically in some cases. We found plenty of availability in Upper Class from New York to London or Paris at 47,500 points (plus those $975 or so in surcharges, of course). So that’s an option if you’re dead set against using cash for a flight. If you’re still not sure what to do to join Upper Class, check out our guide to
+                    - link "booking Virgin Atlantic Upper Class" [ref=e644] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-virgin-atlantic-upper-class/
+                    - text: "!"
+                - heading "4. Travel to the Middle East or North Africa From the U.S. (KrisFlyer Miles)" [level=3] [ref=e645]
+                - paragraph [ref=e646]:
+                  - text: Singapore Airlines offers great pricing to
+                  - link "the Middle East and North Africa" [ref=e647] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-middle-east-and-north-africa-with-points/
+                  - text: from the U.S. You can
+                  - link "redeem KrisFlyer miles" [ref=e648] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-singapore-airlines-krisflyer-miles/
+                  - text: for travel on Star Alliance member airlines, including United, EgyptAir, Ethiopian, SWISS, and Lufthansa.
+                - paragraph [ref=e649]: On these airlines, you can get to the Middle East or North Africa for 60,000 miles one-way in economy class, 114,500 miles one-way in business class, or 137,000 miles one-way in first class.
+                - 'figure "United Polaris seat on the Boeing 767-300. Image Credit: Victoria M. Walker" [ref=e651]':
+                  - img "United Polaris Boeing 767-300" [ref=e653]
+                  - generic [ref=e654]:
+                    - text: "United Polaris seat on the Boeing 767-300. Image Credit:"
+                    - link "Victoria M. Walker" [ref=e655] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/victoria/
+                - generic [ref=e656]:
+                  - strong [ref=e657]: »
+                  - strong [ref=e658]: "Related:"
+                  - link "The Best Ways To Fly to the Middle East and North Africa With Points and Miles" [ref=e659] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-middle-east-and-north-africa-with-points/
+                - heading "5. Fly to Central or South Africa From the U.S. (KrisFlyer Miles)" [level=3] [ref=e660]
+                - paragraph [ref=e661]:
+                  - text: Singapore Airlines has a pretty good award price for travel to Central and South Africa in business class. A
+                  - strong [ref=e662]: one-way business class flight costs you 122,500
+                  - strong [ref=e663]: miles
+                  - text: when you fly with a Star Alliance partner airline.
+                - paragraph [ref=e664]: This pricing is higher than United, which requires at least 80,000 miles each way to fly Star Alliance partners to Central and South Africa.
+                - heading "6. Fly to Europe in Economy From the U.S. (KrisFlyer Miles)" [level=3] [ref=e665]
+                - paragraph [ref=e666]:
+                  - text: Singapore offers a great price to
+                  - strong [ref=e667]: fly from the U.S. to Europe in economy class at 32,500 miles in each direction on Star Alliance member airlines
+                  - text: .
+                - heading "7. Travel Between South Pacific Islands (KrisFlyer Miles)" [level=3] [ref=e668]
+                - 'figure "Singapore Airline Boeing 777-300 ER business class cabin. Image Credit: Ehsan Haque" [ref=e670]':
+                  - img "6. singapore business 777 entire business class cabin from back" [ref=e672]
+                  - generic [ref=e673]:
+                    - text: "Singapore Airline Boeing 777-300 ER business class cabin. Image Credit:"
+                    - link "Ehsan Haque" [ref=e674] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/ehsanhaque/
+                - paragraph [ref=e675]: This is an amazing way to do some Pacific Island hopping if you’re able to take an extended trip.
+                - paragraph [ref=e676]: Singapore Airlines charges 14,500 miles, 38,000 miles, and 52,000 miles each way for travel in economy, business, and first class, respectively, within the South Pacific.
+                - paragraph [ref=e677]: Availability can be tough to find on many of these routes, but if you have flexibility, you can’t beat using your Singapore Airlines miles for travel between South Pacific islands in business or first class.
+                - heading "8. Fly United in Business or First Within the U.S. (KrisFlyer Miles)" [level=3] [ref=e678]
+                - paragraph [ref=e679]: Singapore Airlines has a handful of other sweet spots in its award chart. Flights on United within the U.S. in business or first class are someof them. Since United MileagePlus no longer offers an award chart, its pricing can often be much higher.
+                - paragraph [ref=e680]: You can redeem KrisFlyer miles to fly on United Airlines within the U.S. for 29,000 miles in business class or 43,000 miles in first class.
+                - 'figure "Flying on United Polaris is a great way to try a new product en route to Europe. Image Credit: Stephen Au" [ref=e682]':
+                  - link "United Polaris 787-10" [ref=e683] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/05/United-Polaris-787-10-seat-e1560620590195.jpg?auto=webp&disable=upscale
+                    - img "United Polaris 787-10" [ref=e685]
+                  - generic [ref=e686]:
+                    - text: "Flying on United Polaris is a great way to try a new product en route to Europe. Image Credit:"
+                    - link "Stephen Au" [ref=e687] [cursor=pointer]:
+                      - /url: /author/stephen/
+                - heading "9. Fly Between the Continental U.S. and Hawaii (KrisFlyer Miles)" [level=3] [ref=e688]
+                - paragraph [ref=e689]:
+                  - text: You can redeem your Singapore Airlines KrisFlyer miles for a good value between the continental U.S. and
+                  - link "Hawaii" [ref=e690] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-hawaii-with-points/
+                  - text: in all classes of service for travel on Star Alliance airlines.
+                - paragraph [ref=e691]: One-way prices are 20,500 miles, 43,000 miles, and 57,500 miles in economy, business, and first class, respectively. United no longer publishes an award chart, so it’s impossible to precisely predict its redemption tiers, but its pricing tends to be much higher.
+                - heading "10. Fly Round-Trip in ANA Business Class to Japan (ANA Mileage Club)" [level=3] [ref=e692]
+                - paragraph [ref=e693]:
+                  - text: ANA used to have an awesome distance-based award chart allowing 3 stopovers for no additional cost. This was a great deal, but now ANA has more common region-based award charts for
+                  - link "flights operated by ANA" [ref=e694] [cursor=pointer]:
+                    - /url: https://www.ana.co.jp/en/us/amc/reference/tukau/award/int/usage.html
+                  - text: and
+                  - link "flights on ANA’s partner airlines" [ref=e695] [cursor=pointer]:
+                    - /url: https://www.ana.co.jp/en/us/amc/reference/tukau/award/tk/usage.html
+                  - text: .
+                - paragraph [ref=e696]: Booking awards with partners also means you’re on the hook for carrier-imposed surcharges. Sometimes, you can get lower fees on partner flights through United, Turkish, Air New Zealand, and Air Canada (depending on the routes).
+                - paragraph [ref=e697]:
+                  - text: ANA allows 1 stopover and 1 open-jaw (including backtracking) on both ANA and partner flights, though you should closely read the fine print before you book. Thanks to this tiny bit of flexibility in the new scheme,
+                  - strong [ref=e698]: you still have a lot of options for multiple destinations on 1 ticket
+                  - text: "!"
+                - 'figure "ANA business class. Image Credit: Stephen Au" [ref=e700]':
+                  - link "ANA Business Class" [ref=e701] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/03/ANA-Business-Class-2.jpg?auto=webp&disable=upscale
+                    - img "ANA Business Class" [ref=e703]
+                  - generic [ref=e704]: "ANA business class. Image Credit: Stephen Au"
+                - paragraph [ref=e705]:
+                  - text: There’s great value to be had by transferring your Membership Rewards points to
+                  - link "ANA Mileage Club" [ref=e706] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-ana-miles/
+                  - text: . One of these is
+                  - link "flights to Japan" [ref=e707] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-japan-with-points/
+                  - text: .
+                - paragraph [ref=e708]: ANA flights from North America to Japan cost 105,000 miles round-trip in business class during the regular season and can go as low as 100,000 miles during the low season. Flights on partners always cost 85,000 miles in business class.
+                - paragraph [ref=e709]:
+                  - text: Flying ANA in economy class costs you 40,000 miles in the low season, while flights on partners always cost 50,000 miles. For 2025, the low season is considered December 1-December 24. In 2026, low season is January 8-February 28, April 1-April 28. This gives you plenty of time to book an award flight to catch the
+                  - link "cherry blossoms" [ref=e710] [cursor=pointer]:
+                    - /url: /travel/japan-cherry-blossom-festival-guide/
+                  - text: in early April!
+                - paragraph [ref=e711]:
+                  - text: Need help booking? See our step-by-step guide to
+                  - link "booking ANA business class" [ref=e712] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-ana-business-class/
+                  - text: .
+                - generic [ref=e713]:
+                  - strong [ref=e714]: "Hot Tip:"
+                  - paragraph [ref=e716]: You can also transfer points from Marriott Bonvoy to ANA Mileage Club.
+                - heading "11. Book North America to Asia 1 (ANA Mileage Club)" [level=3] [ref=e717]
+                - paragraph [ref=e718]:
+                  - text: ANA includes mainland China, Hong Kong, Macau, Taiwan, Guam, and the Philippines in its Asia 1 region (confusingly referred to as “Zone 3” on its maps and award charts). ANA
+                  - strong [ref=e719]: business class from North America to these countries costs 105,000 miles round-trip during the low season
+                  - text: .
+                - paragraph [ref=e720]: ANA’s definition of North America is Canada, Mexico, and the U.S., including Alaska. Though Central America is part of North America, ANA lumps it in with all of South America when it comes to its award charts.
+                - paragraph [ref=e721]: If you’re looking at flying with a partner airline, the deal isn’t quite as good at 130,000 miles. That’s more expensive than flying ANA during high season. Partner flights in economy class cost 60,000 miles year-round, while ANA off-peak is a bargain at 45,000.
+                - heading "12. Fly Etihad Business Class to Africa or the Middle East (Air Canada Aeroplan)" [level=3] [ref=e722]
+                - paragraph [ref=e723]: Aeroplan award flights to the Middle East or Africa start at 90,000 or 110,000 points one-way. You can also book first class for 130,000 or 140,000 points. The lower numbers are for when your total flight distance is 6,001 to 8,000 miles. If your total flight distance is 8,001 or more miles, it’s the higher redemption price.
+                - paragraph [ref=e724]: However, since Aeroplan has implemented dynamic pricing, these rates can be substantially higher.
+                - 'figure "Etihad Airways Airbus A380 business class. Image Credit: Greg Stone" [ref=e726]':
+                  - link "Etihad Airways Airbus A380 Business Class Seat 13G" [ref=e727] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/09/15-Etihad-Airways-AIrbus-A380-Business-Class-Seat-13G.jpg?auto=webp&disable=upscale
+                    - img "Etihad Airways Airbus A380 Business Class Seat 13G" [ref=e729]
+                  - generic [ref=e730]: "Etihad Airways Airbus A380 business class. Image Credit: Greg Stone"
+                - paragraph [ref=e731]:
+                  - strong [ref=e732]: Need help booking?
+                  - text: Check out our
+                  - link "step-by-step instructions on how to book Etihad business class" [ref=e733] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-etihad-business-class/
+                  - text: "!"
+                - heading "13. Fly From North America to Asia 2 (ANA Mileage Club)" [level=3] [ref=e734]
+                - paragraph [ref=e735]: ANA’s Asia 2 region includes India, Indonesia, Malaysia, Myanmar, Singapore, Thailand, and Vietnam, but also “stan” countries like Uzbekistan, Pakistan, and Kazakhstan. And it doesn’t stop there! Asia 2 also includes areas such as Sri Lanka and Russia east of the Urals. To make it a little more difficult, ANA also refers to Asia 2 as “Zone 4.”
+                - paragraph [ref=e736]: Some of these countries are usually quite expensive to reach from North America, so using miles can present incredible value. Round-trip ANA business class to Asia 2 countries during the low season costs 125,000 miles, while economy costs 55,000 miles.
+                - paragraph [ref=e737]:
+                  - strong [ref=e738]: Need help booking?
+                  - text: Check out our step-by-step guide to
+                  - link "booking business class with ANA’s Star Alliance partner EVA Air" [ref=e739] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-eva-air-business-class/
+                  - text: ", one of the best business classes in the sky."
+                - generic [ref=e740]:
+                  - strong [ref=e741]: "Hot Tip:"
+                  - paragraph [ref=e743]: Flying to Asian countries besides Japan also carries lower fuel surcharges than flying directly to Japan on ANA — even when your flights to Asia go through Japan!
+                - heading "14. Book North America to Europe on Partners (ANA Mileage Club)" [level=3] [ref=e744]
+                - paragraph [ref=e745]: Flying one of ANA’s partner airlines to Japan on miles isn’t as good as redeeming miles for ANA flights directly, but the award chart does have a few solid partner redemptions.
+                - paragraph [ref=e746]: You can fly round-trip from the U.S. to Europe in business class for 100,000 miles or in economy for 55,000 miles. This price used to be a lot better, but it’s still better than many competitors’ prices.
+                - paragraph [ref=e747]:
+                  - text: Watch out for carrier-imposed surcharges that can really add up. If you can,
+                  - strong [ref=e748]:
+                    - text: find availability on LOT Polish, Air Canada,
+                    - link "Turkish Airlines" [ref=e749] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/turkish-airlines-review/
+                    - text: ", or United Airlines to avoid higher taxes and fees"
+                  - text: .
+                - heading "15. Travel From North America to Africa or the Middle East in Economy (ANA Mileage Club)" [level=3] [ref=e750]
+                - paragraph [ref=e751]: ANA also offers good pricing in economy class from North America to Africa and the Middle East. A round-trip flight from Los Angeles (LAX) to Cape Town (CPT) costs 70,000 miles in economy.
+                - generic [ref=e752]:
+                  - strong [ref=e753]: »
+                  - strong [ref=e754]: "Related:"
+                  - link "The Best Ways To Fly to South Africa With Points and Miles" [ref=e755] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-south-africa-with-points-and-miles/
+                - heading "16. Take Flights Within Africa and the Middle East (ANA Mileage Club)" [level=3] [ref=e756]
+                - paragraph [ref=e757]: Flights within Africa can be expensive, but ANA hands you a pretty great option to use miles instead.
+                - paragraph [ref=e758]:
+                  - text: You need 35,000 miles for round-trip in economy class within Africa and the Middle East when you fly Star Alliance partners, including South African Airways,
+                  - link "Ethiopian Airlines" [ref=e759] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/ethiopian-airlines-review/
+                  - text: ", and Egypt Air."
+                - heading "17. Book Flights From the U.S. to Southern South America (ANA Mileage Club)" [level=3] [ref=e760]
+                - paragraph [ref=e761]:
+                  - text: "Many award charts split South America into 2 regions: northern South America and southern South America. Sometimes this is beneficial, but other times it isn’t, especially when you’re trying to get to the southern part of the continent from the Northern Hemisphere."
+                  - strong [ref=e762]: ANA, however, considers South America a single region.
+                  - text: It even includes Central America in its South America zone, even though it’s technically part of North America.
+                - paragraph [ref=e763]:
+                  - text: Since ANA doesn’t fly to South America, though, you’ll have to utilize the
+                  - link "ANA Partner Award Chart" [ref=e764] [cursor=pointer]:
+                    - /url: https://www.ana.co.jp/en/us/amc/partner-flight-awards/
+                  - text: . ANA charges 96,000 miles round-trip in business and 60,000 miles round-trip in economy class to fly from North America to South America.
+                - paragraph [ref=e765]: If you’re planning to go to a northern South American country (like Peru or Colombia) or a Central American country (like Costa Rica or Nicaragua), it’s a good idea to check other airlines’ redemptions before you book with ANA.
+                - heading "18. Fly Continental U.S. to Hawaii on Delta in Economy (Flying Blue)" [level=3] [ref=e766]
+                - paragraph [ref=e767]: One great redemption from the Flying Blue program is for flights to Hawaii from the continental U.S.
+                - paragraph [ref=e768]: Round-trip flights cost 35,000 Flying Blue miles and a little over $20 in fees. Considering that flights to Hawaii from the East Coast usually cost $650 to over $900 round-trip, you can find great redemptions even at the lower end of the spectrum.
+                - 'figure "Delta Airbus A220 economy class seat. Image Credit: Greg Stone" [ref=e770]':
+                  - img "Delta Airbus A220 Economy Class Seat" [ref=e772]
+                  - generic [ref=e773]: "Delta Airbus A220 economy class seat. Image Credit: Greg Stone"
+                - paragraph [ref=e774]:
+                  - text: Award prices start at 35,000 Flying Blue miles round-trip and can go higher from there.
+                  - strong [ref=e775]: Be sure to look for mileage prices around 35,000, or else you’ll pay way more than you should!
+                - heading "19. Redeem Flying Blue Promo Rewards (Flying Blue)" [level=3] [ref=e776]
+                - paragraph [ref=e777]:
+                  - text: Flying Blue has special
+                  - link "Promo Rewards" [ref=e778] [cursor=pointer]:
+                    - /url: /news/flying-blue-promo-rewards/
+                  - text: for award tickets that are usually 25% to 50% off economy class and business class from Europe to certain cities.
+                - paragraph [ref=e779]:
+                  - text: The Promo Award that most U.S.-based flyers find useful is from Europe to North American cities. For example, we found flights from Paris to New York City for
+                  - strong [ref=e780]: only 11,250 points at 25% off in economy
+                  - text: ", plus just under $165 in surcharges."
+                - paragraph [ref=e781]: Speaking of that, surcharges tend to be a little higher on Flying Blue awards, but they’re not terrible. If you consider how many miles you’re saving, it might be just what you need.
+                - heading "20. Make Use of Flying Blue’s Weird Region Definitions (Flying Blue)" [level=3] [ref=e782]
+                - 'figure "Image Credit: Daniel Ross" [ref=e784]':
+                  - img "Air France Business Class Paris CDG Airbus A350" [ref=e786]
+                  - generic [ref=e787]: "Image Credit: Daniel Ross"
+                - paragraph [ref=e788]:
+                  - text: Flying Blue has odd region definitions that you can take advantage of for incredible awards! For example, the program considers
+                  - strong [ref=e789]: Algeria, Morocco, and Tunisia
+                  - text: as part of Europe. They’re grouped under what
+                  - link "Air France" [ref=e790] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/air-france-review/
+                  - text: /KLM calls “Europe 3.”
+                - paragraph [ref=e791]:
+                  - text: Right away, this means 75,000 miles for round-trip itineraries in economy class from the U.S. and 150,000 miles for round-trips in business class. And since these countries are all considered part of Europe,
+                  - strong [ref=e792]: Promo Rewards for Europe could also apply to these destinations.
+                - heading "21. Fly to Mexico for the Same Price as Flying Around the U.S. (Flying Blue)" [level=3] [ref=e793]
+                - paragraph [ref=e794]: Most airline award programs separate Mexico from the U.S. in their award charts. Flying Blue, however, counts them as the same region. That means you can fly from the U.S. to Mexico round-trip in economy for only 29,000.
+                - heading "22. Fly to the Caribbean From the U.S. (Flying Blue)" [level=3] [ref=e795]
+                - paragraph [ref=e796]: Flying Blue also has pretty solid prices for flights to the Caribbean. One-way flights in economy class can be had for as few as 25,000 Flying Blue points and in business for as little as 67,500 points.
+                - paragraph [ref=e797]:
+                  - text: For more information, check out our
+                  - link "guide to flying to the Caribbean with points and miles" [ref=e798] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-the-caribbean-with-points/
+                  - text: .
+                - heading "23. Book Insanely Cheap Economy Flights to the South Pacific (Flying Blue)" [level=3] [ref=e799]
+                - paragraph [ref=e800]:
+                  - text: Flying Blue charges a low number of miles for flights to Tahiti and other islands in the
+                  - link "South Pacific" [ref=e801] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-fly-to-the-south-pacific-with-points/
+                  - text: ": 51,000 miles for a round-trip economy ticket or 128,000 in business."
+                - paragraph [ref=e802]: "There’s really only 1 valid route here:"
+                - list [ref=e803]:
+                  - listitem [ref=e804]:
+                    - strong [ref=e805]: Los Angeles (LAX) to Tahiti (PPT)
+                - heading "24. Fly to Oceania From the U.S. (Aeroplan)" [level=3] [ref=e806]
+                - paragraph [ref=e807]:
+                  - text: There are
+                  - link "good Aeroplan redemptions" [ref=e808] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-use-aeroplan-miles/
+                  - text: worth mentioning, too.
+                - paragraph [ref=e809]:
+                  - text: You can fly from the U.S. to
+                  - link "Australia" [ref=e810] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-australia-with-points/
+                  - text: ","
+                  - link "New Zealand" [ref=e811] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-new-zealand-with-points/
+                  - text: ", and the South Pacific starting from 100,000 miles round-trip in economy class. Where this award really shines is with the ability to make 1 stopover in each direction in addition to your final destination for 5,000 points per stopover. If you’re already flying so far, why not add a few days and an extra country to your trip?"
+                - paragraph [ref=e812]:
+                  - text: This won’t be the lowest possible price to get to Oceania, but if you can
+                  - link "make use of the stopovers" [ref=e813] [cursor=pointer]:
+                    - /url: /travel/airlines/stopovers-and-open-jaws/
+                  - text: ", it might be worth paying more miles than a carrier like United would charge."
+                - generic [ref=e814]:
+                  - strong [ref=e815]: "Hot Tip:"
+                  - paragraph [ref=e817]:
+                    - link "Bilt Rewards" [ref=e818] [cursor=pointer]:
+                      - /url: /credit-cards/bilt-rewards-program-review/
+                    - text: ","
+                    - link "Capital One" [ref=e819] [cursor=pointer]:
+                      - /url: /credit-cards/capital-one-miles-program-review/
+                    - text: ", Chase, and"
+                    - link "Marriott Bonvoy" [ref=e820] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/marriott-bonvoy-business-american-express-card/
+                    - text: also have Air Canada Aeroplan as transfer partners, so you can combine points from those programs with your Membership Rewards points.
+                - heading "25. Jet Off to Western Europe From the U.S. (Aeroplan)" [level=3] [ref=e821]
+                - 'figure "Lufthansa first class. Image Credit: Cherag Dubash" [ref=e823]':
+                  - img "Lufthansa B747-8 First Class Cabin - Cherag Dubash" [ref=e825]
+                  - generic [ref=e826]: "Lufthansa first class. Image Credit: Cherag Dubash"
+                - paragraph [ref=e827]: Air Canada charges 70,000 to 120,000 points to fly round-trip in economy class from the U.S. to Western Europe. Though many airlines charge around this same price, Aeroplan also lets you make a stopover for 5,000 points in each direction.
+                - paragraph [ref=e828]:
+                  - text: The same routes cost 120,000 to 320,000 points in business class and 180,000 to 360,000 points in first class! In other words, you could
+                  - strong [ref=e829]: fly Lufthansa first class for as few as 90,000 points each way
+                  - text: .
+                - generic [ref=e830]:
+                  - strong [ref=e831]: "Hot Tip:"
+                  - paragraph [ref=e833]:
+                    - text: Looking for the best ways to get to or from Europe in style? Check out our guide to booking
+                    - link "Lufthansa first class" [ref=e834] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-book-lufthansa-first-class/
+                    - text: "!"
+                - heading "26. Fly to the Middle East From the U.S. (Aeroplan)" [level=3] [ref=e835]
+                - paragraph [ref=e836]: Air Canada charges 110,000 to 160,000 points to fly round-trip in economy class from the U.S. to the Middle East. Again, this is with the ability to make a stopover in each direction in addition to your final destination for 5,000 additional points per stopover.
+                - paragraph [ref=e837]: Flights from 6,001 to 8,000 miles cost 55,000 points one-way in economy, 90,000 points in business, and 130,000 points in first class.
+                - paragraph [ref=e838]: Meanwhile, flights longer than 8,000 miles cost 70,000 points one-way in economy, 110,000 points in business, and 140,000 points in first.
+                - heading "27. Take Short-Haul Flights on Air Canada (Aeroplan)" [level=3] [ref=e839]
+                - paragraph [ref=e840]:
+                  - text: Flights on Air Canada within North America are generally quite expensive when purchased in cash.
+                  - link "Transferring Amex points" [ref=e841] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: to Aeroplan offers you a way around that.
+                - paragraph [ref=e842]: But any Star Alliance partner flights that are shorter than 500 miles in distance start at 10,000 Aeroplan points each way. Business class will set you back 30,000 points each way.
+                - heading "28. Fly to Nunavut, Yukon, or the Northwest Territories From the U.S. (Aeroplan)" [level=3] [ref=e843]
+                - 'figure "Air Canada 787-9 Dreamliner. Image Credit: Ehsan Haque" [ref=e845]':
+                  - img "1. air canada 787 at gate in FRANKFURT" [ref=e847]
+                  - generic [ref=e848]: "Air Canada 787-9 Dreamliner. Image Credit: Ehsan Haque"
+                - paragraph [ref=e849]: The more far-flung provinces of Canada can be expensive to get to — we’re talking easily over $1,000 from the U.S. round-trip (and we’ve even seen prices over $2,000).
+                - paragraph [ref=e850]:
+                  - text: "But awards to these often beautiful places can be booked for a relative handful of miles:"
+                  - strong [ref=e851]: 25,000 round-trip
+                  - text: "! If you like off-the-beaten-track destinations, this is a great (and cheap) award. To nab this redemption, your flight distance in each direction has to be between 1,501 and 2,750 miles."
+                - paragraph [ref=e852]:
+                  - text: A $2,000 round-trip ticket for 25,000 miles nets you a
+                  - strong [ref=e853]: fantastic value of 8 cents per point
+                  - text: ", which is on par with a redemption in first class."
+                - heading "29. Travel With a Lap Child (Aeroplan)" [level=3] [ref=e854]
+                - paragraph [ref=e855]: The cost of traveling with an infant varies by airline when booking award tickets. Some airlines charge 10% of the cash ticket, which can be absolutely brutal if you’re traveling in a premium cabin.
+                - paragraph [ref=e856]:
+                  - text: "Air Canada has a simple and reasonable structure for the cost of traveling with an infant:"
+                  - strong [ref=e857]: CA$25 or 2,500 miles per ticket.
+                - paragraph [ref=e858]:
+                  - text: Generally, we would recommend paying cash for these infant fees since the value per mile is less than 1 cent per point after conversion to U.S. currency. But if you’re looking to cover as much of your trip as possible with your miles, Air Canada is one of the better options when you’re
+                  - link "traveling with a lap child" [ref=e859] [cursor=pointer]:
+                    - /url: /travel/airlines/booking-a-lap-child/
+                  - text: .
+                - paragraph [ref=e860]:
+                  - text: If you’re traveling with a lap child, always book a round-trip ticket. The
+                  - strong [ref=e861]:
+                    - text: lap child fee is per ticket, so you’ll pay this fee twice
+                    - strong [ref=e862]: if you book 2 one-way tickets
+                    - text: .
+                - heading "30. Fly on Qatar Airways Qsuites (British Airways Avios)" [level=3] [ref=e863]
+                - paragraph [ref=e864]: One of the best ways to redeem Amex points for an amazing business class product on an ultra-long-haul flight is on Qatar Airways Qsuites.
+                - paragraph [ref=e865]: The 2 most obvious partners are Cathay Pacific Cathay and The British Airways Club, but we generally find redemption rates on U.S.-Middle East itineraries to be the best through British Airways.
+                - paragraph [ref=e866]: You’ll pay 70,000 British Airways Avios plus around $100 in taxes and fees for a one-way ticket in business class between the U.S. and Doha (DOH), with departures from cities such as Chicago (ORD), San Francisco (SFO), and Washington, D.C.
+                - 'figure "Enjoy Qsuites booked with Avios. Image Credit: Alex Miller" [ref=e868]':
+                  - img "Qatar Qsuites A350, Passenger Enjoying Movie, Alex Miller of Upgraded Points" [ref=e870]
+                  - generic [ref=e871]:
+                    - text: "Enjoy Qsuites booked with Avios. Image Credit:"
+                    - link "Alex Miller" [ref=e872] [cursor=pointer]:
+                      - /url: /author/alexmiller/
+                - generic [ref=e873]:
+                  - strong [ref=e874]: »
+                  - strong [ref=e875]: "Related:"
+                  - link "The Definitive Guide to Qatar Airways’ Direct Routes From the U.S. [Plane Types and Seat Options]" [ref=e876] [cursor=pointer]:
+                    - /url: /travel/airlines/qatar-airways-us-routes-plane-types/
+                - heading "31. Take Short-Haul Flights (British Airways Avios)" [level=3] [ref=e877]
+                - 'figure "Image Credit: Daniel Ross" [ref=e879]':
+                  - img "A British Airways Boeing 787 10 at London Heathrow" [ref=e881]
+                  - generic [ref=e882]: "Image Credit: Daniel Ross"
+                - paragraph [ref=e883]:
+                  - text: We’ve always been able to find great deals on British Airways. Paired with the
+                  - link "Amex Membership Rewards" [ref=e884] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: transfer ratio of 1:1, using Amex points on British Airways is often a solid choice.
+                - paragraph [ref=e885]: For short-haul flight deals, try searching for flights up to 650 miles outside of the U.S. These flights cost 4,750 Avios each way for travel on Iberia and Aer Lingus. This can present incredible value in areas of the world where distances are short, but flights are expensive. For flights within North America, that price is 13,500 Avios.
+                - generic [ref=e886]:
+                  - strong [ref=e887]: "Hot Tip:"
+                  - paragraph [ref=e889]: British Airways is notorious for attaching high fees to its flights, but fees are much lower when you redeem Avios for flights on American Airlines and Alaska Airlines.
+                - heading "32. Fly to Hawaii From the U.S. West Coast (British Airways Avios)" [level=3] [ref=e890]
+                - paragraph [ref=e891]: One-way, direct flights from the West Coast to Hawaii in economy class on Alaska Airlines or American Airlines cost you 22,000 British Airways Avios plus just over $5 in taxes and fees!
+                - paragraph [ref=e892]:
+                  - text: This might be the
+                  - strong [ref=e893]: best economy-class redemption from the continental U.S. to Hawaii.
+                - heading "33. Fly to Europe From the East Coast (Iberia Avios)" [level=3] [ref=e894]
+                - 'figure "Image Credit: Daniel Ross" [ref=e896]':
+                  - img "Aer Lingus A330 at JFK" [ref=e898]
+                  - generic [ref=e899]: "Image Credit: Daniel Ross"
+                - paragraph [ref=e900]: You can get from the East Coast of the U.S. to Dublin on Aer Lingus for 13,000 Avios off-peak with low surcharges.
+                - paragraph [ref=e901]:
+                  - text: In addition, you can
+                  - link "transfer Amex Membership Rewards points to Iberia Avios" [ref=e902] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/reviews/american-express-platinum-card/why-transfer-points-to-iberia-avios/
+                  - text: . If you ever book flights on Iberia, you want to book with Iberia Avios, not British Airways Avios, even though you have the ability to book with both.
+                - paragraph [ref=e903]:
+                  - text: You can also transfer miles between the British Airways and Iberia programs, using the new
+                  - link "Avios transfer tool" [ref=e904] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/news/new-avios-transfer-tool/
+                  - text: .
+                - paragraph [ref=e905]: Some one-way redemptions in business class on Iberia to Europe are Boston (BOS) or New York (JFK) to Madrid (MAD) for 40,500-59,000 miles one-way plus taxes and fees; or Chicago (ORD) or Dallas (DFW) to Madrid (MAD) for 50,500-74,000 miles plus about $575 in taxes and fees. If flying on the highly competitive route from Los Angeles (LAX) to Madrid (MAD), you’ll shell out 60,500-88,500 Avios plus about $575 in taxes and fees.
+                - heading "34. Book Miami to Peru (British Airways Avios)" [level=3] [ref=e906]
+                - paragraph [ref=e907]: If you’re looking to venture somewhere other than Europe, a flight from Miami (MIA) to Lima (LIM) is a great option. You could be walking along the Malecón in almost no time!
+                - paragraph [ref=e908]: This award costs 22,000 British Airways Avios plus around $20 each way in economy. That’s not much more than it would cost to fly within the U.S.!
+                - heading "35. Pay Low Fees (British Airways Avios)" [level=3] [ref=e909]
+                - paragraph [ref=e910]: British Airways doesn’t charge a fee for booking last-minute travel. This means even if you don’t have status with another airline, you have a good way to book just before your trip without an extra fee.
+                - paragraph [ref=e911]: As far as cancellation fees go, they’re also pretty reasonable. If you’re booking from the U.S., your cancellation fee is $55 per person per ticket.
+                - generic [ref=e912]:
+                  - strong [ref=e913]: "Hot Tip:"
+                  - paragraph [ref=e915]: Bilt Rewards, Capital One, Chase, and Marriott Bonvoy partner with British Airways and transfer at a 1:1 ratio.
+                - heading "36. Fly From Santiago to Easter Island (Cathay Pacific Cathay)" [level=3] [ref=e916]
+                - paragraph [ref=e917]:
+                  - text: Getting to Easter Island is not cheap — round-trip flights from Chile start at around $850. Rather than dropping serious cash, you can use 15,000
+                  - link "Cathay Pacific Asia Miles" [ref=e918] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-cathay-pacific-asia-miles/
+                  - text: plus relatively low taxes and fees to fly from Santiago (SCL) to Easter Island (IPC).
+                - heading "37. Fly From Los Angeles to Tokyo — Maybe Even in First Class! (British Airways Avios)" [level=3] [ref=e919]
+                - 'figure "Japan Airlines 777-300ER business class cabin. Image Credit: Ehsan Haque" [ref=e921]':
+                  - img "Japan Airlines 777 300er business class cabin from front" [ref=e923]
+                  - generic [ref=e924]: "Japan Airlines 777-300ER business class cabin. Image Credit: Ehsan Haque"
+                - paragraph [ref=e925]:
+                  - text: Flying from Los Angeles (LAX) to Tokyo (HND, NRT) on
+                  - link "Japan Airlines" [ref=e926] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/japan-airlines-review/
+                  - text: puts you right in the 25,750 Avios bracket. If you want to fly the same route in first class, it’ll set you back 110,000 Avios plus around $160 in taxes and fees each way.
+                - paragraph [ref=e927]: Business class could be a happy medium for this itinerary, at 75,000 Avios plus about $160.
+                - generic [ref=e928]:
+                  - strong [ref=e929]: "Hot Tip:"
+                  - paragraph [ref=e931]:
+                    - text: See our step-by-step guides
+                    - link "for booking Japan Airlines first class" [ref=e932] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-japan-airlines-first-class/
+                    - text: and
+                    - link "business class" [ref=e933] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-japan-airlines-business-class/
+                    - text: .
+                - heading "38. Fly British Airways First Class With a Companion Using Miles and the Travel Together Ticket (British Airways Avios)" [level=3] [ref=e934]
+                - paragraph [ref=e935]: If your goal is to use your miles to fly first class on British Airways, be prepared to pay a cash surcharge — though you’ll save a ton over a cash-only ticket.
+                - paragraph [ref=e936]: Flying British Airways first class from Chicago (ORD) to London (LHR) costs as little as 75,000 British Airways Avios off-peak and as much as 88,000 Avios during peak dates (plus a little over $700 to $1,000 in taxes and surcharges in each direction).
+                - paragraph [ref=e937]:
+                  - generic [ref=e938]:
+                    - text: You can stretch your Avios even further with a
+                    - link "Travel Together Ticket" [ref=e939] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/british-airways-visa-card/travel-together-ticket/
+                    - text: . Earn the Travel Together Ticket by spending $30,000 in a year with the
+                    - link "British Airways Visa Signature® Card" [ref=e940] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/british-airways-visa-card/
+                      - text: British Airways Visa Signature
+                      - superscript [ref=e941]: ®
+                      - text: Card
+                    - text: .
+                - 'figure "Fly British Airways first class with a companion without paying more miles. Use the Travel Together Ticket earned via spending on its co-branded credit card. Image Credit: Alex Miller" [ref=e943]':
+                  - link "British Airways First Class" [ref=e944] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/09/BA-First-Class-787-9.jpg?auto=webp&disable=upscale
+                    - img "British Airways First Class" [ref=e946]
+                  - generic [ref=e947]: "Fly British Airways first class with a companion without paying more miles. Use the Travel Together Ticket earned via spending on its co-branded credit card. Image Credit: Alex Miller"
+                - paragraph [ref=e948]: This ticket gives you a second seat for a companion on the same flight in the same cabin when you book a reward flight. It has to be round-trip on a British Airways mainline flight originating in and returning to the U.S.
+                - paragraph [ref=e949]:
+                  - generic [ref=e950]:
+                    - text: You still need to pay taxes and fees on the companion ticket, but
+                    - strong [ref=e951]: you’re only using points for 1 person!
+                    - text: You need to book your departure date within 2 years of receiving
+                  - text: the Travel Together Ticket.
+                - generic [ref=e952]:
+                  - strong [ref=e953]: "Hot Tip:"
+                  - paragraph [ref=e955]:
+                    - text: Read our guide to help you
+                    - link "book British Airways first class using points" [ref=e956] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-book-british-airways-first-class/
+                    - text: "!"
+                - heading "39. Fly Cathay Pacific First Class (Cathay Pacific Cathay)" [level=3] [ref=e957]
+                - paragraph [ref=e958]: Want a chance to experience Cathay Pacific first class?
+                - paragraph [ref=e959]:
+                  - generic [ref=e960]:
+                    - text: On select flights between the U.S. and Hong Kong, you can access one of the world’s most exclusive first classes starting at
+                    - strong [ref=e961]: 125,000 Asia Miles one-way
+                    - text: .
+                - paragraph [ref=e962]: Business class on the same flight costs 88,000 Asia Miles.
+                - 'figure "Flying first class doesn’t always have to break the mileage bank! Redeem your Avios on a short route to see how you like it. Image Credit: Alex Miller" [ref=e964]':
+                  - link "Cathay Pacific First Class" [ref=e965] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/09/Cathay-Pacific-First-Class-777-Seat-1A-Chicago-to-Hong-Kong-1.jpg?auto=webp&disable=upscale
+                    - img "Cathay Pacific First Class" [ref=e967]
+                  - generic [ref=e968]: "Flying first class doesn’t always have to break the mileage bank! Redeem your Avios on a short route to see how you like it. Image Credit: Alex Miller"
+                - generic [ref=e969]:
+                  - strong [ref=e970]: "Hot Tip:"
+                  - paragraph [ref=e972]: American Express occasionally offers bonuses of up to 25% when you transfer points to Cathay Pacific’s Cathay program. Wait for one of these to come up to get an even better deal!
+                - paragraph [ref=e973]:
+                  - text: Need help booking? See our
+                  - link "step-by-step guide to booking Cathay Pacific first class" [ref=e974] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-cathay-pacific-first-class/
+                  - text: .
+                - heading "40. Fly Etihad Without Carrier-Imposed Surcharges (Aeroplan)" [level=3] [ref=e975]
+                - paragraph [ref=e976]: When looking at most foreign carriers, you have to be careful about whether or not carrier-imposed surcharges are passed on when you’re booking an award ticket. Thanks to Etihad’s partnership with Air Canada’s Aeroplan program, you don’t need to worry about that.
+                - 'figure "Etihad Airways Boeing 787-9 first class. Image Credit: Greg Stone" [ref=e978]':
+                  - link "Etihad Airways Boeing 787-9 First Class Seat" [ref=e979] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/09/12-Etihad-Airways-Boeing-787-9-First-Class-Seat_.jpg?auto=webp&disable=upscale
+                    - img "Etihad Airways Boeing 787-9 First Class Seat" [ref=e981]
+                  - generic [ref=e982]: "Etihad Airways Boeing 787-9 first class. Image Credit: Greg Stone"
+                - paragraph [ref=e983]: Using your Aeroplan points, you can fly from Washington, D.C. (IAD) to Abu Dhabi (AUH) for 90,000 points in business class or 130,000 points in first class. Similarly, on a shorter trip between London (LHR) and Abu Dhabi, you can fly in business class for 45,000 points and first class for 65,000 points.
+                - generic [ref=e984]:
+                  - strong [ref=e985]: »
+                  - strong [ref=e986]: "Related:"
+                  - link "20 Best Ways To Earn Lots of Air Canada Aeroplan Points [2026]" [ref=e987] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-air-canada-aeroplan-miles/
+                - paragraph [ref=e988]:
+                  - strong [ref=e990]: Need help booking?
+                  - text: Take a look at our step-by-step instructions on
+                  - link "how to book Etihad business class" [ref=e991] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-etihad-business-class/
+                  - text: "!"
+                - generic [ref=e992]:
+                  - strong [ref=e993]: "Hot Tip:"
+                  - paragraph [ref=e995]:
+                    - text: Use cards such as the
+                    - link "Amex Platinum card to get elite status for your car rentals" [ref=e996] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/american-express-platinum-card/car-rental-insurance-benefits/
+                    - text: upon enrollment with Avis, Hertz, and National.
+                - heading "41. Travel From the U.S. East Coast to Europe With 2 Stopovers (Cathay Pacific Cathay)" [level=3] [ref=e997]
+                - paragraph [ref=e998]: One of the most amazing things about the Cathay Pacific Cathay award program is the ability to make 2 stopovers on a round-trip award.
+                - paragraph [ref=e999]: On flights from the East Coast, you should be able to fly in economy class for 70,000 points round-trip or business class for 110,000 points round-trip. An example routing you might want to consider is New York (JFK) to Madrid (MAD) to Helsinki (HEL) back to New York (JFK).
+                - paragraph [ref=e1000]: You need to be careful which airline you fly with to avoid fuel surcharges, but flights on Iberia and Finnair will generally have low surcharges.
+                - paragraph [ref=e1001]:
+                  - text: Cathay has
+                  - link "2 award charts" [ref=e1002] [cursor=pointer]:
+                    - /url: https://www.asiamiles.com/am/en/redeem/charts
+                  - text: ": one for Cathay and another for all other Oneworld flights. The number of partners you are flying dictates the number of stops you’re allowed to make:"
+                - list [ref=e1003]:
+                  - listitem [ref=e1004]: If using the Cathay chart, you are allowed to fly Cathay Pacific and 1 other partner. You can make 2 stopovers on a round-trip booking. Stopovers on one-way flights are not allowed.
+                  - listitem [ref=e1005]: If you aren’t flying on Cathay at all, or are flying 2 or more different partners, reference the Oneworld chart. When booking from the Oneworld chart, you’re allowed 4 stopovers and 2 open-jaws on a round-trip booking.
+                  - listitem [ref=e1006]:
+                    - text: Redeem online with Cathay Pacific, British Airways, or Qantas. Speak to an agent for other airlines or
+                    - link "fill out the online form" [ref=e1007] [cursor=pointer]:
+                      - /url: https://www.asiamiles.com/am/en/redeem/flights/form
+                    - text: to request airline award bookings.
+                - 'figure "Visit the stunning Cliffs of Moher in southwestern Ireland using Asia Miles. Image Credit: Caroline Lupini" [ref=e1009]':
+                  - link "Cliffs of Moher" [ref=e1010] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/08/DUB_2623.jpg?auto=webp&disable=upscale
+                    - img "Cliffs of Moher" [ref=e1012]
+                  - generic [ref=e1013]:
+                    - text: "Visit the stunning Cliffs of Moher in southwestern Ireland using Asia Miles. Image Credit:"
+                    - link "Caroline Lupini" [ref=e1014] [cursor=pointer]:
+                      - /url: /author/caroline/
+                - paragraph [ref=e1015]:
+                  - text: Try to avoid carrier-imposed surcharges when making these bookings. In addition to flying Aer Lingus and Air Berlin, you should also consider flights on
+                  - link "LATAM" [ref=e1016] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/latam-review/
+                  - text: ", American Airlines (within the Americas), and Air New Zealand."
+                - paragraph [ref=e1017]: Other partners will likely have carrier-imposed surcharges. Depending on the miles you’re spending and the amount of the surcharge, you could still find a good deal, though.
+                - heading "42. Fly Chinese Airlines in Business Class (SkyMiles)" [level=3] [ref=e1018]
+                - paragraph [ref=e1019]:
+                  - text: Flyers praise the business class on many Chinese airlines.
+                  - link "When using your Delta SkyMiles" [ref=e1020] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-redeem-delta-skymiles/
+                  - text: ", you can book business class on China Eastern or China Airlines for 120,000 SkyMiles in each direction."
+                - paragraph [ref=e1021]: While both airlines are good, China Airlines is generally considered to be slightly superior. Assuming there is availability to your destination, you should consider booking China Airlines over China Eastern.
+                - paragraph [ref=e1022]: Don’t forget you can also fly Delta One to Asia starting at 120,000 SkyMiles.
+                - paragraph [ref=e1023]:
+                  - strong [ref=e1024]: Need help booking?
+                  - text: Use our
+                  - link "Delta award flight booking guide" [ref=e1025] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-delta-first-class/
+                  - text: to simplify the process.
+                - generic [ref=e1026]:
+                  - strong [ref=e1027]: "Hot Tip:"
+                  - paragraph [ref=e1029]:
+                    - text: Marriott Bonvoy also partners with Delta Air Lines, and there are many ways to
+                    - link "earn lots of Marriott Bonvoy points" [ref=e1030] [cursor=pointer]:
+                      - /url: /travel/hotels/how-to-earn-marriott-rewards-points/
+                    - text: .
+                - heading "43. Take Short Flights Within the U.S. (SkyMiles)" [level=3] [ref=e1031]
+                - paragraph [ref=e1032]: All of the airlines seem to be getting in on the low-mileage, short-flights game. Delta charges 7,500 SkyMiles in Main Cabin for select short flights within the U.S., like San Francisco (SFO) to Seattle (SEA). These redemptions can be a great deal, especially if there is availability at the last minute when flights tend to be more expensive.
+                - paragraph [ref=e1033]:
+                  - text: A month out, flight prices for SFO to SEA are currently only $89 on select days, making the redemption not as good. Since Delta’s award pricing is so variable, it always makes sense to
+                  - strong [ref=e1034]: compare the award price to the cash price on any day you’re looking at flying
+                  - text: .
+                - heading "44. Fly American From the U.S. to Europe in Business (Etihad)" [level=3] [ref=e1035]
+                - paragraph [ref=e1036]:
+                  - text: Etihad isn’t part of an airline alliance, but it does have a lot of different airline partners. In March 2023, it rolled out a
+                  - link "simplified, zone-based redemption table" [ref=e1037] [cursor=pointer]:
+                    - /url: https://www.etihadguest.com/en/spend-miles/new-redemption-tables.html
+                  - text: that eliminated many of the great redemptions the airline’s loyalty program was known for.
+                - paragraph [ref=e1038]:
+                  - strong [ref=e1039]: Amex points transfer to Etihad Guest at a ratio of 1,000 American Express Membership Rewards points for 750 Etihad Guest miles.
+                - generic [ref=e1040]:
+                  - strong [ref=e1041]: "Hot Tip:"
+                  - paragraph [ref=e1043]:
+                    - text: Looking for more Etihad redemptions ideas on its new chart? Check our guide to the
+                    - link "best Etihad redemptions" [ref=e1044] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/how-to-redeem-etihad-guest-miles/
+                    - text: "!"
+                - paragraph [ref=e1045]: If you want to fly with American Airlines and Virgin Australia, you can book those award flights right on the Etihad website. Call Etihad at 877-690-0767 for all other partner award flights.
+                - paragraph [ref=e1046]: The new Etihad chart can offer better redemptions with AA than on American’s own chart. For example, it offers Charlotte (CLT) to London (LHR) in business one-way for 80,000. The trick here is finding available flights.
+                - generic [ref=e1047]:
+                  - strong [ref=e1048]: "Hot Tip:"
+                  - paragraph [ref=e1050]:
+                    - text: See our step-by-step instructions on
+                    - link "booking American Airlines first class" [ref=e1051] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-american-airlines-first-class/
+                    - text: .
+                - heading "45. Go to Brussels in Business (Etihad)" [level=3] [ref=e1052]
+                - paragraph [ref=e1053]: Brussels Airlines was a sweet spot with Etihad’s old partner-by-partner redemption arrangement, and it can still be a good use of Etihad miles.
+                - paragraph [ref=e1054]: From East Coast airports like New York (JFK), Toronto (YYZ), or Washington, D.C. (IAD), you can fly to Brussels (BRU) in business for 80,000 miles one-way. Economy costs 45,000 miles.
+                - heading "46. Fly to Casablanca With Royal Air Maroc (Etihad)" [level=3] [ref=e1055]
+                - paragraph [ref=e1056]: Etihad’s partnership with Royal Air Maroc still provides an opportunity to redeem points to get to Morocco. New York (JFK) or Washington, D.C. (IAD) to Casablanca (CMN) costs 45,000 miles one-way in economy or 80,000 miles one-way in business class. Both fall under the 3,001-to-4,000-miles bracket.
+                - generic [ref=e1057]:
+                  - strong [ref=e1058]: "Hot Tip:"
+                  - paragraph [ref=e1060]:
+                    - text: Capital One, Citi, and Marriott Bonvoy also partner with Etihad. Use cards such as the
+                    - link "Marriott Bonvoy Boundless® Credit Card" [ref=e1061] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/marriott-bonvoy-boundless-credit-card/
+                      - text: Marriott Bonvoy Boundless
+                      - superscript [ref=e1062]: ®
+                      - text: Credit Card
+                    - text: ","
+                    - link "Capital One Venture X Rewards Credit Card" [ref=e1063] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/capital-one-venture-x/
+                    - text: ", or the"
+                    - link "Citi Strata Premier℠ Card" [ref=e1064] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/reviews/citi-strata-premier-card/
+                    - strong [ref=e1065]
+                    - text: to earn more points for your award.
+                - heading "47. Travel With an Infant (Etihad)" [level=3] [ref=e1066]
+                - paragraph [ref=e1067]: Traveling on Etihad with an infant lap child is reasonable — it charges 10% of the mileage cost of the ticket for your infant to travel on your lap.
+                - paragraph [ref=e1068]: For example, if you’re thinking about booking the Brussels Airlines business class flight for 80,000 Etihad miles from JFK to BRU, you would only need to budget an extra 8,000 miles to book a lap child ticket.
+                - heading "48. Fly Transcontinental Business Class in the U.S. on United Airlines (Avianca)" [level=3] [ref=e1069]
+                - paragraph [ref=e1070]: Another sweet spot you can take advantage of with transferred Amex Membership Rewards points is on United Airlines 787-10 routes between Newark (EWR) or New York (JFK) and Los Angeles (LAX) or San Francisco (SFO).
+                - paragraph [ref=e1071]:
+                  - text: You can
+                  - strong [ref=e1072]:
+                    - text: fly transcontinental on United’s awesome
+                    - link "Polaris business class!" [ref=e1073] [cursor=pointer]:
+                      - /url: /travel/airlines/united-polaris/
+                  - text: Trying United Polaris across the U.S. will set you back 25,000 miles each way when booking through its Star Alliance partner Avianca Lifemiles.
+                - 'figure "Looking at the window-side seats. Image Credit: Ryan Smith" [ref=e1075]':
+                  - img "United Polaris business class 787 10 window seats HND LAX" [ref=e1077]
+                  - generic [ref=e1078]:
+                    - text: "Looking at the window-side seats. Image Credit:"
+                    - link "Ryan Smith" [ref=e1079] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/ryansmith/
+                - heading "49. Redeem Avianca Promo Awards" [level=3] [ref=e1080]
+                - paragraph [ref=e1081]:
+                  - text: Avianca routinely runs
+                  - link "promotional awards" [ref=e1082] [cursor=pointer]:
+                    - /url: https://www.lifemiles.com/deals/all-deals
+                  - text: for destinations all around the world. These provide solid opportunities to eke out extra value from your Lifemiles due to the discounts offered here.
+                - paragraph [ref=e1083]: You need to read the fine print carefully and be sure to book the awards when the sale is actually occurring. The promo awards are typically only valid if booked within a small window, usually 2 or 3 weeks.
+                - 'figure "Asiana A380 Business Suites. Image Credit: Cherag Dubash" [ref=e1085]':
+                  - link "Asiana Airlines A380 First Class - Cherag Dubash" [ref=e1086] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/07/Asiana_Airlines_A380_First_Class_Cherag_Dubash.jpg?auto=webp&disable=upscale
+                    - img "Asiana Airlines A380 First Class - Cherag Dubash" [ref=e1088]
+                  - generic [ref=e1089]: "Asiana A380 Business Suites. Image Credit: Cherag Dubash"
+                - paragraph [ref=e1090]: "Deals from past promotions include:"
+                - list [ref=e1091]:
+                  - listitem [ref=e1092]:
+                    - strong [ref=e1093]: New York (JFK) to Seoul (ICN)
+                    - text: ": Round-trip for 144,000 miles in Asiana Airlines first class (regular price: 180,000)"
+                  - listitem [ref=e1094]:
+                    - strong [ref=e1095]: Los Angeles (LAX) to Beijing (PEK)
+                    - text: ": Round-trip for 144,000 miles in Air China first class (regular price: 180,000)"
+                  - listitem [ref=e1096]:
+                    - strong [ref=e1097]: San Francisco (SFO) to Taipei (TPE)
+                    - text: ": Round-trip for 120,000 miles in EVA Air business class (regular price: 150,000)"
+                  - listitem [ref=e1098]:
+                    - strong [ref=e1099]: Seattle (SEA) to Taipei (TPE)
+                    - text: ": Round-trip for 120,000 miles in EVA Air business class (regular price: 150,000)"
+                - heading "50. Fly East Coast to Dubai Round-Trip on Emirates" [level=3] [ref=e1100]:
+                  - strong [ref=e1101]: 50. Fly East Coast to Dubai Round-Trip on Emirates
+                - paragraph [ref=e1102]: Emirates has one of the sky’s best economy products and a fantastic business class. But it’s not currently in an alliance and only partners with a handful of airlines, which makes these award redemptions tougher to snag.
+                - paragraph [ref=e1103]: You can earn Emirates miles through transfers at a 1:1 ratio from Amex Membership Rewards. For Business Saver tickets booked round-trip from JFK to Dubai (DXB), you can spend as few as 145,000 miles. For one-way tickets, you’ll spend around 115,000 miles.
+                - paragraph [ref=e1104]: Taxes and fees are extremely high, though, hovering at around $1,200 one-way.
+                - 'figure "Emirates seat in business class on an A380. Image Credit: Cherag Dubash" [ref=e1106]':
+                  - link "Emirates A380 Business Class Seat" [ref=e1107] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/07/Emirates_Inaugural_Worlds_Shortest_A380_Business_Class_Seat_Cherag_Dubash-1.jpg?auto=webp&disable=upscale
+                    - img "Emirates A380 Business Class Seat" [ref=e1109]
+                  - generic [ref=e1110]: "Emirates seat in business class on an A380. Image Credit: Cherag Dubash"
+                - paragraph [ref=e1111]: There are several East Coast cities with nonstop flights to Dubai on Emirates, including Boston (BOS), Miami (MIA), New York (JFK), and Washington, D.C. (IAD).
+                - paragraph [ref=e1112]:
+                  - text: Try to catch superior business class on the
+                  - strong [ref=e1113]: A380
+                  - text: ", as opposed to the 777-300ER!"
+                - generic [ref=e1114]:
+                  - strong [ref=e1115]: "Hot Tip:"
+                  - paragraph [ref=e1117]:
+                    - text: Read our guide on
+                    - link "how to book Emirates business class using points" [ref=e1118] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-emirates-business-class/
+                    - text: .
+                - heading "51. Book Free Nights at Hilton Properties (Hilton Honors)" [level=3] [ref=e1119]
+                - paragraph [ref=e1120]:
+                  - text: Up until this point, we’ve only talked about American Express
+                  - strong [ref=e1121]: airline
+                  - text: transfer partners, but you can also book award stays at hotels through Amex
+                  - strong [ref=e1122]: hotel
+                  - text: transfer partners.
+                - paragraph [ref=e1123]: Generally, you won’t get as much value from your Membership Rewards points by booking a hotel, especially compared to buying flights, but there are still deals worth considering.
+                - paragraph [ref=e1124]: For example, one good option is booking a lower-tier Hilton hotel. Amex Membership Rewards points transfer to Hilton Honors at a 1:2 ratio. So, with Membership Rewards, you can transfer 10,000 points to get 20,000 Honors points for a night at one of Hilton’s most affordable properties, like the Hampton Inn in Decatur, Alabama.
+                - paragraph [ref=e1125]: Though the entry-level hotels aren’t the most glamorous stays in the Hilton portfolio, they still mean you’ll have places you can stay on points both domestically and internationally. So how about a stay at the Hilton Alexandria Green Plaza in Alexandria, Egypt (19,000 points per night), or 2 nights at the Hampton by Hilton Guilin Lingui in Guilin, China (9,000 points per night)?
+                - generic [ref=e1126]:
+                  - strong [ref=e1127]: "Hot Tip:"
+                  - paragraph [ref=e1129]:
+                    - text: Use the
+                    - link "Amex Platinum card" [ref=e1130] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/reviews/american-express-platinum-card/
+                    - text: to get complimentary Hilton Honors Gold status upon enrollment! You can also check out the various
+                    - link "Hilton credit cards" [ref=e1131] [cursor=pointer]:
+                      - /url: /credit-cards/american-express-hilton-honors-credit-cards/
+                    - text: to find more ways to
+                    - link "earn a bunch of Hilton Honors points" [ref=e1132] [cursor=pointer]:
+                      - /url: /travel/hotels/how-to-earn-hilton-hhonors-points/
+                    - text: ", such as the"
+                    - link "Hilton Honors American Express Card" [ref=e1133] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/reviews/hilton-honors-american-express-card/
+                    - text: .
+                - heading "52. Book Great Rates at Hotels in Italy, Sweden, or Norway (Choice Hotels)" [level=3] [ref=e1134]
+                - paragraph [ref=e1135]:
+                  - text: Membership Rewards points can be transferred to
+                  - link "Choice Privileges" [ref=e1136] [cursor=pointer]:
+                    - /url: /travel/hotels/choice-privileges-loyalty-program/
+                  - text: at a 1:1 ratio, and there are excellent hotel redemptions to be had in Europe. For example, you can stay in Europe starting at 8,000 points per night. During peak season, these hotels can easily cost hundreds of euros per night.
+                - paragraph [ref=e1137]:
+                  - text: Here are some of the
+                  - link "best redemptions for Choice Hotels award stays:" [ref=e1138] [cursor=pointer]:
+                    - /url: /travel/hotels/best-ways-to-redeem-choice-privileges-hotel-rewards-points/
+                - list [ref=e1139]:
+                  - listitem [ref=e1140]: Clarion Collection Hotel Principessa Isabella, in Rome, is 20,000 points per night
+                  - listitem [ref=e1141]: Hotel C Stockholm, Ascend Hotel Collection is 15,000 points per night
+                  - listitem [ref=e1142]: Hotel Christiania Teater, Ascend Hotel Collection in Olso, is 15,000 points per night
+                - generic [ref=e1143]:
+                  - strong [ref=e1144]: "Hot Tip:"
+                  - paragraph [ref=e1146]:
+                    - text: You can also
+                    - link "earn lots of Choice Privileges points" [ref=e1147] [cursor=pointer]:
+                      - /url: /travel/hotels/how-to-earn-choice-privileges-points/
+                    - text: by using the Choice Privileges
+                    - superscript [ref=e1148]: ®
+                    - text: Mastercard
+                    - superscript [ref=e1149]: ®
+                    - text: .
+                - heading "How To Transfer Your American Express Membership Points to Transfer Partners" [level=2] [ref=e1150]
+                - paragraph [ref=e1151]:
+                  - strong [ref=e1152]: "Step 1:"
+                  - text: Navigate to the
+                  - link "American Express" [ref=e1153] [cursor=pointer]:
+                    - /url: https://americanexpress.com
+                  - text: website and log in to your account.
+                - 'figure "Image Credit: American Express" [ref=e1155]':
+                  - img "Amex Login" [ref=e1157]
+                  - generic [ref=e1158]: "Image Credit: American Express"
+                - paragraph [ref=e1159]:
+                  - strong [ref=e1160]: "Step 2:"
+                  - text: Select a credit card account that earns Membership Rewards points. This might be the
+                  - link "American Express® Gold Card" [ref=e1161] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/reviews/american-express-gold-card/
+                    - text: American Express
+                    - superscript [ref=e1162]: ®
+                    - text: Gold Card
+                  - text: or the
+                  - link "Amex Platinum card" [ref=e1163] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/reviews/american-express-platinum-card/
+                  - text: ", among others."
+                - 'figure "Image Credit: American Express" [ref=e1165]':
+                  - img "Amex Rewards" [ref=e1167]
+                  - generic [ref=e1168]: "Image Credit: American Express"
+                - paragraph [ref=e1169]:
+                  - text: Co-branded cards such as the
+                  - link "Marriott Bonvoy Business® American Express® Card" [ref=e1170] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/marriott-bonvoy-business-american-express-card/
+                    - text: Marriott Bonvoy Business
+                    - superscript [ref=e1171]: ®
+                    - text: American Express
+                    - superscript [ref=e1172]: ®
+                    - text: Card
+                  - text: and the Hilton Honors card don’t earn Membership Rewards.
+                - paragraph [ref=e1173]:
+                  - strong [ref=e1174]: "Step 3:"
+                  - text: On the top, righthand side, choose
+                  - strong [ref=e1175]: Rewards.
+                  - text: On the next page, choose
+                  - strong [ref=e1176]: Transfer Points
+                  - text: from the drop-down menu.
+                - figure [ref=e1178]:
+                  - img "Amex Transfer Points" [ref=e1180]
+                - paragraph [ref=e1181]:
+                  - strong [ref=e1182]: "Step 4:"
+                  - text: Choose the airline or hotel partner you want. If you haven’t already linked its loyalty program account number to your Amex account, do so now.
+                - 'figure "Image Credit: American Express" [ref=e1184]':
+                  - img "Aeroplan link accounts" [ref=e1186]
+                  - generic [ref=e1187]: "Image Credit: American Express"
+                - paragraph [ref=e1188]:
+                  - strong [ref=e1189]: "Step 5:"
+                  - text: Once the accounts are linked, choose how many points you would like to transfer. Generally, you’re required to transfer in chunks of 1,000 points. You’ll have to verify you’re the cardholder by entering your 4-digit card ID and your 3-digit security code. Both can be found on your physical card.
+                - 'figure "Image Credit: American Express" [ref=e1191]':
+                  - img "Aeroplan transfer points" [ref=e1193]
+                  - generic [ref=e1194]: "Image Credit: American Express"
+                - paragraph [ref=e1195]:
+                  - strong [ref=e1196]: "Step 6:"
+                  - text: After entering the number of miles you want to transfer, click
+                  - strong [ref=e1197]: Review Transfer
+                  - text: and complete the process.
+                - generic [ref=e1198]:
+                  - strong [ref=e1199]: "Hot Tip:"
+                  - paragraph [ref=e1201]: All transfers are final and cannot be reversed, so double-check that everything is correct!
+                - heading "Final Thoughts" [level=2] [ref=e1202]
+                - paragraph [ref=e1203]: There’s a lot to choose from when it comes to American Express partner airlines and hotels, but only some of these will maximize your redemption value.
+                - paragraph [ref=e1204]: By carefully calculating your Membership Rewards transfers, you could fly Singapore Suites to experience the famous double bed. Or maybe you’ll decide to get 8 stopovers on your flight around the world. Use your imagination!
+                - paragraph [ref=e1205]:
+                  - text: To maximize the points you get for any flights and take advantage of these deals, the
+                  - link "Amex Gold card" [ref=e1206] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/american-express-gold-card/
+                  - text: is a great option — you’ll earn 3x points for flights purchased directly through the airlines or on
+                  - link "amextravel.com" [ref=e1207] [cursor=pointer]:
+                    - /url: /travel/american-express-travel/
+                  - text: . There are also many different Membership Rewards credit cards to choose from.
+                - paragraph [ref=e1208]: Happy redeeming!
+              - generic [ref=e1209]:
+                - generic [ref=e1210]:
+                  - separator [ref=e1211]
+                  - text: "Featured Image Credit:"
+                  - link "Alex Miller" [ref=e1212] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/alexmiller/
+                - generic [ref=e1213]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1214]
+                  - group [ref=e1215]:
+                    - generic "What are Amex points?" [ref=e1216] [cursor=pointer]
+                    - paragraph [ref=e1218]: Amex’s points program is called Membership Rewards. The points you earn, redeem, and transfer are Amex Membership Rewards (or MR) points.
+                  - group [ref=e1219]:
+                    - generic "What are Amex Membership Rewards points worth?" [ref=e1220] [cursor=pointer]
+                    - generic [ref=e1221]:
+                      - paragraph [ref=e1222]: The value of an Amex point depends on where you’re redeeming your points. A really bad redemption, such as redeeming points for purchases at Amazon.com, has a value of about 0.5 cents per point.
+                      - paragraph [ref=e1223]: Other airline and hotel partners of Amex return a value of up to 8 cents per point! That’s like getting a $100 ticket for the equivalent of about 1,250 Membership Rewards points.
+                  - group [ref=e1224]:
+                    - generic "How many Amex Membership Rewards points do I need to go to Hawaii?" [ref=e1225] [cursor=pointer]
+                    - paragraph [ref=e1227]: Fly one-way to Hawaii from the continental U.S. for as low as 22,000 Membership Rewards points transferred to British Airways Avios spent on an Alaska Airlines flight.
+                  - group [ref=e1228]:
+                    - generic "How many Amex Membership Rewards points do I need to go to Europe?" [ref=e1229] [cursor=pointer]
+                    - paragraph [ref=e1231]: Fly one-way to Europe from the U.S. for as few as 11,250 Membership Rewards points transferred to Air France-KLM Flying Blue during certain Flying Blue promotions.
+                  - group [ref=e1232]:
+                    - generic "Are Amex points taxable?" [ref=e1233] [cursor=pointer]
+                    - paragraph [ref=e1235]: The short answer is no. The IRS and tax court have decided, alongside American Express, to treat frequent flyer miles or mileage awards as nontaxable.
+                  - group [ref=e1236]:
+                    - generic "How do I transfer Amex Membership Rewards points to airlines or hotels?" [ref=e1237] [cursor=pointer]
+                    - generic [ref=e1238]:
+                      - paragraph [ref=e1239]: "To transfer your MR points to airlines or hotel partners:"
+                      - list [ref=e1240]:
+                        - listitem [ref=e1241]: You need an American Express card that is eligible for the Membership Rewards program.
+                        - listitem [ref=e1242]:
+                          - text: Sign in to your Amex credit card account at
+                          - link "americanexpress.com" [ref=e1243] [cursor=pointer]:
+                            - /url: http://americanexpress.com
+                          - text: .
+                        - listitem [ref=e1244]: Log in and select an eligible card to find the Membership Rewards balance on the right side.
+                        - listitem [ref=e1245]:
+                          - text: Select
+                          - strong [ref=e1246]: Rewards
+                          - text: and then
+                          - strong [ref=e1247]: Transfer Points.
+                        - listitem [ref=e1248]:
+                          - text: Press
+                          - strong [ref=e1249]: View All
+                          - text: right under the Transfer Points button.
+                        - listitem [ref=e1250]: On the loaded page, choose the loyalty program you want to transfer to.
+                        - listitem [ref=e1251]:
+                          - text: If you haven’t done so already, you’ll need to link your account with that program by selecting
+                          - strong [ref=e1252]: Link your [partner award program name] Account
+                          - text: under “See more information.”
+                        - listitem [ref=e1253]:
+                          - text: When the page loads, link your account by selecting
+                          - strong [ref=e1254]: Linked travel programs
+                          - text: on the right side and then
+                          - strong [ref=e1255]: Link additional programs.
+                        - listitem [ref=e1256]:
+                          - text: Select the partner award program to which you are transferring points (assuming you have already signed up for that program) and click
+                          - strong [ref=e1257]: Continue.
+                        - listitem [ref=e1258]: Enter your card and transfer partner program details.
+                        - listitem [ref=e1259]: Return to the page listing the partner program for transferring the points.
+                        - listitem [ref=e1260]:
+                          - text: Enter the number of points you will need, press
+                          - strong [ref=e1261]: Calculate,
+                          - text: and then
+                          - strong [ref=e1262]: Transfer this amount
+                          - text: .
+                      - paragraph [ref=e1263]:
+                        - emphasis [ref=e1264]: "Note: Once you transfer points, you cannot transfer them back!"
+                  - group [ref=e1265]:
+                    - generic "How can you earn more Membership Rewards points?" [ref=e1266] [cursor=pointer]
+                    - paragraph [ref=e1268]:
+                      - text: Membership Rewards
+                      - link "offers numerous ways to earn lots of Amex points" [ref=e1269] [cursor=pointer]:
+                        - /url: /credit-cards/how-to-earn-american-express-membership-rewards-points/
+                      - text: ", including over 10 points-earning credit cards."
+                  - group [ref=e1270]:
+                    - generic "When do Membership Rewards points post in your account?" [ref=e1271] [cursor=pointer]
+                    - generic [ref=e1272]:
+                      - paragraph [ref=e1273]:
+                        - text: Membership Rewards points earned will appear as “pending” in your account at the end of a billing cycle, which is after your statement closes. This means you can sometimes wait months for points to post — whether from purchases or
+                        - link "welcome bonuses" [ref=e1274] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/credit-cards/sign-up-bonuses/
+                        - text: .
+                      - paragraph [ref=e1275]: In their pending state, points are eligible to be used if you are in a hurry to use them. As long as your account is in good standing, you can call up Amex and ask the representative to turn pending points into posted points immediately. This may require speaking to a few different agents or a supervisor to make it happen.
+                - complementary [ref=e1276]:
+                  - generic [ref=e1277]:
+                    - paragraph [ref=e1278]:
+                      - generic [ref=e1280]:
+                        - text: The information regarding the Choice Privileges
+                        - superscript [ref=e1281]: ®
+                        - text: Mastercard
+                        - superscript [ref=e1282]: ®
+                        - text: was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1283]: The information regarding the Citi Strata Premier℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph [ref=e1284]:
+                      - generic [ref=e1286]:
+                        - text: For rates and fees of the Platinum Card
+                        - superscript [ref=e1287]: ®
+                        - text: from American Express, click
+                        - link "here" [ref=e1288] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1290]:
+                        - text: For rates and fees of the American Express
+                        - superscript [ref=e1291]: ®
+                        - text: Gold Card, click
+                        - link "here" [ref=e1292] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TE/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1294]:
+                        - text: For rates and fees of the Hilton Honors American Express Card, click
+                        - link "here" [ref=e1295] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexHiltonHHonorsTCCRF_addSource/TE/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1297]:
+                        - text: For rates and fees of the Marriott Bonvoy Business
+                        - superscript [ref=e1298]: ®
+                        - text: American Express
+                        - superscript [ref=e1299]: ®
+                        - text: Card, click
+                        - link "here" [ref=e1300] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBusinessAmexTCCRF_addSource/TE/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                - group "Was this page helpful?" [ref=e1302]:
+                  - paragraph [ref=e1303]: Was this page helpful?
+                  - generic [ref=e1304]:
+                    - button "Yes" [ref=e1305] [cursor=pointer]
+                    - button "No" [ref=e1306] [cursor=pointer]
+                - generic [ref=e1307]:
+                  - figure [ref=e1309]:
+                    - img "Caroline Lupini's image" [ref=e1310]
+                  - generic [ref=e1311]:
+                    - heading "About Caroline Lupini" [level=2] [ref=e1312]:
+                      - text: About
+                      - link "Caroline Lupini" [ref=e1313] [cursor=pointer]:
+                        - /url: /author/caroline/
+                    - paragraph [ref=e1314]: Caroline Lupini always enjoyed traveling, but it became her goal to do as much as possible after a 3-week trip around Europe in 2011. In March 2014, Caroline left her job and embarked on nearly full-time travels.
+                    - paragraph [ref=e1315]: As a frequent traveler, frequent flyer miles have played a large role in planning her trips. Caroline has enjoyed discovering the ins and outs of how to maximize different types of miles, hotel points, and transferable points currencies.
+                    - list [ref=e1317]:
+                      - listitem [ref=e1318]:
+                        - link "email icon" [ref=e1319] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1320]
+                - generic [ref=e1322]:
+                  - generic [ref=e1323]:
+                    - paragraph [ref=e1324]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1325]: ™
+                    - generic [ref=e1326]:
+                      - paragraph [ref=e1327]:
+                        - text: Get the
+                        - strong [ref=e1328]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1329]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1330]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1331]:
+                      - textbox "First Name" [ref=e1332]
+                      - textbox "Email" [ref=e1333]
+                      - button "Join Now" [disabled] [ref=e1334]
+                    - paragraph [ref=e1336]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1337] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1338] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1339] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1341]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1343]
+                - generic [ref=e1345]:
+                  - paragraph [ref=e1346]: We Recommend
+                  - generic [ref=e1347]:
+                    - generic [ref=e1348]:
+                      - link "Platinum Card® from American Express" [ref=e1349] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1350]
+                      - link "Terms Apply / Rates & Fees" [ref=e1351] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1352] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1353]
+                        - text: Apply Now
+                    - generic [ref=e1356]:
+                      - paragraph [ref=e1357]:
+                        - link "Platinum Card® from American Express" [ref=e1358] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1359]:
+                            - text: Platinum Card
+                            - superscript [ref=e1360]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1362]:
+                        - generic [ref=e1363]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1364] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1365]:
+                        - listitem [ref=e1366]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1367]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1368]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1369]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1370]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1371]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1372]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1373] [cursor=pointer]
+            - complementary [ref=e1375]:
+              - generic [ref=e1376]:
+                - generic [ref=e1378]:
+                  - paragraph [ref=e1379]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1380] [cursor=pointer]
+                  - generic [ref=e1381]:
+                    - generic [ref=e1384]:
+                      - generic [ref=e1385]:
+                        - generic [ref=e1386]:
+                          - img [ref=e1387]
+                          - generic [ref=e1389]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1390] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1391]
+                      - generic [ref=e1392]:
+                        - paragraph [ref=e1393]:
+                          - link "Platinum Card® from American Express" [ref=e1394] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1395]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1396] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1397]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1399] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1402]:
+                      - generic [ref=e1403]:
+                        - generic [ref=e1404]:
+                          - img [ref=e1405]
+                          - generic [ref=e1407]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1408] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1409]
+                      - generic [ref=e1410]:
+                        - paragraph [ref=e1411]:
+                          - link "American Express® Gold Card" [ref=e1412] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1413]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1414] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1415]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1417] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1420]:
+                      - generic [ref=e1421]:
+                        - generic [ref=e1422]:
+                          - img [ref=e1423]
+                          - generic [ref=e1425]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1426] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1427]
+                      - generic [ref=e1428]:
+                        - paragraph [ref=e1429]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1430] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1431]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1432] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1433]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1435] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/459/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1438]:
+                      - generic [ref=e1439]:
+                        - generic [ref=e1440]:
+                          - img [ref=e1441]
+                          - generic [ref=e1443]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1444] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/459/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1445]
+                      - generic [ref=e1446]:
+                        - paragraph [ref=e1447]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1448] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/459/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1449]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1450] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/459/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1451]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1453] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/459/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1455] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1458]: Advertisement
+      - generic [ref=e1462]:
+        - paragraph [ref=e1463]: Related Posts
+        - generic [ref=e1464]:
+          - generic [ref=e1465]:
+            - link [ref=e1466] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-citi-thankyou-points/
+              - figure [ref=e1467]:
+                - img "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [ref=e1469]
+            - link "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [ref=e1470] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-citi-thankyou-points/
+          - generic [ref=e1471]:
+            - link [ref=e1472] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+              - figure [ref=e1473]:
+                - img "14 Best Ways To Redeem Emirates Skywards Miles for Max Value" [ref=e1475]
+            - link "14 Best Ways To Redeem Emirates Skywards Miles for Max Value" [ref=e1476] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+          - generic [ref=e1477]:
+            - link [ref=e1478] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-alaska-airlines-atmos-rewards-points/
+              - figure [ref=e1479]:
+                - img "10 Best Ways To Redeem Alaska Atmos Rewards Points for Max Value" [ref=e1481]
+            - link "10 Best Ways To Redeem Alaska Atmos Rewards Points for Max Value" [ref=e1482] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-alaska-airlines-atmos-rewards-points/
+          - generic [ref=e1483]:
+            - link [ref=e1484] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-etihad-first-class/
+              - figure [ref=e1485]:
+                - img "Best Ways To Book Etihad First Class Using Points [Step by Step]" [ref=e1487]
+            - link "Best Ways To Book Etihad First Class Using Points [Step by Step]" [ref=e1488] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-etihad-first-class/
+    - contentinfo [ref=e1489]:
+      - img [ref=e1490]
+      - img [ref=e1509]
+      - generic [ref=e1528]:
+        - generic [ref=e1529]:
+          - img [ref=e1531]
+          - generic [ref=e1536]:
+            - generic [ref=e1537]:
+              - paragraph [ref=e1538]: Upgrade your travel experience
+              - list [ref=e1539]:
+                - listitem [ref=e1540]:
+                  - link [ref=e1541] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1542]:
+                      - img "Facebook" [ref=e1543]
+                - listitem [ref=e1544]:
+                  - link [ref=e1545] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1546]:
+                      - img "Twitter" [ref=e1547]
+                - listitem [ref=e1548]:
+                  - link [ref=e1549] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1550]:
+                      - img "Instagram" [ref=e1551]
+                - listitem [ref=e1552]:
+                  - link [ref=e1553] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1554]:
+                      - img "Pinterest" [ref=e1555]
+                - listitem [ref=e1556]:
+                  - link [ref=e1557] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1558]:
+                      - img "Linkedin" [ref=e1559]
+                - listitem [ref=e1560]:
+                  - link [ref=e1561] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1562]:
+                      - img "Youtube" [ref=e1563]
+            - generic [ref=e1565]:
+              - list [ref=e1566]:
+                - listitem [ref=e1567]:
+                  - link "News" [ref=e1568] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1569]:
+                  - link "Credit Cards" [ref=e1570] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1571]:
+                  - link "Business" [ref=e1572] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1573]:
+                - listitem [ref=e1574]:
+                  - link "Finance" [ref=e1575] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1576]:
+                  - link "Travel Guides" [ref=e1577] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1578]:
+                  - link "Air Travel" [ref=e1579] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1580]:
+                - listitem [ref=e1581]:
+                  - link "Hotel Guides" [ref=e1582] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1583]:
+                  - link "Beginners" [ref=e1584] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1585]:
+                  - link "About" [ref=e1586] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1587]:
+                - listitem [ref=e1588]:
+                  - link "Podcast" [ref=e1589] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1590]:
+                  - link "Jobs & Careers" [ref=e1591] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1592]:
+                  - link "Contact Us" [ref=e1593] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1594]:
+          - paragraph [ref=e1595]:
+            - link "Privacy Policy" [ref=e1596] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1597] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1598] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1599] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1600] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1601] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1602] [cursor=pointer]
+          - paragraph [ref=e1603]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1604]:
+          - link "DMCA.com Protection Status" [ref=e1605] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1606]
+          - img "Comodo Secure Seal" [ref=e1608]
+        - generic [ref=e1609]:
+          - generic [ref=e1610]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1611]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1612]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1613]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1614]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1615] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1616]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1617]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1619]:
+    - generic [ref=e1620]:
+      - generic [ref=e1621]:
+        - button "close banner" [ref=e1622] [cursor=pointer]:
+          - img "close banner" [ref=e1623]
+        - img "company logo" [ref=e1625]
+      - generic [ref=e1626]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1628]
+        - generic [ref=e1629]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1630] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1631] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1633]:
+        - button "Manage" [ref=e1634] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1635] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1636] [cursor=pointer]
+    - generic [ref=e1638]:
+      - generic [ref=e1639]: "Powered by:"
+      - link "trustarc" [ref=e1640] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1641]

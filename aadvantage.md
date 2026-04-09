@@ -1,0 +1,1607 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "20 Best Ways To Redeem American Airlines AAdvantage Miles for Maximum Value" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Stephen Au's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Stephen Au
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: February 8, 2026, 4:26pm CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Keri Stooksbury
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Michael Y. Park
+          - figure [ref=e61]:
+            - img "20 Best Ways To Redeem American Airlines AAdvantage Miles for Maximum Value" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e1541]:
+            - generic "Jump to Section" [ref=e1542] [cursor=pointer]
+          - paragraph [ref=e68]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e69] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e70]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - heading "Key Takeaways" [level=2] [ref=e76]
+                  - list [ref=e78]:
+                    - listitem [ref=e79]: AAdvantage miles can be redeemed for premium cabin awards on American Airlines and Oneworld partners like Qatar Airways, Cathay Pacific, and British Airways.
+                    - listitem [ref=e80]: American Airlines has partners outside of the Oneworld Alliance, such as Cape Air, Etihad Airways, and JetBlue.
+                    - listitem [ref=e81]: Some of the best redemptions for your miles include Etihad Airways’ first class the Apartment, Qatar Airways Qsuites, and Qantas business class.
+                - paragraph [ref=e82]: American Airlines is one of the most well-known airlines in the world. Its AAdvantage loyalty program is also well-received thanks to the value of American Airlines miles.
+                - paragraph [ref=e83]: The AAdvantage program has undergone significant changes over the years, including an entirely new way of earning elite status and switching to a dynamic pricing method for its flights. However, there is still a ton of value, particularly when it comes to redeeming American AAdvantage miles on partner airlines.
+                - paragraph [ref=e84]: American Airlines is a member of the Oneworld alliance and also has plenty of partners outside of it. These partnerships allow for several ways to redeem American Airlines miles.
+                - paragraph [ref=e85]: Let’s look at 20 of the best ways to use your American Airlines miles for maximum value. These include various business and first class products you can fly, as well as some routes with great pricing.
+                - heading "Booking Awards With American Airlines AAdvantage" [level=2] [ref=e86]
+                - paragraph [ref=e87]: For its own flights, American Airlines has implemented a dynamic pricing method. That means miles needed for an award redemption will vary based on the cash price of the ticket. When the cash price of a ticket is high, the number of miles you need is also high.
+                - paragraph [ref=e88]: Because of the dynamic pricing on its own flights, it’s hard to get great value with your American miles on American-operated flights.
+                - paragraph [ref=e89]: However, partner awards with American AAdvantage are not subject to dynamic pricing. American still has a published award chart for its partner airlines. This is where most of the value of American Airlines miles comes from.
+                - paragraph [ref=e90]:
+                  - text: "Since American Airlines is a member of the Oneworld alliance, you can use AAdvantage miles to fly on their many partner airlines, which include some of the best airlines in the world: British Airways, Cathay Pacific,"
+                  - link "Japan Airlines" [ref=e91] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/japan-airlines-review/
+                  - text: ", and Qatar Airways."
+                - paragraph [ref=e92]: American Airlines also has some great partners outside of the alliance, including Air Tahiti Nui, Fiji Airlines, and Etihad Airways.
+                - paragraph [ref=e93]:
+                  - link "Here" [ref=e94] [cursor=pointer]:
+                    - /url: https://www.aa.com/i18n/aadvantage-program/miles/redeem/award-travel/oneworld-and-other-airline-partner-award-chart.jsp#awardtraveldetails
+                  - text: "is American’s award chart for flights from the U.S. to various regions:"
+                - table [ref=e97]:
+                  - rowgroup [ref=e98]:
+                    - row "Destination Main Cabin Off-Peak Main Cabin Premium Economy Business/First First" [ref=e99]:
+                      - cell "Destination" [ref=e100]:
+                        - paragraph [ref=e101]:
+                          - strong [ref=e102]: Destination
+                      - cell "Main Cabin Off-Peak" [ref=e103]:
+                        - paragraph [ref=e104]:
+                          - strong [ref=e105]: Main Cabin Off-Peak
+                      - cell "Main Cabin" [ref=e106]:
+                        - paragraph [ref=e107]:
+                          - strong [ref=e108]: Main Cabin
+                      - cell "Premium Economy" [ref=e109]:
+                        - paragraph [ref=e110]:
+                          - strong [ref=e111]: Premium Economy
+                      - cell "Business/First" [ref=e112]:
+                        - paragraph [ref=e113]:
+                          - strong [ref=e114]: Business/First
+                      - cell "First" [ref=e115]:
+                        - paragraph [ref=e116]:
+                          - strong [ref=e117]: First
+                    - row "Contiguous U.S. and Canada + Not available 12,500 22,500 25,000 50,000" [ref=e118]:
+                      - cell "Contiguous U.S. and Canada +" [ref=e119]:
+                        - paragraph [ref=e120]: Contiguous U.S. and Canada
+                        - paragraph [ref=e121]: +
+                      - cell "Not available" [ref=e122]:
+                        - paragraph [ref=e123]: Not available
+                      - cell "12,500" [ref=e124]:
+                        - paragraph [ref=e125]: 12,500
+                      - cell "22,500" [ref=e126]:
+                        - paragraph [ref=e127]: 22,500
+                      - cell "25,000" [ref=e128]:
+                        - paragraph [ref=e129]: 25,000
+                      - cell "50,000" [ref=e130]:
+                        - paragraph [ref=e131]: 50,000
+                    - row "Alaska – 15,000 25,000 30,000 55,000" [ref=e132]:
+                      - cell "Alaska" [ref=e133]:
+                        - paragraph [ref=e134]: Alaska
+                      - cell "–" [ref=e135]:
+                        - paragraph [ref=e136]: –
+                      - cell "15,000" [ref=e137]:
+                        - paragraph [ref=e138]: 15,000
+                      - cell "25,000" [ref=e139]:
+                        - paragraph [ref=e140]: 25,000
+                      - cell "30,000" [ref=e141]:
+                        - paragraph [ref=e142]: 30,000
+                      - cell "55,000" [ref=e143]:
+                        - paragraph [ref=e144]: 55,000
+                    - row "Hawaii – 22,500 50,000 55,000 80,000" [ref=e145]:
+                      - cell "Hawaii" [ref=e146]:
+                        - paragraph [ref=e147]: Hawaii
+                      - cell "–" [ref=e148]:
+                        - paragraph [ref=e149]: –
+                      - cell "22,500" [ref=e150]:
+                        - paragraph [ref=e151]: 22,500
+                      - cell "50,000" [ref=e152]:
+                        - paragraph [ref=e153]: 50,000
+                      - cell "55,000" [ref=e154]:
+                        - paragraph [ref=e155]: 55,000
+                      - cell "80,000" [ref=e156]:
+                        - paragraph [ref=e157]: 80,000
+                    - row "Caribbean – 17,500 – 27,500 52,500" [ref=e158]:
+                      - cell "Caribbean" [ref=e159]:
+                        - paragraph [ref=e160]: Caribbean
+                      - cell "–" [ref=e161]:
+                        - paragraph [ref=e162]: –
+                      - cell "17,500" [ref=e163]:
+                        - paragraph [ref=e164]: 17,500
+                      - cell "–" [ref=e165]:
+                        - paragraph [ref=e166]: –
+                      - cell "27,500" [ref=e167]:
+                        - paragraph [ref=e168]: 27,500
+                      - cell "52,500" [ref=e169]:
+                        - paragraph [ref=e170]: 52,500
+                    - row "Mexico – 17,500 – 27,500 52,500" [ref=e171]:
+                      - cell "Mexico" [ref=e172]:
+                        - paragraph [ref=e173]: Mexico
+                      - cell "–" [ref=e174]:
+                        - paragraph [ref=e175]: –
+                      - cell "17,500" [ref=e176]:
+                        - paragraph [ref=e177]: 17,500
+                      - cell "–" [ref=e178]:
+                        - paragraph [ref=e179]: –
+                      - cell "27,500" [ref=e180]:
+                        - paragraph [ref=e181]: 27,500
+                      - cell "52,500" [ref=e182]:
+                        - paragraph [ref=e183]: 52,500
+                    - row "Central America _ 17,500 _ 27,500 52,500" [ref=e184]:
+                      - cell "Central America" [ref=e185]:
+                        - paragraph
+                        - paragraph [ref=e186]: Central America
+                      - cell "_" [ref=e187]:
+                        - paragraph [ref=e188]: _
+                      - cell "17,500" [ref=e189]:
+                        - paragraph [ref=e190]: 17,500
+                      - cell "_" [ref=e191]:
+                        - paragraph [ref=e192]: _
+                      - cell "27,500" [ref=e193]:
+                        - paragraph [ref=e194]: 27,500
+                      - cell "52,500" [ref=e195]:
+                        - paragraph [ref=e196]: 52,500
+                    - row "South America Region 1 _ 20,000 _ 30,000 55,000" [ref=e197]:
+                      - cell "South America Region 1" [ref=e198]:
+                        - paragraph [ref=e199]: South America Region 1
+                      - cell "_" [ref=e200]:
+                        - paragraph [ref=e201]: _
+                      - cell "20,000" [ref=e202]:
+                        - paragraph [ref=e203]: 20,000
+                      - cell "_" [ref=e204]:
+                        - paragraph [ref=e205]: _
+                      - cell "30,000" [ref=e206]:
+                        - paragraph [ref=e207]: 30,000
+                      - cell "55,000" [ref=e208]:
+                        - paragraph [ref=e209]: 55,000
+                    - row "South America Region 2 _ 30,000 40,000 57,500 85,000" [ref=e210]:
+                      - cell "South America Region 2" [ref=e211]:
+                        - paragraph [ref=e212]: South America Region 2
+                      - cell "_" [ref=e213]:
+                        - paragraph [ref=e214]: _
+                      - cell "30,000" [ref=e215]:
+                        - paragraph [ref=e216]: 30,000
+                      - cell "40,000" [ref=e217]:
+                        - paragraph [ref=e218]: 40,000
+                      - cell "57,500" [ref=e219]:
+                        - paragraph [ref=e220]: 57,500
+                      - cell "85,000" [ref=e221]:
+                        - paragraph [ref=e222]: 85,000
+                    - row "Europe 22,500 30,000 40,000 57,500 85,000" [ref=e223]:
+                      - cell "Europe" [ref=e224]:
+                        - paragraph [ref=e225]: Europe
+                      - cell "22,500" [ref=e226]:
+                        - paragraph [ref=e227]: 22,500
+                      - cell "30,000" [ref=e228]:
+                        - paragraph [ref=e229]: 30,000
+                      - cell "40,000" [ref=e230]:
+                        - paragraph [ref=e231]: 40,000
+                      - cell "57,500" [ref=e232]:
+                        - paragraph [ref=e233]: 57,500
+                      - cell "85,000" [ref=e234]:
+                        - paragraph [ref=e235]: 85,000
+                    - row "Middle East _ 40,000 62,500 70,000 115,000" [ref=e236]:
+                      - cell "Middle East" [ref=e237]:
+                        - paragraph [ref=e238]: Middle East
+                      - cell "_" [ref=e239]:
+                        - paragraph [ref=e240]: _
+                      - cell "40,000" [ref=e241]:
+                        - paragraph [ref=e242]: 40,000
+                      - cell "62,500" [ref=e243]:
+                        - paragraph [ref=e244]: 62,500
+                      - cell "70,000" [ref=e245]:
+                        - paragraph [ref=e246]: 70,000
+                      - cell "115,000" [ref=e247]:
+                        - paragraph [ref=e248]: 115,000
+                    - row "Indian Subcontinent _ 40,000 62,500 70,000 115,000" [ref=e249]:
+                      - cell "Indian Subcontinent" [ref=e250]:
+                        - paragraph [ref=e251]: Indian Subcontinent
+                      - cell "_" [ref=e252]:
+                        - paragraph [ref=e253]: _
+                      - cell "40,000" [ref=e254]:
+                        - paragraph [ref=e255]: 40,000
+                      - cell "62,500" [ref=e256]:
+                        - paragraph [ref=e257]: 62,500
+                      - cell "70,000" [ref=e258]:
+                        - paragraph [ref=e259]: 70,000
+                      - cell "115,000" [ref=e260]:
+                        - paragraph [ref=e261]: 115,000
+                    - row "Africa* _ 40,000 65,000 75,000 120,000" [ref=e262]:
+                      - cell "Africa*" [ref=e263]:
+                        - paragraph [ref=e264]: Africa*
+                      - cell "_" [ref=e265]:
+                        - paragraph [ref=e266]: _
+                      - cell "40,000" [ref=e267]:
+                        - paragraph [ref=e268]: 40,000
+                      - cell "65,000" [ref=e269]:
+                        - paragraph [ref=e270]: 65,000
+                      - cell "75,000" [ref=e271]:
+                        - paragraph [ref=e272]: 75,000
+                      - cell "120,000" [ref=e273]:
+                        - paragraph [ref=e274]: 120,000
+                    - row "Asia Region 1 _ 35,000 50,000 60,000 80,000" [ref=e275]:
+                      - cell "Asia Region 1" [ref=e276]:
+                        - paragraph [ref=e277]: Asia Region 1
+                      - cell "_" [ref=e278]:
+                        - paragraph [ref=e279]: _
+                      - cell "35,000" [ref=e280]:
+                        - paragraph [ref=e281]: 35,000
+                      - cell "50,000" [ref=e282]:
+                        - paragraph [ref=e283]: 50,000
+                      - cell "60,000" [ref=e284]:
+                        - paragraph [ref=e285]: 60,000
+                      - cell "80,000" [ref=e286]:
+                        - paragraph [ref=e287]: 80,000
+                    - row "Asia Region 2 _ 37,500 50,000 70,000 110,000" [ref=e288]:
+                      - cell "Asia Region 2" [ref=e289]:
+                        - paragraph [ref=e290]: Asia Region 2
+                      - cell "_" [ref=e291]:
+                        - paragraph [ref=e292]: _
+                      - cell "37,500" [ref=e293]:
+                        - paragraph [ref=e294]: 37,500
+                      - cell "50,000" [ref=e295]:
+                        - paragraph [ref=e296]: 50,000
+                      - cell "70,000" [ref=e297]:
+                        - paragraph [ref=e298]: 70,000
+                      - cell "110,000" [ref=e299]:
+                        - paragraph [ref=e300]: 110,000
+                    - row "South Pacific _ 40,000 65,000 80,000 110,000" [ref=e301]:
+                      - cell "South Pacific" [ref=e302]:
+                        - paragraph [ref=e303]: South Pacific
+                      - cell "_" [ref=e304]:
+                        - paragraph [ref=e305]: _
+                      - cell "40,000" [ref=e306]:
+                        - paragraph [ref=e307]: 40,000
+                      - cell "65,000" [ref=e308]:
+                        - paragraph [ref=e309]: 65,000
+                      - cell "80,000" [ref=e310]:
+                        - paragraph [ref=e311]: 80,000
+                      - cell "110,000" [ref=e312]:
+                        - paragraph [ref=e313]: 110,000
+                - paragraph [ref=e314]: Now that we’ve taken a look at American’s structure for award redemptions, let’s look at some of the ways to earn American Airlines miles.
+                - heading "Earning American Airlines AAdvantage Miles" [level=2] [ref=e315]
+                - paragraph [ref=e316]:
+                  - link "Earn American AAdvantage miles" [ref=e317] [cursor=pointer]:
+                    - /url: /travel/airlines/how-to-earn-american-airlines-aadvantage-miles/
+                  - text: to redeem for flights with American Airlines, any of the
+                  - link "Oneworld alliance partners" [ref=e318] [cursor=pointer]:
+                    - /url: /travel/airlines/oneworld-alliance/
+                  - text: ", or American’s other partners."
+                - heading "Earn AAdvantage Miles With Credit Card Partners" [level=3] [ref=e319]
+                - paragraph [ref=e320]:
+                  - link "American Airlines offers numerous co-branded credit cards" [ref=e321] [cursor=pointer]:
+                    - /url: /credit-cards/best-american-airlines-credit-cards/
+                  - text: "available through Citi and Barclays. Two great options to consider are:"
+                - list [ref=e322]:
+                  - listitem [ref=e323]:
+                    - link "Citi® / AAdvantage® Platinum Select® World Elite Mastercard®" [ref=e324] [cursor=pointer]:
+                      - /url: /credit-cards/reviews/citi-aadvantage-platinum-select-mastercard/
+                      - strong [ref=e325]:
+                        - text: Citi
+                        - superscript [ref=e326]: ®
+                        - text: / AAdvantage
+                        - superscript [ref=e327]: ®
+                        - text: Platinum Select
+                        - superscript [ref=e328]: ®
+                        - text: World Elite Mastercard
+                        - superscript [ref=e329]: ®
+                    - text: ($0 intro annual fee, then $99 after the first year)
+                  - listitem [ref=e330]:
+                    - strong [ref=e331]:
+                      - link "Citi® / AAdvantage® Globe™ Mastercard®" [ref=e332] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/citi-aadvantage-globe-mastercard/
+                        - text: Citi
+                        - superscript [ref=e333]: ®
+                        - text: / AAdvantage
+                        - superscript [ref=e334]: ®
+                        - text: Globe™ Mastercard
+                        - superscript [ref=e335]: ®
+                    - text: ($350 annual fee)
+                - heading "Citi ThankYou Rewards Credit Cards" [level=3] [ref=e336]
+                - paragraph [ref=e337]: "American AAdvantage is a Citi ThankYou Rewards transfer partner, allowing you to transfer ThankYou points to AAdvantage at up to a 1:1 ratio (though this can be less if you don’t hold a premium card). Transfers are nearly instant and the following credit cards qualify:"
+                - list [ref=e338]:
+                  - listitem [ref=e339]:
+                    - link "Citi Strata Elite℠ Card" [ref=e340] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/reviews/citi-strata-elite-card/
+                      - strong [ref=e341]: Citi Strata Elite℠ Card
+                    - text: ($595 annual fee)
+                  - listitem [ref=e342]:
+                    - link "Citi Strata Premier℠ Card" [ref=e343] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/reviews/citi-strata-premier-card/
+                      - strong [ref=e344]: Citi Strata Premier℠ Card
+                    - text: ($95 annual fee)
+                  - listitem [ref=e345]:
+                    - link "Citi Prestige® Card" [ref=e346] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/credit-cards/reviews/citi-prestige-card/
+                      - strong [ref=e347]:
+                        - text: Citi Prestige
+                        - superscript [ref=e348]: ®
+                        - text: Card
+                    - text: ($495 annual fee; no longer available to new applicants)
+                - paragraph [ref=e349]:
+                  - text: If you have a $0-annual-fee
+                  - link "Citi Double Cash® Card" [ref=e350] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/reviews/citi-double-cash-card/
+                    - text: Citi Double Cash
+                    - superscript [ref=e351]: ®
+                    - text: Card
+                  - text: or the
+                  - link "Citi Strata℠ Card" [ref=e352] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/reviews/citi-strata-card/
+                  - text: ","
+                  - strong [ref=e353]: your points will transfer at a ratio of 1:0.7
+                  - text: . However, if you also hold one of the premium cards listed above,
+                  - strong [ref=e354]: you can combine your rewards
+                  - text: ", then transfer the"
+                  - link "Citi ThankYou Points" [ref=e355] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/citi-thankyou-rewards-review/
+                  - text: to AAdvantage at a higher ratio.
+                - heading "Marriott Credit Cards" [level=3] [ref=e356]
+                - paragraph [ref=e357]:
+                  - text: You can
+                  - link "earn Marriott points" [ref=e358] [cursor=pointer]:
+                    - /url: /travel/hotels/how-to-earn-marriott-rewards-points/
+                  - text: and
+                  - link "transfer" [ref=e359] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-transfer-partners/
+                  - text: those to American Airlines at a 3:1 ratio.
+                - paragraph [ref=e360]:
+                  - strong [ref=e361]: Recommended Marriott Cards
+                - generic [ref=e363]:
+                  - generic [ref=e364]:
+                    - link "Marriott Bonvoy Bold® Credit Card" [ref=e365] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBold/TRD/681/dissn.1775548838764.7073346957.1/
+                      - img "Marriott Bonvoy Bold® Credit Card" [ref=e366]
+                    - link "Terms Apply / Rates & Fees" [ref=e367] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoldTCCRF/TRD/681/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e368]: Terms Apply / Rates & Fees
+                    - generic [ref=e369]:
+                      - generic [ref=e370]:
+                        - img "Star rating icon" [ref=e373]
+                        - img "Star rating icon" [ref=e376]
+                        - img "Star rating icon" [ref=e379]
+                        - generic [ref=e380]:
+                          - img "Star rating icon" [ref=e382]
+                          - img "Star rating icon" [ref=e384]
+                        - generic [ref=e385]:
+                          - img "Star rating icon" [ref=e387]
+                          - img "Star rating icon" [ref=e388]
+                      - generic [ref=e389]:
+                        - generic [ref=e390]: U.P. Rating
+                        - img [ref=e393]:
+                          - img [ref=e394]
+                    - link "Apply Now" [ref=e397] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBold/TRD/681/dissn.1775548838764.7073346957.1/
+                      - img [ref=e398]
+                      - text: Apply Now
+                    - generic [ref=e401]: (at Chase's secure site)
+                  - generic [ref=e402]:
+                    - generic [ref=e404]:
+                      - link "Marriott Bonvoy Bold® Credit Card" [ref=e406] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-bold-credit-card/
+                        - text: Marriott Bonvoy Bold
+                        - superscript [ref=e407]: ®
+                        - text: Credit Card
+                      - text: A great option for Marriott hotel fans who want a no annual fee card and automatic Marriott Bonvoy elite status.
+                    - generic [ref=e408]:
+                      - generic [ref=e409]:
+                        - generic [ref=e410]:
+                          - generic [ref=e411]: Welcome Offer
+                          - img [ref=e414]:
+                            - img [ref=e415]
+                        - generic [ref=e418]: 30,000 points
+                      - generic [ref=e419]:
+                        - generic [ref=e421]: "UP's Offer Valuation*:"
+                        - generic [ref=e422]: $210
+                    - generic [ref=e423]:
+                      - generic [ref=e424]:
+                        - generic [ref=e426]: Annual Fee
+                        - generic [ref=e427]: $0
+                      - generic [ref=e428]:
+                        - generic [ref=e430]: APR
+                        - generic [ref=e431]: 19.24% - 27.74% Variable
+                      - generic [ref=e432]:
+                        - generic [ref=e433]:
+                          - generic [ref=e434]: Credit Recommended
+                          - img [ref=e437]:
+                            - img [ref=e438]
+                        - generic [ref=e441]: Good to Excellent
+                    - generic [ref=e442]:
+                      - group [ref=e443]:
+                        - generic "Why We Like This Card" [ref=e444] [cursor=pointer]
+                      - group [ref=e445]:
+                        - generic "Pros & Cons" [ref=e446] [cursor=pointer]
+                      - group [ref=e447]:
+                        - generic "Card Highlights" [ref=e448] [cursor=pointer]
+                - generic [ref=e450]:
+                  - generic [ref=e451]:
+                    - link "Marriott Bonvoy Boundless® Credit Card" [ref=e452] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundless/TRD/681/dissn.1775548838764.7073346957.1/
+                      - img "Marriott Bonvoy Boundless® Credit Card" [ref=e453]
+                    - link "Terms Apply / Rates & Fees" [ref=e454] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundlessTCCRF/TRD/681/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e455]: Terms Apply / Rates & Fees
+                    - generic [ref=e456]:
+                      - generic [ref=e457]:
+                        - img "Star rating icon" [ref=e460]
+                        - img "Star rating icon" [ref=e463]
+                        - img "Star rating icon" [ref=e466]
+                        - img "Star rating icon" [ref=e469]
+                        - generic [ref=e470]:
+                          - img "Star rating icon" [ref=e472]
+                          - img "Star rating icon" [ref=e474]
+                      - generic [ref=e475]:
+                        - generic [ref=e476]: U.P. Rating
+                        - img [ref=e479]:
+                          - img [ref=e480]
+                    - link "Apply Now" [ref=e483] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBoundless/TRD/681/dissn.1775548838764.7073346957.1/
+                      - img [ref=e484]
+                      - text: Apply Now
+                    - generic [ref=e487]: (at Chase's secure site)
+                  - generic [ref=e488]:
+                    - generic [ref=e490]:
+                      - link "Marriott Bonvoy Boundless® Credit Card" [ref=e492] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-boundless-credit-card/
+                        - text: Marriott Bonvoy Boundless
+                        - superscript [ref=e493]: ®
+                        - text: Credit Card
+                      - text: Marriott loyalists will love this card's annual Free Night Award, automatic elite status, and up to 17x points per $1 on Marriott hotel stays.
+                    - generic [ref=e494]:
+                      - generic [ref=e495]:
+                        - generic [ref=e496]:
+                          - generic [ref=e497]: Welcome Offer
+                          - img [ref=e500]:
+                            - img [ref=e501]
+                        - generic [ref=e504]: Earn up to 4 Free Night Awards
+                      - generic [ref=e505]:
+                        - generic [ref=e507]: "UP's Offer Valuation*:"
+                        - generic [ref=e508]: Up to $1,400
+                    - generic [ref=e509]:
+                      - generic [ref=e510]:
+                        - generic [ref=e512]: Annual Fee
+                        - generic [ref=e513]: $95
+                      - generic [ref=e514]:
+                        - generic [ref=e516]: APR
+                        - generic [ref=e517]: 19.24% - 27.74% Variable
+                      - generic [ref=e518]:
+                        - generic [ref=e519]:
+                          - generic [ref=e520]: Credit Recommended
+                          - img [ref=e523]:
+                            - img [ref=e524]
+                        - generic [ref=e527]: Good to Excellent
+                    - generic [ref=e528]:
+                      - group [ref=e529]:
+                        - generic "Why We Like This Card" [ref=e530] [cursor=pointer]
+                      - group [ref=e531]:
+                        - generic "Pros & Cons" [ref=e532] [cursor=pointer]
+                      - group [ref=e533]:
+                        - generic "Card Highlights" [ref=e534] [cursor=pointer]
+                - generic [ref=e536]:
+                  - generic [ref=e537]:
+                    - img [ref=e538]
+                    - generic [ref=e540]: LIMITED TIME OFFER
+                  - generic [ref=e541]:
+                    - link "Marriott Bonvoy Bevy® American Express® Card" [ref=e542] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevy_addSource/TRD/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Marriott Bonvoy Bevy® American Express® Card" [ref=e543]
+                    - link "Terms Apply / Rates & Fees" [ref=e544] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TRD/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e545]: Terms Apply / Rates & Fees
+                    - generic [ref=e546]:
+                      - generic [ref=e547]:
+                        - img "Star rating icon" [ref=e550]
+                        - img "Star rating icon" [ref=e553]
+                        - img "Star rating icon" [ref=e556]
+                        - generic [ref=e557]:
+                          - img "Star rating icon" [ref=e559]
+                          - img "Star rating icon" [ref=e560]
+                        - generic [ref=e561]:
+                          - img "Star rating icon" [ref=e563]
+                          - img "Star rating icon" [ref=e564]
+                      - generic [ref=e565]:
+                        - generic [ref=e566]: U.P. Rating
+                        - img [ref=e569]:
+                          - img [ref=e570]
+                    - link "Apply Now" [ref=e573] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBevy_addSource/TRD/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e574]
+                      - text: Apply Now
+                    - generic [ref=e577]: (at Amex's secure site)
+                    - generic [ref=e578]:
+                      - heading "Apply With Confidence" [level=4] [ref=e579]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e580]
+                      - paragraph [ref=e581]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e582]:
+                    - generic [ref=e584]:
+                      - link "Marriott Bonvoy Bevy® American Express® Card" [ref=e586] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-bevy-card/
+                        - text: Marriott Bonvoy Bevy
+                        - superscript [ref=e587]: ®
+                        - text: American Express
+                        - superscript [ref=e588]: ®
+                        - text: Card
+                      - text: The Marriott Bonvoy Bevy card gives you automatic Marriott elite status and helps you earn more Marriott Bonvoy points on your everyday purchases.
+                    - generic [ref=e589]:
+                      - generic [ref=e590]:
+                        - generic [ref=e591]:
+                          - generic [ref=e592]: Welcome Offer
+                          - img [ref=e595]:
+                            - img [ref=e596]
+                        - generic [ref=e599]: 175,000 points
+                      - generic [ref=e600]:
+                        - generic [ref=e602]: "UP's Offer Valuation*:"
+                        - generic [ref=e603]: Up to $1,225
+                    - generic [ref=e604]:
+                      - generic [ref=e605]:
+                        - generic [ref=e607]: Annual Fee
+                        - generic [ref=e608]: $250
+                      - generic [ref=e609]:
+                        - generic [ref=e611]: APR
+                        - generic [ref=e612]: 19.49%-28.49% Variable
+                      - generic [ref=e613]:
+                        - generic [ref=e614]:
+                          - generic [ref=e615]: Credit Recommended
+                          - img [ref=e618]:
+                            - img [ref=e619]
+                        - generic [ref=e622]: Good to Excellent
+                    - generic [ref=e623]:
+                      - group [ref=e624]:
+                        - generic "Why We Like This Card" [ref=e625] [cursor=pointer]
+                      - group [ref=e626]:
+                        - generic "Pros & Cons" [ref=e627] [cursor=pointer]
+                      - group [ref=e628]:
+                        - generic "Card Highlights" [ref=e629] [cursor=pointer]
+                - generic [ref=e631]:
+                  - generic [ref=e632]:
+                    - img [ref=e633]
+                    - generic [ref=e635]: LIMITED TIME OFFER
+                  - generic [ref=e636]:
+                    - link "Marriott Bonvoy Brilliant® American Express® Card" [ref=e637] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliant_addSource/TRD/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Marriott Bonvoy Brilliant® American Express® Card" [ref=e638]
+                    - link "Terms Apply / Rates & Fees" [ref=e639] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TRD/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e640]: Terms Apply / Rates & Fees
+                    - generic [ref=e641]:
+                      - generic [ref=e642]:
+                        - img "Star rating icon" [ref=e645]
+                        - img "Star rating icon" [ref=e648]
+                        - img "Star rating icon" [ref=e651]
+                        - img "Star rating icon" [ref=e654]
+                        - generic [ref=e655]:
+                          - img "Star rating icon" [ref=e657]
+                          - img "Star rating icon" [ref=e658]
+                      - generic [ref=e659]:
+                        - generic [ref=e660]: U.P. Rating
+                        - img [ref=e663]:
+                          - img [ref=e664]
+                    - link "Apply Now" [ref=e667] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliant_addSource/TRD/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e668]
+                      - text: Apply Now
+                    - generic [ref=e671]: (at Amex's secure site)
+                    - generic [ref=e672]:
+                      - heading "Apply With Confidence" [level=4] [ref=e673]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e674]
+                      - paragraph [ref=e675]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e676]:
+                    - generic [ref=e678]:
+                      - link "Marriott Bonvoy Brilliant® American Express® Card" [ref=e680] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/marriott-bonvoy-brilliant-american-express-card/
+                        - text: Marriott Bonvoy Brilliant
+                        - superscript [ref=e681]: ®
+                        - text: American Express
+                        - superscript [ref=e682]: ®
+                        - text: Card
+                      - text: A premium card for Marriott fans who want perks like an annual statement credit and Free Night Award, plus a fast track to Marriott elite status.
+                    - generic [ref=e683]:
+                      - generic [ref=e684]:
+                        - generic [ref=e685]:
+                          - generic [ref=e686]: Welcome Offer
+                          - img [ref=e689]:
+                            - img [ref=e690]
+                        - generic [ref=e693]: 200,000 points
+                      - generic [ref=e694]:
+                        - generic [ref=e696]: "UP's Offer Valuation*:"
+                        - generic [ref=e697]: Up to $1,400
+                    - generic [ref=e698]:
+                      - generic [ref=e699]:
+                        - generic [ref=e701]: Annual Fee
+                        - generic [ref=e702]: $650
+                      - generic [ref=e703]:
+                        - generic [ref=e705]: APR
+                        - generic [ref=e706]: 19.49%-28.49% Variable
+                      - generic [ref=e707]:
+                        - generic [ref=e708]:
+                          - generic [ref=e709]: Credit Recommended
+                          - img [ref=e712]:
+                            - img [ref=e713]
+                        - generic [ref=e716]: Good to Excellent
+                    - generic [ref=e717]:
+                      - group [ref=e718]:
+                        - generic "Why We Like This Card" [ref=e719] [cursor=pointer]
+                      - group [ref=e720]:
+                        - generic "Pros & Cons" [ref=e721] [cursor=pointer]
+                      - group [ref=e722]:
+                        - generic "Card Highlights" [ref=e723] [cursor=pointer]
+                - generic [ref=e724]:
+                  - strong [ref=e725]: "Hot Tip:"
+                  - paragraph [ref=e727]: The American Airlines site can be a great place to look for Oneworld alliance partner award space.
+                - paragraph [ref=e729]: Advertisement
+                - heading "The 20 Best Ways To Use Your AAdvantage Miles" [level=2] [ref=e730]
+                - paragraph [ref=e731]: Now that we know how American prices its awards and how to earn American Airlines miles let’s look at some of the best ways to use your AA miles.
+                - heading "1. Fly Etihad First Class Apartment Between Abu Dhabi and New York City" [level=3] [ref=e732]
+                - 'figure "Etihad’s First Class Apartments on the A380 are some of the best seats you can find on any airline. Image Credit: Alex Miller" [ref=e734]':
+                  - link "Etihad First Class Apartment - Apartment 4K from Doorway" [ref=e735] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/11/Etihad-First-Class-Apartment-Apartment-4K-from-Doorway.jpg?auto=webp&disable=upscale
+                    - img "Etihad First Class Apartment - Apartment 4K from Doorway" [ref=e737]
+                  - generic [ref=e738]:
+                    - text: "Etihad’s First Class Apartments on the A380 are some of the best seats you can find on any airline. Image Credit:"
+                    - link "Alex Miller" [ref=e739] [cursor=pointer]:
+                      - /url: /author/alexmiller/
+                - paragraph [ref=e740]: When it comes to the best first class product, it’s hard to beat Etihad Airways’ first class the Apartment. Etihad’s inflight product is some of the best, and the Apartment reflects just that. Each seat consists of a wide armchair as well as a separate couch, which turns into a massive bed.
+                - paragraph [ref=e741]: To book a flight on Etihad with your AAdvantage miles, you can search directly on the American Airlines’ website, as the site now displays Etihad award availability.
+                - paragraph [ref=e742]: One of the best redemptions available is flying first class from the U.S. to Abu Dhabi (AUH), in the United Arab Emirates. This award would cost you 115,000 AAdvantage miles one-way in the first class Apartment. Etihad discontinued this route for nearly 4 years but has announced it will return in the summer of 2024.
+                - paragraph [ref=e743]: Business class on the same flight costs 70,000 American Airlines miles, and economy goes for a mere 40,000 miles each way.
+                - paragraph [ref=e744]: "Here’s the exact route you’ll want to book:"
+                - list [ref=e745]:
+                  - listitem [ref=e746]:
+                    - strong [ref=e747]: New York City (JFK) – Abu Dhabi (AUH)
+                - paragraph [ref=e748]:
+                  - text: Need help booking? See our step-by-step guide for
+                  - link "booking Etihad first class" [ref=e749] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-etihad-first-class/
+                  - text: .
+                - generic [ref=e750]:
+                  - strong [ref=e751]: "Hot Tip:"
+                  - paragraph [ref=e753]: Etihad has announced that it plans to bring back the Airbus A380 on flights to New York (JFK) effective April 2024.
+                - heading "2. Fly Qatar Airways Qsuites From the U.S. to the Middle East" [level=3] [ref=e754]
+                - 'figure "Qatar Airways Qsuites is rated the top business class in the world, for good reason. Image Credit: Alex Miller" [ref=e756]':
+                  - link "Qatar QSuites, 777, Turndown Service with Lie-flat bed" [ref=e757] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/06/Qatar-QSuites-777-Turndown-Service-with-Lie-flat-bed.jpg?auto=webp&disable=upscale
+                    - img "Qatar QSuites, 777, Turndown Service with Lie-flat bed" [ref=e759]
+                  - generic [ref=e760]: "Qatar Airways Qsuites is rated the top business class in the world, for good reason. Image Credit: Alex Miller"
+                - paragraph [ref=e761]: Qatar Airways Qsuites is often considered the best business class product in the sky. The suites come with closing doors, providing ample space and privacy, and feature some of the best bedding in the sky.
+                - paragraph [ref=e762]: Qsuites availability is generally pretty good if you search well in advance.
+                - paragraph [ref=e763]:
+                  - text: If you’re set on flying Qsuites, check out our guide on
+                  - link "best ways to book Qatar Airways Qsuites with points" [ref=e764] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-qatar-qsuites-with-points-and-miles/
+                  - text: . Qsuites from the U.S. can be booked for
+                  - strong [ref=e765]: 70,000 AAdvantage miles
+                  - text: one-way plus minimal taxes (less than $100 per person one way).
+                - paragraph [ref=e766]: "Here are some great example routes you can take:"
+                - list [ref=e767]:
+                  - listitem [ref=e768]:
+                    - strong [ref=e769]: Los Angeles (LAX) – Doha (DOH)
+                  - listitem [ref=e770]:
+                    - strong [ref=e771]: Houston (IAH) – Doha (DOH)
+                  - listitem [ref=e772]:
+                    - strong [ref=e773]: Washington D.C. (IAD) – Doha (DOH)
+                - heading "3. Fly Qatar Airways Qsuites From the U.S. to Africa" [level=3] [ref=e774]
+                - 'figure "Africa is another Qsuites option. Image Credit: Alex Miller" [ref=e776]':
+                  - link "Qatar, QSuites, 11F & 11E, Boeing 777" [ref=e777] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/06/Qatar-QSuites-11F-11E-Boeing-777.jpg?auto=webp&disable=upscale
+                    - img "Qatar, QSuites, 11F & 11E, Boeing 777" [ref=e779]
+                  - generic [ref=e780]: "Africa is another Qsuites option. Image Credit: Alex Miller"
+                - paragraph [ref=e781]: If the Middle East is not on your radar, you can still book Qatar Airways using AAdvantage miles to get to Africa.
+                - paragraph [ref=e782]:
+                  - text: For just
+                  - strong [ref=e783]: 5,000 more AA miles
+                  - text: ", you can fly anywhere on the African continent. This includes destinations like South Africa, which would effectively add an 8-to-9-hour flight in Qsuites."
+                - paragraph [ref=e784]: Unfortunately, stopovers are not allowed with American Airlines redemptions, so you won’t be able to spend time in Doha (DOH). If you want to make a stop in Doha, you have to pay for each segment separately.
+                - paragraph [ref=e785]: "Here are some great example routes you can take:"
+                - list [ref=e786]:
+                  - listitem [ref=e787]:
+                    - strong [ref=e788]: Los Angeles (LAX) – Doha (DOH) – Johannesburg (JNB)
+                  - listitem [ref=e789]:
+                    - strong [ref=e790]: Chicago (ORD) – Doha (DOH) – Windhoek (WDH)
+                  - listitem [ref=e791]:
+                    - strong [ref=e792]: Dallas Fort Worth (DFW) – Doha (DOH) – Seychelles (SEZ)
+                - heading "4. Fly Qatar Airways Qsuites From South America 2 to Africa" [level=3] [ref=e793]
+                - 'figure "Stop in Doha on your way from South America to Africa. Image Credit: Alex Miller" [ref=e795]':
+                  - link "Qatar QSuites A350 Lighting & View from Bulkhead" [ref=e796] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/05/Qatar-QSuites-A350-Lighting-View-from-Bulkhead.jpg?auto=webp&disable=upscale
+                    - img "Qatar QSuites A350 Lighting & View from Bulkhead" [ref=e798]
+                  - generic [ref=e799]: "Stop in Doha on your way from South America to Africa. Image Credit: Alex Miller"
+                - paragraph [ref=e800]: Yet another redemption for those who want to maximize their time in Qsuites is flying from South America Region 2 to Africa. This consists of countries like Argentina, Chile, and Brazil. However, if you’re set on Qsuites, you have to look at routes where Qatar flies its Qsuites-equipped aircraft.
+                - paragraph [ref=e801]:
+                  - text: AAdvantage charges
+                  - strong [ref=e802]: 97,500 AAdvantage miles
+                  - text: for one-way flights between South America 2 and Africa.
+                - paragraph [ref=e803]:
+                  - text: Considering the flight from
+                  - strong [ref=e804]: São Paulo (GRU) to Doha (DOH)
+                  - text: is nearly 15 hours in duration and flights from Doha (DOH) to Southern Africa are 7 to 9 hours long, you could get up to 24 hours in Qsuites for only 97,500 AAdvantage miles.
+                - paragraph [ref=e805]: Additionally, if you originate in a country such as Brazil, your fuel surcharges are limited, which is icing on the cake.
+                - paragraph [ref=e806]: "Here are some great example routes you can take:"
+                - list [ref=e807]:
+                  - listitem [ref=e808]:
+                    - strong [ref=e809]: São Paulo (GRU) – Doha (DOH) – Cape Town (CPT)
+                  - listitem [ref=e810]:
+                    - strong [ref=e811]: São Paulo (GRU) – Doha (DOH) – Maputo (MPT)
+                  - listitem [ref=e812]:
+                    - strong [ref=e813]: São Paulo (GRU) – Doha (DOH) – Mount Kilimanjaro (JRO)
+                - heading "5. Fly From the U.S. to Africa in Etihad Business Class" [level=3] [ref=e814]
+                - 'figure "Qatar Airways Airbus A350 business class window seats. Image Credit: Greg Stone" [ref=e816]':
+                  - link "Qatar Airways Airbus A350 Business Class" [ref=e817] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/08/06-Qatar-Airways-Airbus-A350-Business-Class.jpg?auto=webp&disable=upscale
+                    - img "Qatar Airways Airbus A350 Business Class" [ref=e819]
+                  - generic [ref=e820]:
+                    - text: "Qatar Airways Airbus A350 business class window seats. Image Credit:"
+                    - link "Greg Stone" [ref=e821] [cursor=pointer]:
+                      - /url: /author/greg/
+                - paragraph [ref=e822]: Another great option to fly to Africa in business class is with Etihad Airways. Pricing is the same whether you want to fly on Qatar or Etihad. Both offer a great experience and are generally considered among the best airlines in the world.
+                - paragraph [ref=e823]: You can book Etihad business class to anywhere on the African continent for 70,000 AAdvantage miles one-way.
+                - paragraph [ref=e824]: "Here are a few great example routes you can take:"
+                - list [ref=e825]:
+                  - listitem [ref=e826]:
+                    - strong [ref=e827]: Washington D.C. (IAD) – Abu Dhabi (AUH) – Lagos (LOS)
+                  - listitem [ref=e828]:
+                    - strong [ref=e829]: Los Angeles (LAX) – Abu Dhabi (AUH) – Johannesburg (JNB)
+                  - listitem [ref=e830]:
+                    - strong [ref=e831]: Philadelphia (PHL) – Doha (DOH) – Nairobi (NBO)
+                  - listitem [ref=e832]:
+                    - strong [ref=e833]: New York City (JFK) – Doha (DOH) – Casablanca (CMN)
+                - heading "6. Fly From the U.S. to Australia or New Zealand With Qantas in Business Class" [level=3] [ref=e834]
+                - 'figure "Qantas Airbus A330 Business Class Window Seat 4K. Image Credit: Greg Stone" [ref=e836]':
+                  - link "Qantas Airbus A330 Business Class Window Seat 4K" [ref=e837] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/11/57-Qantas-Airbus-A330-Business-Class-Window-Seat-4K.jpg?auto=webp&disable=upscale
+                    - img "Qantas Airbus A330 Business Class Window Seat 4K" [ref=e839]
+                  - generic [ref=e840]: "Qantas Airbus A330 Business Class Window Seat 4K. Image Credit: Greg Stone"
+                - paragraph [ref=e841]: Qantas offers nonstop service to Sydney from Los Angeles, San Francisco, and Dallas, which makes Qantas great for flights between the U.S. and the South Pacific.
+                - paragraph [ref=e842]:
+                  - text: From the U.S., you can fly to Australia and New Zealand
+                  - strong [ref=e843]: one-way in business class for 80,000 American Airlines miles
+                  - text: . You could also book seats in first class for 110,000 AAdvantage miles each way.
+                - paragraph [ref=e844]: Award space can be difficult to come by on most of these routes, especially in the premium cabins.
+                - generic [ref=e845]:
+                  - strong [ref=e846]: "Hot Tip:"
+                  - paragraph [ref=e848]:
+                    - text: Interested in flying to Australia? Check out our guide on the
+                    - link "best ways to book Qantas business class" [ref=e849] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-book-qantas-business-class/
+                    - text: .
+                - heading "7. Fly Between Australia and Hong Kong in Qantas First Class" [level=3] [ref=e850]
+                - 'figure "Qantas first class is ridiculously spacious. Image Credit: Qantas" [ref=e852]':
+                  - img "Qantas first class" [ref=e854]
+                  - generic [ref=e855]: "Qantas first class is ridiculously spacious. Image Credit: Qantas"
+                - paragraph [ref=e856]: Flying on Qantas premium cabins is notoriously difficult, as Qantas is stingy with releasing award availability. However, Qantas is slightly better for partner award space on routes not involving the U.S.
+                - paragraph [ref=e857]: Interestingly, there is an excellent sweet spot between Hong Kong and Australia. Qantas operates the A380 on this route featuring first class.
+                - paragraph [ref=e858]:
+                  - text: American charges just 50,000
+                  - strong [ref=e859]: AAdvantage miles each way in first class
+                  - text: . This is an incredible redemption, as this flight is nearly 10 hours long.
+                - heading "8. Check Out French Polynesia on Air Tahiti Nui From the U.S." [level=3] [ref=e860]
+                - 'figure "Fly business class on Air Tahiti Nui for 80,000 miles to French Polynesia. Image Credit: Air Tahiti Nui" [ref=e862]':
+                  - link "Air Tahiti Nui business class" [ref=e863] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/09/Air-Tahiti-Nui-Business-Class.jpg?auto=webp&disable=upscale
+                    - img "Air Tahiti Nui business class" [ref=e865]
+                  - generic [ref=e866]: "Fly business class on Air Tahiti Nui for 80,000 miles to French Polynesia. Image Credit: Air Tahiti Nui"
+                - paragraph [ref=e867]:
+                  - text: Another great way to use AA miles is for those wanting to go to French Polynesia. You could do so aboard
+                  - link "Air Tahiti Nui" [ref=e868] [cursor=pointer]:
+                    - /url: https://www.airtahitinui.com/
+                  - text: ", another non-Oneworld partner of American."
+                - paragraph [ref=e869]: From the U.S., you can fly to Tahiti for just 40,000 AAdvantage miles in economy or 80,000 AAdvantage miles in business class.
+                - paragraph [ref=e870]: Best of all, you can now search for Air Tahiti Nui award availability directly on the American Airlines site.
+                - heading "9. Fly From the U.S. to Tokyo With Japan Airlines in First Class" [level=3] [ref=e871]
+                - 'figure "Japan Airlines first class. Image Credit: Ehsan Haque" [ref=e873]':
+                  - img "JAL First class" [ref=e875]
+                  - generic [ref=e876]: "Japan Airlines first class. Image Credit: Ehsan Haque"
+                - paragraph [ref=e877]: Using your American Airlines miles to fly Japan Airlines in a premium cabin presents another great luxury redemption with your miles.
+                - paragraph [ref=e878]:
+                  - text: You can fly from the
+                  - strong [ref=e879]: U.S. to Japan for 80,000 American Airlines miles in first class
+                  - text: . Best of all, Japan Airlines offers numerous routes between Tokyo and the U.S., and award availability is generally pretty good.
+                - paragraph [ref=e880]: "Here are some great example routes you can take:"
+                - list [ref=e881]:
+                  - listitem [ref=e882]:
+                    - strong [ref=e883]: New York City (JFK) – Tokyo-Haneda (HND)
+                  - listitem [ref=e884]:
+                    - strong [ref=e885]: Chicago (ORD) – Tokyo-Narita (NRT)
+                  - listitem [ref=e886]:
+                    - strong [ref=e887]: Los Angeles (LAX) – Tokyo-Narita (NRT)
+                - paragraph [ref=e888]:
+                  - text: Japan Airlines has also announced its
+                  - link "new first class product" [ref=e889] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/news/japan-airlines-a350-1000-cabins/
+                  - text: aboard its A350-1000s, which it’s rolling out starting in January 2024. The new first class cabin will feature privacy doors and a seat that can be configured in many different ways.
+                - generic [ref=e890]:
+                  - strong [ref=e891]: "Hot Tip:"
+                  - paragraph [ref=e893]:
+                    - text: Check out our step-by-step guide on
+                    - link "booking Japan Airlines first class" [ref=e894] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-book-japan-airlines-first-class/
+                    - text: .
+                - heading "10. Fly From the U.S. to Japan or Korea in Business Class" [level=3] [ref=e895]
+                - 'figure "Japan Airlines Business Class 777. Image Credit: Stephen Au" [ref=e897]':
+                  - link "Japan Airlines Business Class 777" [ref=e898] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/11/Japan-Airlines-Business-Class-777.jpg?auto=webp&disable=upscale
+                    - img "Japan Airlines Business Class 777" [ref=e900]
+                  - generic [ref=e901]:
+                    - text: "Japan Airlines Business Class 777. Image Credit:"
+                    - link "Stephen Au" [ref=e902] [cursor=pointer]:
+                      - /url: /author/stephen/
+                - paragraph [ref=e903]: If the 80,000 AAdvantage miles price for flights between the U.S. and Japan or South Korea is too much, you can also book business class.
+                - paragraph [ref=e904]:
+                  - text: American charges
+                  - strong [ref=e905]: 60,000 AAdvantage miles for one-way business class
+                  - text: award tickets between the U.S. and Asia Region 1 (Japan and Korea).
+                - paragraph [ref=e906]: "Here are some great example routes you can take:"
+                - list [ref=e907]:
+                  - listitem [ref=e908]:
+                    - strong [ref=e909]: Boston (BOS) – Tokyo-Narita (NRT)
+                  - listitem [ref=e910]:
+                    - strong [ref=e911]: Seattle (SEA) – Tokyo-Narita (NRT)
+                  - listitem [ref=e912]:
+                    - strong [ref=e913]: Dallas Fort Worth (DFW) – Tokyo-Narita (NRT)
+                  - listitem [ref=e914]:
+                    - strong [ref=e915]: Los Angeles (LAX) – Osaka (KIX)
+                - heading "11. Fly From the U.S. to London and Onward With British Airways in First Class" [level=3] [ref=e916]:
+                  - strong [ref=e917]: 11. Fly From the U.S. to London and Onward With British Airways in First Class
+                - 'figure "If you don’t mind paying a fuel surcharge, then British Airways is an amazing redemption with American Airlines miles. You probably won’t have trouble finding availability either! Image credit: Daniel Ross" [ref=e919]':
+                  - img "British Airways Boeing 777 300 First seat 4K" [ref=e921]
+                  - generic [ref=e922]: "If you don’t mind paying a fuel surcharge, then British Airways is an amazing redemption with American Airlines miles. You probably won’t have trouble finding availability either! Image credit: Daniel Ross"
+                - paragraph [ref=e923]:
+                  - text: British Airways award availability tends to be pretty good. However, it’s not always the most popular option
+                  - link "because of ridiculously high fuel surcharges" [ref=e924] [cursor=pointer]:
+                    - /url: /travel/airlines/airline-fuel-surcharges/
+                  - text: .
+                - paragraph [ref=e925]: Nevertheless, British Airways does have great first and business class products as well as generally decent award space from the U.S. to Europe, as long as you’re willing to pay the surcharges. British Airways also flies nonstop to more than 20 different U.S. airports.
+                - paragraph [ref=e926]:
+                  - text: American charges
+                  - strong [ref=e927]: 57,500 miles in business class or 85,000 miles in first class
+                  - text: for flights between the U.S. and Europe. However, fuel surcharges can often be over $700 for a one-way award ticket.
+                - paragraph [ref=e928]: "Here are some great example routes you can take:"
+                - list [ref=e929]:
+                  - listitem [ref=e930]:
+                    - strong [ref=e931]: San Diego (SAN) – London Heathrow (LHR)
+                  - listitem [ref=e932]:
+                    - strong [ref=e933]: Phoenix (PHX) – London Heathrow (LHR)
+                  - listitem [ref=e934]:
+                    - strong [ref=e935]: Washington D.C. (IAD) – London Heathrow (LHR)
+                  - listitem [ref=e936]:
+                    - strong [ref=e937]: Boston (BOS) – London Heathrow (LHR)
+                  - listitem [ref=e938]:
+                    - strong [ref=e939]: New York City (JFK) – London Heathrow (LHR)
+                - paragraph [ref=e940]:
+                  - strong [ref=e941]: Need help booking?
+                  - text: Read our guide to help you
+                  - link "book British Airways First Class using Points" [ref=e942] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-book-british-airways-first-class/
+                  - text: "!"
+                - heading "12. Fly Off-Peak to Europe in Economy on American Airlines" [level=3] [ref=e943]
+                - 'figure "American Airlines economy class. Image Credit: Chris Hassan" [ref=e945]':
+                  - img "American Airlines Economy Extra 787" [ref=e947]
+                  - generic [ref=e948]: "American Airlines economy class. Image Credit: Chris Hassan"
+                - paragraph [ref=e949]: American Airlines offers off-peak tickets on certain routes, which allow you to fly to a destination for fewer miles.
+                - paragraph [ref=e950]:
+                  - text: For example, you can fly from the U.S. to Europe during off-peak dates for only
+                  - strong [ref=e951]: 22,500 American miles each way in economy.
+                  - text: When booking during peak season, you pay 30,000 miles to fly in economy between the U.S. and Europe.
+                - paragraph [ref=e952]: Unfortunately, this pricing only works for Main Cabin economy award tickets. Business and first class tickets do not have off-peak pricing. These cost 57,500 and 85,000 all year, respectively.
+                - heading "13. Take Short-Haul Flights Within the U.S." [level=3] [ref=e953]
+                - paragraph [ref=e954]: Short-haul flights within the U.S. can be another great way to redeem AAdvantage miles. Although American dynamically prices its own flights, that does open up great redemption opportunities.
+                - paragraph [ref=e955]:
+                  - text: For example, you can book economy tickets for as few as
+                  - strong [ref=e956]: 7,500 miles one-way on many short-haul routes within the U.S.
+                - paragraph [ref=e957]: These flights will generally be quite short, so unless your miles are burning a hole in your pocket, it might be better to redeem an economy ticket and save the extra miles for another (more exciting) award redemption.
+                - generic [ref=e958]:
+                  - strong [ref=e959]: "Hot Tip:"
+                  - paragraph [ref=e961]:
+                    - text: Don’t miss our
+                    - link "in-depth review of American Airlines" [ref=e962] [cursor=pointer]:
+                      - /url: /travel/airlines/american-airlines-review/
+                    - text: ", from fare types to baggage fees, seat specs, customer satisfaction, and more."
+                - heading "14. Fly From the U.S. to South America in Business Class" [level=3] [ref=e963]
+                - paragraph [ref=e964]: American Airlines still offers competitive pricing for flights to South America in business class. AAdvantage splits South America into 2 zones, and pricing depends on which country you are flying into.
+                - paragraph [ref=e965]:
+                  - text: South America Region 1 includes countries that are in the northern part of South America, including Colombia, Ecuador, Peru, and Bolivia. One-way business class awards between the U.S. and these countries can be booked for
+                  - strong [ref=e966]: 30,000 AA miles
+                  - text: .
+                - paragraph [ref=e967]:
+                  - text: South America Region 2 features countries farther away, including Argentina, Brazil, Chile, and Uruguay. These destinations are much further, and pricing is also higher. One-way business class awards between the U.S. and these further destinations can be booked for
+                  - strong [ref=e968]: 57,500 AA miles
+                  - text: .
+                - paragraph [ref=e969]: "Here are a few great example routes you can take:"
+                - list [ref=e970]:
+                  - listitem [ref=e971]:
+                    - strong [ref=e972]: New York City (JFK) – Lima (LIM)
+                    - text: for 30,000 AAdvantage miles
+                  - listitem [ref=e973]:
+                    - strong [ref=e974]: Orlando (MCO) – Sao Paulo (GRU)
+                    - text: for 57,500 AAdvantage miles
+                - heading "15. Fly From the Middle East to Australia in Etihad First Class" [level=3] [ref=e975]
+                - paragraph [ref=e976]:
+                  - text: Although we covered Etihad First Class Apartments between New York and Abu Dhabi earlier, this redemption
+                  - emphasis [ref=e977]: may
+                  - text: be slightly better. You just need to be flying between Abu Dhabi and Sydney, Australia.
+                - paragraph [ref=e978]: Flights between Abu Dhabi and New York take around 12 to 13 hours and can be booked for 115,000 miles one-way in Etihad Apartments.
+                - paragraph [ref=e979]:
+                  - text: Flights between Abu Dhabi and Sydney take around 14 to 15 hours and can be booked for
+                  - emphasis [ref=e980]: even less
+                  - text: ", just"
+                  - strong [ref=e981]: 100,000 miles one-way
+                  - text: in Etihad Apartments.
+                - paragraph [ref=e982]: With this redemption, you’ll take a longer flight, but it will cost fewer AAdvantage miles.
+                - 'figure "Fly between Abu Dhabi and Sydney for 100,000 AAdvantage miles in Etihad Apartments. Image credit: Upgraded Points" [ref=e984]':
+                  - img "Etihad Apartment Seat & Bench, Top Down View" [ref=e986]
+                  - generic [ref=e987]: "Fly between Abu Dhabi and Sydney for 100,000 AAdvantage miles in Etihad Apartments. Image credit: Upgraded Points"
+                - 'heading "16. Fly Within the South Pacific: Australia, New Zealand, and Fiji" [level=3] [ref=e988]'
+                - paragraph [ref=e989]: Flights within Australia and New Zealand can be quite expensive and present a good redemption for your American Airlines miles.
+                - paragraph [ref=e990]:
+                  - text: If you fly wholly within Australia, flights only cost 1
+                  - strong [ref=e991]: 0,000 miles each way in economy
+                  - text: . Flying between Australia and New Zealand will set you back
+                  - strong [ref=e992]: 15,000 miles
+                  - text: each way in economy.
+                - paragraph [ref=e993]: Similarly, flights wholly within Fiji can be booked for just 5,000 American Airlines miles one-way. This can represent tremendous value, as these are typically quite expensive cash fares.
+                - heading "17. Fly Between Asia and Africa" [level=3] [ref=e994]
+                - paragraph [ref=e995]:
+                  - text: Depending on where in Africa you’re flying to or from, this redemption can be anywhere from great to downright terrible. American Airlines charges
+                  - strong [ref=e996]: 30,000 miles in economy, 55,000 miles in business, and 80,000 miles in first class
+                  - text: to fly between Europe and Africa.
+                - paragraph [ref=e997]: If you’re flying from Cairo to Rome, for instance, there are certainly better options available. But if you are looking to fly between Cape Town and Helsinki, this is a potentially awesome redemption!
+                - 'figure "Finnair business class is a great way to fly between Helsinki and the rest of the world. Image Credit: Greg Stone" [ref=e999]':
+                  - img "Finnair Airbus A350 Business Class Forward Cabin" [ref=e1001]
+                  - generic [ref=e1002]: "Finnair business class is a great way to fly between Helsinki and the rest of the world. Image Credit: Greg Stone"
+                - heading "18. Fly Between Asia 1 and the South Pacific" [level=3] [ref=e1003]
+                - paragraph [ref=e1004]: Flights between Asia 1, which includes Japan and Korea, and the South Pacific can also be a great redemption using AA miles.
+                - paragraph [ref=e1005]:
+                  - text: Flights between Asia 1 and the South Pacific cost
+                  - strong [ref=e1006]: 30,000 miles each way in economy
+                  - text: ", while business and first class set you back"
+                  - strong [ref=e1007]: 40,000 and 60,000 miles
+                  - text: ", respectively. Best of all, you have options on which airlines to fly, including Japan Airlines, Qantas, and even Cathay Pacific."
+                - paragraph [ref=e1008]: "Here are some great example routes you can take:"
+                - list [ref=e1009]:
+                  - listitem [ref=e1010]:
+                    - strong [ref=e1011]: Tokyo-Narita (NRT) – Sydney (SYD)
+                    - text: on Japan Airlines business class
+                  - listitem [ref=e1012]:
+                    - strong [ref=e1013]: Tokyo-Narita (HND) – Melbourne (MEL)
+                    - text: on Qantas business class
+                - 'figure "Qantas offers a solid business class product. Image Credit: Stella Shon" [ref=e1015]':
+                  - img "Qantas Business Class Stella Nick" [ref=e1017]
+                  - generic [ref=e1018]: "Qantas offers a solid business class product. Image Credit: Stella Shon"
+                - heading "19. Fly to Mexico or the Caribbean on American" [level=3] [ref=e1019]
+                - paragraph [ref=e1020]: For those wanting a beach vacation getaway, look no further than Mexico or the Caribbean.
+                - paragraph [ref=e1021]: American Airlines prices award tickets to Mexico or the Caribbean at just 10,000 AAdvantage miles each way in economy or 20,000 miles in business class. This can provide a ton of value, as cash fares on certain routes can be quite expensive.
+                - heading "20. Fly From One End of Europe to the Other" [level=3] [ref=e1022]
+                - paragraph [ref=e1023]: American charges just 12,500 miles one-way in economy for flights within the Europe zone. The value of this redemption entirely depends on where you are flying from and to.
+                - paragraph [ref=e1024]: If you’re looking for a short hop, there’s probably a better option, and it’s definitely worthwhile to check budget carriers within Europe. However, if you’re looking to make a last-minute booking or don’t see good prices available for your dates and cities, then using 12,500 miles for a one-way ticket is tough to beat!
+                - heading "List of American Airlines Partners — Oneworld" [level=2] [ref=e1025]
+                - paragraph [ref=e1026]:
+                  - text: American Airlines partners include
+                  - link "Oneworld alliance members" [ref=e1027] [cursor=pointer]:
+                    - /url: /travel/airlines/oneworld-alliance/
+                  - text: ". Here’s a list of all Oneworld members:"
+                - table [ref=e1031]:
+                  - rowgroup [ref=e1032]:
+                    - row "Oneworld Partners" [ref=e1033]:
+                      - cell "Oneworld Partners" [ref=e1034]:
+                        - paragraph [ref=e1036]:
+                          - strong [ref=e1037]: Oneworld Partners
+                    - row "Alaska Airlines Malaysia Airlines" [ref=e1038]:
+                      - cell "Alaska Airlines" [ref=e1039]:
+                        - paragraph [ref=e1040]:
+                          - link "Alaska Airlines" [ref=e1041] [cursor=pointer]:
+                            - /url: /travel/airlines/alaska-airlines-review/
+                      - cell "Malaysia Airlines" [ref=e1042]:
+                        - paragraph [ref=e1043]: Malaysia Airlines
+                    - row "American Airlines Oman Air" [ref=e1044]:
+                      - cell "American Airlines" [ref=e1045]:
+                        - paragraph [ref=e1046]:
+                          - link "American Airlines" [ref=e1047] [cursor=pointer]:
+                            - /url: /travel/airlines/american-airlines-aadvantage-loyalty-program/
+                      - cell "Oman Air" [ref=e1048]:
+                        - paragraph [ref=e1049]: Oman Air
+                    - row "British Airways Qantas" [ref=e1050]:
+                      - cell "British Airways" [ref=e1051]:
+                        - paragraph [ref=e1052]:
+                          - link "British Airways" [ref=e1053] [cursor=pointer]:
+                            - /url: /travel/airlines/british-airways-executive-club-loyalty-program/
+                      - cell "Qantas" [ref=e1054]:
+                        - paragraph [ref=e1055]:
+                          - link "Qantas" [ref=e1056] [cursor=pointer]:
+                            - /url: /travel/airlines/qantas-airways-frequent-flyer-loyalty-program/
+                    - row "Cathay Pacific Qatar Airways" [ref=e1057]:
+                      - cell "Cathay Pacific" [ref=e1058]:
+                        - paragraph [ref=e1059]:
+                          - link "Cathay Pacific" [ref=e1060] [cursor=pointer]:
+                            - /url: /travel/airlines/cathay-pacific-asia-miles-loyalty-program/
+                      - cell "Qatar Airways" [ref=e1061]:
+                        - paragraph [ref=e1062]:
+                          - link "Qatar Airways" [ref=e1063] [cursor=pointer]:
+                            - /url: /travel/airlines/qatar-airways-privilege-club-loyalty-program/
+                    - row "Fiji Airways Royal Air Maroc" [ref=e1064]:
+                      - cell "Fiji Airways" [ref=e1065]:
+                        - paragraph [ref=e1066]: Fiji Airways
+                      - cell "Royal Air Maroc" [ref=e1067]:
+                        - paragraph [ref=e1068]: Royal Air Maroc
+                    - row "Finnair Royal Jordanian" [ref=e1069]:
+                      - cell "Finnair" [ref=e1070]:
+                        - paragraph [ref=e1071]: Finnair
+                      - cell "Royal Jordanian" [ref=e1072]:
+                        - paragraph [ref=e1073]: Royal Jordanian
+                    - row "Iberia S7 Airlines (temporarily suspended)" [ref=e1074]:
+                      - cell "Iberia" [ref=e1075]:
+                        - paragraph [ref=e1076]:
+                          - link "Iberia" [ref=e1077] [cursor=pointer]:
+                            - /url: /travel/airlines/iberia-plus-loyalty-program/
+                      - cell "S7 Airlines (temporarily suspended)" [ref=e1078]:
+                        - paragraph [ref=e1079]: S7 Airlines (temporarily suspended)
+                    - row "Japan Airlines SriLankan Airlines" [ref=e1080]:
+                      - cell "Japan Airlines" [ref=e1081]:
+                        - paragraph [ref=e1082]:
+                          - link "Japan Airlines" [ref=e1083] [cursor=pointer]:
+                            - /url: /travel/airlines/japan-airlines-mileage-bank-loyalty-program/
+                      - cell "SriLankan Airlines" [ref=e1084]:
+                        - paragraph [ref=e1085]: SriLankan Airlines
+                - generic [ref=e1086]:
+                  - strong [ref=e1087]: "Hot Tip:"
+                  - paragraph [ref=e1089]:
+                    - text: For more information about using these partners, check out our guide to searching for
+                    - link "award availability on Oneworld alliance airlines" [ref=e1090] [cursor=pointer]:
+                      - /url: /travel/airlines/searching-oneworld-award-availability/
+                    - text: .
+                - heading "List American Airlines Partners Outside Oneworld" [level=2] [ref=e1091]
+                - paragraph [ref=e1092]: "These are AA partners that aren’t part of Oneworld:"
+                - paragraph [ref=e1094]: Advertisement
+                - table [ref=e1097]:
+                  - rowgroup [ref=e1098]:
+                    - row "Additional Airline Partners" [ref=e1099]:
+                      - cell "Additional Airline Partners" [ref=e1100]:
+                        - paragraph [ref=e1102]:
+                          - strong [ref=e1103]: Additional Airline Partners
+                    - row "Aer Lingus GOL Airlines" [ref=e1104]:
+                      - cell "Aer Lingus" [ref=e1105]:
+                        - paragraph [ref=e1106]: Aer Lingus
+                      - cell "GOL Airlines" [ref=e1107]:
+                        - paragraph [ref=e1108]: GOL Airlines
+                    - row "Air Tahiti Nui Hawaiian Airlines" [ref=e1109]:
+                      - cell "Air Tahiti Nui" [ref=e1110]:
+                        - paragraph [ref=e1111]: Air Tahiti Nui
+                      - cell "Hawaiian Airlines" [ref=e1112]:
+                        - paragraph [ref=e1113]: Hawaiian Airlines
+                    - row "Cape Air IndiGo" [ref=e1114]:
+                      - cell "Cape Air" [ref=e1115]:
+                        - paragraph [ref=e1116]: Cape Air
+                      - cell "IndiGo" [ref=e1117]:
+                        - paragraph [ref=e1118]: IndiGo
+                    - row "China Southern Airlines JetSMART" [ref=e1119]:
+                      - cell "China Southern Airlines" [ref=e1120]:
+                        - paragraph [ref=e1121]: China Southern Airlines
+                      - cell "JetSMART" [ref=e1122]:
+                        - paragraph [ref=e1123]: JetSMART
+                    - row "Etihad Airways" [ref=e1124]:
+                      - cell "Etihad Airways" [ref=e1125]:
+                        - paragraph [ref=e1126]: Etihad Airways
+                      - cell [ref=e1127]:
+                        - paragraph
+                - heading "Final Thoughts" [level=2] [ref=e1128]:
+                  - strong [ref=e1129]: Final Thoughts
+                - paragraph [ref=e1130]: Although the American Airlines AAdvantage program has undergone major changes over the last few years, AAdvantage miles still have plenty of value.
+                - paragraph [ref=e1131]: You can generally get more value from AAdvantage miles booking through American’s Oneworld and other partners.
+                - paragraph [ref=e1132]: Whether you want to fly in first class to the Middle East or you want to take an economy flight to Mexico, American Airlines AAdvantage miles can get you there.
+              - generic [ref=e1133]:
+                - generic [ref=e1134]:
+                  - separator [ref=e1135]
+                  - text: "Featured Image Credit:"
+                  - link "Alex Miller" [ref=e1136] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/alexmiller/
+                - generic [ref=e1137]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1138]
+                  - group [ref=e1139]:
+                    - generic "What are American Airlines miles?" [ref=e1140] [cursor=pointer]
+                    - paragraph [ref=e1142]: American Airlines’ frequent flyer program is called AAdvantage. The miles you earn and redeem through American Airlines or its partners are AAdvantage miles.
+                  - group [ref=e1143]:
+                    - generic "Can I transfer AAdvantage miles to British Airways?" [ref=e1144] [cursor=pointer]
+                    - paragraph [ref=e1146]: No, you cannot transfer AA miles to British Airways. However, since both airlines are Oneworld alliance partners, you can use your AA miles to book British Airways-operated flights.
+                  - group [ref=e1147]:
+                    - generic "Does American Airlines have transfer partners?" [ref=e1148] [cursor=pointer]
+                    - paragraph [ref=e1150]: Yes, the AAdvantage program is a 1:1 transfer partner of Citi ThankYou Rewards. Marriott Bonvoy points transfer at a 3:1 ratio.
+                  - group [ref=e1151]:
+                    - generic "What airlines partner with American Airlines?" [ref=e1152] [cursor=pointer]
+                    - paragraph [ref=e1154]: American Airlines is a member of Oneworld, so the program partners with all the airlines in the alliance. American also has non-Oneworld partners, which include Aer Lingus, Air Tahiti Nui, Cape Air, China Southern Airlines, Etihad Airways, GOL Airlines, Hawaiian Airlines, IndiGo, and JetSMART.
+                - complementary [ref=e1155]:
+                  - generic [ref=e1156]:
+                    - paragraph [ref=e1157]:
+                      - generic [ref=e1159]:
+                        - text: The information regarding the Citi
+                        - superscript [ref=e1160]: ®
+                        - text: / AAdvantage
+                        - superscript [ref=e1161]: ®
+                        - text: Platinum Select
+                        - superscript [ref=e1162]: ®
+                        - text: World Elite™ Mastercard
+                        - superscript [ref=e1163]: ®
+                        - text: was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1164]: The information regarding the Citi Strata Elite℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1165]: The information regarding the Citi Strata Premier℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1166]: The information regarding the Citi Strata℠ Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1168]:
+                        - text: The information for the Citi Prestige
+                        - superscript [ref=e1169]: ®
+                        - text: Card has been collected independently by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1170]:
+                        - text: The information regarding the Citi Double Cash
+                        - superscript [ref=e1171]: ®
+                        - text: Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1173]:
+                        - text: The information regarding the Citi
+                        - superscript [ref=e1174]: ®
+                        - text: / AAdvantage
+                        - superscript [ref=e1175]: ®
+                        - text: Globe™ Mastercard
+                        - superscript [ref=e1176]: ®
+                        - text: was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph [ref=e1177]:
+                      - generic [ref=e1179]:
+                        - text: For rates and fees of the Marriott Bonvoy Bevy
+                        - superscript [ref=e1180]: ®
+                        - text: American Express
+                        - superscript [ref=e1181]: ®
+                        - text: Card, click
+                        - link "here" [ref=e1182] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBevyTCCRF_addSource/TE/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1184]:
+                        - text: For rates and fees of the Marriott Bonvoy Brilliant
+                        - superscript [ref=e1185]: ®
+                        - text: American Express
+                        - superscript [ref=e1186]: ®
+                        - text: card, click
+                        - link "here" [ref=e1187] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/MarriottBonvoyBrilliantTCCRF_addSource/TE/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1189]:
+                        - text: For rates and fees of the Platinum Card
+                        - superscript [ref=e1190]: ®
+                        - text: from American Express, click
+                        - link "here" [ref=e1191] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1193]:
+                        - text: For rates and fees of the American Express
+                        - superscript [ref=e1194]: ®
+                        - text: Gold Card, click
+                        - link "here" [ref=e1195] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TE/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                - group "Was this page helpful?" [ref=e1197]:
+                  - paragraph [ref=e1198]: Was this page helpful?
+                  - generic [ref=e1199]:
+                    - button "Yes" [ref=e1200] [cursor=pointer]
+                    - button "No" [ref=e1201] [cursor=pointer]
+                - generic [ref=e1202]:
+                  - figure [ref=e1204]:
+                    - img "Stephen Au's image" [ref=e1205]
+                  - generic [ref=e1206]:
+                    - heading "About Stephen Au" [level=2] [ref=e1207]:
+                      - text: About
+                      - link "Stephen Au" [ref=e1208] [cursor=pointer]:
+                        - /url: /author/stephen/
+                    - paragraph [ref=e1209]: Stephen is an established voice in the credit card space, with over 70 to his name. His work has been in publications like The Washington Post, and his Au Points and Awards Consulting Services is used by hundreds of clients.
+                    - list [ref=e1211]:
+                      - listitem [ref=e1212]:
+                        - link "Instagram icon" [ref=e1213] [cursor=pointer]:
+                          - /url: https://www.instagram.com/aupacs/
+                          - img "Instagram icon" [ref=e1214]
+                      - listitem [ref=e1215]:
+                        - link "LinkedIn icon" [ref=e1216] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/austephen/
+                          - img "LinkedIn icon" [ref=e1217]
+                      - listitem [ref=e1218]:
+                        - link "email icon" [ref=e1219] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1220]
+                - generic [ref=e1222]:
+                  - generic [ref=e1223]:
+                    - paragraph [ref=e1224]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1225]: ™
+                    - generic [ref=e1226]:
+                      - paragraph [ref=e1227]:
+                        - text: Get the
+                        - strong [ref=e1228]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1229]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1230]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1231]:
+                      - textbox "First Name" [ref=e1232]
+                      - textbox "Email" [ref=e1233]
+                      - button "Join Now" [disabled] [ref=e1234]
+                    - paragraph [ref=e1236]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1237] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1238] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1239] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1241]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1243]
+                - generic [ref=e1245]:
+                  - paragraph [ref=e1246]: We Recommend
+                  - generic [ref=e1247]:
+                    - generic [ref=e1248]:
+                      - link "Platinum Card® from American Express" [ref=e1249] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1250]
+                      - link "Terms Apply / Rates & Fees" [ref=e1251] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1252] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1253]
+                        - text: Apply Now
+                    - generic [ref=e1256]:
+                      - paragraph [ref=e1257]:
+                        - link "Platinum Card® from American Express" [ref=e1258] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1259]:
+                            - text: Platinum Card
+                            - superscript [ref=e1260]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1262]:
+                        - generic [ref=e1263]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1264] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1265]:
+                        - listitem [ref=e1266]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1267]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1268]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1269]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1270]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1271]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1272]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1273] [cursor=pointer]
+            - complementary [ref=e1275]:
+              - generic [ref=e1276]:
+                - generic [ref=e1278]:
+                  - paragraph [ref=e1279]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1280] [cursor=pointer]
+                  - generic [ref=e1281]:
+                    - generic [ref=e1284]:
+                      - generic [ref=e1285]:
+                        - generic [ref=e1286]:
+                          - img [ref=e1287]
+                          - generic [ref=e1289]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1290] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1291]
+                      - generic [ref=e1292]:
+                        - paragraph [ref=e1293]:
+                          - link "Platinum Card® from American Express" [ref=e1294] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1295]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1296] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1297]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1299] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1302]:
+                      - generic [ref=e1303]:
+                        - generic [ref=e1304]:
+                          - img [ref=e1305]
+                          - generic [ref=e1307]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1308] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1309]
+                      - generic [ref=e1310]:
+                        - paragraph [ref=e1311]:
+                          - link "American Express® Gold Card" [ref=e1312] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1313]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1314] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1315]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1317] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1320]:
+                      - generic [ref=e1321]:
+                        - generic [ref=e1322]:
+                          - img [ref=e1323]
+                          - generic [ref=e1325]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1326] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1327]
+                      - generic [ref=e1328]:
+                        - paragraph [ref=e1329]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1330] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1331]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1332] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1333]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1335] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/681/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1338]:
+                      - generic [ref=e1339]:
+                        - generic [ref=e1340]:
+                          - img [ref=e1341]
+                          - generic [ref=e1343]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1344] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/681/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1345]
+                      - generic [ref=e1346]:
+                        - paragraph [ref=e1347]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1348] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/681/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1349]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1350] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/681/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1351]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1353] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/681/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1355] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1358]: Advertisement
+      - generic [ref=e1360]:
+        - paragraph [ref=e1361]: Related Posts
+        - generic [ref=e1362]:
+          - generic [ref=e1363]:
+            - link [ref=e1364] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-american-airlines-first-class/
+              - figure [ref=e1365]:
+                - img "Best Ways To Book American Airlines First Class Using Points [Step by Step]" [ref=e1367]
+            - link "Best Ways To Book American Airlines First Class Using Points [Step by Step]" [ref=e1368] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-american-airlines-first-class/
+          - generic [ref=e1369]:
+            - link [ref=e1370] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-use-10000-or-fewer-american-airlines-miles/
+              - figure [ref=e1371]:
+                - img "The Best Ways To Use 10,000 (or Fewer) American Airlines AAdvantage Miles" [ref=e1373]
+            - link "The Best Ways To Use 10,000 (or Fewer) American Airlines AAdvantage Miles" [ref=e1374] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-use-10000-or-fewer-american-airlines-miles/
+          - generic [ref=e1375]:
+            - link [ref=e1376] [cursor=pointer]:
+              - /url: /travel/airlines/american-airlines-aadvantage-loyalty-program/
+              - figure [ref=e1377]:
+                - img "American Airlines AAdvantage Loyalty Program Review" [ref=e1379]
+            - link "American Airlines AAdvantage Loyalty Program Review" [ref=e1380] [cursor=pointer]:
+              - /url: /travel/airlines/american-airlines-aadvantage-loyalty-program/
+          - generic [ref=e1381]:
+            - link [ref=e1382] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-american-airlines-business-class/
+              - figure [ref=e1383]:
+                - img "Best Ways To Book American Airlines Business Class Using Points [Step by Step]" [ref=e1385]
+            - link "Best Ways To Book American Airlines Business Class Using Points [Step by Step]" [ref=e1386] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-american-airlines-business-class/
+    - contentinfo [ref=e1387]:
+      - img [ref=e1388]
+      - img [ref=e1407]
+      - generic [ref=e1426]:
+        - generic [ref=e1427]:
+          - img [ref=e1429]
+          - generic [ref=e1434]:
+            - generic [ref=e1435]:
+              - paragraph [ref=e1436]: Upgrade your travel experience
+              - list [ref=e1437]:
+                - listitem [ref=e1438]:
+                  - link [ref=e1439] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1440]:
+                      - img "Facebook" [ref=e1441]
+                - listitem [ref=e1442]:
+                  - link [ref=e1443] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1444]:
+                      - img "Twitter" [ref=e1445]
+                - listitem [ref=e1446]:
+                  - link [ref=e1447] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1448]:
+                      - img "Instagram" [ref=e1449]
+                - listitem [ref=e1450]:
+                  - link [ref=e1451] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1452]:
+                      - img "Pinterest" [ref=e1453]
+                - listitem [ref=e1454]:
+                  - link [ref=e1455] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1456]:
+                      - img "Linkedin" [ref=e1457]
+                - listitem [ref=e1458]:
+                  - link [ref=e1459] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1460]:
+                      - img "Youtube" [ref=e1461]
+            - generic [ref=e1463]:
+              - list [ref=e1464]:
+                - listitem [ref=e1465]:
+                  - link "News" [ref=e1466] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1467]:
+                  - link "Credit Cards" [ref=e1468] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1469]:
+                  - link "Business" [ref=e1470] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1471]:
+                - listitem [ref=e1472]:
+                  - link "Finance" [ref=e1473] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1474]:
+                  - link "Travel Guides" [ref=e1475] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1476]:
+                  - link "Air Travel" [ref=e1477] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1478]:
+                - listitem [ref=e1479]:
+                  - link "Hotel Guides" [ref=e1480] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1481]:
+                  - link "Beginners" [ref=e1482] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1483]:
+                  - link "About" [ref=e1484] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1485]:
+                - listitem [ref=e1486]:
+                  - link "Podcast" [ref=e1487] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1488]:
+                  - link "Jobs & Careers" [ref=e1489] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1490]:
+                  - link "Contact Us" [ref=e1491] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1492]:
+          - paragraph [ref=e1493]:
+            - link "Privacy Policy" [ref=e1494] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1495] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1496] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1497] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1498] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1499] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1540] [cursor=pointer]
+          - paragraph [ref=e1500]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1501]:
+          - link "DMCA.com Protection Status" [ref=e1502] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1503]
+          - img "Comodo Secure Seal" [ref=e1505]
+        - generic [ref=e1506]:
+          - generic [ref=e1507]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1508]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1509]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1510]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1511]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1512] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1513]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1514]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1516]:
+    - generic [ref=e1517]:
+      - generic [ref=e1518]:
+        - button "close banner" [ref=e1519] [cursor=pointer]:
+          - img "close banner" [ref=e1520]
+        - img "company logo" [ref=e1522]
+      - generic [ref=e1523]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1525]
+        - generic [ref=e1526]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1527] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1528] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1530]:
+        - button "Manage" [ref=e1531] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1532] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1533] [cursor=pointer]
+    - generic [ref=e1535]:
+      - generic [ref=e1536]: "Powered by:"
+      - link "trustarc" [ref=e1537] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1538]

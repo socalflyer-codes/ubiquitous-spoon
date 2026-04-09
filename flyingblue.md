@@ -1,0 +1,1352 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "13 Best Ways To Redeem Flying Blue Miles (Air France-KLM) for Max Value" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Ehsan Haque's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Ehsan Haque
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: March 3, 2026, 8:18pm CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Keri Stooksbury
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Kellie Jez
+          - figure [ref=e61]:
+            - img "13 Best Ways To Redeem Flying Blue Miles (Air France-KLM) for Max Value" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e1357]:
+            - generic "Jump to Section" [ref=e1358] [cursor=pointer]
+          - paragraph [ref=e68]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e69] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e70]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - heading "Key Takeaways" [level=2] [ref=e76]
+                  - list [ref=e78]:
+                    - listitem [ref=e79]: Flying Blue miles can be redeemed for award flights on Air France, KLM, and SkyTeam partners, with the best value often found in premium cabins.
+                    - listitem [ref=e80]: Flying Blue utilizes dynamic pricing for awards, so award prices change depending on the day, exact route, and even the date of the search. Even with dynamic pricing, Flying Blue generally provides better award rates than many of its SkyTeam partners.
+                    - listitem [ref=e81]: You can get incredible award prices and availability from Flying Blue if you’re flexible with your travel dates. Flexibility is key if you’re hoping to pay fewer miles for an award redemption.
+                - paragraph [ref=e82]: Flying Blue is the loyalty program of Air France, KLM, and several partner airlines. With the ease of earning award miles and a long list of airline partners, Flying Blue offers plenty of value to travelers.
+                - paragraph [ref=e83]: Using Flying Blue miles for award flights is relatively simple. Most itineraries can be booked online, and award charts and routing rules are straightforward across member airlines.
+                - paragraph [ref=e84]: The program levies fuel surcharges on its award tickets, which can be a few hundred dollars at times. However, the Flying Blue loyalty program is incredibly valuable, with a ton of airline partners, including quite a few valuable non-alliance partners.
+                - paragraph [ref=e85]: Let’s take a look at some of the best ways to redeem Flying Blue miles.
+                - heading "Best Ways To Earn Flying Blue Miles" [level=2] [ref=e86]
+                - paragraph [ref=e87]:
+                  - link "Earning Flying Blue miles" [ref=e88] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/how-to-earn-air-france-klm-flying-blue-miles/
+                  - text: is relatively easy as the program is a transfer partner of several major points currencies, including
+                  - link "American Express Membership Rewards" [ref=e89] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/american-express-membership-rewards-review/
+                  - text: ","
+                  - link "Bilt Rewards" [ref=e90] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/bilt-rewards-program-review/
+                  - text: ","
+                  - link "Chase Ultimate Rewards" [ref=e91] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/chase-ultimate-rewards-review/
+                  - text: ","
+                  - link "Capital One Miles" [ref=e92] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/capital-one-miles-program-review/
+                  - text: ","
+                  - link "Citi ThankYou Rewards" [ref=e93] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/citi-thankyou-rewards-review/
+                  - text: ", and"
+                  - link "Wells Fargo Rewards" [ref=e94] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/wells-fargo-rewards-review/
+                  - text: (all at a rate of 1:1) or from
+                  - link "Marriott Bonvoy" [ref=e95] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/hotels/marriott-transfer-partners/
+                  - text: at a transfer rate of 3:1.
+                - heading "Recommended American Express Cards (Personal)" [level=3] [ref=e96]
+                - generic [ref=e98]:
+                  - generic [ref=e99]:
+                    - img [ref=e100]
+                    - generic [ref=e102]: BEST LOUNGE CARD
+                  - generic [ref=e103]:
+                    - link "Platinum Card® from American Express" [ref=e104] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Platinum Card® from American Express" [ref=e105]
+                    - link "Terms Apply / Rates & Fees" [ref=e106] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TRD/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e107]: Terms Apply / Rates & Fees
+                    - generic [ref=e108]:
+                      - generic [ref=e109]:
+                        - img "Star rating icon" [ref=e112]
+                        - img "Star rating icon" [ref=e115]
+                        - img "Star rating icon" [ref=e118]
+                        - img "Star rating icon" [ref=e121]
+                        - generic [ref=e122]:
+                          - img "Star rating icon" [ref=e124]
+                          - img "Star rating icon" [ref=e126]
+                      - generic [ref=e127]:
+                        - generic [ref=e128]: U.P. Rating
+                        - img [ref=e131]:
+                          - img [ref=e132]
+                    - link "Apply Now" [ref=e135] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e136]
+                      - text: Apply Now
+                    - generic [ref=e139]: (at Amex's secure site)
+                    - generic [ref=e140]:
+                      - heading "Apply With Confidence" [level=4] [ref=e141]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e142]
+                      - paragraph [ref=e143]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e144]:
+                    - generic [ref=e146]:
+                      - link "Platinum Card® from American Express" [ref=e148] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-platinum-card/
+                        - text: Platinum Card
+                        - superscript [ref=e149]: ®
+                        - text: from American Express
+                      - text: The Amex Platinum reigns supreme for luxury travel, offering the best airport lounge access plus generous statement credits, and complimentary elite status.
+                    - generic [ref=e150]:
+                      - generic [ref=e151]:
+                        - generic [ref=e152]:
+                          - generic [ref=e153]: Welcome Offer
+                          - img [ref=e156]:
+                            - img [ref=e157]
+                        - generic [ref=e160]: As High As 175,000 Points. Find Out Your Offer.
+                      - generic [ref=e161]:
+                        - generic [ref=e163]: "UP's Offer Valuation*:"
+                        - generic [ref=e164]: Up to $3,850
+                    - generic [ref=e165]:
+                      - generic [ref=e166]:
+                        - generic [ref=e168]: Annual Fee
+                        - generic [ref=e169]: $895
+                      - generic [ref=e170]:
+                        - generic [ref=e172]: APR
+                        - generic [ref=e173]: See Pay Over Time APR
+                      - generic [ref=e174]:
+                        - generic [ref=e175]:
+                          - generic [ref=e176]: Credit Recommended
+                          - img [ref=e179]:
+                            - img [ref=e180]
+                        - generic [ref=e183]: Good to Excellent
+                    - generic [ref=e184]:
+                      - group [ref=e185]:
+                        - generic "Why We Like This Card" [ref=e186] [cursor=pointer]
+                      - group [ref=e187]:
+                        - generic "Pros & Cons" [ref=e188] [cursor=pointer]
+                      - group [ref=e189]:
+                        - generic "Card Highlights" [ref=e190] [cursor=pointer]
+                - generic [ref=e192]:
+                  - generic [ref=e193]:
+                    - img [ref=e194]
+                    - generic [ref=e196]: BEST FOR DINING
+                  - generic [ref=e197]:
+                    - link "American Express® Gold Card" [ref=e198] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "American Express® Gold Card" [ref=e199]
+                    - link "Terms Apply / Rates & Fees" [ref=e200] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TRD/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e201]: Terms Apply / Rates & Fees
+                    - generic [ref=e202]:
+                      - generic [ref=e203]:
+                        - img "Star rating icon" [ref=e206]
+                        - img "Star rating icon" [ref=e209]
+                        - img "Star rating icon" [ref=e212]
+                        - img "Star rating icon" [ref=e215]
+                        - generic [ref=e216]:
+                          - img "Star rating icon" [ref=e218]
+                          - img "Star rating icon" [ref=e220]
+                      - generic [ref=e221]:
+                        - generic [ref=e222]: U.P. Rating
+                        - img [ref=e225]:
+                          - img [ref=e226]
+                    - link "Apply Now" [ref=e229] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e230]
+                      - text: Apply Now
+                    - generic [ref=e233]: (at Amex's secure site)
+                    - generic [ref=e234]:
+                      - heading "Apply With Confidence" [level=4] [ref=e235]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e236]
+                      - paragraph [ref=e237]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e238]:
+                    - generic [ref=e240]:
+                      - link "American Express® Gold Card" [ref=e242] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-gold-card/
+                        - text: American Express
+                        - superscript [ref=e243]: ®
+                        - text: Gold Card
+                      - text: This is the best card for food lovers who dine out at restaurants (worldwide), order take-out and want big rewards at U.S. supermarkets!
+                    - generic [ref=e244]:
+                      - generic [ref=e245]:
+                        - generic [ref=e246]:
+                          - generic [ref=e247]: Welcome Offer
+                          - img [ref=e250]:
+                            - img [ref=e251]
+                        - generic [ref=e254]: As High As 100,000 Points. Find Out Your Offer.
+                      - generic [ref=e255]:
+                        - generic [ref=e257]: "UP's Offer Valuation*:"
+                        - generic [ref=e258]: Up to $2,200
+                    - generic [ref=e259]:
+                      - generic [ref=e260]:
+                        - generic [ref=e262]: Annual Fee
+                        - generic [ref=e263]: $325
+                      - generic [ref=e264]:
+                        - generic [ref=e266]: APR
+                        - generic [ref=e267]: See Pay Over Time APR
+                      - generic [ref=e268]:
+                        - generic [ref=e269]:
+                          - generic [ref=e270]: Credit Recommended
+                          - img [ref=e273]:
+                            - img [ref=e274]
+                        - generic [ref=e277]: Good to Excellent
+                    - generic [ref=e278]:
+                      - group [ref=e279]:
+                        - generic "Why We Like This Card" [ref=e280] [cursor=pointer]
+                      - group [ref=e281]:
+                        - generic "Pros & Cons" [ref=e282] [cursor=pointer]
+                      - group [ref=e283]:
+                        - generic "Card Highlights" [ref=e284] [cursor=pointer]
+                - heading "Recommended Chase Cards (Personal)" [level=3] [ref=e285]
+                - generic [ref=e287]:
+                  - generic [ref=e288]:
+                    - img [ref=e289]
+                    - generic [ref=e291]: NEW OFFER
+                  - generic [ref=e292]:
+                    - link "Chase Sapphire Preferred® Card" [ref=e293] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/3542/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Preferred® Card" [ref=e294]
+                    - link "Terms Apply / Rates & Fees" [ref=e295] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/TRD/3542/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e296]: Terms Apply / Rates & Fees
+                    - generic [ref=e297]:
+                      - generic [ref=e298]:
+                        - img "Star rating icon" [ref=e301]
+                        - img "Star rating icon" [ref=e304]
+                        - img "Star rating icon" [ref=e307]
+                        - img "Star rating icon" [ref=e310]
+                        - generic [ref=e311]:
+                          - img "Star rating icon" [ref=e313]
+                          - img "Star rating icon" [ref=e315]
+                      - generic [ref=e316]:
+                        - generic [ref=e317]: U.P. Rating
+                        - img [ref=e320]:
+                          - img [ref=e321]
+                    - link "Apply Now" [ref=e324] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphire/TRD/3542/dissn.1775548838764.7073346957.1/
+                      - img [ref=e325]
+                      - text: Apply Now
+                    - generic [ref=e328]: (at Chase's secure site)
+                  - generic [ref=e329]:
+                    - generic [ref=e331]:
+                      - link "Chase Sapphire Preferred® Card" [ref=e333] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-preferred-card/
+                        - text: Chase Sapphire Preferred
+                        - superscript [ref=e334]: ®
+                        - text: Card
+                      - text: A fantastic travel card with a great welcome offer, good benefits, and perks for a moderate annual fee.
+                    - generic [ref=e335]:
+                      - generic [ref=e336]:
+                        - generic [ref=e337]:
+                          - generic [ref=e338]: Welcome Offer
+                          - img [ref=e341]:
+                            - img [ref=e342]
+                        - generic [ref=e345]: 60,000 75,000 points
+                      - generic [ref=e346]:
+                        - generic [ref=e348]: "UP's Offer Valuation*:"
+                        - generic [ref=e349]: $1,500
+                    - generic [ref=e350]:
+                      - generic [ref=e351]:
+                        - generic [ref=e353]: Annual Fee
+                        - generic [ref=e354]: $95
+                      - generic [ref=e355]:
+                        - generic [ref=e357]: APR
+                        - generic [ref=e358]: 19.24% - 27.49% Variable
+                      - generic [ref=e359]:
+                        - generic [ref=e360]:
+                          - generic [ref=e361]: Credit Recommended
+                          - img [ref=e364]:
+                            - img [ref=e365]
+                        - generic [ref=e368]: Good to Excellent
+                    - generic [ref=e369]:
+                      - group [ref=e370]:
+                        - generic "Why We Like This Card" [ref=e371] [cursor=pointer]
+                      - group [ref=e372]:
+                        - generic "Pros & Cons" [ref=e373] [cursor=pointer]
+                      - group [ref=e374]:
+                        - generic "Card Highlights" [ref=e375] [cursor=pointer]
+                - generic [ref=e377]:
+                  - generic [ref=e378]:
+                    - img [ref=e379]
+                    - generic [ref=e381]: NEW OFFER
+                  - generic [ref=e382]:
+                    - link "Chase Sapphire Reserve®" [ref=e383] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/3542/dissn.1775548838764.7073346957.1/
+                      - img "Chase Sapphire Reserve®" [ref=e384]
+                    - link "Terms Apply / Rates & Fees" [ref=e385] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserveTCCRF/TRD/3542/dissn.1775548838764.7073346957.1/
+                      - generic [ref=e386]: Terms Apply / Rates & Fees
+                    - generic [ref=e387]:
+                      - generic [ref=e388]:
+                        - img "Star rating icon" [ref=e391]
+                        - img "Star rating icon" [ref=e394]
+                        - img "Star rating icon" [ref=e397]
+                        - img "Star rating icon" [ref=e400]
+                        - generic [ref=e401]:
+                          - img "Star rating icon" [ref=e403]
+                          - img "Star rating icon" [ref=e405]
+                      - generic [ref=e406]:
+                        - generic [ref=e407]: U.P. Rating
+                        - img [ref=e410]:
+                          - img [ref=e411]
+                    - link "Apply Now" [ref=e414] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/ChaseSapphireReserve/TRD/3542/dissn.1775548838764.7073346957.1/
+                      - img [ref=e415]
+                      - text: Apply Now
+                    - generic [ref=e418]: (at Chase's secure site)
+                  - generic [ref=e419]:
+                    - generic [ref=e421]:
+                      - link "Chase Sapphire Reserve®" [ref=e423] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/chase-sapphire-reserve/
+                        - text: Chase Sapphire Reserve
+                        - superscript [ref=e424]: ®
+                      - text: A top player in the high-end premium travel credit card space that earns points on travel and dining while offering top luxury perks.
+                    - generic [ref=e425]:
+                      - generic [ref=e426]:
+                        - generic [ref=e427]:
+                          - generic [ref=e428]: Welcome Offer
+                          - img [ref=e431]:
+                            - img [ref=e432]
+                        - generic [ref=e435]: 125,000 points
+                      - generic [ref=e436]:
+                        - generic [ref=e438]: "UP's Offer Valuation*:"
+                        - generic [ref=e439]: $2,500
+                    - generic [ref=e440]:
+                      - generic [ref=e441]:
+                        - generic [ref=e443]: Annual Fee
+                        - generic [ref=e444]: $795
+                      - generic [ref=e445]:
+                        - generic [ref=e447]: APR
+                        - generic [ref=e448]: 19.49% - 27.99% Variable
+                      - generic [ref=e449]:
+                        - generic [ref=e450]:
+                          - generic [ref=e451]: Credit Recommended
+                          - img [ref=e454]:
+                            - img [ref=e455]
+                        - generic [ref=e458]: Excellent
+                    - generic [ref=e459]:
+                      - group [ref=e460]:
+                        - generic "Why We Like This Card" [ref=e461] [cursor=pointer]
+                      - group [ref=e462]:
+                        - generic "Pros & Cons" [ref=e463] [cursor=pointer]
+                      - group [ref=e464]:
+                        - generic "Card Highlights" [ref=e465] [cursor=pointer]
+                - paragraph [ref=e466]:
+                  - strong [ref=e467]: Business owner?
+                  - text: See our list of the
+                  - link "best Chase business credit cards" [ref=e468] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/business/best-chase-business-credit-cards/
+                  - text: .
+                - heading "Recommended Capital One Cards That Earn Miles (Personal)" [level=3] [ref=e469]
+                - generic [ref=e471]:
+                  - generic [ref=e472]:
+                    - img "Capital One Venture X Rewards Credit Card" [ref=e473]
+                    - generic [ref=e474]:
+                      - generic [ref=e475]:
+                        - img "Star rating icon" [ref=e478]
+                        - img "Star rating icon" [ref=e481]
+                        - img "Star rating icon" [ref=e484]
+                        - img "Star rating icon" [ref=e487]
+                        - generic [ref=e488]:
+                          - img "Star rating icon" [ref=e490]
+                          - img "Star rating icon" [ref=e492]
+                      - generic [ref=e493]:
+                        - generic [ref=e494]: U.P. Rating
+                        - img [ref=e497]:
+                          - img [ref=e498]
+                  - generic [ref=e501]:
+                    - generic [ref=e503]:
+                      - link "Capital One Venture X Rewards Credit Card" [ref=e505] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-x/
+                      - text: The Capital One Venture X card is an excellent option for travelers looking for an all-in-one premium credit card.
+                    - generic [ref=e506]:
+                      - generic [ref=e507]:
+                        - generic [ref=e508]:
+                          - generic [ref=e509]: Welcome Offer
+                          - img [ref=e512]:
+                            - img [ref=e513]
+                        - generic [ref=e516]: 75,000 miles
+                      - generic [ref=e517]:
+                        - generic [ref=e519]: "UP's Offer Valuation*:"
+                        - generic [ref=e520]: $1,350
+                    - generic [ref=e521]:
+                      - generic [ref=e522]:
+                        - generic [ref=e524]: Annual Fee
+                        - generic [ref=e525]: $395
+                      - generic [ref=e526]:
+                        - generic [ref=e528]: APR
+                        - generic [ref=e529]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e530]:
+                        - generic [ref=e531]:
+                          - generic [ref=e532]: Credit Recommended
+                          - img [ref=e535]:
+                            - img [ref=e536]
+                        - generic [ref=e539]: Excellent
+                    - generic [ref=e540]:
+                      - group [ref=e541]:
+                        - generic "Why We Like This Card" [ref=e542] [cursor=pointer]
+                      - group [ref=e543]:
+                        - generic "Pros & Cons" [ref=e544] [cursor=pointer]
+                      - group [ref=e545]:
+                        - generic "Card Highlights" [ref=e546] [cursor=pointer]
+                - generic [ref=e548]:
+                  - generic [ref=e549]:
+                    - img [ref=e550]
+                    - generic [ref=e552]: LIMITED-TIME ONLY
+                  - generic [ref=e553]:
+                    - img "Capital One Venture Rewards Credit Card" [ref=e554]
+                    - generic [ref=e555]:
+                      - generic [ref=e556]:
+                        - img "Star rating icon" [ref=e559]
+                        - img "Star rating icon" [ref=e562]
+                        - img "Star rating icon" [ref=e565]
+                        - img "Star rating icon" [ref=e568]
+                        - generic [ref=e569]:
+                          - img "Star rating icon" [ref=e571]
+                          - img "Star rating icon" [ref=e573]
+                      - generic [ref=e574]:
+                        - generic [ref=e575]: U.P. Rating
+                        - img [ref=e578]:
+                          - img [ref=e579]
+                  - generic [ref=e582]:
+                    - generic [ref=e584]:
+                      - link "Capital One Venture Rewards Credit Card" [ref=e586] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-rewards-credit-card/
+                      - text: Get 2x miles plus some of the most flexible redemptions offered by a travel credit card!
+                    - generic [ref=e587]:
+                      - generic [ref=e588]:
+                        - generic [ref=e589]:
+                          - generic [ref=e590]: Welcome Offer
+                          - img [ref=e593]:
+                            - img [ref=e594]
+                        - generic [ref=e597]: 75,000 miles + $250 Capital One Travel credit
+                      - generic [ref=e598]:
+                        - generic [ref=e600]: "UP's Offer Valuation*:"
+                        - generic [ref=e601]: $1,600
+                    - generic [ref=e602]:
+                      - generic [ref=e603]:
+                        - generic [ref=e605]: Annual Fee
+                        - generic [ref=e606]: $95
+                      - generic [ref=e607]:
+                        - generic [ref=e609]: APR
+                        - generic [ref=e610]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e611]:
+                        - generic [ref=e612]:
+                          - generic [ref=e613]: Credit Recommended
+                          - img [ref=e616]:
+                            - img [ref=e617]
+                        - generic [ref=e620]: Good to Excellent Credit
+                    - generic [ref=e621]:
+                      - group [ref=e622]:
+                        - generic "Why We Like This Card" [ref=e623] [cursor=pointer]
+                      - group [ref=e624]:
+                        - generic "Pros & Cons" [ref=e625] [cursor=pointer]
+                      - group [ref=e626]:
+                        - generic "Card Highlights" [ref=e627] [cursor=pointer]
+                - generic [ref=e629]:
+                  - generic [ref=e630]:
+                    - img "Capital One VentureOne Rewards Credit Card" [ref=e631]
+                    - generic [ref=e632]:
+                      - generic [ref=e633]:
+                        - img "Star rating icon" [ref=e636]
+                        - img "Star rating icon" [ref=e639]
+                        - img "Star rating icon" [ref=e642]
+                        - img "Star rating icon" [ref=e645]
+                        - generic [ref=e646]:
+                          - img "Star rating icon" [ref=e648]
+                          - img "Star rating icon" [ref=e649]
+                      - generic [ref=e650]:
+                        - generic [ref=e651]: U.P. Rating
+                        - img [ref=e654]:
+                          - img [ref=e655]
+                  - generic [ref=e658]:
+                    - generic [ref=e660]:
+                      - link "Capital One VentureOne Rewards Credit Card" [ref=e662] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-ventureone-rewards-credit-card/
+                      - text: The card offers unlimited miles at 1.25x per $1 and no annual fee. When you consider the flexible rewards, frequent travelers come out on top.
+                    - generic [ref=e663]:
+                      - generic [ref=e664]:
+                        - generic [ref=e665]:
+                          - generic [ref=e666]: Welcome Offer
+                          - img [ref=e669]:
+                            - img [ref=e670]
+                        - generic [ref=e673]: 20,000 miles
+                      - generic [ref=e674]:
+                        - generic [ref=e676]: "UP's Offer Valuation*:"
+                        - generic [ref=e677]: $200
+                    - generic [ref=e678]:
+                      - generic [ref=e679]:
+                        - generic [ref=e681]: Annual Fee
+                        - generic [ref=e682]: $0
+                      - generic [ref=e683]:
+                        - generic [ref=e685]: APR
+                        - generic [ref=e686]: "Purchases: 0% intro APR on purchases for 15 months; variable 18.49% - 28.49% thereafter"
+                      - generic [ref=e687]:
+                        - generic [ref=e688]:
+                          - generic [ref=e689]: Credit Recommended
+                          - img [ref=e692]:
+                            - img [ref=e693]
+                        - generic [ref=e696]: Good to Excellent (670-850)
+                    - generic [ref=e697]:
+                      - group [ref=e698]:
+                        - generic "Why We Like This Card" [ref=e699] [cursor=pointer]
+                      - group [ref=e700]:
+                        - generic "Pros & Cons" [ref=e701] [cursor=pointer]
+                      - group [ref=e702]:
+                        - generic "Card Highlights" [ref=e703] [cursor=pointer]
+                - heading "Marriott Bonvoy Transfers" [level=3] [ref=e704]:
+                  - strong [ref=e705]: Marriott Bonvoy Transfers
+                - paragraph [ref=e706]:
+                  - text: You can
+                  - link "earn Marriott Bonvoy points" [ref=e707] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/hotels/how-to-earn-marriott-rewards-points/
+                  - text: and transfer those to
+                  - link "Flying Blue" [ref=e708] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/flying-blue-air-france-klm-loyalty-program/
+                  - text: at a transfer rate of 3:1. Plus, for every 60,000 Marriott Bonvoy points that you transfer, you’ll receive a
+                  - strong [ref=e709]: bonus of 5,000 Flying Blue miles
+                  - text: .
+                - paragraph [ref=e710]:
+                  - text: See our list of the
+                  - link "best Marriott credit cards" [ref=e711] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/best-marriott-bonvoy-credit-cards/
+                  - text: in our guide.
+                - heading "The 13 Best Ways To Redeem Your Flying Blue Miles" [level=2] [ref=e712]
+                - heading "1. Save Big With Flying Blue Promo Rewards (Air France-KLM)" [level=3] [ref=e713]:
+                  - generic [ref=e714]: 1. Save Big With Flying Blue Promo Rewards (Air France-KLM)
+                - 'figure "Air France offers an excellent long-haul business class cabin. Image Credit: Ryan Smith" [ref=e716]':
+                  - img "Air France A350 900 business window seats" [ref=e718]
+                  - generic [ref=e719]: "Air France offers an excellent long-haul business class cabin. Image Credit: Ryan Smith"
+                - paragraph [ref=e720]:
+                  - text: Arguably the best way to book an
+                  - link "Air France" [ref=e721] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/air-france-review/
+                  - text: "-KLM award with Flying Blue miles is through"
+                  - link "Flying Blue Promo Rewards" [ref=e722] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/news/flying-blue-promo-rewards/
+                  - text: .
+                - paragraph [ref=e723]:
+                  - text: Promo Rewards can provide an excellent deal on award tickets. Each month, Flying Blue discounts the award price on select routes,
+                  - strong [ref=e724]: up to 50% off normal award rates
+                  - text: . The discount is valid for award bookings throughout a specific travel period, typically a few months or so months in advance.
+                - paragraph [ref=e725]:
+                  - text: For example, you can book a one-way award ticket between certain U.S. airports and select destinations in Europe for under 40,000 miles one-way in business class. Of course, Promo Rewards change each month. You can find the current Promo Rewards
+                  - link "here" [ref=e726] [cursor=pointer]:
+                    - /url: https://www.flyingblue.us/en/spend/flights/rewards
+                  - text: .
+                - 'figure "Promo Rewards are an excellent way to use Flying Blue miles. Image Credit: Flying Blue" [ref=e728]':
+                  - img "Flying blue Promo Rewards" [ref=e730]
+                  - generic [ref=e731]: "Promo Rewards are an excellent way to use Flying Blue miles. Image Credit: Flying Blue"
+                - paragraph [ref=e732]:
+                  - text: Pricing varies, but being able to
+                  - strong [ref=e733]: book an economy class award for under 10,000 miles
+                  - text: is an excellent way to redeem Flying Blue miles. Best of all, thanks to frequent transfer bonuses, these awards can be booked for even fewer miles.
+                - generic [ref=e734]:
+                  - strong [ref=e735]: "Bottom Line:"
+                  - paragraph [ref=e737]: Promo Rewards offers deeply discounted award tickets. These discounts can be up to 50% off normal award prices.
+                - heading "2. Fly to Amsterdam, Paris, and Beyond (Air France-KLM)" [level=3] [ref=e738]:
+                  - text: "2."
+                  - strong [ref=e739]: Fly to Amsterdam, Paris, and Beyond
+                  - strong [ref=e740]: (Air France-KLM)
+                - paragraph [ref=e741]: Although Flying Blue uses dynamic pricing, the program has an award chart with standard saver-level pricing. This award chart shows the lowest award prices can be between 2 cities and is for flights operated by Air France and KLM and not any of their partners.
+                - paragraph [ref=e742]: Here is the general one-way saver-level pricing for flights between the U.S. and Europe.
+                - list [ref=e743]:
+                  - listitem [ref=e744]: 25,000 miles in economy
+                  - listitem [ref=e745]: 40,000 miles in premium economy
+                  - listitem [ref=e746]: 60,000 miles in business class
+                - paragraph [ref=e747]:
+                  - text: You can connect onwards in Europe for no extra cost, assuming you can find award space. However,
+                  - strong [ref=e748]: flights can cost significantly more than the price shown on the award chart
+                  - text: ", as dynamic pricing will do that."
+                - paragraph [ref=e749]: For example, here’s a one-way business class award between Chicago (ORD) and Amsterdam (AMS) at the 60,000-mile pricing.
+                - paragraph [ref=e750]:
+                  - text: Booking a business class award seat from the U.S. to anywhere in Europe for 60,000 Flying Blue miles is an
+                  - strong [ref=e751]: incredible deal
+                  - text: . Best of all, award space is not too difficult to find
+                - generic [ref=e752]:
+                  - strong [ref=e753]: "Hot Tip:"
+                  - paragraph [ref=e755]:
+                    - text: When looking for award space with Air France or its partners, use the
+                    - link "calendar function" [ref=e756] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/news/flying-blue-partner-award-calendar-improvement/
+                    - text: to view award space for an entire month.
+                - heading "3. Get to North Africa for the Same Price as Europe (Air France-KLM)" [level=3] [ref=e757]:
+                  - strong [ref=e758]: 3. Get to North Africa for the Same Price as Europe (Air France-KLM)
+                - 'figure "Visit Chefchaouen in Morocco for the same number of miles as going to Europe with KLM/Air France Flying Blue. Image Credit: Christine Krzyszton" [ref=e760]':
+                  - img "ChefChaouen Morocco Central Square" [ref=e762]
+                  - generic [ref=e763]: "Visit Chefchaouen in Morocco for the same number of miles as going to Europe with KLM/Air France Flying Blue. Image Credit: Christine Krzyszton"
+                - paragraph [ref=e764]:
+                  - text: An incredible sweet spot with Flying Blue is that
+                  - strong [ref=e765]: the program prices flights to Northern Africa the same as for flights to Europe
+                  - text: . This means that destinations such as Algeria, Morocco, Tunisia, Libya, and the Canary Islands can be booked for the same amount of miles as a flight to Europe.
+                - paragraph [ref=e766]: This provides an excellent redemption as most other programs place these countries in the Middle East or Africa regions which are more expensive than Europe when coming from North America.
+                - paragraph [ref=e767]:
+                  - text: For example, a one-way award in economy between
+                  - link "Chicago (ORD)" [ref=e768] [cursor=pointer]:
+                    - /url: /travel/airports/chicago-ohare-ord-airport/
+                  - text: and Marrakesh, Morocco (RAK) for 25,000 miles.
+                - paragraph [ref=e769]: "Here are some great example routes you can take:"
+                - list [ref=e770]:
+                  - listitem [ref=e771]:
+                    - strong [ref=e772]: Chicago (ORD) – Paris (CDG) – Tunis (TUN)
+                    - text: on Air France round-trip in economy for as few as 50,000 miles + taxes and fees
+                  - listitem [ref=e773]:
+                    - strong [ref=e774]: San Francisco (SFO) – Paris (CDG) – Algiers (ALG)
+                    - text: on Air France round-trip in business for as few as 120,000 miles + taxes and fees
+                - heading "4. Fly to Hawaii From the Contiguous U.S. (Delta and Alaska Airlines)" [level=3] [ref=e775]
+                - 'figure "Using your Flying Blue to get to Hawaii can present some incredible value! Image Credit: Katie Seemann" [ref=e777]':
+                  - img "Maui Hawaii - Katie Seemann" [ref=e779]
+                  - generic [ref=e780]:
+                    - text: "Using your Flying Blue to get to Hawaii can present some incredible value! Image Credit:"
+                    - link "Katie Seemann" [ref=e781] [cursor=pointer]:
+                      - /url: /author/katie/
+                - paragraph [ref=e782]:
+                  - text: Another excellent way to redeem Flying Blue miles is for flights to Hawaii on
+                  - link "Delta Air Lines" [ref=e783] [cursor=pointer]:
+                    - /url: /travel/airlines/delta-airlines-review/
+                  - text: . Flying Blue charges far fewer miles than Delta does for flights to Hawaii.
+                - paragraph [ref=e784]:
+                  - text: Round-trip pricing
+                  - strong [ref=e785]: starts at only 35,000 Flying Blue miles in economy
+                  - text: ", which can be tens of thousands of fewer miles than what Delta charges."
+                - paragraph [ref=e786]: However, finding award availability can be a challenge.
+                - heading "5. Fly Between the Caribbean and Europe (Air France-KLM)" [level=3] [ref=e787]:
+                  - generic [ref=e788]: 5. Fly Between the Caribbean and Europe (Air France-KLM)
+                - paragraph [ref=e789]:
+                  - text: Both Air France and KLM offer many routes between the Caribbean and Europe. Fortunately,
+                  - strong [ref=e790]: award pricing between the 2 regions is incredible
+                  - text: .
+                - paragraph [ref=e791]:
+                  - text: A one-way economy class award ticket can be booked for as few as 30,000 Flying Blue miles, and a one-way
+                  - link "business class award ticket" [ref=e792] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/best-ways-to-book-air-france-business-class/
+                  - text: can be booked for as few as 85,000 miles.
+                - heading "6. Take Cheap Economy Flights to the South Pacific (Air France, Delta)" [level=3] [ref=e793]:
+                  - generic [ref=e794]: 6. Take Cheap Economy Flights to the South Pacific (Air France, Delta)
+                - paragraph [ref=e795]:
+                  - text: Although Tahiti is far away, Flying Blue has excellent award rates for flights to French Polynesia on Air France. Air France operates a nonstop flight from
+                  - link "Los Angeles (LAX)" [ref=e796] [cursor=pointer]:
+                    - /url: /travel/airports/los-angeles-lax-airport/
+                  - text: to Tahiti (PPT), which can be booked for as few as 35,000 miles one-way in economy or 90,000 miles in business class.
+                - paragraph [ref=e797]:
+                  - text: This is an
+                  - strong [ref=e798]: excellent use of Flying Blue miles
+                  - text: ", as that route is generally quite expensive."
+                - heading "7. Book Flights to Europe With SkyTeam Partners (Delta and Virgin Atlantic)" [level=3] [ref=e799]
+                - paragraph [ref=e800]:
+                  - text: With Air France-KLM being part of the
+                  - link "SkyTeam alliance" [ref=e801] [cursor=pointer]:
+                    - /url: /travel/airlines/the-skyteam-alliance/
+                  - text: ", you can use your Flying Blue miles to fly on partner airlines. These include popular airlines such as Delta and Virgin Atlantic."
+                - paragraph [ref=e802]:
+                  - text: For example, here is a one-way economy award between
+                  - link "New York (JFK)" [ref=e803] [cursor=pointer]:
+                    - /url: /travel/airports/john-f-kennedy-jfk-airport/
+                  - text: and Manchester (MAN) that can be booked for just 22,500 Flying Blue miles and $92 in taxes and fees.
+                - 'figure "Image Credit: Air France" [ref=e805]':
+                  - img "Flying Blue VA award JFK MAN" [ref=e807]
+                  - generic [ref=e808]: "Image Credit: Air France"
+                - paragraph [ref=e809]:
+                  - text: Best of all, you’ll pay significantly less in fuel surcharges than when booking directly with
+                  - link "Virgin Atlantic Flying Club" [ref=e810] [cursor=pointer]:
+                    - /url: /travel/airlines/virgin-atlantic-flying-club-loyalty-program/
+                  - text: .
+                - paragraph [ref=e811]:
+                  - text: You can fly between the U.S. and Europe on Delta using your Flying Blue miles.
+                  - strong [ref=e812]: Delta doesn’t charge fuel surcharges
+                  - text: ", making this an even better option. However, award space can be difficult to find at times."
+                - heading "8. Fly U.S. to Central and South America (Copa)" [level=3] [ref=e813]
+                - paragraph [ref=e814]:
+                  - text: Copa Airlines is a
+                  - link "Star Alliance member" [ref=e815] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/the-star-alliance/
+                  - text: ", though it has a non-alliance partnership with Flying Blue, meaning you can"
+                  - strong [ref=e816]: use your Flying Blue miles to fly Copa’s extensive route network in Central and South America
+                  - text: . Many of these routes are expensive when booked with cash, adding even more value to your points and miles.
+                - paragraph [ref=e817]: From its hub in Panama City (PTY), you can reach Central and South American destinations that are often expensive cash tickets.
+                - paragraph [ref=e818]:
+                  - text: Pricing between the U.S. and
+                  - link "Central America" [ref=e819] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/best-ways-to-fly-to-central-america-with-points-and-miles/
+                  - text: starts around 21,500 miles one-way in economy. You can connect onwards for the same price on certain routes.
+                - paragraph [ref=e820]: "Here are some great example routes you can take:"
+                - list [ref=e821]:
+                  - listitem [ref=e822]:
+                    - strong [ref=e823]: New York City (JFK) – Panama City (PTY)
+                    - text: on Copa Airlines round-trip in economy for as few as 43,000 miles or business for 100,000 miles
+                  - listitem [ref=e824]:
+                    - strong [ref=e825]: Panama City (PTY) – San Salvador (SAL)
+                    - text: on Copa Airlines round-trip in economy for 23,000 miles or business for 56,000 miles
+                - paragraph [ref=e826]: You can connect onwards to many destinations in South America for just a few thousand more miles. Copa travels to several South American destinations, including Argentina, Brazil, and Colombia.
+                - heading "9. Take Intra-Europe Flights" [level=3] [ref=e827]
+                - paragraph [ref=e828]: Another excellent way to use Flying Blue miles is for intra-Europe awards. Certain routes between major European cities can be expensive, so using points and miles is an excellent way to get high value.
+                - paragraph [ref=e829]:
+                  - text: You’ll want to
+                  - strong [ref=e830]: book intra-Europe award flights in economy
+                  - text: because business class on most of these routes is nothing more than normal economy seats with the middle seat blocked.
+                - paragraph [ref=e831]: Best of all, many routes are featured as a part of Flying Blue Promo Rewards. Most routes are from Paris and Amsterdam, as they are the base airports for Air France and KLM, respectively.
+                - 'figure "Image Credit: Air France" [ref=e833]':
+                  - img "Flying blue promo rewards jan 2024" [ref=e835]
+                  - generic [ref=e836]: "Image Credit: Air France"
+                - paragraph [ref=e837]: It’s important to shop around as European flights usually have a high cash component due to taxes that are passed on for awards. It may be better value on some trips to buy a cash ticket.
+                - heading "10. Fly to Japan (Japan Airlines)" [level=3] [ref=e838]
+                - paragraph [ref=e839]:
+                  - text: The SkyTeam alliance lacks a Japanese partner airline, so it’s great that
+                  - strong [ref=e840]:
+                    - text: Flying Blue partners with
+                    - link "Japan Airlines" [ref=e841] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/japan-airlines-review/
+                  - text: ", which is a member of the"
+                  - link "Oneworld alliance" [ref=e842] [cursor=pointer]:
+                    - /url: /travel/airlines/oneworld-alliance/
+                  - text: .
+                - paragraph [ref=e843]: You can use your Flying Blue miles to book an award to Japan. You can add a domestic Japan Airlines flight connecting through Tokyo.
+                - generic [ref=e844]:
+                  - strong [ref=e845]: "Hot Tip:"
+                  - paragraph [ref=e847]:
+                    - text: Check out our guide on the
+                    - link "best ways to fly to Japan using points and miles" [ref=e848] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/best-ways-to-fly-to-japan-with-points/
+                    - text: .
+                - heading "11. Fly Etihad to the Middle East and Beyond (Etihad Airways)" [level=3] [ref=e849]
+                - paragraph [ref=e850]:
+                  - text: In late 2023, Air France-KLM and Etihad Airways announced plans to expand their partnership.
+                  - strong [ref=e851]: You can now use Flying Blue miles to book Etihad-operated awards
+                  - text: . Although Flying Blue doesn’t have a published Etihad award chart, pricing seems to depend on routing.
+                - paragraph [ref=e852]: This is a great way to redeem Flying Blue miles, as there aren’t too many other programs you can utilize for Etihad awards. This also allows for creative itineraries where you can experience multiple airlines for the same award redemption.
+                - paragraph [ref=e853]: For example, here’s an award ticket between Paris (CDG) and Abu Dhabi (AUH). On this itinerary, you can fly on both Saudia Airlines and Etihad in business class.
+                - 'figure "Image Credit: Air France" [ref=e855]':
+                  - img "Flying Blue etihasaudia" [ref=e857]
+                  - generic [ref=e858]: "Image Credit: Air France"
+                - paragraph [ref=e859]:
+                  - text: On these awards, Flying Blue
+                  - strong [ref=e860]: charges per segment
+                  - text: ", meaning that you can expect to pay slightly more miles if you want to connect onward."
+                - heading "12. Visit Africa From Tip to Toe (Air France-KLM)" [level=3] [ref=e861]
+                - paragraph [ref=e862]:
+                  - text: Air France-KLM has an extensive route network in Africa, thanks in part to the countries’ colonial legacies. Add in Nairobi-based Kenya Airways, and you have o
+                  - strong [ref=e863]: ne of the most extensive African networks in the industry
+                  - text: .
+                - paragraph [ref=e864]: Cash fares on many routes to South Africa can be quite high, so using miles is an excellent way to save money.
+                - paragraph [ref=e865]: Award rates are competitive as you can get a one-way award from the U.S. to faraway destinations like South Africa starting at just 40,000 miles in economy.
+                - paragraph [ref=e866]: "Here are some great example routes you can take:"
+                - list [ref=e867]:
+                  - listitem [ref=e868]:
+                    - strong [ref=e869]: Amsterdam (AMS) – Nairobi (NBO)
+                    - text: on KLM round-trip in economy for 60,000 miles or business for 170,000 miles
+                  - listitem [ref=e870]:
+                    - strong [ref=e871]: Paris (CDG) – Johannesburg (JNB)
+                    - text: on Air France round-trip in economy for 60,000 miles or business for 170,000 miles
+                - heading "12. Go Indian Ocean Island Hopping (Air Mauritius)" [level=3] [ref=e872]
+                - paragraph [ref=e873]:
+                  - text: Air Mauritius is a
+                  - strong [ref=e874]: key Flying Blue partner
+                  - text: that gets you to magnificent Indian Ocean islands such as Mauritius, Reunion, and Madagascar.
+                - paragraph [ref=e875]: These are typically expensive cash fares which can be thousands of dollars, even in economy. Award pricing begins at 35,000 miles one-way in economy or 95,000 miles in business class. Although nearly 20 hours in economy can be brutal, it’s hard to beat these award rates.
+                - 'figure "Image Credit: Air France" [ref=e877]':
+                  - img "JFK TNR Flying blue redemption" [ref=e879]
+                  - generic [ref=e880]: "Image Credit: Air France"
+                - paragraph [ref=e881]: "Here are some great example routes you can take:"
+                - list [ref=e882]:
+                  - listitem [ref=e883]:
+                    - strong [ref=e884]: Los Angeles (LAX) – Paris (CDG) – Antananarivo (TNR)
+                    - text: on Air France round-trip in economy for as few as 80,000 miles or business for 230,000 miles
+                  - listitem [ref=e885]:
+                    - strong [ref=e886]: San Francisco (SFO) – Paris (CDG) – St. Denis (RUN)
+                    - text: on Air France round-trip in economy for as few as 80,000 miles or business for 230,000 miles
+                - heading "13. Reach the Remote African Beaches of Cabo Verde (Transavia)" [level=3] [ref=e887]:
+                  - generic [ref=e888]: 13. Reach the Remote African Beaches of Cabo Verde (Transavia)
+                - 'figure "Drift away your cares in the Cabo Verde Islands. Image Credit: Ryan Smith" [ref=e890]':
+                  - img "Hilton Sal Cabo Verde Pool" [ref=e892]
+                  - generic [ref=e893]: "Drift away your cares in the Cabo Verde Islands. Image Credit: Ryan Smith"
+                - paragraph [ref=e894]: The beaches of the islands of Cabo Verde (Cape Verde) are not easy to reach but are oh-so-beautiful.
+                - paragraph [ref=e895]: Transavia is a subsidiary of Air France-KLM, and you can use Flying Blue miles for awards to its destinations around Europe, Morocco, and all the way to Praia and Sal in Cape Verde.
+                - paragraph [ref=e896]:
+                  - text: Check the
+                  - link "Transavia website" [ref=e897] [cursor=pointer]:
+                    - /url: https://www.transavia.com/en-EU/home/
+                  - text: for Flying Blue award availability.
+                - paragraph [ref=e899]: Advertisement
+                - heading "The Flying Blue Program" [level=2] [ref=e900]
+                - paragraph [ref=e901]:
+                  - text: To get started earning and redeeming Flying Blue miles, you need to sign up for the loyalty program. You can sign up with Flying Blue for free
+                  - link "here" [ref=e902] [cursor=pointer]:
+                    - /url: https://login.flyingblue.com/enrol/flyingblue
+                  - text: .
+                - heading "Award Booking Guidelines" [level=3] [ref=e903]
+                - paragraph [ref=e904]:
+                  - text: Flying Blue allows one-way and round-trip awards. The program also
+                  - strong [ref=e905]: allows for stopovers
+                  - text: . However, you will need to call in to book them.
+                - paragraph [ref=e906]: Flying Blue also has a “multi-destination award” option which is an open-jaw ticket. This means you can fly to 1 destination and return from another.
+                - paragraph [ref=e907]: Most partner airlines can be searched on the Air France website. For others, you can search on alternate SkyTeam sites or call Air France for availability.
+                - generic [ref=e908]:
+                  - strong [ref=e909]: "Hot Tip:"
+                  - paragraph [ref=e911]: Not all partner airlines will show when looking for award space on the Air France-KLM website. This is especially true for Air France-KLM’s non-SkyTeam alliance partners.
+                - heading "Phantom Partner Award Availability" [level=3] [ref=e912]
+                - paragraph [ref=e913]:
+                  - text: "The Air France-KLM websites are great for searching for award space, both for its own flights and for its partners. However, they do have 1 big flaw: so-called"
+                  - strong [ref=e914]: phantom availability
+                  - text: on partner airlines.
+                - paragraph [ref=e915]:
+                  - link "Phantom award space" [ref=e916] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/phantom-award-space/
+                  - text: is when an award ticket appears to be bookable it isn’t actually possible to do so.
+                - paragraph [ref=e917]: It’s always best to call Air France to confirm an award is available before transferring miles to Flying Blue. You can also cross-reference award space with another program to ensure you can book the award ticket with miles.
+                - heading "How Much Do Flights Awards Cost?" [level=3] [ref=e918]
+                - paragraph [ref=e919]:
+                  - text: Flying Blue does not publish full award charts. Instead, you can check the cost of an award flight using the
+                  - link "Flying Blue Miles Calculator" [ref=e920] [cursor=pointer]:
+                    - /url: https://www.flyingblue.us/en/flights/reward-tickets
+                  - text: .
+                - 'figure "Use Air France’s award search function to plan your travel. Image Credit: Air France" [ref=e922]':
+                  - img "air france search" [ref=e924]
+                  - generic [ref=e925]: "Use Air France’s award search function to plan your travel. Image Credit: Air France"
+                - paragraph [ref=e926]: Thanks to dynamic pricing, award redemption rates can vary significantly. Unlike many other airlines, award prices in miles are the same regardless of airline.
+                - paragraph [ref=e927]:
+                  - text: What can differ among airlines is the cash component since some Flying Blue partner airlines assess
+                  - link "fuel surcharges" [ref=e928] [cursor=pointer]:
+                    - /url: /travel/airlines/airline-fuel-surcharges/
+                  - text: and others do not. Always check alternate Flying Blue partner options for your trip.
+                - heading "Booking Upgrade Awards" [level=3] [ref=e929]
+                - paragraph [ref=e930]: Upgrade awards are available on Air France, KLM, and several partner airlines (Delta, Aeroflot, Aeromexico, Aircalin, China Airlines, China Southern Airlines, Kenya Airways, and Korean Air).
+                - 'figure "You can upgrade paid flights on Air France, KLM, and select airline partners. Image Credit: Flying Blue" [ref=e932]':
+                  - link "Flying Blue Upgrade Awards" [ref=e933] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2017/01/Flying-Blue-Upgrade-Awards.jpg?auto=webp&disable=upscale
+                    - img "Flying Blue Upgrade Awards" [ref=e935]
+                  - generic [ref=e936]: "You can upgrade paid flights on Air France, KLM, and select airline partners. Image Credit: Flying Blue"
+                - paragraph [ref=e937]:
+                  - text: Air France and KLM upgrades are the
+                  - strong [ref=e938]: most flexible
+                  - text: . They can be requested online up to 24 hours before departure and may also be available at the airport or on board the aircraft.
+                - paragraph [ref=e939]:
+                  - text: Partner awards are subject to availability and various restrictions specific to the airline, route, and fare class of ticket. It is best to contact Flying Blue at least 72 hours prior to departure for availability and price. See upgrade award terms
+                  - link "here" [ref=e940] [cursor=pointer]:
+                    - /url: https://www.flyingblue.com/upgrade-award.html
+                  - text: .
+                - paragraph [ref=e941]:
+                  - text: Check the cost of upgrade awards using the
+                  - link "Flying Blue Price Estimator" [ref=e942] [cursor=pointer]:
+                    - /url: https://www.flyingblue.us/en/flights/reward-tickets
+                  - text: .
+                - heading "Mileage Expiration Caveat" [level=3] [ref=e943]
+                - paragraph [ref=e944]:
+                  - text: Flying Blue miles expire after
+                  - strong [ref=e945]: 2 years
+                  - text: ", but there are several ways to extend them."
+                - paragraph [ref=e946]:
+                  - text: To
+                  - link "keep miles from expiring" [ref=e947] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/when-do-my-frequent-flyer-miles-expire/
+                  - text: ", you can fly on Air France, KLM, or any of its airline partners. You can also shop at the Flying Blue store, use your miles to book a hotel stay with Flying Blue, or via spending on the"
+                  - link "recently revamped Air France KLM Visa Signature® Credit Card" [ref=e948] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/news/air-france-klm-visa-card-launches/
+                    - text: recently revamped Air France KLM Visa Signature
+                    - superscript [ref=e949]: ®
+                    - text: Credit Card
+                  - text: .
+                - heading "Final Thoughts" [level=2] [ref=e950]: Final Thoughts
+                - paragraph [ref=e951]: Flying Blue is a versatile airline frequent flyer program with strong mileage redemption opportunities and plentiful award availability. It is often considered to be one of the best SkyTeam loyalty programs.
+                - paragraph [ref=e952]: The program has a vast network of airline partners that allow you to redeem Flying Blue miles to nearly every corner of the globe. Flying Blue also has incredible Promo Rewards, which are often the best way to use its miles. Best of all, Flying Blue is a transfer partner of several major credit card programs, making it easy to earn Flying Blue miles.
+                - paragraph [ref=e953]: Now that you know some of the best ways to use Flying Blue miles, we hope you’ll enjoy your next redemption!
+              - generic [ref=e954]:
+                - generic [ref=e955]:
+                  - separator [ref=e956]
+                  - text: "Featured Image Credit: Ryan Smith"
+                - generic [ref=e957]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e958]
+                  - group [ref=e959]:
+                    - generic "What is Flying Blue? How much does it cost?" [ref=e960] [cursor=pointer]
+                    - generic [ref=e961]:
+                      - paragraph [ref=e962]: Flying Blue is the frequent flyer program of Air France and KLM. It’s free to join and you can earn miles from flying Air France, KLM, and their airline partners.
+                      - paragraph [ref=e963]: Flying Blue also has many other travel and non-travel partners where you can earn miles.
+                      - paragraph [ref=e964]: You can use Flying Blue for award flights, upgrades, and more!
+                  - group [ref=e965]:
+                    - generic "How do I enroll in Flying Blue?" [ref=e966] [cursor=pointer]
+                    - paragraph [ref=e968]:
+                      - text: Sign up for Flying Blue
+                      - link "here" [ref=e969] [cursor=pointer]:
+                        - /url: https://login.flyingblue.com/enrol/flyingblue
+                      - text: .
+                  - group [ref=e970]:
+                    - generic "Where can I log in to my Flying Blue account?" [ref=e971] [cursor=pointer]
+                    - paragraph [ref=e973]:
+                      - text: Sign in to your Flying Blue account
+                      - link "on the Flying Blue website" [ref=e974] [cursor=pointer]:
+                        - /url: https://www.flyingblue.com/account/login.html/
+                      - text: . You can learn about Flying Blue, check account activity, and research awards. To book award flights, you’ll need to use the same login on either the Air France or KLM website to search and book.
+                  - group [ref=e975]:
+                    - generic "Can I earn miles with Flying Blue partners?" [ref=e976] [cursor=pointer]
+                    - paragraph [ref=e978]: Flying Blue has many partners, such as airlines, hotels, car rental agencies, and retailers.
+                  - group [ref=e979]:
+                    - generic "How much do Flying Blue award flights cost?" [ref=e980] [cursor=pointer]
+                    - paragraph [ref=e982]:
+                      - text: Check the cost of award flights using the
+                      - link "Flying Blue Miles Calculator" [ref=e983] [cursor=pointer]:
+                        - /url: https://www.flyingblue.us/en/flights/reward-tickets
+                      - text: . Prices are zone-based regardless of airline. However, Flying Blue uses dynamic pricing for awards.
+                  - group [ref=e984]:
+                    - generic "What are Flying Blue Promo Rewards?" [ref=e985] [cursor=pointer]
+                    - paragraph [ref=e987]:
+                      - link "Flying Blue Promo Rewards" [ref=e988] [cursor=pointer]:
+                        - /url: https://www.flyingblue.com/promo-awards.html
+                      - text: are monthly discounts of 20% to 50% for award travel. Promo Rewards are for travel between 2 specific cities or regions, in either direction, one-way or round-trip. Each promo award is available for Air France, KLM, or both. You cannot change, cancel, or refund Promo Rewards. You must book Promo Rewards online.
+                  - group [ref=e989]:
+                    - generic "Is it possible to upgrade a flight with Flying Blue miles?" [ref=e990] [cursor=pointer]
+                    - paragraph [ref=e992]: Yes, you can upgrade Air France or KLM flights with Flying Blue miles.
+                  - group [ref=e993]:
+                    - generic "Can I earn Flying Blue Miles by flying Delta?" [ref=e994] [cursor=pointer]
+                    - paragraph [ref=e996]: Yes, you can earn Flying Blue miles on Delta flights marketed as DL, AF, KL, or a SkyTeam partner. You will earn Flying Blue miles at the rate of the marketing airline on the ticket. This mostly occurs with connecting tickets that involve multiple airlines.
+                - complementary [ref=e997]:
+                  - generic [ref=e998]:
+                    - paragraph [ref=e999]:
+                      - generic [ref=e1000]: The information regarding the Capital One VentureOne Rewards Credit Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - complementary [ref=e1001]:
+                      - generic [ref=e1004]:
+                        - text: The information regarding the Air France KLM Visa Signature
+                        - superscript [ref=e1005]: ®
+                        - text: Credit Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph
+                    - paragraph [ref=e1006]:
+                      - generic [ref=e1008]:
+                        - text: For rates and fees of the Platinum Card
+                        - superscript [ref=e1009]: ®
+                        - text: from American Express, click
+                        - link "here" [ref=e1010] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1012]:
+                        - text: For rates and fees of the American Express
+                        - superscript [ref=e1013]: ®
+                        - text: Gold Card, click
+                        - link "here" [ref=e1014] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TE/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                - group "Was this page helpful?" [ref=e1016]:
+                  - paragraph [ref=e1017]: Was this page helpful?
+                  - generic [ref=e1018]:
+                    - button "Yes" [ref=e1019] [cursor=pointer]
+                    - button "No" [ref=e1020] [cursor=pointer]
+                - generic [ref=e1021]:
+                  - figure [ref=e1023]:
+                    - img "Ehsan Haque's image" [ref=e1024]
+                  - generic [ref=e1025]:
+                    - heading "About Ehsan Haque" [level=2] [ref=e1026]:
+                      - text: About
+                      - link "Ehsan Haque" [ref=e1027] [cursor=pointer]:
+                        - /url: /author/ehsanhaque/
+                    - paragraph [ref=e1028]: Ehsan is an avid traveler who has traveled to 100 countries, diligently using points and miles to fund his journeys. Currently, he holds 32 active credit cards and earns over a million points and miles annually, primarily using them for luxury hotels and long-haul premium cabins.
+                    - list [ref=e1030]:
+                      - listitem [ref=e1031]:
+                        - link "Instagram icon" [ref=e1032] [cursor=pointer]:
+                          - /url: https://www.instagram.com/itsehsanh
+                          - img "Instagram icon" [ref=e1033]
+                      - listitem [ref=e1034]:
+                        - link "email icon" [ref=e1035] [cursor=pointer]:
+                          - /url: mailto:ehsan@upgradedpoints.com
+                          - img "email icon" [ref=e1036]
+                - generic [ref=e1038]:
+                  - generic [ref=e1039]:
+                    - paragraph [ref=e1040]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1041]: ™
+                    - generic [ref=e1042]:
+                      - paragraph [ref=e1043]:
+                        - text: Get the
+                        - strong [ref=e1044]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1045]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1046]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1047]:
+                      - textbox "First Name" [ref=e1048]
+                      - textbox "Email" [ref=e1049]
+                      - button "Join Now" [disabled] [ref=e1050]
+                    - paragraph [ref=e1052]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1053] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1054] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1055] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1057]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1059]
+                - generic [ref=e1061]:
+                  - paragraph [ref=e1062]: We Recommend
+                  - generic [ref=e1063]:
+                    - generic [ref=e1064]:
+                      - link "Platinum Card® from American Express" [ref=e1065] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1066]
+                      - link "Terms Apply / Rates & Fees" [ref=e1067] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1068] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1069]
+                        - text: Apply Now
+                    - generic [ref=e1072]:
+                      - paragraph [ref=e1073]:
+                        - link "Platinum Card® from American Express" [ref=e1074] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1075]:
+                            - text: Platinum Card
+                            - superscript [ref=e1076]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1078]:
+                        - generic [ref=e1079]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1080] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1081]:
+                        - listitem [ref=e1082]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1083]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1084]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1085]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1086]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1087]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1088]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1089] [cursor=pointer]
+            - complementary [ref=e1091]:
+              - generic [ref=e1092]:
+                - generic [ref=e1094]:
+                  - paragraph [ref=e1095]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1096] [cursor=pointer]
+                  - generic [ref=e1097]:
+                    - generic [ref=e1100]:
+                      - generic [ref=e1101]:
+                        - generic [ref=e1102]:
+                          - img [ref=e1103]
+                          - generic [ref=e1105]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1106] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1107]
+                      - generic [ref=e1108]:
+                        - paragraph [ref=e1109]:
+                          - link "Platinum Card® from American Express" [ref=e1110] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1111]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1112] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1113]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1115] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1118]:
+                      - generic [ref=e1119]:
+                        - generic [ref=e1120]:
+                          - img [ref=e1121]
+                          - generic [ref=e1123]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1124] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1125]
+                      - generic [ref=e1126]:
+                        - paragraph [ref=e1127]:
+                          - link "American Express® Gold Card" [ref=e1128] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1129]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1130] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1131]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1133] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1136]:
+                      - generic [ref=e1137]:
+                        - generic [ref=e1138]:
+                          - img [ref=e1139]
+                          - generic [ref=e1141]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1142] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1143]
+                      - generic [ref=e1144]:
+                        - paragraph [ref=e1145]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1146] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1147]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1148] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1149]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1151] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/3542/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1154]:
+                      - generic [ref=e1155]:
+                        - generic [ref=e1156]:
+                          - img [ref=e1157]
+                          - generic [ref=e1159]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1160] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/3542/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1161]
+                      - generic [ref=e1162]:
+                        - paragraph [ref=e1163]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1164] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/3542/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1165]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1166] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/3542/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1167]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1169] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/3542/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1171] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1174]: Advertisement
+      - generic [ref=e1176]:
+        - paragraph [ref=e1177]: Related Posts
+        - generic [ref=e1178]:
+          - generic [ref=e1179]:
+            - link [ref=e1180] [cursor=pointer]:
+              - /url: /travel/airlines/flying-blue-air-france-klm-loyalty-program/
+              - figure [ref=e1181]:
+                - img "Flying Blue Air France-KLM Loyalty Program Review" [ref=e1183]
+            - link "Flying Blue Air France-KLM Loyalty Program Review" [ref=e1184] [cursor=pointer]:
+              - /url: /travel/airlines/flying-blue-air-france-klm-loyalty-program/
+          - generic [ref=e1185]:
+            - link [ref=e1186] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-earn-air-france-klm-flying-blue-miles/
+              - figure [ref=e1187]:
+                - img "19 Best Ways To Earn Lots of Flying Blue Miles [Air France-KLM Airlines]" [ref=e1189]
+            - link "19 Best Ways To Earn Lots of Flying Blue Miles [Air France-KLM Airlines]" [ref=e1190] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-earn-air-france-klm-flying-blue-miles/
+          - generic [ref=e1191]:
+            - link [ref=e1192] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-korean-air-skypass-miles/
+              - figure [ref=e1193]:
+                - img "9 Best Ways to Redeem Korean Air SKYPASS Miles for Max Value" [ref=e1195]
+            - link "9 Best Ways to Redeem Korean Air SKYPASS Miles for Max Value" [ref=e1196] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-korean-air-skypass-miles/
+          - generic [ref=e1197]:
+            - link [ref=e1198] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-virgin-australia-points/
+              - figure [ref=e1199]:
+                - img "7 Best Ways to Redeem Virgin Australia Points for Max Value" [ref=e1201]
+            - link "7 Best Ways to Redeem Virgin Australia Points for Max Value" [ref=e1202] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-virgin-australia-points/
+    - contentinfo [ref=e1203]:
+      - img [ref=e1204]
+      - img [ref=e1223]
+      - generic [ref=e1242]:
+        - generic [ref=e1243]:
+          - img [ref=e1245]
+          - generic [ref=e1250]:
+            - generic [ref=e1251]:
+              - paragraph [ref=e1252]: Upgrade your travel experience
+              - list [ref=e1253]:
+                - listitem [ref=e1254]:
+                  - link [ref=e1255] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1256]:
+                      - img "Facebook" [ref=e1257]
+                - listitem [ref=e1258]:
+                  - link [ref=e1259] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1260]:
+                      - img "Twitter" [ref=e1261]
+                - listitem [ref=e1262]:
+                  - link [ref=e1263] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1264]:
+                      - img "Instagram" [ref=e1265]
+                - listitem [ref=e1266]:
+                  - link [ref=e1267] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1268]:
+                      - img "Pinterest" [ref=e1269]
+                - listitem [ref=e1270]:
+                  - link [ref=e1271] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1272]:
+                      - img "Linkedin" [ref=e1273]
+                - listitem [ref=e1274]:
+                  - link [ref=e1275] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1276]:
+                      - img "Youtube" [ref=e1277]
+            - generic [ref=e1279]:
+              - list [ref=e1280]:
+                - listitem [ref=e1281]:
+                  - link "News" [ref=e1282] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1283]:
+                  - link "Credit Cards" [ref=e1284] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1285]:
+                  - link "Business" [ref=e1286] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1287]:
+                - listitem [ref=e1288]:
+                  - link "Finance" [ref=e1289] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1290]:
+                  - link "Travel Guides" [ref=e1291] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1292]:
+                  - link "Air Travel" [ref=e1293] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1294]:
+                - listitem [ref=e1295]:
+                  - link "Hotel Guides" [ref=e1296] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1297]:
+                  - link "Beginners" [ref=e1298] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1299]:
+                  - link "About" [ref=e1300] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1301]:
+                - listitem [ref=e1302]:
+                  - link "Podcast" [ref=e1303] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1304]:
+                  - link "Jobs & Careers" [ref=e1305] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1306]:
+                  - link "Contact Us" [ref=e1307] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1308]:
+          - paragraph [ref=e1309]:
+            - link "Privacy Policy" [ref=e1310] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1311] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1312] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1313] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1314] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1315] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1356] [cursor=pointer]
+          - paragraph [ref=e1316]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1317]:
+          - link "DMCA.com Protection Status" [ref=e1318] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1319]
+          - img "Comodo Secure Seal" [ref=e1321]
+        - generic [ref=e1322]:
+          - generic [ref=e1323]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1324]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1325]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1326]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1327]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1328] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1329]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1330]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1332]:
+    - generic [ref=e1333]:
+      - generic [ref=e1334]:
+        - button "close banner" [ref=e1335] [cursor=pointer]:
+          - img "close banner" [ref=e1336]
+        - img "company logo" [ref=e1338]
+      - generic [ref=e1339]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1341]
+        - generic [ref=e1342]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1343] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1344] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1346]:
+        - button "Manage" [ref=e1347] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1348] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1349] [cursor=pointer]
+    - generic [ref=e1351]:
+      - generic [ref=e1352]: "Powered by:"
+      - link "trustarc" [ref=e1353] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1354]

@@ -1,0 +1,1524 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Upgraded Points Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Upgraded Points Logo" [ref=e7]
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "News" [ref=e11] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e12]:
+              - link "Credit Cards" [ref=e13] [cursor=pointer]:
+                - /url: /credit-cards/
+            - listitem [ref=e14]:
+              - link "Business" [ref=e15] [cursor=pointer]:
+                - /url: /credit-cards/business/
+            - listitem [ref=e16]:
+              - link "Travel" [ref=e17] [cursor=pointer]:
+                - /url: /travel/
+            - listitem [ref=e18]:
+              - link "Earn & Use Points" [ref=e19] [cursor=pointer]:
+                - /url: /earn-use-points/
+        - button "Toggle search area on" [ref=e21] [cursor=pointer]:
+          - img [ref=e22]
+        - button "Advertiser Disclosure" [ref=e26] [cursor=pointer]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Advertiser Disclosure
+      - paragraph [ref=e30]:
+        - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). However, the credit card information that we publish has been written and evaluated by experts who know these products inside out. We only recommend products we either use ourselves or endorse. This site does not include all credit card companies or all available credit card offers that are on the market.
+        - link "See our advertising policy here" [ref=e31] [cursor=pointer]:
+          - /url: /advertising-policy/
+        - text: where we list advertisers that we work with, and how we make money. You can also review our
+        - link "credit card rating methodology" [ref=e32] [cursor=pointer]:
+          - /url: /credit-card-rating-methodology/
+        - text: .
+        - strong
+      - button "Close" [ref=e33] [cursor=pointer]
+    - main [ref=e34]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - link "Home" [ref=e40] [cursor=pointer]:
+                  - /url: /
+                - text: ›
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: /travel/
+                - text: ›
+              - listitem [ref=e43]:
+                - link "Airlines" [ref=e44] [cursor=pointer]:
+                  - /url: /travel/airlines/
+            - heading "28 Best Ways To Redeem Avianca Lifemiles for Maximum Value" [level=1] [ref=e45]
+            - generic [ref=e46]:
+              - figure [ref=e47]:
+                - img "Stephen Au's image" [ref=e48]
+              - generic [ref=e49]:
+                - generic "Open Tooltip" [ref=e53]: Stephen Au
+                - generic [ref=e54]:
+                  - text: "Updated:"
+                  - time [ref=e55]: January 25, 2026, 10:20pm CST
+                - generic [ref=e56]:
+                  - generic [ref=e57]:
+                    - text: "Edited by:"
+                    - generic [ref=e58]: Jessica Merritt
+                  - generic [ref=e59]:
+                    - text: "&"
+                    - generic [ref=e60]: Kellie Jez
+          - figure [ref=e61]:
+            - img "28 Best Ways To Redeem Avianca Lifemiles for Maximum Value" [ref=e63]
+        - generic [ref=e64]:
+          - group [ref=e1438]:
+            - generic "Jump to Section" [ref=e1439] [cursor=pointer]
+          - paragraph [ref=e68]:
+            - text: We may be compensated when you click on a link, when an application is approved, or when an account is opened from one or more of our advertising partners. Terms apply to the offers below. See our
+            - link "Advertising Policy" [ref=e69] [cursor=pointer]:
+              - /url: /advertising-policy/
+            - text: for more about our partners, how we make money, and our rating methodology. Opinions and recommendations are ours alone.
+          - group
+          - generic [ref=e70]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - heading "Key Takeaways" [level=2] [ref=e76]
+                  - list [ref=e78]:
+                    - listitem [ref=e79]: Avianca Lifemiles can be redeemed for flights on Star Alliance partners like ANA, Lufthansa, and United Airlines, offering great value for premium cabin seats.
+                    - listitem [ref=e80]: Some possible redemptions include Lufthansa first class to Europe, SWISS business class to Europe, and transcontinental business class flights in the U.S. on United Airlines.
+                    - listitem [ref=e81]: Transferring points from programs like American Express Membership Rewards, Bilt Rewards, Brex Rewards, Capital One Miles, Citi ThankYou Rewards, Marriott Bonvoy, and Wells Fargo Rewards can also top up your Lifemiles account.
+                - paragraph [ref=e82]: Avianca Lifemiles may not necessarily be one of the most talked about miles like ANA, Virgin Atlantic, or United, but we find Lifemiles extraordinarily useful, particularly for those who have lots of different transferrable points!
+                - paragraph [ref=e83]:
+                  - text: Headquartered in Bogota, Colombia,
+                  - link "Avianca Airlines" [ref=e84] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/avianca-review/
+                  - text: has been the national airline and flag carrier of Colombia since 1919! It’s also part of the Star Alliance — the largest airline alliance in the world.
+                - paragraph [ref=e85]:
+                  - text: In fact, there are so many good options for using your Avianca Lifemiles that it can often be difficult deciding which flights to take! But in this guide, we will show what we believe to be the
+                  - emphasis [ref=e86]: best ways
+                  - text: to redeem Avianca Lifemiles for maximum value!
+                - heading "Pros and Cons of Avianca Lifemiles (Quick Overview)" [level=2] [ref=e87]
+                - paragraph [ref=e88]:
+                  - text: To start with, let’s talk about the many benefits of
+                  - link "Avianca Lifemiles" [ref=e89] [cursor=pointer]:
+                    - /url: /travel/airlines/avianca-lifemiles-loyalty-program/
+                  - text: ":"
+                - list [ref=e90]:
+                  - listitem [ref=e91]: There are no fuel surcharges levied on any flights
+                  - listitem [ref=e92]: You can basically book any Star Alliance partner online
+                  - listitem [ref=e93]: No close-in booking fees, which means you can save big bucks on last-minute award availability
+                  - listitem [ref=e94]: Miles will not expire as long as you have a qualifying earning activity every 12 months, which includes purchasing Lifemiles or transferring credit card points to Lifemiles
+                  - listitem [ref=e95]: You can also regularly earn loads of miles from sales of up to 125% to 175% bonus miles!
+                - paragraph [ref=e96]: Avianca does have a few disadvantages, one of which is a not-so-competent phone reservations department. If you do find an award that isn’t bookable online, you will need to call them over the phone, which can be a pain.
+                - paragraph [ref=e97]:
+                  - text: There is also a flat $25 award booking fee, and a high set of award change/cancellation fees. For more details on award fees, check out
+                  - link "our guide for airline award cancellation and change fees!" [ref=e98] [cursor=pointer]:
+                    - /url: /travel/airlines/airline-award-cancellation-change-fees/#AviancaTACA
+                - paragraph [ref=e99]: It’s also important to be aware that award availability on the website has been inconsistent; it doesn’t always show the same availability as websites like United.com or Aeroplan.com.
+                - heading "How To Boost Your Avianca Lifemiles" [level=2] [ref=e100]
+                - heading "Avianca Co-Branded Credit Cards" [level=3] [ref=e101]
+                - paragraph [ref=e102]:
+                  - text: If you fly with Avianca a lot and want to earn Lifemiles directly from your everyday purchases, there are the Avianca Lifemiles American Express
+                  - superscript [ref=e103]: ®
+                  - text: Card and
+                  - link "Avianca Lifemiles American Express® Elite Card" [ref=e104] [cursor=pointer]:
+                    - /url: /credit-cards/reviews/avianca-lifemiles-american-express-elite-card/
+                    - text: Avianca Lifemiles American Express
+                    - superscript [ref=e105]: ®
+                    - text: Elite Card
+                  - text: .
+                - generic [ref=e107]:
+                  - generic [ref=e108]:
+                    - img "Avianca Lifemiles American Express® Elite Card" [ref=e109]
+                    - generic [ref=e110]:
+                      - generic [ref=e111]:
+                        - img "Star rating icon" [ref=e114]
+                        - img "Star rating icon" [ref=e117]
+                        - img "Star rating icon" [ref=e120]
+                        - generic [ref=e121]:
+                          - img "Star rating icon" [ref=e123]
+                          - img "Star rating icon" [ref=e124]
+                        - generic [ref=e125]:
+                          - img "Star rating icon" [ref=e127]
+                          - img "Star rating icon" [ref=e128]
+                      - generic [ref=e129]:
+                        - generic [ref=e130]: U.P. Rating
+                        - img [ref=e133]:
+                          - img [ref=e134]
+                  - generic [ref=e137]:
+                    - generic [ref=e139]:
+                      - link "Avianca Lifemiles American Express® Elite Card" [ref=e141] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/avianca-lifemiles-american-express-elite-card/
+                        - text: Avianca Lifemiles American Express
+                        - superscript [ref=e142]: ®
+                        - text: Elite Card
+                      - text: The Avianca Lifemiles Elite card is a premium option for Avianca frequent flyers.
+                    - generic [ref=e144]:
+                      - generic [ref=e145]:
+                        - generic [ref=e146]: Welcome Offer
+                        - img [ref=e149]:
+                          - img [ref=e150]
+                      - generic [ref=e153]: Up to 100,000 miles
+                    - generic [ref=e155]:
+                      - generic [ref=e157]: Annual Fee
+                      - generic [ref=e158]: $249
+                    - generic [ref=e159]:
+                      - group [ref=e160]:
+                        - generic "Why We Like This Card" [ref=e161] [cursor=pointer]
+                      - group [ref=e162]:
+                        - generic "Pros & Cons" [ref=e163] [cursor=pointer]
+                      - group [ref=e164]:
+                        - generic "Card Highlights" [ref=e165] [cursor=pointer]
+                - heading "Transfer Points From Credit Card Partners" [level=3] [ref=e166]
+                - paragraph [ref=e167]:
+                  - text: Avianca Lifemiles can be transferred from
+                  - link "American Express Membership Rewards" [ref=e168] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/american-express-membership-rewards-review/
+                  - text: ","
+                  - link "Bilt Rewards" [ref=e169] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/bilt-rewards-program-review/
+                  - text: ","
+                  - link "Capital One Miles" [ref=e170] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/capital-one-miles-program-review/
+                  - text: ","
+                  - link "Citi ThankYou Rewards" [ref=e171] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/citi-thankyou-rewards-review/
+                  - text: ", and"
+                  - link "Wells Fargo Rewards" [ref=e172] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/wells-fargo-rewards-review/
+                  - text: at a 1:1 rate.
+                  - link "Marriott Bonvoy" [ref=e173] [cursor=pointer]:
+                    - /url: /travel/hotels/marriott-rewards-loyalty-program/
+                  - text: points transfer to Lifemiles at a transfer rate of 3:1, while
+                  - link "Brex Rewards" [ref=e174] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/brex-rewards-transfer-partners/
+                  - text: transfer at a ratio of 1,500:1,000.
+                - heading "Recommended American Express Cards (Personal)" [level=4] [ref=e175]
+                - generic [ref=e177]:
+                  - generic [ref=e178]:
+                    - img [ref=e179]
+                    - generic [ref=e181]: BEST LOUNGE CARD
+                  - generic [ref=e182]:
+                    - link "Platinum Card® from American Express" [ref=e183] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "Platinum Card® from American Express" [ref=e184]
+                    - link "Terms Apply / Rates & Fees" [ref=e185] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TRD/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e186]: Terms Apply / Rates & Fees
+                    - generic [ref=e187]:
+                      - generic [ref=e188]:
+                        - img "Star rating icon" [ref=e191]
+                        - img "Star rating icon" [ref=e194]
+                        - img "Star rating icon" [ref=e197]
+                        - img "Star rating icon" [ref=e200]
+                        - generic [ref=e201]:
+                          - img "Star rating icon" [ref=e203]
+                          - img "Star rating icon" [ref=e205]
+                      - generic [ref=e206]:
+                        - generic [ref=e207]: U.P. Rating
+                        - img [ref=e210]:
+                          - img [ref=e211]
+                    - link "Apply Now" [ref=e214] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/TRD/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e215]
+                      - text: Apply Now
+                    - generic [ref=e218]: (at Amex's secure site)
+                    - generic [ref=e219]:
+                      - heading "Apply With Confidence" [level=4] [ref=e220]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e221]
+                      - paragraph [ref=e222]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e223]:
+                    - generic [ref=e225]:
+                      - link "Platinum Card® from American Express" [ref=e227] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-platinum-card/
+                        - text: Platinum Card
+                        - superscript [ref=e228]: ®
+                        - text: from American Express
+                      - text: The Amex Platinum reigns supreme for luxury travel, offering the best airport lounge access plus generous statement credits, and complimentary elite status.
+                    - generic [ref=e229]:
+                      - generic [ref=e230]:
+                        - generic [ref=e231]:
+                          - generic [ref=e232]: Welcome Offer
+                          - img [ref=e235]:
+                            - img [ref=e236]
+                        - generic [ref=e239]: As High As 175,000 Points. Find Out Your Offer.
+                      - generic [ref=e240]:
+                        - generic [ref=e242]: "UP's Offer Valuation*:"
+                        - generic [ref=e243]: Up to $3,850
+                    - generic [ref=e244]:
+                      - generic [ref=e245]:
+                        - generic [ref=e247]: Annual Fee
+                        - generic [ref=e248]: $895
+                      - generic [ref=e249]:
+                        - generic [ref=e251]: APR
+                        - generic [ref=e252]: See Pay Over Time APR
+                      - generic [ref=e253]:
+                        - generic [ref=e254]:
+                          - generic [ref=e255]: Credit Recommended
+                          - img [ref=e258]:
+                            - img [ref=e259]
+                        - generic [ref=e262]: Good to Excellent
+                    - generic [ref=e263]:
+                      - group [ref=e264]:
+                        - generic "Why We Like This Card" [ref=e265] [cursor=pointer]
+                      - group [ref=e266]:
+                        - generic "Pros & Cons" [ref=e267] [cursor=pointer]
+                      - group [ref=e268]:
+                        - generic "Card Highlights" [ref=e269] [cursor=pointer]
+                - generic [ref=e271]:
+                  - generic [ref=e272]:
+                    - img [ref=e273]
+                    - generic [ref=e275]: BEST FOR DINING
+                  - generic [ref=e276]:
+                    - link "American Express® Gold Card" [ref=e277] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img "American Express® Gold Card" [ref=e278]
+                    - link "Terms Apply / Rates & Fees" [ref=e279] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TRD/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - generic [ref=e280]: Terms Apply / Rates & Fees
+                    - generic [ref=e281]:
+                      - generic [ref=e282]:
+                        - img "Star rating icon" [ref=e285]
+                        - img "Star rating icon" [ref=e288]
+                        - img "Star rating icon" [ref=e291]
+                        - img "Star rating icon" [ref=e294]
+                        - generic [ref=e295]:
+                          - img "Star rating icon" [ref=e297]
+                          - img "Star rating icon" [ref=e299]
+                      - generic [ref=e300]:
+                        - generic [ref=e301]: U.P. Rating
+                        - img [ref=e304]:
+                          - img [ref=e305]
+                    - link "Apply Now" [ref=e308] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/TRD/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - img [ref=e309]
+                      - text: Apply Now
+                    - generic [ref=e312]: (at Amex's secure site)
+                    - generic [ref=e313]:
+                      - heading "Apply With Confidence" [level=4] [ref=e314]
+                      - heading "Know if you're approved with no credit score impact" [level=3] [ref=e315]
+                      - paragraph [ref=e316]: If you're approved and accept this Card, your credit score may be impacted.
+                  - generic [ref=e317]:
+                    - generic [ref=e319]:
+                      - link "American Express® Gold Card" [ref=e321] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/american-express-gold-card/
+                        - text: American Express
+                        - superscript [ref=e322]: ®
+                        - text: Gold Card
+                      - text: This is the best card for food lovers who dine out at restaurants (worldwide), order take-out and want big rewards at U.S. supermarkets!
+                    - generic [ref=e323]:
+                      - generic [ref=e324]:
+                        - generic [ref=e325]:
+                          - generic [ref=e326]: Welcome Offer
+                          - img [ref=e329]:
+                            - img [ref=e330]
+                        - generic [ref=e333]: As High As 100,000 Points. Find Out Your Offer.
+                      - generic [ref=e334]:
+                        - generic [ref=e336]: "UP's Offer Valuation*:"
+                        - generic [ref=e337]: Up to $2,200
+                    - generic [ref=e338]:
+                      - generic [ref=e339]:
+                        - generic [ref=e341]: Annual Fee
+                        - generic [ref=e342]: $325
+                      - generic [ref=e343]:
+                        - generic [ref=e345]: APR
+                        - generic [ref=e346]: See Pay Over Time APR
+                      - generic [ref=e347]:
+                        - generic [ref=e348]:
+                          - generic [ref=e349]: Credit Recommended
+                          - img [ref=e352]:
+                            - img [ref=e353]
+                        - generic [ref=e356]: Good to Excellent
+                    - generic [ref=e357]:
+                      - group [ref=e358]:
+                        - generic "Why We Like This Card" [ref=e359] [cursor=pointer]
+                      - group [ref=e360]:
+                        - generic "Pros & Cons" [ref=e361] [cursor=pointer]
+                      - group [ref=e362]:
+                        - generic "Card Highlights" [ref=e363] [cursor=pointer]
+                - heading "Recommended Capital One Cards (Personal)" [level=4] [ref=e364]
+                - generic [ref=e366]:
+                  - generic [ref=e367]:
+                    - img "Capital One Venture X Rewards Credit Card" [ref=e368]
+                    - generic [ref=e369]:
+                      - generic [ref=e370]:
+                        - img "Star rating icon" [ref=e373]
+                        - img "Star rating icon" [ref=e376]
+                        - img "Star rating icon" [ref=e379]
+                        - img "Star rating icon" [ref=e382]
+                        - generic [ref=e383]:
+                          - img "Star rating icon" [ref=e385]
+                          - img "Star rating icon" [ref=e387]
+                      - generic [ref=e388]:
+                        - generic [ref=e389]: U.P. Rating
+                        - img [ref=e392]:
+                          - img [ref=e393]
+                  - generic [ref=e396]:
+                    - generic [ref=e398]:
+                      - link "Capital One Venture X Rewards Credit Card" [ref=e400] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-x/
+                      - text: The Capital One Venture X card is an excellent option for travelers looking for an all-in-one premium credit card.
+                    - generic [ref=e401]:
+                      - generic [ref=e402]:
+                        - generic [ref=e403]:
+                          - generic [ref=e404]: Welcome Offer
+                          - img [ref=e407]:
+                            - img [ref=e408]
+                        - generic [ref=e411]: 75,000 miles
+                      - generic [ref=e412]:
+                        - generic [ref=e414]: "UP's Offer Valuation*:"
+                        - generic [ref=e415]: $1,350
+                    - generic [ref=e416]:
+                      - generic [ref=e417]:
+                        - generic [ref=e419]: Annual Fee
+                        - generic [ref=e420]: $395
+                      - generic [ref=e421]:
+                        - generic [ref=e423]: APR
+                        - generic [ref=e424]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e425]:
+                        - generic [ref=e426]:
+                          - generic [ref=e427]: Credit Recommended
+                          - img [ref=e430]:
+                            - img [ref=e431]
+                        - generic [ref=e434]: Excellent
+                    - generic [ref=e435]:
+                      - group [ref=e436]:
+                        - generic "Why We Like This Card" [ref=e437] [cursor=pointer]
+                      - group [ref=e438]:
+                        - generic "Pros & Cons" [ref=e439] [cursor=pointer]
+                      - group [ref=e440]:
+                        - generic "Card Highlights" [ref=e441] [cursor=pointer]
+                - generic [ref=e443]:
+                  - generic [ref=e444]:
+                    - img [ref=e445]
+                    - generic [ref=e447]: LIMITED-TIME ONLY
+                  - generic [ref=e448]:
+                    - img "Capital One Venture Rewards Credit Card" [ref=e449]
+                    - generic [ref=e450]:
+                      - generic [ref=e451]:
+                        - img "Star rating icon" [ref=e454]
+                        - img "Star rating icon" [ref=e457]
+                        - img "Star rating icon" [ref=e460]
+                        - img "Star rating icon" [ref=e463]
+                        - generic [ref=e464]:
+                          - img "Star rating icon" [ref=e466]
+                          - img "Star rating icon" [ref=e468]
+                      - generic [ref=e469]:
+                        - generic [ref=e470]: U.P. Rating
+                        - img [ref=e473]:
+                          - img [ref=e474]
+                  - generic [ref=e477]:
+                    - generic [ref=e479]:
+                      - link "Capital One Venture Rewards Credit Card" [ref=e481] [cursor=pointer]:
+                        - /url: /credit-cards/reviews/capital-one-venture-rewards-credit-card/
+                      - text: Get 2x miles plus some of the most flexible redemptions offered by a travel credit card!
+                    - generic [ref=e482]:
+                      - generic [ref=e483]:
+                        - generic [ref=e484]:
+                          - generic [ref=e485]: Welcome Offer
+                          - img [ref=e488]:
+                            - img [ref=e489]
+                        - generic [ref=e492]: 75,000 miles + $250 Capital One Travel credit
+                      - generic [ref=e493]:
+                        - generic [ref=e495]: "UP's Offer Valuation*:"
+                        - generic [ref=e496]: $1,600
+                    - generic [ref=e497]:
+                      - generic [ref=e498]:
+                        - generic [ref=e500]: Annual Fee
+                        - generic [ref=e501]: $95
+                      - generic [ref=e502]:
+                        - generic [ref=e504]: APR
+                        - generic [ref=e505]: "Purchases: 19.49% - 28.49% (Variable)"
+                      - generic [ref=e506]:
+                        - generic [ref=e507]:
+                          - generic [ref=e508]: Credit Recommended
+                          - img [ref=e511]:
+                            - img [ref=e512]
+                        - generic [ref=e515]: Good to Excellent Credit
+                    - generic [ref=e516]:
+                      - group [ref=e517]:
+                        - generic "Why We Like This Card" [ref=e518] [cursor=pointer]
+                      - group [ref=e519]:
+                        - generic "Pros & Cons" [ref=e520] [cursor=pointer]
+                      - group [ref=e521]:
+                        - generic "Card Highlights" [ref=e522] [cursor=pointer]
+                - paragraph [ref=e523]:
+                  - generic [ref=e524]:
+                    - strong [ref=e525]: "Hot Tip:"
+                    - text: We’ve also got an entire article dedicated to the
+                    - link "best ways to earn lots of Avianca Lifemiles" [ref=e526] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-earn-avianca-lifemiles/
+                    - text: ", so don’t miss it!"
+                - heading "Avianca Lifemiles Sales" [level=3] [ref=e527]
+                - paragraph [ref=e528]:
+                  - text: The last way to earn Lifemiles worth discussing is by
+                  - link "purchasing them" [ref=e529] [cursor=pointer]:
+                    - /url: https://www.lifemiles.com/miles/buy
+                  - text: . We mention this method because there are often
+                  - strong [ref=e530]:
+                    - link "gigantic sales" [ref=e531] [cursor=pointer]:
+                      - /url: /news/buy-avianca-lifemiles-bonus/
+                    - text: of up to 125% to 175%
+                  - text: bonus miles!
+                - paragraph [ref=e532]: Be sure to wait until these sales happen (which is quite often) to buy Lifemiles if you need to. If you catch that rare 175% bonus, you’ll be buying Lifemiles for around 1.2 cents each!
+                - paragraph [ref=e534]: Advertisement
+                - heading "28 Best Ways To Use Your Avianca Lifemiles" [level=2] [ref=e535]
+                - paragraph [ref=e536]: As already discussed, you are best off booking awards online; the phone agents are not as competent as you’d typically like them to be.
+                - paragraph [ref=e537]: In theory, you can book any partner award online, but sometimes availability is blocked.
+                - paragraph [ref=e538]: For example, Air New Zealand is known to have limited award availability shown on the Avianca Lifemiles website. With business class availability being so rare on Air New Zealand, this example might be one of the extreme cases where you want to try calling Lifemiles.
+                - paragraph [ref=e539]:
+                  - text: The flat $25 award booking fee is definitely offset by the fact
+                  - link "no fuel surcharges will be passed" [ref=e540] [cursor=pointer]:
+                    - /url: /travel/airlines/airline-fuel-surcharges/
+                  - text: on Lifemiles award bookings. There is also no close-in booking fee, so last-minute awards won’t cost any additional money.
+                - paragraph [ref=e541]:
+                  - text: However, once you do make your award booking,
+                  - link "change and cancellation fees are no joke" [ref=e542] [cursor=pointer]:
+                    - /url: /travel/airlines/airline-award-cancellation-change-fees/#AviancaTACA
+                  - text: ", so be sure you understand that before setting plans in stone."
+                - heading "1. Fly Lufthansa First Class Without Surcharges to Europe (87,000 Miles)" [level=3] [ref=e543]
+                - 'figure "Enjoy complete privacy and utter perfection in Lufthansa first class without the surcharges using Avianca Lifemiles! Image Credit: Greg Stone" [ref=e545]':
+                  - link "Lufthansa First Class" [ref=e546] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/09/28-Lufthansa-Airbus-A380-First-Class.jpg?auto=webp&disable=upscale
+                    - img "Lufthansa First Class" [ref=e548]
+                  - generic [ref=e549]:
+                    - text: "Enjoy complete privacy and utter perfection in Lufthansa first class without the surcharges using Avianca Lifemiles! Image Credit:"
+                    - link "Greg Stone" [ref=e550] [cursor=pointer]:
+                      - /url: /author/greg/
+                - paragraph [ref=e551]:
+                  - text: "The first choice is definitely one of the most popular: flying on"
+                  - link "Lufthansa first class!" [ref=e552] [cursor=pointer]:
+                    - /url: /travel/airlines/lufthansa-a380-first-class-review/
+                  - text: This is a stunning redemption, and flying Lufthansa without surcharges at reasonable rates is often difficult.
+                - paragraph [ref=e553]: Lufthansa first class awards are almost never available more than 15 days in advance to partners, so you’ll have to book pretty close to departure. Luckily, Lifemiles doesn’t assess any close-in booking fees!
+                - paragraph [ref=e554]:
+                  - text: Avianca Lifemiles provides the most affordable way to fly on Lufthansa first class from the U.S. to Europe without paying ~$900 in fuel surcharges each way.
+                  - strong [ref=e555]: First class from the U.S. to Europe will cost you just 87,000 Lifemiles
+                  - text: + $61 in taxes and fees!
+                - paragraph [ref=e556]: "Here are some great example routes you can take:"
+                - list [ref=e557]:
+                  - listitem [ref=e558]:
+                    - strong [ref=e559]: Boston (BOS) to Frankfurt (FRA)
+                    - text: —
+                    - emphasis [ref=e560]: good availability
+                  - listitem [ref=e561]:
+                    - strong [ref=e562]: Chicago (ORD) to Frankfurt (FRA)
+                    - text: —
+                    - emphasis [ref=e563]: good availability
+                  - listitem [ref=e564]:
+                    - strong [ref=e565]: Los Angeles (LAX) to Frankfurt (FRA) —
+                    - emphasis [ref=e566]: availability is tough
+                  - listitem [ref=e567]:
+                    - strong [ref=e568]: New York (JFK) to Frankfurt (FRA)
+                    - text: —
+                    - emphasis [ref=e569]: good availability
+                  - listitem [ref=e570]:
+                    - strong [ref=e571]: San Francisco (SFO) to Frankfurt (FRA)
+                    - text: —
+                    - emphasis [ref=e572]: availability is sporadic
+                  - listitem [ref=e573]:
+                    - strong [ref=e574]: Washington, D.C. (IAD) to Frankfurt (FRA)
+                    - text: —
+                    - emphasis [ref=e575]: good availability
+                - paragraph [ref=e576]:
+                  - text: If Europe is on your list, we’ve written an extensive guide on
+                  - link "flying there with points and miles" [ref=e577] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-europe-with-points/
+                  - text: .
+                - paragraph [ref=e578]:
+                  - generic [ref=e579]:
+                    - strong [ref=e580]: "Hot Tip:"
+                    - strong [ref=e581]: Need help booking?
+                    - text: Check out our
+                    - link "step-by-step guide for booking Lufthansa first class!" [ref=e582] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-lufthansa-first-class/
+                - heading "2. Fly SWISS Business Class Without Surcharges to Europe (63,000 Miles)" [level=3] [ref=e583]
+                - 'figure "SWISS Air Boeing 777 First Class – Middle Suites 2D & 2G. Image Credit: Cherag Dubash" [ref=e585]':
+                  - img "SWISS Air Boeing 777 First Class Suites" [ref=e587]
+                  - generic [ref=e588]: "SWISS Air Boeing 777 First Class – Middle Suites 2D & 2G. Image Credit: Cherag Dubash"
+                - paragraph [ref=e589]:
+                  - link "SWISS has a fantastic business class" [ref=e590] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-swiss-air-business-class/
+                  - text: product that generally has solid availability far in advance. It levies fuel surcharges, but luckily Lifemiles doesn’t pass them on!
+                - paragraph [ref=e591]:
+                  - text: All but one of its nonstop routes are to Zurich. You can snag a
+                  - strong [ref=e592]: one-way flight for only 63,000 Lifemiles
+                  - text: and $61 in taxes and fees!
+                - paragraph [ref=e593]: "Here are some great example routes you can take:"
+                - generic [ref=e594]:
+                  - paragraph
+                  - list [ref=e595]:
+                    - listitem [ref=e596]:
+                      - strong [ref=e597]: Boston (BOS) to Zurich (ZRH)
+                    - listitem [ref=e598]:
+                      - strong [ref=e599]: Chicago (ORD) to Zurich (ZRH)
+                    - listitem [ref=e600]:
+                      - strong [ref=e601]: Los Angeles (LAX) to Zurich (ZRH)
+                    - listitem [ref=e602]:
+                      - strong [ref=e603]: Miami (MIA) to Zurich (ZRH)
+                    - listitem [ref=e604]:
+                      - strong [ref=e605]: New York (JFK) to Geneva (GVA)
+                    - listitem [ref=e606]:
+                      - strong [ref=e607]: San Francisco (SFO) to Zurich (ZRH)
+                  - paragraph
+                - heading "3. Fly Transcontinental Business Class in the U.S. on United Airlines (25,000 Miles)" [level=3] [ref=e608]
+                - 'figure "Flying on United Polaris is a great way to try a new product en route to Europe. Image Credit: Stephen Au" [ref=e610]':
+                  - link "United Polaris 787-10 seat" [ref=e611] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/05/United-Polaris-787-10-seat-e1560620590195.jpg?auto=webp&disable=upscale
+                    - img "United Polaris 787-10 seat" [ref=e613]
+                  - generic [ref=e614]:
+                    - text: "Flying on United Polaris is a great way to try a new product en route to Europe. Image Credit:"
+                    - link "Stephen Au" [ref=e615] [cursor=pointer]:
+                      - /url: /author/stephen/
+                - paragraph [ref=e616]:
+                  - text: Another great sweet spot is
+                  - link "United Airlines’" [ref=e617] [cursor=pointer]:
+                    - /url: /travel/airlines/united-airlines-review/
+                  - text: premium transcontinental business class between
+                  - strong [ref=e618]: Newark (EWR) or New York (JFK)
+                  - text: and
+                  - strong [ref=e619]: Los Angeles (LAX) or San Francisco (SFO)
+                  - text: .
+                - paragraph [ref=e620]:
+                  - text: You’ll be able to fly transcontinental on United’s awesome
+                  - link "Polaris business class" [ref=e621] [cursor=pointer]:
+                    - /url: /travel/airlines/united-polaris/
+                  - text: with lie-flat seats!
+                - paragraph [ref=e622]: Trying United Polaris across the U.S. will set you back only 25,000 miles each way, as long as you find partner-level availability.
+                - heading "4. Fly to Europe on United Polaris Business Class (63,000 Miles)" [level=3] [ref=e623]
+                - 'figure "Image Credit: Ryan Smith" [ref=e625]':
+                  - img "United Polaris business class 787 10 window seats HND LAX" [ref=e627]
+                  - generic [ref=e628]:
+                    - text: "Image Credit:"
+                    - link "Ryan Smith" [ref=e629] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/ryansmith/
+                - paragraph [ref=e630]:
+                  - text: If you want to try United Polaris business class on long-haul flights, you can do so when flying to Frankfurt, London, Paris, and more! It will only cost
+                  - strong [ref=e631]: 63,000 miles each way
+                  - text: + ~$61 in taxes and fees.
+                - paragraph [ref=e632]: "Here are some great example routes you can take:"
+                - list [ref=e633]:
+                  - listitem [ref=e634]: San Francisco (SFO) to Frankfurt (FRA)
+                  - listitem [ref=e635]: San Francisco (SFO) to London (LHR)
+                  - listitem [ref=e636]: San Francisco (SFO) to Paris (CDG)
+                - paragraph [ref=e637]:
+                  - generic [ref=e638]:
+                    - strong [ref=e639]: "Hot Tip:"
+                    - text: If you want to fly to the Middle East, you can redeem 78,000 Lifemiles + ~$61 in taxes and fees for the 2 nonstop United routes from San Francisco (SFO) and Newark (EWR) to Tel Aviv (TLV), as well as the nonstop flight from Newark (EWR) to Dubai (DXB)!
+                - heading "5. Avianca Promo Awards" [level=3] [ref=e640]
+                - 'figure "Avianca A320 economy class. Image Credit: Ryan Smith" [ref=e642]':
+                  - img "Avianca economy A320 LAX SAL seat spacing" [ref=e644]
+                  - generic [ref=e645]: "Avianca A320 economy class. Image Credit: Ryan Smith"
+                - paragraph [ref=e646]: Avianca will routinely run promo awards for different destinations all around the world. There’s some solid opportunity to eke extra value from your Lifemiles due to the discounts offered here.
+                - paragraph [ref=e647]: Keep in mind that you’ll need to read carefully and be sure to book the awards when the sale is actually occurring. The promo awards are typically only valid if booked within a short window of time (2 to 3 weeks).
+                - paragraph [ref=e648]: "Some example promos include:"
+                - list [ref=e649]:
+                  - listitem [ref=e650]:
+                    - strong [ref=e651]: Los Angeles (LAX) to Beijing (PEK)
+                    - text: – round-trip for 144,000 miles in Air China first class (regular price = 180,000)
+                  - listitem [ref=e652]:
+                    - strong [ref=e653]: New York (JFK) to Seoul (ICN)
+                    - text: – round-trip for 144,000 miles in Asiana Airlines first class (regular price = 180,000)
+                  - listitem [ref=e654]:
+                    - strong [ref=e655]: San Francisco (SFO) to Taipei (TPE)
+                    - text: – round-trip for 136,000 miles in
+                    - link "EVA Air business class" [ref=e656] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-eva-air-business-class/
+                    - text: (regular price = 170,000)
+                  - listitem [ref=e657]:
+                    - strong [ref=e658]: Seattle (SEA) to Taipei (TPE)
+                    - text: – round-trip for 136,000 miles in
+                    - link "EVA Air business class" [ref=e659] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-eva-air-business-class/
+                    - text: (regular price = 170,000)
+                - heading "6. Fly to Australia and New Zealand in Economy (40,000 Miles)" [level=3] [ref=e660]
+                - 'figure "Air New Zealand economy class. Image Credit: Air New Zealand" [ref=e662]':
+                  - img "Air New Zealand economy class" [ref=e664]
+                  - generic [ref=e665]: "Air New Zealand economy class. Image Credit: Air New Zealand"
+                - paragraph [ref=e666]:
+                  - text: If you wanted to save money when
+                  - link "flying to Australia" [ref=e667] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-australia-with-points/
+                  - text: or
+                  - link "New Zealand" [ref=e668] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-new-zealand-with-points/
+                  - text: (where round-trip tickets from America regularly cost more than ~$1,200), you could use
+                  - strong [ref=e669]: 40,000 Avianca Lifemiles
+                  - text: + ~$61 in taxes and fees each way!
+                - paragraph [ref=e670]: "Here are some example routes you can take:"
+                - list [ref=e671]:
+                  - listitem [ref=e672]:
+                    - strong [ref=e673]: Chicago (ORD) to Auckland (AKL)
+                    - text: on Air New Zealand
+                  - listitem [ref=e674]:
+                    - strong [ref=e675]: Houston (IAH) to Auckland (AKL)
+                    - text: on Air New Zealand
+                  - listitem [ref=e676]:
+                    - strong [ref=e677]: Los Angeles (LAX) to Melbourne (MEL)
+                    - text: on United Airlines
+                  - listitem [ref=e678]:
+                    - strong [ref=e679]: San Francisco (SFO) to Auckland (AKL)
+                    - text: on United Airlines
+                  - listitem [ref=e680]:
+                    - strong [ref=e681]: Vancouver (YVR) to Sydney (SYD)
+                    - text: on Air Canada
+                - heading "7. Fly to Belgium in Business Class on Brussels Airlines (63,000 Miles)" [level=3] [ref=e682]
+                - 'figure "Fly Brussels Airlines in business class for 63,000 Avianca Lifemiles. Image Credit: Brussels Airlines" [ref=e684]':
+                  - link "Brussels Airlines business class" [ref=e685] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2016/08/brussels-airlines.jpg?auto=webp&disable=upscale
+                    - img "Brussels Airlines business class" [ref=e687]
+                  - generic [ref=e688]: "Fly Brussels Airlines in business class for 63,000 Avianca Lifemiles. Image Credit: Brussels Airlines"
+                - paragraph [ref=e689]: There are 2 nonstop flights to Brussels from the U.S. on Brussels Airlines. Its business class is solid, with direct aisle access and a 1-2-1 configuration.
+                - paragraph [ref=e690]:
+                  - text: It will cost just
+                  - strong [ref=e691]: 63,000 miles
+                  - text: "+ ~$61 in taxes and fees each way to book these routes, but the only ones available are from the East Coast:"
+                - list [ref=e692]:
+                  - listitem [ref=e693]: New York (JFK) to Brussels (BRU)
+                  - listitem [ref=e694]: Washington, D.C. (IAD) to Brussels (BRU)
+                - heading "8. Fly to Warsaw in Business Class on LOT Polish Airlines (63,000 Miles)" [level=3] [ref=e695]
+                - 'figure "While definitely not industry-leading, LOT Polish Airlines presents a comfortable way to fly to Warsaw, Poland. Image Credit: LOT Polish" [ref=e697]':
+                  - link "LOT Polish Business Class" [ref=e698] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/10/LOT-Business-Class.jpg?auto=webp&disable=upscale
+                    - img "LOT Polish Business Class" [ref=e700]
+                  - generic [ref=e701]: "While definitely not industry-leading, LOT Polish Airlines presents a comfortable way to fly to Warsaw, Poland. Image Credit: LOT Polish"
+                - paragraph [ref=e702]: If visiting Poland is high on your to-do list, you will be very pleased to find that Star Alliance partner LOT Polish Airlines has 4 nonstop routes from the U.S. to Warsaw.
+                - paragraph [ref=e703]: LOT’s seats are in a 2-2-2 configuration, so direct aisle access isn’t always possible. The seats themselves are not industry-leading by any measure, but it’s certainly a way to fly nonstop to Poland in comfort.
+                - paragraph [ref=e704]: "It will cost 63,000 miles each way to fly on LOT Polish business class. Here are the 4 non-stop routes you can take:"
+                - list [ref=e705]:
+                  - listitem [ref=e706]: Los Angeles (LAX) to Warsaw (WAW)
+                  - listitem [ref=e707]: Chicago (ORD) to Warsaw (WAW)
+                  - listitem [ref=e708]: New York (JFK) to Warsaw (WAW)
+                  - listitem [ref=e709]: Newark (EWR) to Warsaw (WAW)
+                - heading "9. Fly From Japan to Australia in Business Class on ANA (40,000 Miles)" [level=3] [ref=e710]
+                - 'figure "Enjoy the comfort of ANA business class. Image Credit: Stephen Au" [ref=e712]':
+                  - link "ANA Business Class Seat" [ref=e713] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/03/ANA-Business-Class-Seat-2-e1553925307743.jpg?auto=webp&disable=upscale
+                    - img "ANA Business Class Seat" [ref=e715]
+                  - generic [ref=e716]:
+                    - text: "Enjoy the comfort of ANA business class. Image Credit:"
+                    - link "Stephen Au" [ref=e717] [cursor=pointer]:
+                      - /url: /author/stephen/
+                - paragraph [ref=e718]:
+                  - text: Have you ever wanted to fly ANA business class? Well, you can do so for ridiculously cheap prices using Lifemiles! You’ll fly for
+                  - strong [ref=e719]: almost 10 hours nonstop, and it’ll only cost you 40,000 miles
+                  - text: "!"
+                - paragraph [ref=e720]: ANA flies its 787 Dreamliner, which only has business class, but it’s sure to be comfortable with lie-flat seats and delicious Japanese catering.
+                - paragraph [ref=e721]: "You can fly on ANA’s only flight to Australia with this route:"
+                - list [ref=e722]:
+                  - listitem [ref=e723]: Tokyo (HND) to Sydney (SYD)
+                - paragraph [ref=e724]:
+                  - generic [ref=e725]:
+                    - strong [ref=e726]: "Hot Tip:"
+                    - text: Need help booking? Check out our step-by-step guide to
+                    - link "booking ANA business class" [ref=e727] [cursor=pointer]:
+                      - /url: /travel/airlines/best-ways-to-book-ana-business-class/
+                    - text: .
+                - heading "10. Fly Between Bangkok and Japan in Thai Business Class (36,000 Miles)" [level=3] [ref=e728]
+                - 'figure "THAI Airways business class. Image Credit: Ehsan Haque" [ref=e730]':
+                  - img "Thai Airways Royal Silk business class 777 300er cabin" [ref=e732]
+                  - generic [ref=e733]: "THAI Airways business class. Image Credit: Ehsan Haque"
+                - paragraph [ref=e734]:
+                  - text: Ever wanted to try
+                  - link "Thai business class" [ref=e735] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-thai-airways-business-class-with-points/
+                  - text: "? Since Thai Airways operates all different types of aircraft, the business class products are dramatically inconsistent, but a solid business class product is on the A350!"
+                - paragraph [ref=e736]:
+                  - text: You can fly between Bangkok and Japan (6 hours each way) for
+                  - strong [ref=e737]: 36,000 miles
+                  - text: "! This is definitely an affordable way to try THAI’s business class product while traversing around Asia."
+                - paragraph [ref=e738]: Keep in mind that Thai flies both the 777 and A350 on this route, so you’ll want to pick the A350 product if you can.
+                - paragraph [ref=e739]: "Here are the routes you can fly:"
+                - list [ref=e740]:
+                  - listitem [ref=e741]: Bangkok (BKK) to Tokyo (HND/NRT)
+                - heading "11. Fly Between Bangkok and Japan in Thai First Class (50,000 Miles)" [level=3] [ref=e742]
+                - 'figure "Thai Airways first class. Image Credit: Cherag Dubash" [ref=e744]':
+                  - link "Thai Airways Boeing 747 - First Class" [ref=e745] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/12/Thai_Airways_Boeing_747_First_Class-scaled.jpg?auto=webp&disable=upscale
+                    - img "Thai Airways Boeing 747 - First Class" [ref=e747]
+                  - generic [ref=e748]:
+                    - text: "Thai Airways first class. Image Credit:"
+                    - link "Cherag Dubash" [ref=e749] [cursor=pointer]:
+                      - /url: /author/cherag/
+                - paragraph [ref=e750]: If you want to fly first class between Bangkok and Japan on THAI, you can do so on the 777. The A350 does not have a first class cabin, but the 777 has 2 rows in a 1-2-1 configuration.
+                - paragraph [ref=e751]:
+                  - text: One great route operated with a first-class-equipped 777 is TG 676, which flies between Bangkok (BKK) and Tokyo (NRT). You can fly first class on this 6-hour flight for
+                  - strong [ref=e752]: 50,000 miles
+                  - text: each way!
+                - paragraph [ref=e753]:
+                  - generic [ref=e754]:
+                    - strong [ref=e755]: "Hot Tip:"
+                    - text: Thai Airways will be
+                    - link "discontinuing first class" [ref=e756] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/news/thai-airways-first-class-ends/
+                    - text: in the next few years
+                - heading "12. Fly From New Zealand to Japan in Business Class on Air New Zealand (50,000 Miles)" [level=3] [ref=e757]
+                - 'figure "Air New Zealand business class on the 787 features a now-obsolete configuration that offers little privacy compared to competing products. Image Credit: Daniel Ross" [ref=e759]':
+                  - img "Air New Zealand Boeing 787 business class cabin rear" [ref=e761]
+                  - generic [ref=e762]:
+                    - text: "Air New Zealand business class on the 787 features a now-obsolete configuration that offers little privacy compared to competing products. Image Credit:"
+                    - link "Daniel Ross" [ref=e763] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/daniel/
+                - paragraph [ref=e764]: Want to fly from New Zealand to Japan in business class? You can do so on the 11-hour flight operated by Air New Zealand!
+                - paragraph [ref=e765]:
+                  - text: For
+                  - strong [ref=e766]: 50,000 miles
+                  - text: and ~$61 in taxes and fees, you’ll be able to fly on Air New Zealand’s business class aboard the 787 Dreamliner.
+                - generic [ref=e767]:
+                  - strong [ref=e768]: »
+                  - strong [ref=e769]: "Related:"
+                  - link "Air New Zealand Boeing 787-9 Business Class Review [SYD to AKL]" [ref=e770] [cursor=pointer]:
+                    - /url: /travel/airlines/air-new-zealand-787-9-business-class-review-syd-akl/
+                - heading "13. Fly From Hawaii to Korea in Business Class on Asiana Airlines (48,000 Miles)" [level=3] [ref=e771]
+                - 'figure "Enjoy Asiana Airlines Business Class to or from Korea! Image Credit: Stephen Au" [ref=e773]':
+                  - link "Asiana Airlines business class" [ref=e774] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2018/10/Asiana-Airlines-Business-Class.jpg?auto=webp&disable=upscale
+                    - img "Asiana Airlines business class" [ref=e776]
+                  - generic [ref=e777]:
+                    - text: "Enjoy Asiana Airlines Business Class to or from Korea! Image Credit:"
+                    - link "Stephen Au" [ref=e778] [cursor=pointer]:
+                      - /url: /author/stephen/
+                - paragraph [ref=e779]: If you’re leaving from Hawaii, you can enjoy being closer to Asia with shorter flight times to reach places like Korea.
+                - paragraph [ref=e780]: Asiana Airlines has a pretty convenient route between Honolulu (HNL) and Seoul (ICN) that averages about 9 hours each way for 48,000 Lifemiles.
+                - paragraph [ref=e781]: This flight is typically operated by the 777-200LR, which features lie-flat business class seats.
+                - heading "14. Fly to Portugal in Business Class on TAP Portugal (63,000 Miles)" [level=3] [ref=e782]
+                - 'figure "TAP A330-900neo business class. Image Credit: Daniel Ross" [ref=e784]':
+                  - img "TAP A330 900neo business class cabin" [ref=e786]
+                  - generic [ref=e787]: "TAP A330-900neo business class. Image Credit: Daniel Ross"
+                - paragraph [ref=e788]: Flying to Portugal is a pretty niche award redemption, and it’s impossible to fly nonstop from the West Coast.
+                - paragraph [ref=e789]:
+                  - link "TAP Portugal" [ref=e790] [cursor=pointer]:
+                    - /url: /travel/airlines/tap-air-portugal-loyalty-program/
+                  - text: ", the flag carrier of Portugal, offers lie-flat business class seats on its A330, and it flies the A330 from Boston (BOS), Miami (MIA), New York (JFK), and Newark (EWR) from"
+                  - strong [ref=e791]: 63,000 miles
+                  - text: .
+                - heading "15. Fly From Thailand to Australia in Thai Business Class (40,000 Miles)" [level=3] [ref=e792]
+                - 'figure "Thai Airways business class. Image Credit: Ehsan Haque" [ref=e794]':
+                  - img "Thai Airways Royal Silk business class 777 300er business class seat" [ref=e796]
+                  - generic [ref=e797]: "Thai Airways business class. Image Credit: Ehsan Haque"
+                - paragraph [ref=e798]:
+                  - text: If you want to fly on Thai Airways business class, you can do so for 9 hours from Bangkok (BKK) to Sydney (SYD) and spend only
+                  - strong [ref=e799]: 40,000 Lifemiles
+                  - text: one-way!
+                - paragraph [ref=e800]: When you’re flying Thai business class, be sure to arrive early and visit the business class lounge in Bangkok.
+                - heading "16. Fly to Turkey in Business Class on Turkish Airlines (63,000 Miles)" [level=3] [ref=e801]
+                - 'figure "Turkish Airlines Boeing 787-9 business class. Image Credit: Greg Stone" [ref=e803]':
+                  - img "Turkish Airlines Boeing 787 9 Business Class Middle Aisle Seats" [ref=e805]
+                  - generic [ref=e806]: "Turkish Airlines Boeing 787-9 business class. Image Credit: Greg Stone"
+                - paragraph [ref=e807]:
+                  - text: Want to visit Turkey and explore the serene scenery there? Itching to enjoy some delicious kebabs and Turkish delight? Now, you can fly comfortably on
+                  - link "Turkish Airlines" [ref=e808] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/travel/airlines/turkish-airlines-review/
+                  - text: with Lifemiles for only
+                  - strong [ref=e809]: 63,000 miles
+                  - text: one-way!
+                - paragraph [ref=e810]: Unfortunately, Turkish Airlines’ business class product is pretty dated with a 2-3-2 arrangement. This means that the cabin is a lot more crowded — but if you care about legroom, these straight forward-facing seats provide lots of it and are completely lie-flat.
+                - paragraph [ref=e811]: Alternatively, Turkish Airlines’ new A350s and 787-9 Dreamliners have business class products in a 1-2-1 configuration that have greater privacy but less legroom and width.
+                - paragraph [ref=e812]: So if you’re a larger person, the 2-3-2 arrangement might end up being more comfortable — but if you value privacy more than the size of the seat, you might opt for the newer business class seat.
+                - paragraph [ref=e813]: As always, you won’t be responsible for the common out-of-pocket fuel surcharges that plague European flights!
+                - heading "17. Fly From Hawaii to China in Business Class on Air China (48,000 Miles)" [level=3] [ref=e814]
+                - 'figure "Air China business class. Image Credit: Nick Ellis" [ref=e816]':
+                  - img "China Airlines A350 Business Class Seat 15K" [ref=e818]
+                  - generic [ref=e819]: "Air China business class. Image Credit: Nick Ellis"
+                - paragraph [ref=e820]:
+                  - text: Although
+                  - link "Air China" [ref=e821] [cursor=pointer]:
+                    - /url: /travel/airlines/air-china-phoenixmiles-loyalty-program/
+                  - text: has a reputation for being a relatively lackluster airline for anything less than first class, you’ll be able to fly from Honolulu (HNL) to Beijing (PEK) in fully lie-flat seats in a 2-2-2 configuration on Air China’s A330!
+                - paragraph [ref=e822]:
+                  - text: For 11 hours and 25 minutes of flying time, paying
+                  - strong [ref=e823]: 48,000 miles
+                  - text: is not bad if you get to enjoy flat-beds and decadent Chinese cuisine.
+                - paragraph [ref=e824]:
+                  - text: If you’re based in Hawaii and
+                  - link "want to fly to China" [ref=e825] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-china-with-points-and-miles/
+                  - text: nonstop, this is definitely your best option! Cash prices for business class are approximately $3,000, and economy is typically no cheaper than $1,000 round-trip — it’s definitely best to use points for this redemption.
+                - paragraph [ref=e826]:
+                  - generic [ref=e827]:
+                    - strong [ref=e828]: "Hot Tip:"
+                    - text: As China begins to reopen, we’ll stay tuned to see whether Air China reinstates flights between Hawaii and China.
+                - heading "18. Fly From Hawaii to Tokyo in Business Class on ANA (48,000 Miles)" [level=3] [ref=e829]
+                - 'figure "ANA business class. Image Credit: Ryan Smith" [ref=e831]':
+                  - img "ANA B787 8 business class cabin" [ref=e833]
+                  - generic [ref=e834]: "ANA business class. Image Credit: Ryan Smith"
+                - paragraph [ref=e835]:
+                  - text: If you’re based in
+                  - link "Hawaii," [ref=e836] [cursor=pointer]:
+                    - /url: /travel/ultimate-travel-guide-to-hawaii/
+                  - text: finding affordable nonstop flights to Asia can be extremely difficult.
+                - paragraph [ref=e837]:
+                  - text: For those who want to fly between Hawaii and Japan, spending
+                  - strong [ref=e838]: 48,000 Lifemiles
+                  - text: will get you a very solid business class product between Honolulu (HNL) and Tokyo (HND/NRT).
+                - paragraph [ref=e839]:
+                  - strong [ref=e840]: ANA is using its A380 on its Honolulu service,
+                  - text: meaning that you’ll be flying a brand-new, huge, comfortable double-decker with some of the best seats in the business!
+                - heading "19. Fly to South Asia in Economy (39,000 Miles)" [level=3] [ref=e841]
+                - 'figure "Turkish Airlines economy class. Image Credit: Keri Stooksbury" [ref=e843]':
+                  - img "Turkish Airlines IST ATL 787 9 economy center window seat" [ref=e845]
+                  - generic [ref=e846]: "Turkish Airlines economy class. Image Credit: Keri Stooksbury"
+                - paragraph [ref=e847]: Interested in flying to South Asia for the cheapest miles price possible? These are the countries that Avianca Lifemiles considers to be “South Asia:”
+                - generic [ref=e848]:
+                  - paragraph
+                  - list [ref=e849]:
+                    - listitem [ref=e850]: Bangladesh
+                    - listitem [ref=e851]: Brunei
+                    - listitem [ref=e852]: Cambodia
+                    - listitem [ref=e853]: Indonesia
+                    - listitem [ref=e854]: Laos
+                    - listitem [ref=e855]: Malaysia
+                    - listitem [ref=e856]: Myanmar (Burma)
+                    - listitem [ref=e857]: Singapore
+                    - listitem [ref=e858]: Thailand
+                    - listitem [ref=e859]: Vietnam
+                  - paragraph
+                - paragraph [ref=e860]:
+                  - text: Honestly, cash tickets to some of these countries can get hairy pretty quickly. Instead,
+                  - strong [ref=e861]: for just 39,000 miles,
+                  - text: you can fly one-way in economy to any of these places from the U.S.!
+                - paragraph [ref=e862]: "Here are some great example routes you can take:"
+                - list [ref=e863]:
+                  - listitem [ref=e864]:
+                    - strong [ref=e865]: Houston (IAH) to Taipei (TPE) to Bangkok (BKK) to Vientiane (VTE)
+                    - text: on EVA Air and THAI Airways (average cash price = $2,200)
+                  - listitem [ref=e866]:
+                    - strong [ref=e867]: Los Angeles (LAX) to Singapore (SIN) to Bandar Seri Begawan (BWN)
+                    - text: on Singapore Airlines (average cash price = $2,500)
+                  - listitem [ref=e868]:
+                    - strong [ref=e869]: New York (JFK) to Istanbsul (IST) to Dhaka (DAC)
+                    - text: on Turkish Airlines (average cash price = $1,000)
+                  - listitem [ref=e870]:
+                    - strong [ref=e871]: Seattle (SEA) to Seoul (ICN) to Phnom Penh (PNH)
+                    - text: on Asiana Airlines (average cash price = $1,000)
+                - heading "20. Fly to the Southern Tip of South America in Economy (30,000 Miles)" [level=3] [ref=e872]
+                - 'figure "Don’t care too much about business class when flying to South America? Try out Avianca economy for 30,000 miles each way in economy! Image Credit: Ryan Smith" [ref=e874]':
+                  - img "Avianca economy A320 LAX SAL full cabin" [ref=e876]
+                  - generic [ref=e877]: "Don’t care too much about business class when flying to South America? Try out Avianca economy for 30,000 miles each way in economy! Image Credit: Ryan Smith"
+                - paragraph [ref=e878]:
+                  - text: Another nice opportunity for economy flyers is checking out the southern tip of
+                  - link "South America" [ref=e879] [cursor=pointer]:
+                    - /url: /travel/best-ways-to-fly-to-south-america-with-points/
+                  - text: "! These countries include:"
+                - generic [ref=e880]:
+                  - paragraph
+                  - list [ref=e881]:
+                    - listitem [ref=e882]: Argentina
+                    - listitem [ref=e883]: Bolivia
+                    - listitem [ref=e884]: Chile
+                    - listitem [ref=e885]: Paraguay
+                    - listitem [ref=e886]: Uruguay
+                  - paragraph
+                - paragraph [ref=e887]:
+                  - text: If heading to any of these countries is on your radar and you don’t want to use too many of your hard-earned points and miles, then look at this redemption! Flying in economy will
+                  - strong [ref=e888]: only cost 30,000 miles each way
+                  - text: ", which is perfect for budget travelers."
+                - paragraph [ref=e889]: "Here are some great example routes you can take:"
+                - list [ref=e890]:
+                  - listitem [ref=e891]:
+                    - strong [ref=e892]: Houston (IAH) to Buenos Aires (EZE)
+                    - text: on United Airlines
+                  - listitem [ref=e893]:
+                    - strong [ref=e894]: Houston (IAH) to Santiago (SCL)
+                    - text: on United Airlines
+                  - listitem [ref=e895]:
+                    - strong [ref=e896]: Los Angeles (LAX) to Bogota (BOG) to La Paz (LPZ)
+                    - text: on Avianca Airlines
+                  - listitem [ref=e897]:
+                    - strong [ref=e898]: Miami (MIA) to Panama City (PTY)
+                    - strong [ref=e899]: to Montevideo (MVD)
+                    - text: on COPA Airlines
+                  - listitem [ref=e900]:
+                    - strong [ref=e901]: Orlando (MCO) to Bogota (BOG) to Asunción (ASU)
+                    - text: on Avianca Airlines
+                - heading "21. Fly to Ghana in Business Class on United Airlines (78,000 Miles)" [level=3] [ref=e902]
+                - 'figure "Image Credit: Ryan Smith" [ref=e904]':
+                  - img "United Polaris business class 787 10 window seats HND LAX" [ref=e906]
+                  - generic [ref=e907]: "Image Credit: Ryan Smith"
+                - paragraph [ref=e908]: "This next redemption is a pretty niche redemption because it really is only 1 route:"
+                - list [ref=e909]:
+                  - listitem [ref=e910]:
+                    - strong [ref=e911]: Washington, D.C. (IAD) to Accra (ACC)
+                - paragraph [ref=e912]:
+                  - text: You’ll be able to fly on United Polaris class to Ghana for only
+                  - strong [ref=e913]: 78,000 miles
+                  - text: + ~$61 in taxes and fees.
+                - paragraph [ref=e914]: United Airlines operates the only nonstop flight for this route. The seating configuration is completely lie-flat, so you’ll have a comfortable time flying.
+                - heading "22. Fly to Cairo in Business Class on Egyptair (78,000 Miles)" [level=3] [ref=e915]
+                - 'figure "Egyptair 787 business class. Image Credit: Egyptair" [ref=e917]':
+                  - img "Egyptair 787 business" [ref=e919]
+                  - generic [ref=e920]: "Egyptair 787 business class. Image Credit: Egyptair"
+                - paragraph [ref=e921]: This particular redemption is even more niche than the United flight to Accra. Egyptair operates a couple of routes from the U.S. — from New York (JFK) or Washington, D.C. (IAD) to Cairo (CAI) — and its only other route in North America is to Toronto.
+                - paragraph [ref=e922]: Its Boeing 787 Dreamliner is a 2-cabin aircraft with 30 lie-flat, reverse herringbone business class seats and economy seats in a 3-3-3 setup.
+                - paragraph [ref=e923]: And even though this business class product is pretty standard, the soft product tends to be severely lacking, including the service quality.
+                - paragraph [ref=e924]:
+                  - text: But then again, if you’re a traveler from New York or Washington, D.C. and need to
+                  - strong [ref=e925]: get to Egypt in the quickest way possible
+                  - text: without transiting other airports, it is an option.
+                - paragraph [ref=e926]: Flying this route in business class will cost 78,000 miles each way.
+                - heading "23. Short-Haul Flights Within North Asia in Business Class (22,500 Miles)" [level=3] [ref=e927]
+                - 'figure "EVA Air Royal Laurel business class. Image Credit: Ehsan Haque" [ref=e929]':
+                  - img "EVA Air Royal Laurel EHSAN HAQUE" [ref=e931]
+                  - generic [ref=e932]: "EVA Air Royal Laurel business class. Image Credit: Ehsan Haque"
+                - paragraph [ref=e933]: "One of the best ways to redeem Avianca Lifemiles is on “short-haul” flights within North Asia. Luckily, Avianca has a very generous definition of North Asia:"
+                - generic [ref=e934]:
+                  - paragraph
+                  - list [ref=e935]:
+                    - listitem [ref=e936]: China
+                    - listitem [ref=e937]: Guam
+                    - listitem [ref=e938]: Hong Kong
+                    - listitem [ref=e939]: Japan
+                    - listitem [ref=e940]: Macao
+                    - listitem [ref=e941]: Mariana Islands
+                    - listitem [ref=e942]: Mongolia
+                    - listitem [ref=e943]: North Korea
+                    - listitem [ref=e944]: Palau
+                    - listitem [ref=e945]: Philippines
+                    - listitem [ref=e946]: South Korea
+                    - listitem [ref=e947]: Taiwan
+                  - paragraph
+                - paragraph [ref=e948]: "Here’s an example route you can try:"
+                - list [ref=e949]:
+                  - listitem [ref=e950]:
+                    - strong [ref=e951]: Seoul (ICN) to Taipei (TPE)
+                    - text: on THAI, EVA Air, or Asiana Airlines business class
+                - paragraph [ref=e952]:
+                  - text: This 2.5-hour flight will cost
+                  - strong [ref=e953]: 22,500 miles
+                  - text: each way, and you’ll have the chance to try some solid regional business class products.
+                - heading "24. Fly to Saipan From Seoul in Business Class on Asiana Airlines (22,500 Miles)" [level=3] [ref=e954]
+                - 'figure "Asiana A321neo business class. Image Credit: Asiana" [ref=e956]':
+                  - img "Asiana A321neo Business" [ref=e958]
+                  - generic [ref=e959]: "Asiana A321neo business class. Image Credit: Asiana"
+                - paragraph [ref=e960]:
+                  - text: This redemption expands on the “within North Asia” sweet spot for
+                  - strong [ref=e961]: 22,500 miles
+                  - text: each way that we explained above.
+                - paragraph [ref=e962]: A highly niche redemption, you can fly nonstop on Asiana Airlines’ business class from Seoul (ICN) to Saipan (SPN) in the Mariana Islands.
+                - paragraph [ref=e963]: For a 4.5-hour flight, it’s an excellent nonstop way to get to Saipan directly from Korea.
+                - heading "25. Fly to Tokyo From Guam in Business Class on United Airlines (22,500 Miles)" [level=3] [ref=e964]
+                - 'figure "United Airlines A321neo first class. Image Credit: Ryan Smith" [ref=e966]':
+                  - img "United Airlines A321neo first class" [ref=e968]
+                  - generic [ref=e969]: "United Airlines A321neo first class. Image Credit: Ryan Smith"
+                - paragraph [ref=e970]:
+                  - text: Yet another sweet spot is to fly from Guam (GUM) to Tokyo (NRT) on
+                  - link "United Airlines in business class." [ref=e971] [cursor=pointer]:
+                    - /url: /travel/airlines/best-ways-to-book-united-business-class/
+                  - text: This also qualifies for the 22,500-mile cost one-way, even though it is a 4-hour flight!
+                - paragraph [ref=e972]: The not-so-good news is that these seats are simple recliner seats like the ones you’d find on domestic first class flights. They are arranged in a 2-2 configuration on 737-800 planes.
+                - paragraph [ref=e973]: Nevertheless, it’s a great way to get from Guam to Tokyo on a quick 4-hour flight for only 22,500 miles each way.
+                - heading "26. Fly to Hong Kong From Tokyo in Lie-flat Business Class on ANA (22,500 Miles)" [level=3] [ref=e974]
+                - 'figure "This lie-flat ANA business class seat can be yours with some planning! Image Credit: Stephen Au" [ref=e976]':
+                  - link "ANA Business Class" [ref=e977] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/wp-content/uploads/2019/03/ANA-Business-Class-1-e1553924914542.jpg?auto=webp&disable=upscale
+                    - img "ANA Business Class" [ref=e979]
+                  - generic [ref=e980]:
+                    - text: "This lie-flat ANA business class seat can be yours with some planning! Image Credit:"
+                    - link "Stephen Au" [ref=e981] [cursor=pointer]:
+                      - /url: /author/stephen/
+                - paragraph [ref=e982]: The last redemption we’ll be discussing in this guide is a darn good one.
+                - paragraph [ref=e983]:
+                  - text: How would you like to fly 4-5 hours in ANA’s 787 Dreamliner lie-flat business class from Tokyo to Hong Kong for only
+                  - strong [ref=e984]: 22,500 miles each way
+                  - text: "? Yeah, we thought you’d like this redemption!"
+                - paragraph [ref=e985]: These 2 countries both fall into “North Asia,” so you can enjoy 4-5 hours in real business class for only 22,500 miles!
+                - paragraph [ref=e986]:
+                  - generic [ref=e987]:
+                    - strong [ref=e988]: "Hot Tip:"
+                    - text: A word of caution — ANA operates a few flights from Tokyo to Hong Kong. Be sure to book flights on the 787 Dreamliner, because that is the only business class product that has lie-flat seats exactly like long-haul flights from America.
+                - heading "27. Access Southeast Asia in EVA Air Business Class Far in Advance (90,000 Miles)" [level=3] [ref=e989]
+                - 'figure "Image Credit: EVA Air" [ref=e991]':
+                  - img "Eva Air Royal Laurel Class business 777" [ref=e993]
+                  - generic [ref=e994]: "Image Credit: EVA Air"
+                - paragraph [ref=e995]: If you’re looking to fly to Southeast Asia in style, EVA Air is one of the best options for you. Keep in mind that although EVA Air is awesome about releasing business class seats far in advance, you’ll generally only find 2 seats at a time.
+                - paragraph [ref=e996]: Still, you can enjoy an award-winning business class flight that takes you to Taipei (TPE) and beyond in Southeast Asia.
+                - paragraph [ref=e997]: "Best of all, you can use Lifemiles to book these flights. Here are some great example redemptions:"
+                - list [ref=e998]:
+                  - listitem [ref=e999]:
+                    - strong [ref=e1000]: Chicago (ORD) to Taipei (TPE) to Kuala Lumpur (KUL)
+                    - text: one-way in EVA Air business class for 90,000 Lifemiles + ~$61 in taxes and fees
+                  - listitem [ref=e1001]:
+                    - strong [ref=e1002]: Los Angeles (LAX) to Taipei (TPE) to Bali-Denpasar (DPS)
+                    - text: one-way in EVA Air business class for 90,000 Lifemiles + ~$61 in taxes and fees
+                  - listitem [ref=e1003]:
+                    - strong [ref=e1004]: San Francisco (SFO) to Taipei (TPE) to Bangkok (BKK)
+                    - text: one-way in EVA Air business class for 90,000 Lifemiles + ~$61 in taxes and fees
+                - heading "28. Fly Within Africa in Business Class (From 33,000 Lifemiles)" [level=3] [ref=e1005]
+                - 'figure "South African Airways business class. Image Credit: Keri Stooksbury" [ref=e1007]':
+                  - img "South African Airways JNB VFA business class seat" [ref=e1009]
+                  - generic [ref=e1010]:
+                    - text: "South African Airways business class. Image Credit:"
+                    - link "Keri Stooksbury" [ref=e1011] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/author/keri/
+                - paragraph [ref=e1012]: If you need to fly from 1 city in Africa to another, you may be able to use your Lifemiles for business class flights.
+                - paragraph [ref=e1013]: "The key airline partners are:"
+                - list [ref=e1014]:
+                  - listitem [ref=e1015]: Egyptair
+                  - listitem [ref=e1016]:
+                    - link "Ethiopian Airlines" [ref=e1017] [cursor=pointer]:
+                      - /url: https://upgradedpoints.com/travel/airlines/ethiopian-airlines-review/
+                  - listitem [ref=e1018]: South African Airways
+                - paragraph [ref=e1019]: "And here are some great example routes you can book using Lifemiles:"
+                - list [ref=e1020]:
+                  - listitem [ref=e1021]:
+                    - strong [ref=e1022]: Addis Ababa (ADD) to Cape Town (CPT)
+                    - text: one-way in Ethiopian Airlines business class for 33,000 Lifemiles + ~$61 in taxes and fees
+                  - listitem [ref=e1023]:
+                    - strong [ref=e1024]: Cairo (CAI) to Addis Ababa (ADD)
+                    - text: one-way in Ethiopian Airlines 787 business class for 35,000 Lifemiles + ~$61 in taxes and fees
+                  - listitem [ref=e1025]:
+                    - strong [ref=e1026]: Cairo (CAI) to Johannesburg (JNB)
+                    - text: one-way in Egyptair 787 business class for 35,000 Lifemiles + ~$61 in taxes and fees
+                  - listitem [ref=e1027]:
+                    - strong [ref=e1028]: Lagos (LOS) to Johannesburg (JNB)
+                    - text: one-way in South African Airways A330 business class for 35,000 Lifemiles + ~$61 in taxes and fees
+                - heading "Final Thoughts" [level=2] [ref=e1029]
+                - paragraph [ref=e1030]: Overall, Avianca Lifemiles doesn’t receive enough attention for being a solid all-around frequent flyer program.
+                - paragraph [ref=e1031]:
+                  - text: Those who live by the mantra of earning lots of flexible rewards points will rejoice since Avianca is a transfer partner with
+                  - link "Amex Membership Rewards" [ref=e1032] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/credit-cards/amex-membership-rewards-transfer-partners/
+                  - text: ", Bilt Rewards, Brex Rewards, Capital One Miles, Citi ThankYou Rewards, and Wells Fargo Rewards."
+                - paragraph [ref=e1033]: You can also top off your Lifemiles balance with transfers from Marriott Bonvoy and even buy Lifemiles at huge sales of up to 175% bonus miles.
+                - paragraph [ref=e1034]: With tons of quality redemptions, no fuel surcharges, no close-in booking fees, and lots of ways to explore the world on Star Alliance partners in first, business, and economy class, you should definitely give Avianca Lifemiles a look when deciding on how to travel!
+              - generic [ref=e1035]:
+                - generic [ref=e1036]:
+                  - separator [ref=e1037]
+                  - text: "Featured Image Credit:"
+                  - link "Daniel Ross" [ref=e1038] [cursor=pointer]:
+                    - /url: https://upgradedpoints.com/author/daniel/
+                - generic [ref=e1039]:
+                  - heading "Frequently Asked Questions" [level=2] [ref=e1040]
+                  - group [ref=e1041]:
+                    - generic "How do I join Avianca Lifemiles?" [ref=e1042] [cursor=pointer]
+                    - generic [ref=e1043]:
+                      - paragraph [ref=e1044]:
+                        - text: You can join Avianca Lifemiles
+                        - link "here." [ref=e1045] [cursor=pointer]:
+                          - /url: https://www.lifemiles.com/enrollment/step/1
+                      - paragraph [ref=e1046]: Lifemiles is a separate entity from Avianca, so you will notice that you’re redirected to an external website. You will make all your award bookings through Lifemiles.
+                  - group [ref=e1047]:
+                    - generic "Do I need to be an Avianca Lifemiles member to search for awards?" [ref=e1048] [cursor=pointer]
+                    - paragraph [ref=e1050]: Yes, you must join Lifemiles to search for award availability. Also, keep in mind that Avianca Lifemiles is not the best search engine for multiple connections. The search engine becomes clunky at that point and can display incomplete award availability.
+                  - group [ref=e1051]:
+                    - generic "How many Avianca Lifemiles do I have?" [ref=e1052] [cursor=pointer]
+                    - paragraph [ref=e1054]:
+                      - text: Check your Avianca Lifemiles balance by
+                      - link "logging in" [ref=e1055] [cursor=pointer]:
+                        - /url: https://www.lifemiles.com/
+                      - text: . You may also boost your Lifemiles by purchasing during one of its many sales! With these sales, you’re eligible to receive up to 175% bonus miles! Be sure to hold out for these sales when buying miles.
+                  - group [ref=e1056]:
+                    - generic "When do Avianca Lifemiles expire?" [ref=e1057] [cursor=pointer]
+                    - paragraph [ref=e1059]: Avianca Lifemiles expire after 12 months unless there is qualifying earning activity, which includes purchasing any amount of Lifemiles. If your miles are about to expire, you can always buy a small amount of Lifemiles, such as 1,000 Lifemiles. You can also transfer 1,000 points from Amex, Capital One, Citi, and so on to Lifemiles.
+                  - group [ref=e1060]:
+                    - generic "How many Avianca Lifemiles are required for a trip reward?" [ref=e1061] [cursor=pointer]
+                    - generic [ref=e1062]:
+                      - paragraph [ref=e1063]: Avianca Lifemiles has an award chart; partner flights and Avianca flights are priced the same.
+                      - paragraph [ref=e1064]: Make sure to confirm the award cost online when searching for award flights.
+                  - group [ref=e1065]:
+                    - generic "Which credit cards can I use to earn Avianca Lifemiles?" [ref=e1066] [cursor=pointer]
+                    - paragraph [ref=e1068]: We recommend always using Amex, Capital One, or Citi cards due to the fact that you don’t need to limit yourself to only earning Lifemiles. You can pick when to transfer to Lifemiles or other partners.
+                  - group [ref=e1069]:
+                    - generic "How can I contact Avianca Lifemiles?" [ref=e1070] [cursor=pointer]
+                    - generic [ref=e1071]:
+                      - paragraph [ref=e1072]:
+                        - text: You can call Avianca Lifemiles at 800-284-2622. You can also email them at
+                        - link "support@lifemiles.com" [ref=e1073] [cursor=pointer]:
+                          - /url: mailto:support@lifemiles.com
+                        - text: .
+                      - paragraph [ref=e1074]: Be prepared to have to call several times to get the outcome you desire.
+                - complementary [ref=e1075]:
+                  - generic [ref=e1076]:
+                    - paragraph [ref=e1077]:
+                      - generic [ref=e1079]:
+                        - text: The information regarding the Avianca Lifemiles American Express
+                        - superscript [ref=e1080]: ®
+                        - text: Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                      - generic [ref=e1082]:
+                        - text: The information regarding the Avianca Lifemiles American Express
+                        - superscript [ref=e1083]: ®
+                        - text: Elite Card was independently collected by Upgraded Points and not provided nor reviewed by the issuer.
+                    - paragraph [ref=e1084]:
+                      - generic [ref=e1086]:
+                        - text: For rates and fees of the Platinum Card
+                        - superscript [ref=e1087]: ®
+                        - text: from American Express, click
+                        - link "here" [ref=e1088] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/TE/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                      - generic [ref=e1090]:
+                        - text: For rates and fees of the American Express
+                        - superscript [ref=e1091]: ®
+                        - text: Gold Card, click
+                        - link "here" [ref=e1092] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/TE/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - text: .
+                - group "Was this page helpful?" [ref=e1094]:
+                  - paragraph [ref=e1095]: Was this page helpful?
+                  - generic [ref=e1096]:
+                    - button "Yes" [ref=e1097] [cursor=pointer]
+                    - button "No" [ref=e1098] [cursor=pointer]
+                - generic [ref=e1099]:
+                  - figure [ref=e1101]:
+                    - img "Stephen Au's image" [ref=e1102]
+                  - generic [ref=e1103]:
+                    - heading "About Stephen Au" [level=2] [ref=e1104]:
+                      - text: About
+                      - link "Stephen Au" [ref=e1105] [cursor=pointer]:
+                        - /url: /author/stephen/
+                    - paragraph [ref=e1106]: Stephen is an established voice in the credit card space, with over 70 to his name. His work has been in publications like The Washington Post, and his Au Points and Awards Consulting Services is used by hundreds of clients.
+                    - list [ref=e1108]:
+                      - listitem [ref=e1109]:
+                        - link "Instagram icon" [ref=e1110] [cursor=pointer]:
+                          - /url: https://www.instagram.com/aupacs/
+                          - img "Instagram icon" [ref=e1111]
+                      - listitem [ref=e1112]:
+                        - link "LinkedIn icon" [ref=e1113] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/austephen/
+                          - img "LinkedIn icon" [ref=e1114]
+                      - listitem [ref=e1115]:
+                        - link "email icon" [ref=e1116] [cursor=pointer]:
+                          - /url: mailto:mail@upgradedpoints.com
+                          - img "email icon" [ref=e1117]
+                - generic [ref=e1119]:
+                  - generic [ref=e1120]:
+                    - paragraph [ref=e1121]:
+                      - text: "INSIDERS ONLY: UP PULSE"
+                      - superscript [ref=e1122]: ™
+                    - generic [ref=e1123]:
+                      - paragraph [ref=e1124]:
+                        - text: Get the
+                        - strong [ref=e1125]: latest travel tips, crucial news, flight & hotel deal alerts...
+                      - paragraph [ref=e1126]:
+                        - text: Plus — expert strategies to
+                        - strong [ref=e1127]: maximize your points & miles
+                        - text: by joining our (free) newsletter.
+                    - generic [ref=e1128]:
+                      - textbox "First Name" [ref=e1129]
+                      - textbox "Email" [ref=e1130]
+                      - button "Join Now" [disabled] [ref=e1131]
+                    - paragraph [ref=e1133]:
+                      - text: We respect your
+                      - link "privacy" [ref=e1134] [cursor=pointer]:
+                        - /url: /privacy-policy/
+                      - text: . This site is protected by reCAPTCHA. Google's
+                      - link "privacy policy" [ref=e1135] [cursor=pointer]:
+                        - /url: https://policies.google.com/privacy
+                      - text: and
+                      - link "terms of service" [ref=e1136] [cursor=pointer]:
+                        - /url: https://policies.google.com/terms
+                      - text: apply.
+                  - figure [ref=e1138]:
+                    - img "Deluxe Travel Provided by UP Pulse" [ref=e1140]
+                - generic [ref=e1142]:
+                  - paragraph [ref=e1143]: We Recommend
+                  - generic [ref=e1144]:
+                    - generic [ref=e1145]:
+                      - link "Platinum Card® from American Express" [ref=e1146] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img "Platinum Card® from American Express" [ref=e1147]
+                      - link "Terms Apply / Rates & Fees" [ref=e1148] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/SO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - link "Apply Now" [ref=e1149] [cursor=pointer]:
+                        - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - img [ref=e1150]
+                        - text: Apply Now
+                    - generic [ref=e1153]:
+                      - paragraph [ref=e1154]:
+                        - link "Platinum Card® from American Express" [ref=e1155] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - generic [ref=e1156]:
+                            - text: Platinum Card
+                            - superscript [ref=e1157]: ®
+                            - text: from American Express
+                      - paragraph [ref=e1159]:
+                        - generic [ref=e1160]: "Welcome Offer:"
+                        - link "As High As 175,000 Points. Find Out Your Offer." [ref=e1161] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/SO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                      - list [ref=e1162]:
+                        - listitem [ref=e1163]:
+                          - text: You may be eligible for as high as 175,000 Membership Rewards
+                          - superscript [ref=e1164]: ®
+                          - text: points after you spend $12,000 in eligible purchases on your new Card in your first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply to know if you’re approved and find out your exact welcome offer amount – all with no credit score impact. If you’re approved and choose to accept the Card, your score may be impacted.
+                        - listitem [ref=e1165]:
+                          - text: Get more for your travels with 5X Membership Rewards
+                          - superscript [ref=e1166]: ®
+                          - text: points on all flights and prepaid hotel bookings through American Express Travel
+                          - superscript [ref=e1167]: ®
+                          - text: ", including Fine Hotels + Resorts"
+                          - superscript [ref=e1168]: ®
+                          - text: and The Hotel Collection bookings. You earn 5X points on flights purchased directly from airlines or through American Express Travel
+                          - superscript [ref=e1169]: ®
+                          - text: on up to $500,000 on these purchases per calendar year.
+                      - group:
+                        - generic "Show more" [ref=e1170] [cursor=pointer]
+            - complementary [ref=e1172]:
+              - generic [ref=e1173]:
+                - generic [ref=e1175]:
+                  - paragraph [ref=e1176]: Top Partner Offers
+                  - button "Our Selection Approach" [ref=e1177] [cursor=pointer]
+                  - generic [ref=e1178]:
+                    - generic [ref=e1181]:
+                      - generic [ref=e1182]:
+                        - generic [ref=e1183]:
+                          - img [ref=e1184]
+                          - generic [ref=e1186]: BEST LOUNGE CARD
+                        - link "Platinum Card® from American Express" [ref=e1187] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "Platinum Card® from American Express" [ref=e1188]
+                      - generic [ref=e1189]:
+                        - paragraph [ref=e1190]:
+                          - link "Platinum Card® from American Express" [ref=e1191] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: Platinum Card
+                            - superscript [ref=e1192]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1193] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinum_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1194]: As High As 175,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1196] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexPlatinumTCCRF_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1199]:
+                      - generic [ref=e1200]:
+                        - generic [ref=e1201]:
+                          - img [ref=e1202]
+                          - generic [ref=e1204]: BEST FOR DINING
+                        - link "American Express® Gold Card" [ref=e1205] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "American Express® Gold Card" [ref=e1206]
+                      - generic [ref=e1207]:
+                        - paragraph [ref=e1208]:
+                          - link "American Express® Gold Card" [ref=e1209] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: American Express
+                            - superscript [ref=e1210]: ®
+                            - text: Gold Card
+                        - link "Apply Now" [ref=e1211] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldCard_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1212]: As High As 100,000 Points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1214] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexGoldTCCRF_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1217]:
+                      - generic [ref=e1218]:
+                        - generic [ref=e1219]:
+                          - img [ref=e1220]
+                          - generic [ref=e1222]: NEW OFFER
+                        - link "The Business Platinum Card® from American Express" [ref=e1223] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                          - img "The Business Platinum Card® from American Express" [ref=e1224]
+                      - generic [ref=e1225]:
+                        - paragraph [ref=e1226]:
+                          - link "The Business Platinum Card® from American Express" [ref=e1227] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                            - text: The Business Platinum Card
+                            - superscript [ref=e1228]: ®
+                            - text: from American Express
+                        - link "Apply Now" [ref=e1229] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinum_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                        - generic [ref=e1230]: Earn As High As 300,000 points. Find Out Your Offer.
+                        - link "Terms Apply / Rates & Fees" [ref=e1232] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/AmexBusinessPlatinumTCCRF_addSource/PO/21597/dissn.1775548838764.7073346957.1/ptcrs.pn/
+                    - generic [ref=e1235]:
+                      - generic [ref=e1236]:
+                        - generic [ref=e1237]:
+                          - img [ref=e1238]
+                          - generic [ref=e1240]: NEW OFFER
+                        - link "Chase Sapphire Preferred® Card" [ref=e1241] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/21597/dissn.1775548838764.7073346957.1/
+                          - img "Chase Sapphire Preferred® Card" [ref=e1242]
+                      - generic [ref=e1243]:
+                        - paragraph [ref=e1244]:
+                          - link "Chase Sapphire Preferred® Card" [ref=e1245] [cursor=pointer]:
+                            - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/21597/dissn.1775548838764.7073346957.1/
+                            - text: Chase Sapphire Preferred
+                            - superscript [ref=e1246]: ®
+                            - text: Card
+                        - link "Apply Now" [ref=e1247] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphire/PO/21597/dissn.1775548838764.7073346957.1/
+                        - generic [ref=e1248]: Earn 60,000 75,000 Points
+                        - link "Terms Apply / Rates & Fees" [ref=e1250] [cursor=pointer]:
+                          - /url: https://upgradedpoints.com/go/ChaseSapphireTCCRF/PO/21597/dissn.1775548838764.7073346957.1/
+                  - link "See Best Credit Cards" [ref=e1252] [cursor=pointer]:
+                    - /url: /credit-cards/best/
+                - paragraph [ref=e1255]: Advertisement
+      - generic [ref=e1257]:
+        - paragraph [ref=e1258]: Related Posts
+        - generic [ref=e1259]:
+          - generic [ref=e1260]:
+            - link [ref=e1261] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+              - figure [ref=e1262]:
+                - img "14 Best Ways To Redeem Emirates Skywards Miles for Max Value" [ref=e1264]
+            - link "14 Best Ways To Redeem Emirates Skywards Miles for Max Value" [ref=e1265] [cursor=pointer]:
+              - /url: /travel/airlines/how-to-redeem-emirates-skywards-miles/
+          - generic [ref=e1266]:
+            - link [ref=e1267] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-emirates-business-class/
+              - figure [ref=e1268]:
+                - img "Best Ways To Book Emirates Business Class Using Points [Step by Step]" [ref=e1270]
+            - link "Best Ways To Book Emirates Business Class Using Points [Step by Step]" [ref=e1271] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-emirates-business-class/
+          - generic [ref=e1272]:
+            - link [ref=e1273] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-citi-thankyou-points/
+              - figure [ref=e1274]:
+                - img "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [ref=e1276]
+            - link "28 Best Ways To Redeem Citi ThankYou Points for Max Value [2026]" [ref=e1277] [cursor=pointer]:
+              - /url: /credit-cards/best-ways-to-redeem-citi-thankyou-points/
+          - generic [ref=e1278]:
+            - link [ref=e1279] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-etihad-business-class/
+              - figure [ref=e1280]:
+                - img "Best Ways To Book Etihad Business Class With Points and Miles [Step-by-Step]" [ref=e1282]
+            - link "Best Ways To Book Etihad Business Class With Points and Miles [Step-by-Step]" [ref=e1283] [cursor=pointer]:
+              - /url: /travel/airlines/best-ways-to-book-etihad-business-class/
+    - contentinfo [ref=e1284]:
+      - img [ref=e1285]
+      - img [ref=e1304]
+      - generic [ref=e1323]:
+        - generic [ref=e1324]:
+          - img [ref=e1326]
+          - generic [ref=e1331]:
+            - generic [ref=e1332]:
+              - paragraph [ref=e1333]: Upgrade your travel experience
+              - list [ref=e1334]:
+                - listitem [ref=e1335]:
+                  - link [ref=e1336] [cursor=pointer]:
+                    - /url: https://www.facebook.com/upgradedpoints/
+                    - figure [ref=e1337]:
+                      - img "Facebook" [ref=e1338]
+                - listitem [ref=e1339]:
+                  - link [ref=e1340] [cursor=pointer]:
+                    - /url: https://twitter.com/upgradedpoints
+                    - figure [ref=e1341]:
+                      - img "Twitter" [ref=e1342]
+                - listitem [ref=e1343]:
+                  - link [ref=e1344] [cursor=pointer]:
+                    - /url: https://www.instagram.com/upgradedpoints/
+                    - figure [ref=e1345]:
+                      - img "Instagram" [ref=e1346]
+                - listitem [ref=e1347]:
+                  - link [ref=e1348] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/upgradedpoints/
+                    - figure [ref=e1349]:
+                      - img "Pinterest" [ref=e1350]
+                - listitem [ref=e1351]:
+                  - link [ref=e1352] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/upgraded-points
+                    - figure [ref=e1353]:
+                      - img "Linkedin" [ref=e1354]
+                - listitem [ref=e1355]:
+                  - link [ref=e1356] [cursor=pointer]:
+                    - /url: https://www.youtube.com/Upgradedpoints
+                    - figure [ref=e1357]:
+                      - img "Youtube" [ref=e1358]
+            - generic [ref=e1360]:
+              - list [ref=e1361]:
+                - listitem [ref=e1362]:
+                  - link "News" [ref=e1363] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e1364]:
+                  - link "Credit Cards" [ref=e1365] [cursor=pointer]:
+                    - /url: /credit-cards/
+                - listitem [ref=e1366]:
+                  - link "Business" [ref=e1367] [cursor=pointer]:
+                    - /url: /credit-cards/business/
+              - list [ref=e1368]:
+                - listitem [ref=e1369]:
+                  - link "Finance" [ref=e1370] [cursor=pointer]:
+                    - /url: /finance/
+                - listitem [ref=e1371]:
+                  - link "Travel Guides" [ref=e1372] [cursor=pointer]:
+                    - /url: /travel/
+                - listitem [ref=e1373]:
+                  - link "Air Travel" [ref=e1374] [cursor=pointer]:
+                    - /url: /travel/airlines/
+              - list [ref=e1375]:
+                - listitem [ref=e1376]:
+                  - link "Hotel Guides" [ref=e1377] [cursor=pointer]:
+                    - /url: /travel/hotels/
+                - listitem [ref=e1378]:
+                  - link "Beginners" [ref=e1379] [cursor=pointer]:
+                    - /url: /travel/beginners/
+                - listitem [ref=e1380]:
+                  - link "About" [ref=e1381] [cursor=pointer]:
+                    - /url: /about-us/the-team/
+              - list [ref=e1382]:
+                - listitem [ref=e1383]:
+                  - link "Podcast" [ref=e1384] [cursor=pointer]:
+                    - /url: /podcast/
+                - listitem [ref=e1385]:
+                  - link "Jobs & Careers" [ref=e1386] [cursor=pointer]:
+                    - /url: /careers/
+                - listitem [ref=e1387]:
+                  - link "Contact Us" [ref=e1388] [cursor=pointer]:
+                    - /url: /about-us/contact/
+        - generic [ref=e1389]:
+          - paragraph [ref=e1390]:
+            - link "Privacy Policy" [ref=e1391] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "All Guides" [ref=e1392] [cursor=pointer]:
+              - /url: /all-articles/
+            - text: "|"
+            - link "Terms & Conditions" [ref=e1393] [cursor=pointer]:
+              - /url: /terms-and-conditions/
+            - text: "|"
+            - link "Web Accessibility Policy" [ref=e1394] [cursor=pointer]:
+              - /url: /web-accessibility-policy/
+            - text: "|"
+            - link "Cookie Policy" [ref=e1395] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - text: "|"
+            - link "Press & Mentions" [ref=e1396] [cursor=pointer]:
+              - /url: /press-mentions/
+            - text: "|"
+            - link "Click for Cookie Preferences" [ref=e1437] [cursor=pointer]
+          - paragraph [ref=e1397]: © 2026 Upgraded Points™, LLC. All Rights Reserved.
+        - generic [ref=e1398]:
+          - link "DMCA.com Protection Status" [ref=e1399] [cursor=pointer]:
+            - /url: http://www.dmca.com/Protection/Status.aspx?ID=a5626ca5-33a4-47d4-ac70-bb793266eb4d&refurl=https://upgradedpoints.com/
+            - img "DMCA.com Protection Status" [ref=e1400]
+          - img "Comodo Secure Seal" [ref=e1402]
+        - generic [ref=e1403]:
+          - generic [ref=e1404]:
+            - text: "Disclaimer:"
+            - paragraph [ref=e1405]: Upgraded Points, LLC and its website, UpgradedPoints.com, provides information on credit cards, reward programs, travel information and ancillary information concerning travel and credit cards. The information provided is for informational purposes only and should not be considered financial, tax or legal advice.
+            - paragraph [ref=e1406]: Upgraded Points, LLC uses reasonable efforts to maintain accurate information on the site — and prior to applying for any credit card offers found on UpgradedPoints.com, all visitors should review other features of such credit cards including but not limited to interest rates, annual fees and transaction fees, and should determine the suitability of such credit cards considering their own individual financial position.
+          - generic [ref=e1407]:
+            - text: "Advertiser Disclosure:"
+            - paragraph [ref=e1408]:
+              - text: Many of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). This site does not include all credit card companies or all available credit card offers. For more information on our advertisers and how we make money,
+              - link "see our advertising policy here." [ref=e1409] [cursor=pointer]:
+                - /url: /advertising-policy/
+              - text: In addition, as an Amazon Associate we earn from qualifying purchases.
+          - generic [ref=e1410]:
+            - text: "Editorial Disclosure:"
+            - paragraph [ref=e1411]: The content featured on UpgradedPoints.com has not been influenced, provided, or reviewed by the credit card companies mentioned. Any and all options, reviews, comments and analyses are the responsibility of the author(s) and not any Advertiser or credit card issuer.
+  - dialog "Cookie Consent Banner" [ref=e1413]:
+    - generic [ref=e1414]:
+      - generic [ref=e1415]:
+        - button "close banner" [ref=e1416] [cursor=pointer]:
+          - img "close banner" [ref=e1417]
+        - img "company logo" [ref=e1419]
+      - generic [ref=e1420]:
+        - heading "WE VALUE YOUR PRIVACY" [level=2] [ref=e1422]
+        - generic [ref=e1423]:
+          - text: This site uses cookies and related technologies, as described in our
+          - link "privacy policy" [ref=e1424] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/privacy-policy
+          - text: and
+          - link "terms & conditions" [ref=e1425] [cursor=pointer]:
+            - /url: https://upgradedpoints.com/terms-and-conditions/
+          - text: ", for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may either choose to (a) consent to our use of these technologies and sharing of certain information we collect about you with third parties by clicking on the \"Agree & Proceed\" button or clicking the \"X\" to close this pop-up box and continuing to use our website, or (b) manage your own preferences by clicking on the \"Manage\" button or the \"Click for Cookie Preference\" link found on the footer of our website."
+      - generic [ref=e1427]:
+        - button "Manage" [ref=e1428] [cursor=pointer]
+        - button "Agree & Proceed" [ref=e1429] [cursor=pointer]
+        - button "REJECT ALL" [ref=e1430] [cursor=pointer]
+    - generic [ref=e1432]:
+      - generic [ref=e1433]: "Powered by:"
+      - link "trustarc" [ref=e1434] [cursor=pointer]:
+        - /url: https://trustarc.com
+        - img "TrustArc logo" [ref=e1435]
