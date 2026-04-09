@@ -10,18 +10,20 @@ A web app that helps loyalty program members figure out what to do with their po
 
 **v0.1 — In progress (active worktree: `.worktrees/points-advisor-v0.1/`)**
 
-Implementation underway. Scaffold is complete with full file structure, tests directory, and dependencies installed.
-
 **What exists:**
-- `points-advisor/app/` — Next.js App Router pages
-- `points-advisor/components/` — UI components
-- `points-advisor/lib/` — Claude client + prompt builder
-- `points-advisor/data/` — seed dataset (~50 curated redemptions)
-- `points-advisor/types/` — shared TypeScript types
-- `points-advisor/__tests__/` — Vitest + React Testing Library tests
-- `points-advisor/scripts/` — utility scripts
+- `app/` — Next.js App Router pages (form + results page built and functional)
+- `components/` — ResultCard, ResultsSection, BalanceInput, DestinationInput, OriginInput
+- `lib/` — Claude client, prompt builder, filter (pre-filters seed before Claude call)
+- `data/seed.json` — 200+ curated redemptions including BA Avios entries for DC and Miami
+- `data/transfer-bonuses.json` — active transfer bonus data
+- `types/index.ts` — shared TypeScript types
+- `__tests__/` — Vitest + React Testing Library tests
+- `scripts/` — `refresh-bonuses.mjs` + full QA agent system (`test-agents.mjs`, `agent-runner.mjs`, `manager.mjs`, `test-scenarios.mjs`)
 
-**What's not built yet:** [fill in as tasks complete]
+**What's not done yet:**
+- `npm run test:agents` not yet run end-to-end (requires dev server + ANTHROPIC_API_KEY)
+- Vitest test for dynamic entry floor substitution in `route.ts`
+- Review outstanding tasks in `docs/superpowers/plans/2026-04-06-points-advisor-v0.1.md`
 
 ---
 
@@ -37,7 +39,7 @@ Implementation underway. Scaffold is complete with full file structure, tests di
 
 ## Architecture
 
-**Stack:** Next.js 14 (App Router), TypeScript, Tailwind CSS, Anthropic SDK (`claude-sonnet-4-6`), Vitest
+**Stack:** Next.js 16.2.2 (App Router), TypeScript 5, Tailwind CSS 4, Anthropic SDK (`claude-sonnet-4-6`), Vitest 4, Playwright
 
 **Three concerns:**
 1. **Frontend** — Input form (balances + dream destinations) → results page
@@ -61,6 +63,8 @@ Implementation underway. Scaffold is complete with full file structure, tests di
 | API route | `.worktrees/points-advisor-v0.1/points-advisor/app/api/recommend/route.ts` |
 | Types | `.worktrees/points-advisor-v0.1/points-advisor/types/index.ts` |
 | Loyalty program notes | `*.md` files in project root (aeroplan.md, chaseUR.md, etc.) |
+| QA agent plan | `docs/superpowers/plans/2026-04-08-test-agents.md` |
+| QA scripts | `.worktrees/points-advisor-v0.1/points-advisor/scripts/` |
 | Routing rules | `ROUTING.md` |
 
 ---
